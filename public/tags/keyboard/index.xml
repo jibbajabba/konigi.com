@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyboard on Konigi</title>
+    <link>http://konigi.com/tags/keyboard/</link>
+    <description>Recent content in Keyboard on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Quick Search Box</title>
+      <link>http://konigi.com/blog/google-quick-search-box/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/google-quick-search-box/</guid>
+      <description>Google&amp;rsquo;s Quick Search Box is a QuickSilver-like launcher that lets you search your computer for applications and data, as well as search the web, and your Google Apps accounts. I presume this will also eventually replace the search interface provided by Google Desktop. The project is in beta and is provided via the Labs.
+From their blog:
+One of our goals at Google is to make your search experience as fluid as possible.</description>
+    </item>
+    
+    <item>
+      <title>Swype Text Input for Screens</title>
+      <link>http://konigi.com/blog/swype-text-input-screens/</link>
+      <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/swype-text-input-screens/</guid>
+      <description>CNet reports on Swype, a new keyboard technology for touch screens created by the inventory of the T9 keyboard technology for numeric keypads. Swype lets the user drag their finger across the screen, touching each of the letters in the words they want to enter, and predictive software selects the word they wanted. This could be a great tool to the improve the typing experience on the iPhone, which I find pretty awful compared to a hardware keyboard.</description>
+    </item>
+    
+  </channel>
+</rss>

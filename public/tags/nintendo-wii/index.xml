@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo Wii on Konigi</title>
+    <link>http://konigi.com/tags/nintendo-wii/</link>
+    <description>Recent content in Nintendo Wii on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/nintendo-wii/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low-Cost Multi-point Interactive Whiteboards Using the Wiimote</title>
+      <link>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/low-cost-multi-point-interactive-whiteboards-using-wiimote/</guid>
+      <description>Researcher provides another Wii Remote hack, this time to help business users create interactive whiteboards on the cheap.
+ You might remember the incredible Wiimote hacks by by Johnny Chung Lee, who gave us head tracking demo for desktop VR displays. Lee, a PhD student in the Human-Computer Interaction Institute at Carnegie Mellon University is back with some more useful Wiimote hacks, this time to turn any surface into an interactive whiteboard.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
+      <link>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <description>Yahoo! launched the News Globe, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page.</description>
+    </item>
+    
+    <item>
+      <title>Engineer Unlocks Wii&#39;s Hidden Potential</title>
+      <link>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</link>
+      <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</guid>
+      <description>CNET reports on Johnny Chung Lee&amp;rsquo;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them.</description>
+    </item>
+    
+  </channel>
+</rss>

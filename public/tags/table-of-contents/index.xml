@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Table of Contents on Konigi</title>
+    <link>http://konigi.com/tags/table-of-contents/</link>
+    <description>Recent content in Table of Contents on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatically generate table of contents using jQuery</title>
+      <link>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</guid>
+      <description>Janko at Warp Speed demonstrates a technique using jQuery to provide a navigable table of contents menu using the headings in your page content. I particularly like the method he&amp;rsquo;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corporate on Konigi</title>
+    <link>http://konigi.com/tags/corporate/</link>
+    <description>Recent content in Corporate on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/corporate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rearden Commerce</title>
+      <link>http://konigi.com/designs/submissions/rearden-commerce/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/rearden-commerce/</guid>
+      <description>http://www.reardencommerce.com/</description>
+    </item>
+    
+    <item>
+      <title>GE iCount</title>
+      <link>http://konigi.com/designs/submissions/ge-icount/</link>
+      <pubDate>Sat, 26 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/ge-icount/</guid>
+      <description>http://www.icountge.com/</description>
+    </item>
+    
+    <item>
+      <title>GE</title>
+      <link>http://konigi.com/designs/submissions/ge/</link>
+      <pubDate>Mon, 17 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/ge/</guid>
+      <description>http://www.ge.com</description>
+    </item>
+    
+    <item>
+      <title>Swiss International Air Lines Ltd.</title>
+      <link>http://konigi.com/designs/submissions/swiss-international-air-lines-ltd/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/swiss-international-air-lines-ltd/</guid>
+      <description>http://www.swiss.com/web/EN/Pages/index.aspx?Country=US#</description>
+    </item>
+    
+    <item>
+      <title>Palm, Inc.</title>
+      <link>http://konigi.com/designs/submissions/palm-inc/</link>
+      <pubDate>Wed, 27 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/palm-inc/</guid>
+      <description>http://www.palm.com/us/</description>
+    </item>
+    
+  </channel>
+</rss>

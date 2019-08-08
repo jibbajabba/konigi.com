@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Patterns on Konigi</title>
+    <link>http://konigi.com/tags/design-patterns/</link>
+    <description>Recent content in Design Patterns on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/design-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UYI User Interface library</title>
+      <link>http://konigi.com/blog/uyi-user-interface-library/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/uyi-user-interface-library/</guid>
+      <description>Use Your Interface (UYI) is a showcase of interface and interaction transition design curated by Josh Davey.
+http://useyourinterface.com/</description>
+    </item>
+    
+    <item>
+      <title>Mobile Design Pattern Gallery</title>
+      <link>http://konigi.com/blog/mobile-design-pattern-gallery/</link>
+      <pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobile-design-pattern-gallery/</guid>
+      <description>Theresa Neil&amp;rsquo;s forthcoming book, Mobile Design Pattern Gallery, is set to be released by O&amp;rsquo;Reilly in the Fall of 2011.
+Theresa launched a site to go along with the book that includes a fantastic gallery of 70 user interface design patterns for mobile devices with 400+ supporting examples from iOS, Android, BlackBerry, WebOS, Windows Mobile, and Symbian applications. The gallery covers a broad range of problems from designing your application&#39;s navigation to choosing the right invitation technique.</description>
+    </item>
+    
+    <item>
+      <title>Meaningful Transitions: A collection of transition patterns</title>
+      <link>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</link>
+      <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</guid>
+      <description>Meaningful Transitions is the thesis project of Johannes Tonollo, an interface design student at the FH Potsdam, Germany. Johannes wrote his Thesis on &amp;quot;Transitions in the User Interface,&amp;quot; in which he analyzed how motion in the user interface can be a helpful extension to static elements to enhance the user experience.
+The collection of transitions is clustered into 6 different categories: Orientation, Spatial Extension, Awaking Controls (Awakening?), Highlight, Feedback, and Feedforward.</description>
+    </item>
+    
+    <item>
+      <title>Android Interaction Design Patterns</title>
+      <link>http://konigi.com/links/android-interaction-design-patterns/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/android-interaction-design-patterns/</guid>
+      <description>Android Patterns is a community-contributed site with interaction patterns for Android app design. The site is created by the folks at Dutch interaction design firm, UNITiD, who also provide an mobile wireframe templates for Android and Blackberry devices.
+http://www.androidpatterns.com/wiki</description>
+    </item>
+    
+    <item>
+      <title>Userplus.org: Interface design best practices</title>
+      <link>http://konigi.com/blog/userplusorg-interface-design-best-practices/</link>
+      <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/userplusorg-interface-design-best-practices/</guid>
+      <description>UserPlus.org wants to share usability knowledge with web designers, web developers, usability specialists and all others interested in creating user friendly websites. By creating design patterns and best practices we want to make the existing knowledge usable in daily practice.
+http://www.userplus.org/web/</description>
+    </item>
+    
+    <item>
+      <title>30 Essential Controls for RIA Design</title>
+      <link>http://konigi.com/blog/30-essential-controls-ria-design/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/30-essential-controls-ria-design/</guid>
+      <description>Theresa Neill, co-author of Designing Web Interfaces lists her 30 essential controls for Rich Interface Application design, and provides a list of frameworks that provide these controls, in the second article in a three part series on patterns and principles for RIA design.
+1) Standard Screen Patterns: 12 patterns w/100 examples
+2) Essential Controls: 30 controls for RIA design and development
+3) Components for Commonly Requested Features: 15 patterns and examples (Forthcoming)</description>
+    </item>
+    
+    <item>
+      <title>Designing Web Interfaces: 12 Standard Screen Patterns</title>
+      <link>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</guid>
+      <description>Bill Scott and Theresa Neil&amp;rsquo;s new O’Reilly book, “Designing Web Interfaces: Principles and Patterns for Rich Interactions,” presents more than 75 design patterns for building web interfaces that provide rich interaction. They&amp;rsquo;ve shared the full set of principles and patterns they use for RIA design in this article.
+http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns</description>
+    </item>
+    
+    <item>
+      <title>Service Design Design Patterns Wiki</title>
+      <link>http://konigi.com/blog/service-design-design-patterns-wiki/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/service-design-design-patterns-wiki/</guid>
+      <description>Victor Lombardi has started Service Design Design Patterns, a wiki for capturing design patterns about service design. There are other places to learn about design process and methods; these patterns try to describe aspects of the service itself.
+http://servicedesignpatterns.pbwiki.com/FrontPage</description>
+    </item>
+    
+    <item>
+      <title>patternBrowser</title>
+      <link>http://konigi.com/blog/patternbrowser/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/patternbrowser/</guid>
+      <description>patternBrowser is an amazing design pattern library produced by the Interface Design Team of the University of Applied Sciences Potsdam. I&amp;rsquo;ve spent a little time looking through the interaction design category, and there&amp;rsquo;s a lot of great examples there, and most importantly they&amp;rsquo;ve done the work of organizing and describing each problem/solution thoroughly. Check it out.
+http://www.patternbrowser.org/</description>
+    </item>
+    
+    <item>
+      <title>ecommr: e-commerce interface and design elements</title>
+      <link>http://konigi.com/links/ecommr-e-commerce-interface-and-design-elements/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ecommr-e-commerce-interface-and-design-elements/</guid>
+      <description>Tom Sullivan has launched ecommr, a collection of screen captures of e-commerce design and interface elements. From product listing pages to e-mail newsletters, ecommr is a resource to view all of the individual pieces that make up the e-commerce puzzle. More info from his personal blog:
+Working in the e-commerce field, I often find myself looking at other retailers to gather ideas on how to best present various elements of e-commerce sites.</description>
+    </item>
+    
+    <item>
+      <title>Social Patterns Wiki</title>
+      <link>http://konigi.com/blog/social-patterns-wiki/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/social-patterns-wiki/</guid>
+      <description>Christian Crumlish and Erin Malone are writing a book on designing social interfaces and are starting to post the design patterns they are writing as they work through the chapters. Each pattern is open for folks to modify / give feedback.
+From the looks of that list of forward links to be added, they have a very ambitious list of design problems they&amp;rsquo;re going to be researching and providing design patterns for.</description>
+    </item>
+    
+    <item>
+      <title>Product Planner - View and Create User Flows, Viral Loops, and More.</title>
+      <link>http://konigi.com/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</link>
+      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</guid>
+      <description>Product Planner is one an brilliant idea. Deconstruct the user flow of web sites, illustrate the flow with annotated screenshot flowcharts, allow users to copy the flow and reuse on the site. Like Konigi, this does a great job of capturing examples of alternative approaches to interaction, showcases them for you to compare, and allows you to select the best examples to learn from and inform you of approaches you may not have thought of.</description>
+    </item>
+    
+    <item>
+      <title>Design patterns (User experience design resources)</title>
+      <link>http://konigi.com/blog/design-patterns-user-experience-design-resources/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-patterns-user-experience-design-resources/</guid>
+      <description>Dey Alexander Consulting&#39;s site includes a lengthy bibiliography of articles, discussions, and links to resources on user interface design patterns.
+http://deyalexander.com/resources/uxd/design-patterns.html</description>
+    </item>
+    
+    <item>
+      <title>Interactive Gestures Pattern Library</title>
+      <link>http://konigi.com/links/interactive-gestures-pattern-library/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/interactive-gestures-pattern-library/</guid>
+      <description>The Interactive Gestures Pattern Library is a promising looking wiki that collects gestural interface information and patterns, such as found on such devices as the iPhone and Wii.
+http://www.interactivegestures.com/</description>
+    </item>
+    
+    <item>
+      <title>Interaction-Patterns.org</title>
+      <link>http://konigi.com/blog/interaction-patterns-org/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/interaction-patterns-org/</guid>
+      <description>Interaction-Patterns.org is the Stimmt AG - Uni Basel Pattern Catalogue. The Patterns page lists each design pattern name, a very brief description of the interaction, and a link to the page that describes the design pattern, e.g. YUI or Welie pages.
+http://www.interaction-patterns.org/wiki/index.php?title=Patterns</description>
+    </item>
+    
+    <item>
+      <title>Pattern Tap Launches</title>
+      <link>http://konigi.com/blog/pattern-tap-launches/</link>
+      <pubDate>Tue, 22 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pattern-tap-launches/</guid>
+      <description>I&amp;rsquo;m psyched to see that Squared Eye has launched a veritable smorgasbord of interface and visual design inspiration with the user-generated screenshot gallery on Pattern Tap. Get your Tap on! http://patterntap.com/</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Design Pattern Library Stencils</title>
+      <link>http://konigi.com/links/yahoo-design-pattern-library-stencils/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/yahoo-design-pattern-library-stencils/</guid>
+      <description>The Yahoo! Design Pattern Library have released stencils for design patterns in OmniGraffle, Visio, PDF, PNG, and SVG format. I had planned to do the same for OmniGraffle users, but they beat me to the punch. :) This has easily become the best resource out there for design pattern examples. Congrats to Christian Crumlish and his team.
+http://developer.yahoo.com/ypatterns/wireframes/</description>
+    </item>
+    
+    <item>
+      <title>Information Design Patterns</title>
+      <link>http://konigi.com/blog/information-design-patterns/</link>
+      <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/information-design-patterns/</guid>
+      <description>Christian Behrens&amp;rsquo; information design pattern repository collects solutions for &amp;ldquo;&amp;hellip;the display, behavior, and user interaction of complex infographics. The collection is available in the form of a 200-page book that additionally includes a profound historical record of information design as well as an introduction inthe research field of design patterns.&amp;rdquo;
+http://niceone.org/infodesign/</description>
+    </item>
+    
+    <item>
+      <title>Search Patterns</title>
+      <link>http://konigi.com/blog/search-patterns/</link>
+      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/search-patterns/</guid>
+      <description>Peter Morville&#39;s Search Patterns Collection on Flickr provides examples, patterns, and anti-patterns for search interface design. Peter is additionally blogging about the search at findability.org. Excellent stuff.
+http://www.flickr.com/photos/morville/collections/72157603785835882/</description>
+    </item>
+    
+    <item>
+      <title>Design Pattern Libraries and UI Guidelines</title>
+      <link>http://konigi.com/blog/design-pattern-libraries-and-ui-guidelines/</link>
+      <pubDate>Tue, 15 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-pattern-libraries-and-ui-guidelines/</guid>
+      <description>If you&amp;rsquo;re looking for conventional, reliable, and tested user interface patterns for common interface problems, look no further.
+Pattern Libraries  Welie Interaction Design Pattern Library Yahoo! Design Pattern Library UI Patterns Peter Morville&amp;rsquo;s Search Patterns Collection on Flickr The Design Of Sites Book See also: Tom Erickson&amp;rsquo;s Interaction Design Patterns page which provides a listing of further design pattern resources.  User Interface Guidelines  Apple Human Interface Guidelines Usability.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+{{/* GNAV */}}
+  <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
+    <div class="container">
+
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">KONIGI</a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu" id="navMenu">
+        <div id="navbarGlobal" class="navbar-end">
+          <a class="navbar-item{{ if eq .Section "blog" }} is-active{{ end }}" href="/blog/">
+            Blog
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "art" }} is-active{{ end }}" href="/art/">
+            Art
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "articles" }} is-active{{ end }}" href="/articles/">
+            Articles
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "interfaces" }} is-active{{ end }}" href="/interfaces/">
+            Interfaces
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "links" }} is-active{{ end }}" href="/links/">
+            Links
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "music" }} is-active{{ end }}" href="/music/">
+            Music
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "sunchasing" }} is-active{{ end }}" href="/sunchasing/">
+            Sunchasing
+          </a>
+
+          <a class="navbar-item{{ if eq .Section "tools" }} is-active{{ end }}" href="/tools/">
+            Tools
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+  </nav>
+{{/* GNAV */}}

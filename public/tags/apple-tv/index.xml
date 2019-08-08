@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Tv on Konigi</title>
+    <link>http://konigi.com/tags/apple-tv/</link>
+    <description>Recent content in Apple Tv on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/apple-tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple TV 2.0 Review</title>
+      <link>http://konigi.com/blog/apple-tv-2-0-review/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apple-tv-2-0-review/</guid>
+      <description>Apple TV owners got a software update pushed to their boxes this week, and Gizmodo has a review of the software complete with screenshots and a description of the rental and purchase services now offered. I was a bit disappointed by the update at first, but like my 6 year old son said on the second day, &#34;I&#39;m getting used to it.&#34; Gone is the simple, single panel with left/right hierarchical navigation.</description>
+    </item>
+    
+  </channel>
+</rss>

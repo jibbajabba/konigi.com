@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on Konigi</title>
+    <link>http://konigi.com/tags/schools/</link>
+    <description>Recent content in Schools on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/schools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Westerdals</title>
+      <link>http://konigi.com/designs/submissions/westerdals/</link>
+      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/westerdals/</guid>
+      <description>Westerdals is a communication design school in Norway for film, tv, and graphic design. The site&amp;rsquo;s home page presents a mosaic of videos of teachers, previous teachers and current students who talk about what makes the school unique. Each of the rectangles in the grid is either a video or text block, which expands into adjacent squares on the grid when clicked in order to load a video player or text.</description>
+    </item>
+    
+  </channel>
+</rss>

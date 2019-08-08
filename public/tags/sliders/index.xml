@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sliders on Konigi</title>
+    <link>http://konigi.com/tags/sliders/</link>
+    <description>Recent content in Sliders on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/sliders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slavery Footprint Form: Sliders</title>
+      <link>http://konigi.com/interfaces/slavery-footprint-form-sliders/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/slavery-footprint-form-sliders/</guid>
+      <description>The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.
+They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.
+The forms use large controls and clear visual feedback using illustrations. Each step of the form is a full screen shown in linear progression.
+1. Select male or female child to add.</description>
+    </item>
+    
+    <item>
+      <title>Heroku Price Estimator</title>
+      <link>http://konigi.com/interfaces/heroku-price-estimator/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/heroku-price-estimator/</guid>
+      <description>The price estimator for web application hosting provider Heroku uses sliders and switches to generate a price for your plan. Select the number of process and database options and the cost estimate updates dynamically.
+
+http://www.heroku.com/pricing</description>
+    </item>
+    
+    <item>
+      <title>Holland Festival Program Browser</title>
+      <link>http://konigi.com/interfaces/holland-festival-program-browser/</link>
+      <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/holland-festival-program-browser/</guid>
+      <description>The Holland Festival provides a program browser/calendar that provides an AJAX interface for viewing over 3 weeks of events in a grid. Drop down menus are provided to narrow or expand by genre, locale and route. A single toggle highlights featured events. And a sliding selector, which can be dragged to move the range left and right and with handles to narrow or expand the window, allows you to filter the days to be shown in the grid.</description>
+    </item>
+    
+    <item>
+      <title>Google Analytics Date Selector</title>
+      <link>http://konigi.com/interfaces/google-analytics-date-selector/</link>
+      <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/google-analytics-date-selector/</guid>
+      <description>Google Analytics offers one of the most sophisticated date selectors for data filtering that I&#39;ve seen. The interface allows you to filter reports to a single day by clicking one square in a 3 month range. To select a date range, you click the start input, click a day, and do the same for the end date range. Or you can enter dates in the text inputs.
+The timeline control allows you to visualize the volume of visitor activity as vertical bars, and adjust the date range by pulling slider handles.</description>
+    </item>
+    
+    <item>
+      <title>CSS Ninjas Cost Estimate Slider</title>
+      <link>http://konigi.com/interfaces/css-ninjas-cost-estimate-slider/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/css-ninjas-cost-estimate-slider/</guid>
+      <description>CSS Ninjas provide a service for converting designs into XHTML/CSS. Their site features a nice cost estimate tool that allows prospective clients to see how much it will cost by specifying the number of pages that need to be converted. A slider allows you to estimate the cost of 1 to 20 pages. Clicking the &#34;proceed to checkout&#34; link opens the request for quote, and you can enter a number above 20 if required.</description>
+    </item>
+    
+    <item>
+      <title>FanSnap Search Results Filtering</title>
+      <link>http://konigi.com/interfaces/fansnap-search-results-filtering/</link>
+      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/fansnap-search-results-filtering/</guid>
+      <description>FanSnap is an event ticket search site that provides faceted results filtering. Users simply enter an upcoming event, and FanSnap returns a list of available tickets from vendors like StubHub, provides filtering by price, seating area, and ticket vendor. If a venue diagram is available seats are overlaid over the venue&#39;s seating chart. Users can sort and star/favorite available tickets in their &#34;short list&#34;, and then click a link to purchase the tickets at the ticket vendor&#39;s site.</description>
+    </item>
+    
+    <item>
+      <title>Rofo Search Filtering</title>
+      <link>http://konigi.com/interfaces/rofo-search-filtering/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/rofo-search-filtering/</guid>
+      <description>Rofo provides a faceted search engine for commercial real estate properties. The beta provides a search interface at the top of the home and results pages to set parameters including location, size, type of space, and budget. Slider controls are used to narrow size and budget. At present, changes in these settings require a manual page submission to update results. The top location shows some limitations on the number of visible values that can be displayed.</description>
+    </item>
+    
+    <item>
+      <title>The Filter Rating</title>
+      <link>http://konigi.com/interfaces/filter-rating/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/filter-rating/</guid>
+      <description>The rating controls in The Filter provide a slider control with a 10 point scale. Each rating is accompanied by an English language equivalent, e.g. 0% on the negative side is &#34;Never show me this again!&#34; and 100% on the positive side is &#34;A new kind of awesome.&#34; Middling ratings are &#34;Not for me&#34;, &#34;Average&#34;, and &#34;This is good.&#34;
+1. Ratings slider control.2. The Ratings module in the video player. More related items in carousel below.</description>
+    </item>
+    
+    <item>
+      <title>Brooklyn Museum Click! Rating</title>
+      <link>http://konigi.com/interfaces/brooklyn-museum-click-rating/</link>
+      <pubDate>Mon, 21 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/brooklyn-museum-click-rating/</guid>
+      <description>The Brooklyn Museum&#39;s Click! show is a crowd-curated exhibition that accepted user submissions for photographs that reflect the theme, &#34;The changing face of Brooklyn.&#34; Following the submission period, visitors are asked to help curate the photography show by evaluation submissions on their effectiveness at demonstrating the theme. The interface for evaluating photos steps the user through each entry and provides a slider control to rate the photo on a scle from most effective to least effective.</description>
+    </item>
+    
+    <item>
+      <title>Newsweek Top 10 Module</title>
+      <link>http://konigi.com/interfaces/newsweek-top-10-module/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/newsweek-top-10-module/</guid>
+      <description>Newsweek uses Clearspring&#39;s Flash widgets to display top read and emailed stories as a content delivery module in a sidebar. This module is like most top story modules provided on news sites, e.g. NY Times, but the interesting features are the ability to adjust the range of stories by time (notice the nice slider control) and to embed the module as a widget. While this module is implemented as Flash, there is no reason it can&#39;t be done as XHTML and Javascript.</description>
+    </item>
+    
+    <item>
+      <title>MotionBox Video Player Clipping</title>
+      <link>http://konigi.com/interfaces/motionbox-video-player-clipping/</link>
+      <pubDate>Tue, 05 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/motionbox-video-player-clipping/</guid>
+      <description>Motionbox provides a nice interface for creating clips of videos they host. Along with Hulu, Motionbox is among the first to introduce the idea of clipping portions of web video. However, Motionbox outshines Hulu in terms of usability. Clipping is a simple operation that mimics the video selection paradigm users have become comfortable with on video editing software. And unlike Hulu, Motionbox provides instant feedback about where the start and end markers lie, by moving the video playhead with the position of the markers as you adjust the clip size.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scheduling on Konigi</title>
+    <link>http://konigi.com/tags/scheduling/</link>
+    <description>Recent content in Scheduling on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/scheduling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowWow</title>
+      <link>http://konigi.com/links/powwow/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/powwow/</guid>
+      <description>PowWow is a free simple service for scheduling user research using your Google Calendar. The fine folks at Pointless Corp (aka Viget) created this as a side project for handling scheduling of user interviews and testing, but could be used for any kind of event.
+There are other apps like this that remove the fuss of coordinating schedules via email. PowWow does it simply, and provides a polished and pleasing experience.</description>
+    </item>
+    
+    <item>
+      <title>Schedule and Cost Summary Calculator Template</title>
+      <link>http://konigi.com/blog/schedule-and-cost-summary-calculator-template/</link>
+      <pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/schedule-and-cost-summary-calculator-template/</guid>
+      <description>So it&#39;s my birthday today. One thing that I&#39;ve learned about birthdays from having a child, is that it&#39;s a lot of fun to give gifts away on your birthday. I&#39;m now a seasoned goodie bag shopper and can tell you some interesting places to go in Manhattan and Brooklyn to find unusual gifts for boys age 8-10. But since I can&#39;t give all of you rare swag from Tokyo Toy, I thought I&#39;d offer up a template that freelancers might find useful.</description>
+    </item>
+    
+    <item>
+      <title>When is Good</title>
+      <link>http://konigi.com/interfaces/when-good/</link>
+      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/when-good/</guid>
+      <description>When Is Good is a tool that does one thing&amp;#8212;helps a group of people choose the time for their next meeting or event. One person starts by clicking (or clicking and dragging down) all the times that they are available on a calendar grid that shows 2 1/2 weeks of time slots. When Is Good then provides a link to circulate to participants, who see the proposed times and click on when they are free.</description>
+    </item>
+    
+  </channel>
+</rss>

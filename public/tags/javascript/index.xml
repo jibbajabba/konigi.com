@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Konigi</title>
+    <link>http://konigi.com/tags/javascript/</link>
+    <description>Recent content in Javascript on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</guid>
+      <description>AniJS is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. A simple example contains IF, ON, DO, and TO pairs and would look like this: &amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;</description>
+    </item>
+    
+    <item>
+      <title>uilang</title>
+      <link>http://konigi.com/links/uilang/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uilang/</guid>
+      <description>uilang is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt; You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things.</description>
+    </item>
+    
+    <item>
+      <title>Making Infield Form Labels Suck Less</title>
+      <link>http://konigi.com/blog/making-infield-form-labels-suck-less/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/making-infield-form-labels-suck-less/</guid>
+      <description>Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. Part 1 talks about the problems using infield labels. Part 2 shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a jsFiddle snippet to play with the code.</description>
+    </item>
+    
+    <item>
+      <title>Drawscript: Generate vector code from Illustrator</title>
+      <link>http://konigi.com/links/drawscript-generate-vector-code-illustrator/</link>
+      <pubDate>Fri, 22 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/drawscript-generate-vector-code-illustrator/</guid>
+      <description>Drawscript is an extension for Adobe Illustrator that generates graphics code from vector shapes in realtime. Generates OBJ-C, C++, JavaScript for HTML5 Canvas, Processing, Actionscript 3, JSON, and Raw bezier points.
+http://drawscri.pt/</description>
+    </item>
+    
+    <item>
+      <title>jKit: jQuery based UI Toolkit</title>
+      <link>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</guid>
+      <description>jKit is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.
+http://jquery-jkit.com/</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap, from Twitter</title>
+      <link>http://konigi.com/links/bootstrap-twitter/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/bootstrap-twitter/</guid>
+      <description>Bootstrap is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.
+http://twitter.github.com/bootstrap/</description>
+    </item>
+    
+    <item>
+      <title>MiniAjax: Rich UI Showcase</title>
+      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
+      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
+      <description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
+http://miniajax.com/</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
+HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
+    </item>
+    
+    <item>
+      <title>DataTables (table plug-in for jQuery)</title>
+      <link>http://konigi.com/links/datatables-table-plug-jquery/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/datatables-table-plug-jquery/</guid>
+      <description>DataTables is a plug-in for the jQuery Javascript library. It is flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table. Key features:
+  Variable length pagination  On-the-fly filtering  Multi-column sorting with data type detection  Smart handling of column widths  Display data from almost any data source  DOM, Javascript array, Ajax file and server-side processing (PHP, C#, Perl, Ruby, AIR, Gears etc)  Fully internationalisable  jQuery UI ThemeRoller support  Wide variety of plug-ins inc.</description>
+    </item>
+    
+    <item>
+      <title>Quick Grid Overlay with CSS and JQuery</title>
+      <link>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</guid>
+      <description>Griddy is a simple JQuery plugin that overlays a customizable grid over any element.
+http://devgrow.com/griddy/</description>
+    </item>
+    
+    <item>
+      <title>Brosho - Design CSS in the browser</title>
+      <link>http://konigi.com/links/brosho-design-css-browser/</link>
+      <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/brosho-design-css-browser/</guid>
+      <description>This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.
+The CSS generated by your edits can then be generated and copy-pasted into your stylesheet file for minor edits.</description>
+    </item>
+    
+    <item>
+      <title>UKI: Simple UI Kit for complex web apps</title>
+      <link>http://konigi.com/links/uki-simple-ui-kit-complex-web-apps/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uki-simple-ui-kit-complex-web-apps/</guid>
+      <description>Uki is a fast and simple JavaScript user interface toolkit for desktop-like web applications. It comes with a rich view-component library ranging from Slider to List and SplitPane.
+http://ukijs.org/</description>
+    </item>
+    
+    <item>
+      <title>jQTouch</title>
+      <link>http://konigi.com/links/jqtouch/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jqtouch/</guid>
+      <description>jQtouch is a jQuery plugin for mobile web development on the iPhone, iPod Touch, and other forward-thinking devices. It provides themed UI components, and behaviors using native Webkit animation.
+http://www.jqtouch.com/</description>
+    </item>
+    
+    <item>
+      <title>jQuery Masonry</title>
+      <link>http://konigi.com/links/jquery-masonry/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jquery-masonry/</guid>
+      <description>Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.
+http://desandro.com/resources/jquery-masonry</description>
+    </item>
+    
+    <item>
+      <title>Easy front-end framework</title>
+      <link>http://konigi.com/links/easy-front-end-framework/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/easy-front-end-framework/</guid>
+      <description>Easy Framework is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.
+http://easyframework.com/</description>
+    </item>
+    
+    <item>
+      <title>Highcharts: Interactive JavaScript charts</title>
+      <link>http://konigi.com/links/highcharts-interactive-javascript-charts/</link>
+      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/highcharts-interactive-javascript-charts/</guid>
+      <description>Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.
+http://highcharts.com/</description>
+    </item>
+    
+    <item>
+      <title>jQSlickWrap: Text Wrapping Plugin for jQuery</title>
+      <link>http://konigi.com/links/jqslickwrap-text-wrapping-plugin-jquery/</link>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jqslickwrap-text-wrapping-plugin-jquery/</guid>
+      <description>jQSlickWrap is a plugin for jQuery that allows you to wrap text around the actual contents of an irregularly-shaped image rather than it&amp;rsquo;s bounding box using CSS floats.
+http://jwf.us/projects/jQSlickWrap/</description>
+    </item>
+    
+    <item>
+      <title>ixEdit: Visual Tool for Prototyping with jQuery</title>
+      <link>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</link>
+      <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</guid>
+      <description>ixEdit is a JavaScript-based interaction design tool for the web. With IxEdit, designers can practice DOM-scripting without coding to change, add, move, or transform elements dynamically on your web pages. It&amp;rsquo;s specifically designed for HTML prototyping and allows designers to build interactive interfaces directly in the browser, and provides the code to copy and paste into the HTML page. Works with Firefox, Safari, Chrome, or IE. Watch the video below to see how it works.</description>
+    </item>
+    
+    <item>
+      <title>Chroma-Hash Password Masking</title>
+      <link>http://konigi.com/links/chroma-hash-password-masking/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/chroma-hash-password-masking/</guid>
+      <description>Chroma-Hash is a jQuery script that Mattt Thompson created to explore a visual method for confirmation password matches during confirmation on login and registration forms. The idea is similar to Identicon, but uses a small colored bars in the input to visually check your strings. He describes the project on Mattt.com and you can try the demo out on GitHub or download it. Versions supporting other libraries are also linked from this page.</description>
+    </item>
+    
+    <item>
+      <title>Confirming Passwords Is Annoying: Is There a Better Way?</title>
+      <link>http://konigi.com/blog/confirming-passwords-annoying-there-better-way/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/confirming-passwords-annoying-there-better-way/</guid>
+      <description>This an article from March 09 by Kevin Vigneault of Viget that explores some techniques using Javascript to create more usable password inputs in forms. The ideas range from using a checkbox or button to temporarily show the password or changing type from text to password when the input is not in focus. Great ideas.
+If you&#39;re interested in this topic, you might also want to check out Chris Dary&#39;s experiments with password masking.</description>
+    </item>
+    
+    <item>
+      <title>iPhone-like Passwords using jQuery</title>
+      <link>http://konigi.com/links/iphone-passwords-using-jquery/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/iphone-passwords-using-jquery/</guid>
+      <description>Stefan Ullrich&amp;rsquo;s jQuery plugin on the DECAF site provides a behavior for masking passwords that is familiar to mobile users. The plugin obscures previously entered characters at delayed intervals or when new characters are entered. It falls back on using the browser&amp;rsquo;s password masking when JS is disabled.
+http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/</description>
+    </item>
+    
+    <item>
+      <title>Protoscript: Prototype Scripting Library</title>
+      <link>http://konigi.com/links/protoscript-prototype-scripting-library/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/protoscript-prototype-scripting-library/</guid>
+      <description>Protoscript is a prototype scripting library utilizing both jQuery and YUI behaviors to add interactivity to HTML elements. By combining different behaviors with different elements and events you can create complex interactions without writing JavaScript.
+Via @egregilon
+http://protoscript.com</description>
+    </item>
+    
+    <item>
+      <title>Scrollbar Contents (aka Visual Page Contents)</title>
+      <link>http://konigi.com/links/scrollbar-contents-aka-visual-page-contents/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/scrollbar-contents-aka-visual-page-contents/</guid>
+      <description>Scrollbar Contents is a jQuery plugin created by Thomas Hooper to create a scrollbar that represents post/comment volume visually.
+http://www.stainlessvision.com/scrollbar-contents-aka-visual-page-contents</description>
+    </item>
+    
+    <item>
+      <title>Wasabi - Unique powder adventures. Worldwide</title>
+      <link>http://konigi.com/designs/submissions/wasabi-unique-powder-adventures-worldwide/</link>
+      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/wasabi-unique-powder-adventures-worldwide/</guid>
+      <description>The pre-launch website for Wasabi Travel - who are due to launch their winter sports webapp in late 2009.
+http://www.wasabitravel.com/</description>
+    </item>
+    
+    <item>
+      <title>Turn any webform into a powerful wizard with jQuery</title>
+      <link>http://konigi.com/links/turn-any-webform-powerful-wizard-jquery/</link>
+      <pubDate>Sat, 03 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/turn-any-webform-powerful-wizard-jquery/</guid>
+      <description>The FormToWizard plugin for jQuery allows you to break up form fieldsets to create a stepped wizard-like flow. You can download and view the demo via Janko at Warp Speed.
+http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx</description>
+    </item>
+    
+    <item>
+      <title>jQuery Slider Gallery</title>
+      <link>http://konigi.com/blog/jquery-slider-gallery/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jquery-slider-gallery/</guid>
+      <description>The jQuery Slider Gallery article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&amp;rsquo;s product pages.
+http://jqueryfordesigners.com/slider-gallery/</description>
+    </item>
+    
+    <item>
+      <title>Automatically generate table of contents using jQuery</title>
+      <link>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</guid>
+      <description>Janko at Warp Speed demonstrates a technique using jQuery to provide a navigable table of contents menu using the headings in your page content. I particularly like the method he&amp;rsquo;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin.</description>
+    </item>
+    
+    <item>
+      <title>Modernizr: Use CSS3 and HTML5 Now</title>
+      <link>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</link>
+      <pubDate>Thu, 02 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</guid>
+      <description>Modernizr is a JavaScript library that essentially allows you to use conditionals (if-statements) in your CSS for the availability of CSS3 and HTML5, while still maintaining a fine level of control over older browsers that may not yet support these new technologies.
+http://www.modernizr.com/</description>
+    </item>
+    
+    <item>
+      <title>PolyPage: HTML Prototyping JavaScript Plugin</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-plugin/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-plugin/</guid>
+      <description>Polypage is a JQuery plugin that was designed to ease the process of showing multiple page states in html mock-ups. By simply adding class names to a document you can imply state and conditional view logic.
+You can view a tutorial for setting up a Polypage project at 24 ways. The latest version is available from the github repository.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+    <item>
+      <title>Chrome Experiments</title>
+      <link>http://konigi.com/blog/chrome-experiments/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/chrome-experiments/</guid>
+      <description>Google&amp;rsquo;s Chrome Experiments lab showcases some interesting uses of Javascript. We think JavaScript is awesome. We also think browsers are awesome. Indeed, when we talk about them, we say they are the cat&amp;rsquo;s meow – which is an American expression meaning AWESOME.
+In light of these deeply held beliefs, we created this site to showcase cool experiments for both JavaScript and web browsers.
+These experiments were created by designers and programmers from around the world.</description>
+    </item>
+    
+    <item>
+      <title>jQuery Flash Plugin</title>
+      <link>http://konigi.com/blog/jquery-flash-plugin/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jquery-flash-plugin/</guid>
+      <description>The Flash Plugin looks like an extremely simple method to do Flash replacement using XHTML and JQuery. Can embed SWFs, You Tube videos, and even do SIFR. Sick. Via David Kaneda
+http://jquery.lukelutman.com/plugins/flash/</description>
+    </item>
+    
+    <item>
+      <title>jQuery Sparklines</title>
+      <link>http://konigi.com/blog/jquery-sparklines/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jquery-sparklines/</guid>
+      <description>The jQuery Sparklines plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. The plugin is compatible with most modern browsers and has been tested with Firefox 2+, Safari 3+, Opera 9 and Internet Explorer 6 &amp;amp; 7.
+Via @darrengeraghty
+http://www.omnipotent.net/jquery.sparkline/</description>
+    </item>
+    
+    <item>
+      <title>CompareNetworks jQuery&#39;d Bread Crumb</title>
+      <link>http://konigi.com/blog/comparenetworks-jqueryd-bread-crumb/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/comparenetworks-jqueryd-bread-crumb/</guid>
+      <description>The JQuery&amp;rsquo;d Breadcrumb is an odd breadcrumb interface that collapses all nodes in the branch upon page load, and then expands to show each node the user mouses over. Their explanation:
+This collapsible breadcrumb was developed to deal with deeply nested, verbosely named pages. Rather than limit the amount of elements shown on the sever side, we decided to go with a client side solution for usability and SEO reasons.</description>
+    </item>
+    
+    <item>
+      <title>NY Times Article Skimmer</title>
+      <link>http://konigi.com/blog/ny-times-article-skimmer/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ny-times-article-skimmer/</guid>
+      <description>The New York Times&amp;rsquo; Article Skimmer prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. Via SwissMiss
+http://prototype.nytimes.com/gst/articleSkimmer/</description>
+    </item>
+    
+    <item>
+      <title>Top 10 jQuery plugins for Form Usability</title>
+      <link>http://konigi.com/blog/top-10-jquery-plugins-form-usability/</link>
+      <pubDate>Tue, 03 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/top-10-jquery-plugins-form-usability/</guid>
+      <description>For all you front end techs and html prototypers, Steve Reynolds has collected his top 10 list of Jquery plugins for form usability. Includes useful plugins including validation, password strength, and tool tips.
+http://www.reynoldsftw.com/2009/01/top-10-jquery-plugins-for-form-usability/</description>
+    </item>
+    
+    <item>
+      <title>10 Multi Level Navigation Menu Techniques</title>
+      <link>http://konigi.com/blog/10-multi-level-navigation-menu-techniques/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-multi-level-navigation-menu-techniques/</guid>
+      <description>devSnippets collects 10 examples of multi-level navigation menus using Javascript libraries and CSS, and adds a little annotation about the methods and how they effects are accomplished. Via @nourayehia
+http://devsnippets.com/reviews/10-brilliant-multi-level-navigation-menu-techniques.html</description>
+    </item>
+    
+    <item>
+      <title>Comparison of JavaScript frameworks</title>
+      <link>http://konigi.com/blog/comparison-javascript-frameworks/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/comparison-javascript-frameworks/</guid>
+      <description>Wikipedia has an excellent table of JavaScript frameworks that compares the features of Dojo, Echo3, Ext, Google Web Toolkit, jQuery, midori, MochiKit, MooTools, Prototype &amp;amp; script.aculo.us, Pyjamas, qooxdoo, Rialto, Rico, YUI, and SweetDEV RIA.
+http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks</description>
+    </item>
+    
+    <item>
+      <title>Raphael JavaScript Library for Vector Graphics</title>
+      <link>http://konigi.com/blog/raphael-javascript-library-vector-graphics/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/raphael-javascript-library-vector-graphics/</guid>
+      <description>Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.
+Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.
+Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later.</description>
+    </item>
+    
+    <item>
+      <title>typeface.js: Rendering text with Javascript, canvas, and VML</title>
+      <link>http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/</guid>
+      <description>I just came across typeface.js, a type face replacement method like SIFR and FLIR, that lets you embed custom fonts in your pages using CSS. On the backend, javscript is used with  or VML to draw the glyphs for your fonts. Compared with SIFR, this suffers from some issues. Biggest one perhaps is that you can&amp;rsquo;t select text since it&amp;rsquo;s rendered as an image. Not so with SIFR. I wouldn&amp;rsquo;t go using this method for body text, but if you&amp;rsquo;re already considering doing image replacement for elements like headings, this would be a library to watch.</description>
+    </item>
+    
+    <item>
+      <title>Input Masks in Forms</title>
+      <link>http://konigi.com/blog/input-masks-forms/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/input-masks-forms/</guid>
+      <description>Luke Wroblewski pointed to Josh Bush&amp;rsquo;s Masked Input Plugin for JQuery. Luke writes that the plugin &amp;ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Growl-Like Alerts in Web Pages</title>
+      <link>http://konigi.com/blog/growl-alerts-web-pages/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/growl-alerts-web-pages/</guid>
+      <description>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. Growl is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.
+These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.</description>
+    </item>
+    
+    <item>
+      <title>PolyPage HTML Prototyping Javascript Library</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-library/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-library/</guid>
+      <description>Polypage is a JQuery-based HTML prototyping javascript library that was designed to ease the process of showing multiple page states in html mock-ups. By adding simply adding class names to a document you can imply state and conditional view logic. Brilliant.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+    <item>
+      <title>3 JQuery Methods for Interactive Menu Effects</title>
+      <link>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</guid>
+      <description>3 recent articles show how to get interactive effects on menus, proving that you don&amp;rsquo;t need Flash for this kind of simple interactivity.  Dave Shea&amp;rsquo;s tutorial in ALA shows how to create interactive menu hover effects using CSS sprites and the JQuery Javascript library. A sprite image is a single graphic with multiple states mapped on the graphic, a technique borrowed from game design, where game characters are shown in different states of action.</description>
+    </item>
+    
+    <item>
+      <title>Buffalo</title>
+      <link>http://konigi.com/designs/buffalo/</link>
+      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/buffalo/</guid>
+      <description>Buffalo&amp;rsquo;s site is simple on the surface, with very few pages. What I like most are the transitions when you click to view their work. AJAX is used to display work in-page, similar to the functionality of a lightbox, but doing away with transitions typically indicated by graying out the background. This version displays the portfolio panel with a close icon. They also use AJAX to toggle visibility, e.</description>
+    </item>
+    
+    <item>
+      <title>Timeframe: A Javascript Control For Date Ranges</title>
+      <link>http://konigi.com/blog/timeframe-javascript-control-date-ranges/</link>
+      <pubDate>Sat, 26 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/timeframe-javascript-control-date-ranges/</guid>
+      <description>Stephen Celis&#39; Timeframe javascript library allows you to create a calendar that allows users to select date-ranges by first clicking a start or end date, and then clicking the other end of the range. The range is shown as you expect in desktop calendar applications with a filled bar between the dates. Hover over the range and click the X control to delete. Nice.
+http://stephencelis.com/projects/timeframe#example_information</description>
+    </item>
+    
+    <item>
+      <title>Modernista</title>
+      <link>http://konigi.com/designs/modernista/</link>
+      <pubDate>Sat, 22 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/modernista/</guid>
+      <description>Modernista delivers one of the most unexpected agency portfolios by using UGC tools to display their content. Their site is sort of an un-site. Once you arrive at their domain, a smallish red navigation widget that&amp;rsquo;s 50px x 80px displays in the upper left of the screen. The rest of the screen is taken over by an 100% x 100% iframe showing their Wikipedia page.
+For the most part, the red widget is the only bit of the Modernista identity you see in their experience.</description>
+    </item>
+    
+    <item>
+      <title>CiUI - CNET iPhone UI</title>
+      <link>http://konigi.com/blog/ciui-cnet-iphone-ui/</link>
+      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ciui-cnet-iphone-ui/</guid>
+      <description>Vladimir Olexa describes the CiUI iPhone library he created for the CNET iPhone app (http://iphone.cnet.com). The library is inspired by iUI and is available for download at CNET&#39;s common libraries page.
+http://clientside.cnet.com/cnet-js-standards/ciui-cnet-iphone-ui/</description>
+    </item>
+    
+    <item>
+      <title>Xtnd Dreamweaver Extensions for HTML Prototyping</title>
+      <link>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</guid>
+      <description>xtnd urslf provides extensions for Adobe products. Currently they offer components for Jquery, Prototype, and MooTools. This should be helpful for people who do HTML prototypes in Dreamweaver and need to demonstrate interactive functionalities such as animation, transitions, and AJAX.
+http://xtnd.us/</description>
+    </item>
+    
+    <item>
+      <title>Viget Labs</title>
+      <link>http://konigi.com/designs/viget-labs/</link>
+      <pubDate>Mon, 12 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/viget-labs/</guid>
+      <description>Design agency with offices in VA and NC. Superb interactions to transition from page to page make this site feel like it&amp;rsquo;s done in Flash, but it&amp;rsquo;s all javascript using JQuery. Looks like it&amp;rsquo;s mostly all in done in 1 XHTML page with a few AJAX calls for the dynamic stuff like jobs. Lovely colors and art direction make this site feel warm and human.
+http://teamviget.com</description>
+    </item>
+    
+  </channel>
+</rss>

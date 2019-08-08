@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Management on Konigi</title>
+    <link>http://konigi.com/tags/product-management/</link>
+    <description>Recent content in Product Management on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Aug 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Charlie Rose interview with Jeff Bezos</title>
+      <link>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</link>
+      <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</guid>
+      <description>This is a fantastic interview of Jeff Bezos on Charlie Rose where Bezos talks about why Kindle shouldn&amp;rsquo;t be the iPad and why Amazon&amp;rsquo;s new mission is &amp;quot;Earth&amp;rsquo;s most customer-centric company.&amp;quot;
+http://www.charlierose.com/view/interview/11138</description>
+    </item>
+    
+  </channel>
+</rss>

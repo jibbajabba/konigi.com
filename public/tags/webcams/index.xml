@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webcams on Konigi</title>
+    <link>http://konigi.com/tags/webcams/</link>
+    <description>Recent content in Webcams on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/webcams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publicis &amp; Hal Riney Webcam Gesture Navigation</title>
+      <link>http://konigi.com/interfaces/publicis-hal-riney-webcam-gesture-navigation/</link>
+      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/publicis-hal-riney-webcam-gesture-navigation/</guid>
+      <description>The Publicis and Hal Riney site attempts to innovate navigation by replacing mouse input by detecting gestures the user makes against their webcam. Once the Flash file embeds your webcam video into the lower right corner of the page, a body outline is superimposed, and hot spots in the North-South-East-West quandrants are ghosted on the screen to show where you should hold or swipe your hand to navigate. Unfortunately the video ended up eating up resources on my machine to the point that the load times were painfully slow.</description>
+    </item>
+    
+  </channel>
+</rss>

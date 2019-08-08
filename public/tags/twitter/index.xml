@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Konigi</title>
+    <link>http://konigi.com/tags/twitter/</link>
+    <description>Recent content in Twitter on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Made by Many goes SouthWest</title>
+      <link>http://konigi.com/designs/submissions/made-many-goes-southwest/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/made-many-goes-southwest/</guid>
+      <description>Sweet tweets. The Made by Many crew shows what they&amp;rsquo;re up to at SXSW with this constantly updating status page. Love the fresh/stale indicator.
+Via @arainert
+http://sxsw.madebymany.co.uk/</description>
+    </item>
+    
+    <item>
+      <title>Cadmus</title>
+      <link>http://konigi.com/designs/submissions/cadmus/</link>
+      <pubDate>Fri, 11 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/cadmus/</guid>
+      <description>Cadmus is a real time filtering service that manages your stream (Twitter, FriendFeed and RSS) by displaying the most relevant content since the last time you checked in. It helps you get caught up on what you have missed.
+http://thecadmus.com/</description>
+    </item>
+    
+    <item>
+      <title>Tori&#39;s Eye</title>
+      <link>http://konigi.com/designs/submissions/toris-eye/</link>
+      <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/toris-eye/</guid>
+      <description>This is pretty cool. Origami birds carrying tweets while the sun rises on papercraft scenery. All done with jquery.
+http://toriseye.quodis.com/#konigi</description>
+    </item>
+    
+    <item>
+      <title>Sideline Twitter Search App from Yahoo!</title>
+      <link>http://konigi.com/blog/sideline-twitter-search-app-yahoo/</link>
+      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sideline-twitter-search-app-yahoo/</guid>
+      <description>Sideline is an Adobe AIR desktop application built with the Yahoo! User Interface Library (YUI) that allows users to create and group custom queries by topics of interest, as well as view topic trends. Very nicely done. Am looking at at how the advanced search works at the moment. Looks very easy to build up an seems like it might be the perfect app for a lurker or follower who doesn&amp;rsquo;t post much.</description>
+    </item>
+    
+    <item>
+      <title>Tweetizen</title>
+      <link>http://konigi.com/designs/submissions/tweetizen/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/tweetizen/</guid>
+      <description>Tweetizen is a simple web-based tool designed to help you filter the daily influx of tweets, and easily embed twitter groups to your own website. http://www.tweetizen.com/</description>
+    </item>
+    
+    <item>
+      <title>twitrratr: Sentiment on Twitter</title>
+      <link>http://konigi.com/blog/twitrratr-sentiment-twitter/</link>
+      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
+      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
+    </item>
+    
+  </channel>
+</rss>

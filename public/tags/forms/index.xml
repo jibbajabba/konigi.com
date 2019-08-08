@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forms on Konigi</title>
+    <link>http://konigi.com/tags/forms/</link>
+    <description>Recent content in Forms on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basecamp Form Focus</title>
+      <link>http://konigi.com/interfaces/basecamp-form-focus/</link>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/basecamp-form-focus/</guid>
+      <description>This is a cute interaction for the input focus and data validation on Basecamp&#39;s registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.
+The illustrations on the site do a great job of making you feel like this isn&#39;t &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp.</description>
+    </item>
+    
+    <item>
+      <title>Geeklist Sign Up Password Strength</title>
+      <link>http://konigi.com/interfaces/geeklist-sign-password-strength/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/geeklist-sign-password-strength/</guid>
+      <description>Geeklist&#39;s sign up form tells you how secure your password is by indicating how long it would take to crack. Sounds much more understandable and convincing than the typical weak/strong message.
+1. A really strong password.2. A dictionary word is weak. 3. Better, but still weak. The messaging may be convincing enough to get users to think about their choice.
+https://geekli.st/signup</description>
+    </item>
+    
+    <item>
+      <title>Making Infield Form Labels Suck Less</title>
+      <link>http://konigi.com/blog/making-infield-form-labels-suck-less/</link>
+      <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/making-infield-form-labels-suck-less/</guid>
+      <description>Jackson Fox and Jeremy Fields did an excellent 2-part write on the use of &#34;infield&#34; labels at Viget. There are several techniques for placing labels inside the input box. For varying reasons we may want to avoid the label on top or side positioning, but as Jackson points out, the infield placement can be problematic. Part 1 talks about the problems using infield labels. Part 2 shows how they deal with the problem by using a visible tooltip that doesn&#39;t obscure the input, with a jsFiddle snippet to play with the code.</description>
+    </item>
+    
+    <item>
+      <title>Photojojo Captcha</title>
+      <link>http://konigi.com/interfaces/photojojo-captcha/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/photojojo-captcha/</guid>
+      <description>Yes, I know you hate captchas and they&#39;re riddled with problems. Why do it if you don&#39;t have to? But if you do it, at least make it a brainless action like this.
+1. Click to answer the captcha challenge.
+http://photojojo.com/contact/</description>
+    </item>
+    
+    <item>
+      <title>Slavery Footprint Form: Drag to Select</title>
+      <link>http://konigi.com/interfaces/slavery-footprint-form-drag-select/</link>
+      <pubDate>Tue, 14 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/slavery-footprint-form-drag-select/</guid>
+      <description>The Slavery Footprint website allows consumers to visualize how their consumption habits are connected to modern-day slavery.
+They use a set of forms in a wizard-like survey to come up with an estimate of the number of slaves that are impacted by your behavior.
+This section of the survey asks the user to drag the icons for items that describe the kind of house and car they own or rent into a drop area in the home above.</description>
+    </item>
+    
+    <item>
+      <title>Kelley Blue Book Mad Libs Form</title>
+      <link>http://konigi.com/interfaces/kelley-blue-book-mad-libs-form/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/kelley-blue-book-mad-libs-form/</guid>
+      <description>The Kelley Blue Book features Mad Libs-style inline form elements for its contact form. The contact form, which was previously displayed with right-aligned labels adjacent to to left aligned fields, is now displayed as an inline form with &amp;quot;fill in the blanks&amp;quot; style prompts for input.
+
+http://www.kbb.com/</description>
+    </item>
+    
+    <item>
+      <title>Mad Libs Style Form Increases Conversion 25-40%</title>
+      <link>http://konigi.com/blog/mad-libs-style-form-increases-conversion-25-40/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mad-libs-style-form-increases-conversion-25-40/</guid>
+      <description>Luke Wroblewski reports on A-B tests performed by Ron Kurti and the team at Vast.com, who note that Mad Libs style forms increased conversion across the board by 25-40%. Read more and see the before/after screenshots at LukeW.
+Update:
+Shortly after posting this, David Kaneda pointed out his post, in which he observes that there is quite a bit more to that Kelly Blue Book form redesign than just switching from vertically arranged fields to inline fields.</description>
+    </item>
+    
+    <item>
+      <title>Deconstructing a CSS trick to display form data as tabular data</title>
+      <link>http://konigi.com/blog/deconstructing-css-trick-display-form-data-tabular-data/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/deconstructing-css-trick-display-form-data-tabular-data/</guid>
+      <description>CSS and Javascript experiments are fun to play around with. I tend to talk about them here because of the questions they raise about whether a technique is worth implementing or if it does more harm than help. Straight forward and familiar are the safe route. Sometimes experiments lead to better ways of doing things, other times they seem like they&amp;rsquo;re gratuitous.
+I came across an interesting, if problematic experiment to convert form fields into editable fields that are masked table cells until each input is in focus.</description>
+    </item>
+    
+    <item>
+      <title>The Apple Store&#39;s Checkout Form Redesign</title>
+      <link>http://konigi.com/blog/apple-stores-checkout-form-redesign/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apple-stores-checkout-form-redesign/</guid>
+      <description>I finally made some time to read through Luke Wroblewski&amp;rsquo;s excellent review of the changes in the Apple store&amp;rsquo;s redesigned checkout form. According to Wroblewski, &amp;quot;&amp;hellip;retail sales data shows that Mac sales were up 21% year-over-year in the months of October and November. So it&amp;rsquo;s interesting to note that Apple&amp;rsquo;s primary online sales channel (Web-based checkout) was redesigned during this time.
+I wasn&#39;t surprised that the single page checkout form is an improvement over the paged version.</description>
+    </item>
+    
+    <item>
+      <title>Chroma-Hash Password Masking</title>
+      <link>http://konigi.com/links/chroma-hash-password-masking/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/chroma-hash-password-masking/</guid>
+      <description>Chroma-Hash is a jQuery script that Mattt Thompson created to explore a visual method for confirmation password matches during confirmation on login and registration forms. The idea is similar to Identicon, but uses a small colored bars in the input to visually check your strings. He describes the project on Mattt.com and you can try the demo out on GitHub or download it. Versions supporting other libraries are also linked from this page.</description>
+    </item>
+    
+    <item>
+      <title>Confirming Passwords Is Annoying: Is There a Better Way?</title>
+      <link>http://konigi.com/blog/confirming-passwords-annoying-there-better-way/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/confirming-passwords-annoying-there-better-way/</guid>
+      <description>This an article from March 09 by Kevin Vigneault of Viget that explores some techniques using Javascript to create more usable password inputs in forms. The ideas range from using a checkbox or button to temporarily show the password or changing type from text to password when the input is not in focus. Great ideas.
+If you&#39;re interested in this topic, you might also want to check out Chris Dary&#39;s experiments with password masking.</description>
+    </item>
+    
+    <item>
+      <title>Log in or sign up?</title>
+      <link>http://konigi.com/blog/log-or-sign/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/log-or-sign/</guid>
+      <description>Leah Culver discusses the design of hybrid sign up / login forms, showing a few examples and the final form as implemented for Leafy Chat. Uses the familiar I&amp;rsquo;m a customer/I&amp;rsquo;m new here radios that we know from Amazon, but positions it before the password field, which I find an improvement over the Amazon implementation. Lots of ideas in the comments.
+http://blog.leahculver.com/2009/11/log-in-or-sign-up.html</description>
+    </item>
+    
+    <item>
+      <title>iPhone-like Passwords using jQuery</title>
+      <link>http://konigi.com/links/iphone-passwords-using-jquery/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/iphone-passwords-using-jquery/</guid>
+      <description>Stefan Ullrich&amp;rsquo;s jQuery plugin on the DECAF site provides a behavior for masking passwords that is familiar to mobile users. The plugin obscures previously entered characters at delayed intervals or when new characters are entered. It falls back on using the browser&amp;rsquo;s password masking when JS is disabled.
+http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/</description>
+    </item>
+    
+    <item>
+      <title>Turn any webform into a powerful wizard with jQuery</title>
+      <link>http://konigi.com/links/turn-any-webform-powerful-wizard-jquery/</link>
+      <pubDate>Sat, 03 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/turn-any-webform-powerful-wizard-jquery/</guid>
+      <description>The FormToWizard plugin for jQuery allows you to break up form fieldsets to create a stepped wizard-like flow. You can download and view the demo via Janko at Warp Speed.
+http://www.jankoatwarpspeed.com/post/2009/09/28/webform-wizard-jquery.aspx</description>
+    </item>
+    
+    <item>
+      <title>Aardvark Registration</title>
+      <link>http://konigi.com/interfaces/aardvark-registration/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/aardvark-registration/</guid>
+      <description>The registration process on Aardvark provides a modal dialog that uses some nice content previews, content filtering, and progressive disclosure to guide the new user through the form. 1. Clicking sign up button from an invitation opens modal dialog with basic information form. A preview area updates your info as you fill out the form.2. The birthday input filters and corrects date format. City/State shows suggestions. (The one in yellow is a browser auto-completion.</description>
+    </item>
+    
+    <item>
+      <title>Huffduffer Registration</title>
+      <link>http://konigi.com/interfaces/huffduffer-registration/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/huffduffer-registration/</guid>
+      <description>Huffduffer, a hybrid bookmarking/podcast service features a whimsical inline registration form that&#39;s formatted in sentences with blank areas that the user fills out with their name, password, etc. Kind of a fun, unexpected way to format the form. Reminds me of the kinds of forms you&#39;d fill out by hand in days of old, which goes with the retro style of the site.
+Via SwissMiss.
+ http://huffduffer.com/signup/</description>
+    </item>
+    
+    <item>
+      <title>Top 10 jQuery plugins for Form Usability</title>
+      <link>http://konigi.com/blog/top-10-jquery-plugins-form-usability/</link>
+      <pubDate>Tue, 03 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/top-10-jquery-plugins-form-usability/</guid>
+      <description>For all you front end techs and html prototypers, Steve Reynolds has collected his top 10 list of Jquery plugins for form usability. Includes useful plugins including validation, password strength, and tool tips.
+http://www.reynoldsftw.com/2009/01/top-10-jquery-plugins-for-form-usability/</description>
+    </item>
+    
+    <item>
+      <title>Previous and Next Actions in Web Forms</title>
+      <link>http://konigi.com/blog/previous-and-next-actions-web-forms/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/previous-and-next-actions-web-forms/</guid>
+      <description>Nice short article in UIE by Luke Wroblewski illustrating the issues to think of when designing previous/next buttons in forms. http://www.uie.com/articles/previous_next_luke</description>
+    </item>
+    
+    <item>
+      <title>Input Masks in Forms</title>
+      <link>http://konigi.com/blog/input-masks-forms/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/input-masks-forms/</guid>
+      <description>Luke Wroblewski pointed to Josh Bush&amp;rsquo;s Masked Input Plugin for JQuery. Luke writes that the plugin &amp;ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>OnSugar Site Publishing</title>
+      <link>http://konigi.com/interfaces/onsugar-site-publishing/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/onsugar-site-publishing/</guid>
+      <description>Sugar Inc. releases the OnSugar Blogging platform to let Sugar community members start their own sites. Based on the Drupal platform, OnSugar provides some very nice modifications to clean up and simplify the posting and content management interfaces provided by the popular open source CMS. What I like most about what they&#39;ve done with Drupal is the clean tabbed UI for content creation, the media embedding options for inserting images from Getty, ShopStyle, and Fashion week photos, and the excellent spread editor.</description>
+    </item>
+    
+    <item>
+      <title>Umbrella Today Weather Forecasts</title>
+      <link>http://konigi.com/interfaces/umbrella-today-weather-forecasts/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/umbrella-today-weather-forecasts/</guid>
+      <description>Umbrella Today is a dead simple single serving site that delivers your weather forecast with a twist. Enter your zip code and it tells you if you need an umbrella#38212;if it&#39;s raining of course. Give the service your phone number, and they&#39;ll SMS you whenever the forecast calls for rain.
+1. Enter your zip code.2. The confirmation screen tells you if you need an umbrella today. Enter your phone number to get SMS notifications.</description>
+    </item>
+    
+    <item>
+      <title>Coolspotters User Registration</title>
+      <link>http://konigi.com/interfaces/coolspotters-user-registration/</link>
+      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/coolspotters-user-registration/</guid>
+      <description>Coolspotters user registration form does input validation and shows an icon in the right side of the input for valid or invalid values, and displays error message text to the right of the input. Simple.
+1. Checking user name and displaying error.2. Validated input. http://coolspotters.com/</description>
+    </item>
+    
+    <item>
+      <title>Flickr Edit In Place Fields</title>
+      <link>http://konigi.com/interfaces/flickr-edit-place-fields/</link>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/flickr-edit-place-fields/</guid>
+      <description>Flickr&#39;s edit in place behaviors make it easy to change data on records without requiring the round trip to a full page editor form. They provided one of the earliest examples of this behavior, using AJAX to quickly update fields in place, and has remained the model to emulate for some time.
+1. Flickr entry in user&#39;s photos page.2. Hovering over the title field highlights it with background color to provide a subtl alert the user that it can be edited.</description>
+    </item>
+    
+    <item>
+      <title>Thsrs Synonym Search</title>
+      <link>http://konigi.com/interfaces/thsrs-synonym-search/</link>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/thsrs-synonym-search/</guid>
+      <description>Ironic Sans provides Thsrs, a single-serving site that provides shorter synonyms for long words. Simple idea that&#39;s well executed. If you&#39;re Firefox user, this is even more useful as a search add on. 1. User enters a long word.2. Shorter synonyms are returned if possible.3. Would be even better if it caught spelling errors. http://www.ironicsans.com/thsrs/</description>
+    </item>
+    
+    <item>
+      <title>bit.ly url shortener</title>
+      <link>http://konigi.com/interfaces/bit-ly-url-shortener/</link>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/bit-ly-url-shortener/</guid>
+      <description>Bitly is a simple url shortening service aimed at web professionals. The service provides a simply shortened URL and friendly urls based on keywords you specify. This is an example of a single-serving site that provides a simplified interface, but offers much more functionality following that initial interaction with the service. Attention is paid to making default behaviors easy, but gives expert users much more below the surface. bit.ly also offer referring tracking, an API for web apps, mirrored URL on Amazon Web Services, and thumbnail images.</description>
+    </item>
+    
+    <item>
+      <title>International Address Fields in Web Forms</title>
+      <link>http://konigi.com/blog/international-address-fields-web-forms/</link>
+      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/international-address-fields-web-forms/</guid>
+      <description>Luke Wroblewski writes, in UX Matters, about how to deal with international addresses in form fields. I don&amp;rsquo;t think this is a topic covered in the web form design book, so be sure to check it out.
+http://uxmatters.com/MT/archives/000295.php</description>
+    </item>
+    
+    <item>
+      <title>SensibleUnits.com Conversion Form</title>
+      <link>http://konigi.com/interfaces/sensibleunits-com-conversion-form/</link>
+      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/sensibleunits-com-conversion-form/</guid>
+      <description>SensibleUnits is a fun single purpose site that converts boring units to real objects as you type.
+ http://www.sensibleunits.com/</description>
+    </item>
+    
+    <item>
+      <title>OK-Cancel or Cancel-OK?</title>
+      <link>http://konigi.com/blog/ok-cancel-or-cancel-ok/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ok-cancel-or-cancel-ok/</guid>
+      <description>Jakob Nielsen&#39;s latest Alertbox recommends that order of OK vs Cancel should be determined by the standard order defined by the platform&#39;s interface guidelines. Alas, if you&#39;re designing for the web, order becomes problematic because Windows interface guidelines put OK first, whereas Apple guidelines put it last. Nielsen suggests that you base the order on the installed platform of your audience, i.e. if you have predominantly Windows users, you might be best served by putting OK on the left.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Form Auto-completion</title>
+      <link>http://konigi.com/interfaces/facebook-form-auto-completion/</link>
+      <pubDate>Thu, 22 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/facebook-form-auto-completion/</guid>
+      <description>Facebook&#39;s address auto-completion in the compose message form is one of the best examples of auto-completion behavior in a form. The interaction very closely mimics what you would expect to happen in the To field of email applications like Apple Mail and Outlook.
+1. Cursor is in the To: field. Contextual help displayed below input.2. Typing characters in the input invokes person/recipient auto-completion suggestions. 3. Selecting a person from auto-completion suggestions, entering a comma, or clicking enter displays the selected recipient in a block.</description>
+    </item>
+    
+    <item>
+      <title>Web Form Design: Filling in the blanks</title>
+      <link>http://konigi.com/blog/web-form-design-filling-blanks/</link>
+      <pubDate>Mon, 05 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/web-form-design-filling-blanks/</guid>
+      <description>Luke Wroblewski&#39;s book on form design is finally out. From the author:
+Forms make or break the most crucial online interactions: checkout (commerce), registration (community), data input (participation and sharing), and any task requiring information entry. In Web Form Design, Luke Wroblewski draws on original research, his considerable experience at Yahoo! and eBay, and the perspectives of many of the field&#39;s leading designers to show you everything you need to know about designing effective and engaging Web forms.</description>
+    </item>
+    
+    <item>
+      <title>Designers Toolbox: OS Form Elements</title>
+      <link>http://konigi.com/blog/designers-toolbox-os-form-elements/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designers-toolbox-os-form-elements/</guid>
+      <description>The Designers Toolbox provides a nice resource for designers looking to create form elements in design comps or wireframes. The site displays every type of form element that can be generated by Windows XP IE and Firefox, and Mac OS X Safari and Firefox. Photoshop files can be downloaded for each form element.
+Thanks, swissmiss.
+http://www.designerstoolbox.com/designresources/elements/</description>
+    </item>
+    
+    <item>
+      <title>Down for everyone or just me? Submission Form</title>
+      <link>http://konigi.com/interfaces/down-everyone-or-just-me-submission-form/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/down-everyone-or-just-me-submission-form/</guid>
+      <description>This is a dead simple service to check server status. It consists of 1 input to enter a domain name, and a link to submit. If the server is up, and you still can&#39;t get to it, then you know connection problems you are experiencing are due to issues at your end.
+1. Enter domain and click link to submit.2. Result and link to try another site. http://downforeveryoneorjustme.com/</description>
+    </item>
+    
+    <item>
+      <title>TeamSnap Terms of Service</title>
+      <link>http://konigi.com/interfaces/teamsnap-terms-service/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/teamsnap-terms-service/</guid>
+      <description>TeamSnap uses funny copy to accept their terms of service. There&#39;s no way a lawyer every looked at this.
+ http://go.teamsnap.com/signup</description>
+    </item>
+    
+    <item>
+      <title>Capzles Captcha</title>
+      <link>http://konigi.com/interfaces/capzles-captcha/</link>
+      <pubDate>Thu, 03 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/capzles-captcha/</guid>
+      <description>Capzles, a photo management and sharing services uses animated text in a Flash captcha to trick the robots. This is the most sophisticated attempt I&#39;ve seen to make captchas unreadable. It still can&#39;t beat the spam sweatshops, but it seems to me like a very good option for defeating OCR.
+ http://capzles.com</description>
+    </item>
+    
+    <item>
+      <title>Photoshop Express Captcha</title>
+      <link>http://konigi.com/interfaces/photoshop-express-captcha/</link>
+      <pubDate>Thu, 03 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/photoshop-express-captcha/</guid>
+      <description>Adobe&#39;s new online service, Photoshop Express, uses handwritten fonts for Captcha forms.
+ https://www.photoshop.com/express/landing.html</description>
+    </item>
+    
+    <item>
+      <title>Oranges Contact Form</title>
+      <link>http://konigi.com/interfaces/oranges-contact-form/</link>
+      <pubDate>Wed, 30 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/oranges-contact-form/</guid>
+      <description>Edward Pistachio is a writer pulping fine short stories. Consistent with the lighthearted tone of this site, he provides a contact form that is also all about words. Getting his email address requires solving a few jumbles, and then decoding the address from letters found in the jumbles. Sure it may be frustrating if you can&#39;t figure out the jumbles, and is one of the cleverest ways I&#39;ve ever seen to gain access to a bit of info.</description>
+    </item>
+    
+    <item>
+      <title>Tubetorial Form Labels</title>
+      <link>http://konigi.com/interfaces/tubetorial-form-labels/</link>
+      <pubDate>Thu, 03 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/tubetorial-form-labels/</guid>
+      <description>By flipping the convention of labels on top or to the left of the inputs, Tubetorial provides a nicely aligned solution. We&#39;re accustomed to reading top to bottom and left to right, so it&#39;s a bit strange to have the label and input reversed this way. This works mainly because there are few inputs in a compressed area, but this might not be as efficient on large forms. 1. Comment form input with labels on right http://www.</description>
+    </item>
+    
+    <item>
+      <title>WEB2RSS Form Labels</title>
+      <link>http://konigi.com/interfaces/web2rss-form-labels/</link>
+      <pubDate>Thu, 03 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/web2rss-form-labels/</guid>
+      <description>It&#39;s interesting placing the label inside the input. The form fields align nicely, but I imagine the alignment of the actual text you enter wouldn&#39;t work as well with multiple inputs. Since there is only one text input here, this works to some degree.
+1. Label is shown inside form input http://baekdal.com/web2rss</description>
+    </item>
+    
+    <item>
+      <title>4 Hour Work Week Login Screen</title>
+      <link>http://konigi.com/interfaces/4-hour-work-week-login-screen/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/4-hour-work-week-login-screen/</guid>
+      <description>The clever login screen for Tim Ferris&#39; book site uses words from the book or audiobook as the password for entering restricted areas of its resources section.
+ http://fourhourworkweek.com/wms/login/login.php</description>
+    </item>
+    
+    <item>
+      <title>Amazon Registration and Login</title>
+      <link>http://konigi.com/interfaces/amazon-registration-and-login/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/amazon-registration-and-login/</guid>
+      <description>Amazon&#39;s login and registration screen is the standard by which other login screens are measured. The simple flow consists of: 1) entering your email address, and 2) entering your password. If you are a new customer, simply select the new customer radio and the follow up screens provide the registration flow.
+1. Enter your email address, if you&#39;re not registered, select &amp;quot;New customer,&amp;quot; otherwise log in2. Enter registration info https://amazon.com/gp/sign-in.html</description>
+    </item>
+    
+    <item>
+      <title>Basecamp Registration</title>
+      <link>http://konigi.com/interfaces/basecamp-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/basecamp-registration/</guid>
+      <description>Starting off from Basecamp&#39;s sign up page, you pick your plan option, then fill out their form. The form is clean and simple. Inputs and labels are aligned well and there is a logical chunking of sections of the form. I like the simple hairlines between chunks in the top area.
+One of the nicest things about this entire experience is the starting point where you select your plan. The user may return to this page at any point to upgrade, downgrade or cancel their plan.</description>
+    </item>
+    
+    <item>
+      <title>Google Registration</title>
+      <link>http://konigi.com/interfaces/google-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/google-registration/</guid>
+      <description>A quick and simple registration form that&#39;s compressed into a small area. The labels could be right-aligned for better readability in that 2 column format and the submit button could be aligned left with the inputs to really clean this up.
+ https://google.com/accounts/NewAccount?service=mail</description>
+    </item>
+    
+    <item>
+      <title>Hulu Registration</title>
+      <link>http://konigi.com/interfaces/hulu-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/hulu-registration/</guid>
+      <description>Simple registration form. No captcha in this form, although that could change when they get out of private beta. Having to click the check button seems unnecessary. A javascript check on blur would be better. This form might benefit from a little chunking, e.g. simple hairlines between some fields.  http://hulu.com</description>
+    </item>
+    
+    <item>
+      <title>Netflix Registration</title>
+      <link>http://konigi.com/interfaces/netflix-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/netflix-registration/</guid>
+      <description>Registration at Netflix is a multi-page funnel. Form fields are laid out very well, and the flow is pretty simple considering the huge amount of text that surrounds the form. After entering your info, you can begin entering your genre preferences or search for videos to start adding to your queue. 1. Enter email address and password2. Select plan option3. Enter name and shipping info4. Enter payment info http://netflix.com/Register</description>
+    </item>
+    
+    <item>
+      <title>Photobucket Registration</title>
+      <link>http://konigi.com/interfaces/photobucket-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/photobucket-registration/</guid>
+      <description>Registration couldn&#39;t be simpler. 3 fields: enter a username and password twice and you&#39;re done. No captchas. Oops, is that screenname unavailable, well let&#39;s get alerted right away before you go on. Nice.
+1. Enter username, AJAX error check and suggestions if username unavailable2. Enter password http://photobucket.com/register.php</description>
+    </item>
+    
+    <item>
+      <title>Sidebar Creative Contact Form</title>
+      <link>http://konigi.com/interfaces/sidebar-creative-contact-form/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/sidebar-creative-contact-form/</guid>
+      <description>The contact page for this design agency features a clever use of an AJAX slider to allow potential clients to for entering their budget in the range of 10K to 500K. Interesting that the slider increments in 25K&#39;s up to 100K, then increments in 100K&#39;s. Once you get them on the phone, I suppose you can give them your real budget. Maybe that helps eliminate small jobs?
+ http://sidebarcreative.com/</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Registration</title>
+      <link>http://konigi.com/interfaces/yahoo-registration/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/yahoo-registration/</guid>
+      <description>We happened to catch the Yahoo! registration pages when they were being redesigned in 2007. The first version was captured in November 2007 and the second is the prior version. The redesigned version is subtle, but really improves the user&#39;s flow through the form. It compresses the vertical height of the form and uses more conversational labels.
+1. Registration screen2. Old registration screen prior to Fall 2007 https://edit.yahoo.com/registration</description>
+    </item>
+    
+  </channel>
+</rss>

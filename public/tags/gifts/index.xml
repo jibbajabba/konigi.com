@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gifts on Konigi</title>
+    <link>http://konigi.com/tags/gifts/</link>
+    <description>Recent content in Gifts on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/gifts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gifts for User Experience Geeks 2009</title>
+      <link>http://konigi.com/blog/gifts-user-experience-geeks-2009/</link>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/gifts-user-experience-geeks-2009/</guid>
+      <description>Nick Finck&amp;rsquo;s holiday gift ideas for UX designers is an annual blog entry that I hope to look forward to for years to come, and not just because he lists Konigi among the great list of suggestions. :)
+[I]t is once again time for the gifts for user experience geeks post for the 2009 holiday season. Just like last year this list is a collection of items I have come across over the last year that would make the ideal gifts for UX geeks like Information Architects, Usability Specialists, Interaction Designers, and even Web Designers.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+{{/* CONTENT */}}
+<article>
+  <h2 class="post-title">{{ .Title }}</h2>
+  <section class="article-body">{{ .Content }}</section>
+</article>
+
+{{/* END CONTENT */}}
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

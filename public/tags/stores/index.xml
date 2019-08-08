@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stores on Konigi</title>
+    <link>http://konigi.com/tags/stores/</link>
+    <description>Recent content in Stores on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/stores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beatport Pro Music Store</title>
+      <link>http://konigi.com/interfaces/beatport-pro-music-store/</link>
+      <pubDate>Mon, 21 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/beatport-pro-music-store/</guid>
+      <description>Beatport&#39;s Pro app for the Mac offers a shopping experience that&#39;s tailored for the way DJs shop for music. The app lets users analyze their music (tracks, sounds, and playlists) to prepare sets and add music to their playlists. Here are some of the elements of the version 2 interface related to shopping in the app.
+Beatport comes close to the experience of shopping in a record store, breaking down music into genres and sub-genres.</description>
+    </item>
+    
+    <item>
+      <title>Panic Shopping Cart</title>
+      <link>http://konigi.com/interfaces/panic-shopping-cart/</link>
+      <pubDate>Fri, 25 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/panic-shopping-cart/</guid>
+      <description>Panic, the Mac software company that makes Coda and Transmit, has an apparel store with fun shopping cart behaviors that mimic the Mac&#39;s dock. The apparel store shows t-shirt listings, and a little cart dock at the bottom of the page that invites visitors to drag t-shirts down into it to add to cart. Clicking and dragging shows the ghosted t-shirt moving with the cursor until it snaps into the dock.</description>
+    </item>
+    
+    <item>
+      <title>Zappos Search Results Filtering</title>
+      <link>http://konigi.com/interfaces/zappos-search-results-filtering/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/zappos-search-results-filtering/</guid>
+      <description>The Zappos&#39; search engine provides a nice results filtering interfaces that presents the user with facets for refining their search. The user can click on the terms at the top of the search results page to narrow the set, and a breadcrumb trail shows the selections they&#39;ve made. Each term in the breadcrumb provides a checkbox to remove any one of those selections and broaden their search.
+1. Users run a search using the site&#39;s global search box.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on Konigi</title>
+    <link>http://konigi.com/tags/agile/</link>
+    <description>Recent content in Agile on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is Interaction Design a dead-end job?</title>
+      <link>http://konigi.com/blog/interaction-design-dead-end-job/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/interaction-design-dead-end-job/</guid>
+      <description>In the Cooper Journal, Tim McCoy responds to Bill Moggridge&#39;s comment after a screening of Objectified. He paraphrases Moggridge as saying interaction design has become pervasive, that anyone and everyone can be an interaction designer, and so the role of professional interaction designer is (or is becoming) unnecessary.
+McCoy asks if interaction design is really dead. He goes on to point out a few factors that have allowed developers to build better interfaces without interaction designers.</description>
+    </item>
+    
+  </channel>
+</rss>

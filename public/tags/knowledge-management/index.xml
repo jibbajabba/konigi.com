@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Management on Konigi</title>
+    <link>http://konigi.com/tags/knowledge-management/</link>
+    <description>Recent content in Knowledge Management on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/knowledge-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Denning and Yaholkovsky on Real Collaboration</title>
+      <link>http://konigi.com/blog/denning-and-yaholkovsky-real-collaboration/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/denning-and-yaholkovsky-real-collaboration/</guid>
+      <description>Thomas Van Der Wal Personal provides a brief synopsis of &#34;Getting to &#34;we&#34;&#34;, an article in Communications of the ACM (Volume 51, Issue 4 - April 2008). According to Thomas:
+Peter Denning and Peter Yaholkovsky break down the tools needed for various knowledge needs into four categories: 1) Information sharing; 2) Coordination; 3) Cooperation; and Collaboration.
+ The article apparently discusses the misunderstanding of the term collaboration, and when it is an appropriate practice.</description>
+    </item>
+    
+  </channel>
+</rss>

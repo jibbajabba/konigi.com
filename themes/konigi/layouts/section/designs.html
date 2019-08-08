@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+
+<section class="section list-node">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-four-fifths">
+        {{ range .Paginator.Pages }}
+          {{ .Render "list-node"}}
+        {{ end }}
+      </div>{{/* /column */}}
+      <div class="column is-one-fifth">
+        {{ partial "ad_primary.html" . }}
+      </div>{{/* /column */}}
+    </div>{{/* /columns */}}
+  </div>{{/* /container */}}
+</section>
+<section class="section pagination">
+  <div class="container">
+    <nav>{{ template "_internal/pagination.html" . }}</nav>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

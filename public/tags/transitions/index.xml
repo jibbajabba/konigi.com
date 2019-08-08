@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transitions on Konigi</title>
+    <link>http://konigi.com/tags/transitions/</link>
+    <description>Recent content in Transitions on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/transitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIX UX: Transition and animation gallery</title>
+      <link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link>
+      <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid>
+      <description>SIX UX is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. Check it.
+http://sixux.com/</description>
+    </item>
+    
+  </channel>
+</rss>

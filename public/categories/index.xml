@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Konigi</title>
+    <link>http://konigi.com/categories/</link>
+    <description>Recent content in Categories on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Art</title>
+      <link>http://konigi.com/categories/art/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://konigi.com/categories/articles/</link>
+      <pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://konigi.com/categories/blog/</link>
+      <pubDate>Mon, 24 Sep 2018 09:23:11 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Categories</title>
+      <link>http://konigi.com/categories/categories/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>http://konigi.com/categories/design/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interface</title>
+      <link>http://konigi.com/categories/interface/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/interface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfaces</title>
+      <link>http://konigi.com/categories/interfaces/</link>
+      <pubDate>Thu, 02 Aug 2018 09:31:33 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/interfaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://konigi.com/categories/links/</link>
+      <pubDate>Mon, 05 Aug 2019 14:55:52 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://konigi.com/categories/music/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 -0700</pubDate>
+      
+      <guid>http://konigi.com/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nopromo</title>
+      <link>http://konigi.com/categories/nopromo/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/nopromo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page</title>
+      <link>http://konigi.com/categories/page/</link>
+      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://konigi.com/categories/search/</link>
+      <pubDate>Wed, 23 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunchasing</title>
+      <link>http://konigi.com/categories/sunchasing/</link>
+      <pubDate>Tue, 07 May 2019 15:17:20 -0701</pubDate>
+      
+      <guid>http://konigi.com/categories/sunchasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://konigi.com/categories/tools/</link>
+      <pubDate>Tue, 17 Nov 2015 10:18:14 -0800</pubDate>
+      
+      <guid>http://konigi.com/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiki</title>
+      <link>http://konigi.com/categories/wiki/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/categories/wiki/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

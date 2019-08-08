@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on Konigi</title>
+    <link>http://konigi.com/tags/product/</link>
+    <description>Recent content in Product on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Feb 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fin&amp;Atilde;&amp;copy;</title>
+      <link>http://konigi.com/designs/submissions/fin/</link>
+      <pubDate>Sat, 16 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/fin/</guid>
+      <description>http://www.finejapon.com/flash_en.html</description>
+    </item>
+    
+  </channel>
+</rss>

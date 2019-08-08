@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content Management Systems Cms on Konigi</title>
+    <link>http://konigi.com/tags/content-management-systems-cms/</link>
+    <description>Recent content in Content Management Systems Cms on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/content-management-systems-cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artsy Editor: Simple WYSIWYG editor for WordPress</title>
+      <link>http://konigi.com/blog/artsy-editor-simple-wysiwyg-editor-wordpress/</link>
+      <pubDate>Tue, 12 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/artsy-editor-simple-wysiwyg-editor-wordpress/</guid>
+      <description>I don&amp;rsquo;t use WYSIWYG editors in CMSes and blogs, but I like how Stephen Ou designed this simple WP editor plugin called Artsy Editor using a little HUD style popover.
+http://artsyeditor.com/</description>
+    </item>
+    
+    <item>
+      <title>Graphpaper Press Themes for WordPress</title>
+      <link>http://konigi.com/blog/graphpaper-press-themes-wordpress/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/graphpaper-press-themes-wordpress/</guid>
+      <description>Graphpaper Press is Thad Allender&amp;rsquo;s repository of minimal themes for WordPress that are built on the Blueprint CSS framework. Allender is creating 1 new skin every month in 2008. The first in the series are the Gridline themes, a pared down, minimal design that comes in three flavors: lite, news, and magazine. Any of these should provide a barebones framework for a small business looking to use WordPress to get their site up and running quickly.</description>
+    </item>
+    
+  </channel>
+</rss>

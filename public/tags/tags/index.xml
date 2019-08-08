@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Konigi</title>
+    <link>http://konigi.com/tags/tags/</link>
+    <description>Recent content in Tags on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pinterest Tag Search and Suggestions</title>
+      <link>http://konigi.com/interfaces/pinterest-tag-search-and-suggestions/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/pinterest-tag-search-and-suggestions/</guid>
+      <description>Pinterest&#39;s search feature shows tag and board suggestions in the auto-completion list. Select terms/tags to display, and a horizontal list (accordion) of correlating tags to refine or narrow your your search are displayed below the search box.
+Screencast / Video
+http://www.pinterest.com/</description>
+    </item>
+    
+    <item>
+      <title>Gmail Move and Label Menus</title>
+      <link>http://konigi.com/interfaces/gmail-move-and-label-menus/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/gmail-move-and-label-menus/</guid>
+      <description>Google modified the labeling (tagging) menus in Gmail to add a Move option to co-exist with the prior Label drop down menu. The Move menu allows the user to move an email to a single label and then archives it, removing it from the Inbox. The Label menu allows the user to add multiple labels to the email, but does not archive it. Both menus offer a label search input with auto-completion, as well as options to create new or manage existing labels.</description>
+    </item>
+    
+    <item>
+      <title>Wordle</title>
+      <link>http://konigi.com/blog/wordle/</link>
+      <pubDate>Wed, 18 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/wordle/</guid>
+      <description>Wordle is a toy for generating “word clouds” from text that you provide. The clouds give greater prominence to words that appear more frequently in the source text. You can tweak your clouds with different fonts, layouts, and color schemes.
+http://wordle.net/create</description>
+    </item>
+    
+    <item>
+      <title>Last.fm Tagging</title>
+      <link>http://konigi.com/interfaces/last-fm-tagging/</link>
+      <pubDate>Thu, 22 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/last-fm-tagging/</guid>
+      <description>Last.fm provides a simple interface for tagging artists or tracks that mimics the email address entry design pattern provided in applications like Apple Mail and Facebook Messaging. Their redesign (beta site accessed May 2008) cleans up their tagging interface by providing auto-completion, and the ability delete tags by clicking the item in the input.
+1. Clicking the More menu displays the Add Tags link. Presumably, there will be more than just an add tags item in the future, otherwise Add Tags should simple be visible without this extra link.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Hashtags</title>
+      <link>http://konigi.com/blog/twitter-hashtags/</link>
+      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/twitter-hashtags/</guid>
+      <description>I&amp;rsquo;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&amp;rsquo;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
+Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&amp;rsquo;re like tags on Flickr, only added inline to your post.</description>
+    </item>
+    
+    <item>
+      <title>brand and celeb tags</title>
+      <link>http://konigi.com/blog/brand-and-celeb-tags/</link>
+      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/brand-and-celeb-tags/</guid>
+      <description>Noah Brier&amp;rsquo;s celeb tags and brand tags sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.
+I tried to take screenshots, but the celebrities&amp;rsquo; tag results were full of nonsensical tags.</description>
+    </item>
+    
+    <item>
+      <title>Pattern Tap Tag Filtering</title>
+      <link>http://konigi.com/interfaces/pattern-tap-tag-filtering/</link>
+      <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/pattern-tap-tag-filtering/</guid>
+      <description>Pattern Tap, an interface and visual design gallery, provides a UI for filtering using tags. Best case scenario would get rid of the filter button and also updates the set of available tags to indicate those that can be combined with the current selection (e.g. dim or hide tags that can&#39;t be combined with my selection &#34;black AND white&#34; AND simiple.&#34; Often times in interfaces that provide filtering based on all available tags or index terms, if the filtering UI doesn&#39;t update to reflect those terms that may successfully combined, the user is led down a path to an empty set.</description>
+    </item>
+    
+    <item>
+      <title>Moody Tags</title>
+      <link>http://konigi.com/interfaces/moody-tags/</link>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/moody-tags/</guid>
+      <description>Moody provides a visual tagging interface for music played on iTunes. A 4 x 4 grid of colored squares provides the clickable UI for describing the mood of music tracks along the vertical axis as calm to intense, and along the horizontal axis as sad to happy. Great concept and quite easy to get after a few tries. With tracks tagged by mood, you can later play them back by selecting clicking the listen tab, and selecting as few or many moods as you would like, and finally click play.</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing The Library of Congress</title>
+      <link>http://konigi.com/blog/crowdsourcing-library-congress/</link>
+      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/crowdsourcing-library-congress/</guid>
+      <description>The Library of Congress has maded 2 of its collections of historical photographs available on Flickr. The goal is to get users to tag and comment on the photos, as well as help provide identifying information. It&#39;s very interesting to see such a large and old institution embracing open social collaboration like this. When I was in school, the idea of user supplied freetagging was pretty seen as an edge-case activity even for things like private databases.</description>
+    </item>
+    
+    <item>
+      <title>iStockPhoto Tags</title>
+      <link>http://konigi.com/interfaces/istockphoto-tags/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/istockphoto-tags/</guid>
+      <description>iStockPhoto provides an interesting way of mapping keywords or tags to the controlled vocabulary the site uses. This makes a lot of sense in a site that wants people to be able to browse for concepts, themes, and subject matter with a high degree of relevancy. Curiously, they refer to the keywords as tags on the review screen when the term &#34;tag&#34; isn&#39;t used on the site as of this writing.</description>
+    </item>
+    
+  </channel>
+</rss>

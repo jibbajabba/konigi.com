@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact Management on Konigi</title>
+    <link>http://konigi.com/tags/contact-management/</link>
+    <description>Recent content in Contact Management on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/contact-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Highrise Contacts Design Exploration</title>
+      <link>http://konigi.com/blog/highrise-contacts-design-exploration/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/highrise-contacts-design-exploration/</guid>
+      <description>Jason Zimdars describes the explorations and iterations over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. http://jasonzimdars.com/svn/highrise.html</description>
+    </item>
+    
+  </channel>
+</rss>

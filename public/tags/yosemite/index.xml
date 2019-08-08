@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yosemite on Konigi</title>
+    <link>http://konigi.com/tags/yosemite/</link>
+    <description>Recent content in Yosemite on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2017 11:02:59 -0732</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/yosemite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sunrise from Cook’s Meadow in Yosemite</title>
+      <link>http://konigi.com/sunchasing/032/</link>
+      <pubDate>Thu, 30 Nov 2017 11:02:59 -0732</pubDate>
+      
+      <guid>http://konigi.com/sunchasing/032/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Sunrise from Tunnel View in Yosemite</title>
+      <link>http://konigi.com/sunchasing/031/</link>
+      <pubDate>Thu, 30 Nov 2017 11:02:59 -0731</pubDate>
+      
+      <guid>http://konigi.com/sunchasing/031/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Half Dome Sunset</title>
+      <link>http://konigi.com/sunchasing/029/</link>
+      <pubDate>Wed, 29 Nov 2017 11:02:59 -0700</pubDate>
+      
+      <guid>http://konigi.com/sunchasing/029/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

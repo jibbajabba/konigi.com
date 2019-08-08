@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Konigi</title>
+    <link>http://konigi.com/tags/css/</link>
+    <description>Recent content in Css on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Apr 2018 12:47:40 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RGBA feColorMatrix</title>
+      <link>http://konigi.com/links/rgba-fecolormatrix/</link>
+      <pubDate>Tue, 24 Apr 2018 12:47:40 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/rgba-fecolormatrix/</guid>
+      <description>feColorMatrix is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
+This filter allows granular per channel color manipulation. Una Kravets wrote an excellent article explaining how to use it.</description>
+    </item>
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</guid>
+      <description>AniJS is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. A simple example contains IF, ON, DO, and TO pairs and would look like this: &amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap, from Twitter</title>
+      <link>http://konigi.com/links/bootstrap-twitter/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/bootstrap-twitter/</guid>
+      <description>Bootstrap is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.
+http://twitter.github.com/bootstrap/</description>
+    </item>
+    
+    <item>
+      <title>InstaCSS: CSS Documentation Search</title>
+      <link>http://konigi.com/links/instacss-css-documentation-search/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/instacss-css-documentation-search/</guid>
+      <description>Using InstaCSS is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&amp;rsquo;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item like this. Via Think Vitamin Newsletter
+http://instacss.com/</description>
+    </item>
+    
+    <item>
+      <title>Animate.css: Plug-and-play CSS animation stylesheet</title>
+      <link>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</link>
+      <pubDate>Tue, 18 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</guid>
+      <description>animate.css is a stylesheet created by Dan Eden for doing common, cross-browser css3 animations for things like transitions for emphasis. To use them in your project, simply add add the stylesheet and link, add a class to an element, or call the animation yourself in your CSS file.
+http://daneden.me/animate/</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
+HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
+    </item>
+    
+    <item>
+      <title>ProCSSor: CSS Prettifier</title>
+      <link>http://konigi.com/links/procssor-css-prettifier/</link>
+      <pubDate>Mon, 20 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/procssor-css-prettifier/</guid>
+      <description>ProCSSor is a tool to format your CSS to be readable. Paste, specify URL, or upload file, and then select your options and ProCSSor outputs a cleaned up version of your stylesheet.
+http://www.procssor.com/</description>
+    </item>
+    
+    <item>
+      <title>Sencha Touch HTML5 Mobile App Framework</title>
+      <link>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</link>
+      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</guid>
+      <description>Sencha Touch looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: GeoCongress (makes use of geolocation), Solitaire (drag and drop and flip animations), Kiva (provides iPad popover controls).
+Sencha Touch allows you to develop web apps that look and feel native on Apple iOS and Google Android touchscreen devices. It&#39;s built specifically to leverage HTML5, CSS3, and Javascript and makes use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline.</description>
+    </item>
+    
+    <item>
+      <title>Quick Grid Overlay with CSS and JQuery</title>
+      <link>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</guid>
+      <description>Griddy is a simple JQuery plugin that overlays a customizable grid over any element.
+http://devgrow.com/griddy/</description>
+    </item>
+    
+    <item>
+      <title>When can I use... HTML5, CSS3, etc.</title>
+      <link>http://konigi.com/links/when-can-i-use-html5-css3-etc/</link>
+      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-html5-css3-etc/</guid>
+      <description>Can I Use provides compatibility tables for features in HTML5, CSS3, SVG and other upcoming web technologies.
+http://caniuse.com/</description>
+    </item>
+    
+    <item>
+      <title>Only Two Designers</title>
+      <link>http://konigi.com/designs/submissions/only-two-designers/</link>
+      <pubDate>Thu, 25 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/only-two-designers/</guid>
+      <description>http://www.only2designers.com</description>
+    </item>
+    
+    <item>
+      <title>Design, the web, and craft</title>
+      <link>http://konigi.com/blog/design-web-and-craft/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-web-and-craft/</guid>
+      <description>I&#39;m a little late on getting to this one, but wanted to post before I forgot because it is a great topic for early and mid-career web designers. Matt (emenel) reacted to Mark Boulton&#39;s thoughts about whether or not designers needed to know html.
+Matt summarizes what he believes:
+As a designer there is a continuum you travel over the course of your career. It starts with making - crafting objects in your selected medium - and progresses through a point where you internalize your craft and can design without making.</description>
+    </item>
+    
+    <item>
+      <title>ShareFile.com</title>
+      <link>http://konigi.com/designs/submissions/sharefilecom/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/sharefilecom/</guid>
+      <description>http://www.sharefile.com</description>
+    </item>
+    
+    <item>
+      <title>LESS: Simple CSS variables and more</title>
+      <link>http://konigi.com/links/less-simple-css-variables-and-more/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/less-simple-css-variables-and-more/</guid>
+      <description>The LESS Ruby gem compiles LESS code into CSS. LESS extends CSS with variables, mixins, operations, and extended rules, and uses existing CSS syntax. You simply rename your .css files as .less files and compile with a plugin or a simple app like LESS.app for the Mac.
+http://lesscss.org/</description>
+    </item>
+    
+    <item>
+      <title>Brosho - Design CSS in the browser</title>
+      <link>http://konigi.com/links/brosho-design-css-browser/</link>
+      <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/brosho-design-css-browser/</guid>
+      <description>This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.
+The CSS generated by your edits can then be generated and copy-pasted into your stylesheet file for minor edits.</description>
+    </item>
+    
+    <item>
+      <title>Drawter: DrawAble Markup Language</title>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
+      <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
+      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
+Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website&#39;s code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div&#39;s style properties within floating inspectors.</description>
+    </item>
+    
+    <item>
+      <title>CSS3 Gradient Generator</title>
+      <link>http://konigi.com/links/css3-gradient-generator/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/css3-gradient-generator/</guid>
+      <description>The CSS3 Gradient Generator tool creates the CSS needed to render gradient backgrounds in block elements, e.g. divs and buttons, in Mozilla or Webkit browsers, e.g. Safari or Google Chrome, or the Firefox 3.6 beta.
+http://gradients.glrzad.com</description>
+    </item>
+    
+    <item>
+      <title>jQuery Masonry</title>
+      <link>http://konigi.com/links/jquery-masonry/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jquery-masonry/</guid>
+      <description>Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.
+http://desandro.com/resources/jquery-masonry</description>
+    </item>
+    
+    <item>
+      <title>Deconstructing a CSS trick to display form data as tabular data</title>
+      <link>http://konigi.com/blog/deconstructing-css-trick-display-form-data-tabular-data/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/deconstructing-css-trick-display-form-data-tabular-data/</guid>
+      <description>CSS and Javascript experiments are fun to play around with. I tend to talk about them here because of the questions they raise about whether a technique is worth implementing or if it does more harm than help. Straight forward and familiar are the safe route. Sometimes experiments lead to better ways of doing things, other times they seem like they&amp;rsquo;re gratuitous.
+I came across an interesting, if problematic experiment to convert form fields into editable fields that are masked table cells until each input is in focus.</description>
+    </item>
+    
+    <item>
+      <title>Easy front-end framework</title>
+      <link>http://konigi.com/links/easy-front-end-framework/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/easy-front-end-framework/</guid>
+      <description>Easy Framework is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.
+http://easyframework.com/</description>
+    </item>
+    
+    <item>
+      <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
+      <link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
+      <description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
+ Via se on the htmlprototyping group</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Guide To Grid-Based Web Design</title>
+      <link>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
+      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.
+Via @zakiwarfel
+http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html</description>
+    </item>
+    
+    <item>
+      <title>CSS Sprites with Inline Images</title>
+      <link>http://konigi.com/blog/css-sprites-inline-images/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/css-sprites-inline-images/</guid>
+      <description>CSS-Tricks wrote up a tutorial demonstrating how to use CSS clipping to use image sprite on inline elements that flow with content. This is a nice little technique for small icons that you want to come immediately after text, for example. Check it out.
+http://css-tricks.com/css-sprites-with-inline-images/</description>
+    </item>
+    
+    <item>
+      <title>When can I use... (Browser Technology Compatibility Table)</title>
+      <link>http://konigi.com/links/when-can-i-use-browser-technology-compatibility-table/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-browser-technology-compatibility-table/</guid>
+      <description>When can I use is a browser compatibility table for features in HTML5, CSS3, SVG and other upcoming web technologies. Select the technologies/standards you want to implement and the browsers you want to test. Color coded tables show which browser versions will support what you&amp;rsquo;ve selected.
+http://a.deveria.com/caniuse/</description>
+    </item>
+    
+    <item>
+      <title>Guide to CSS support in email clients</title>
+      <link>http://konigi.com/links/guide-css-support-email-clients/</link>
+      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/guide-css-support-email-clients/</guid>
+      <description>Campaign Monitor provides a table showing the level of CSS support in the 23 different email clients they test, and covers all the popular applications across desktop, web and mobile email. The web-based version of the guide focusses on the 10 most popular email clients on the market, and they provide a complete report on all 23 email clients in PDF format.
+http://www.campaignmonitor.com/css/</description>
+    </item>
+    
+    <item>
+      <title>CSS Prism: CSS color inspector</title>
+      <link>http://konigi.com/links/css-prism-css-color-inspector/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/css-prism-css-color-inspector/</guid>
+      <description>CSS Prism is a tool created by Ryan Berg to inspect the colors used in a CSS file.
+http://cssprism.com/</description>
+    </item>
+    
+    <item>
+      <title>Text Rotation with CSS</title>
+      <link>http://konigi.com/blog/text-rotation-css/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/text-rotation-css/</guid>
+      <description>Jonathan Snook shows a CSS technique for text rotation, which is supported in Webkit browsers, Firefox 3.5+, and IE 5.5+. Should be useful for ideas the little rotated year displays in the demo, but for me this would also be incredibly useful in dense angled headings for tables.
+http://snook.ca/archives/html_and_css/css-text-rotation</description>
+    </item>
+    
+    <item>
+      <title>CSS 3 Cheat Sheet (PDF)</title>
+      <link>http://konigi.com/links/css-3-cheat-sheet-pdf/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/css-3-cheat-sheet-pdf/</guid>
+      <description>Smashing Magazine&amp;rsquo;s printable CSS 3 Cheat Sheet provides a complete listing of all the properties, selectors types and allowed values in the current CSS 3 specification from the W3C. Each property is provided in a section that attempts to match it with the section (module) that it is most actively associated within the W3C specification. Next to each property is a listing of the expected values that that property takes (normal text shows named values it accepts and italics shows value types it will accept).</description>
+    </item>
+    
+    <item>
+      <title>SlickMap CSS: HTML Sitemapping Tool</title>
+      <link>http://konigi.com/links/slickmap-css-html-sitemapping-tool/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/slickmap-css-html-sitemapping-tool/</guid>
+      <description>Matt Everson of Astuteo has created SlickMap CSS, a simple stylesheet for displaying finished sitemaps directly from HTML unordered list navigation. It’s suitable for most web sites – accommodating up to three levels of page navigation and additional utility links – and can easily be customized to meet your own individual needs, branding, or style preferences.
+Via David Kaneda
+http://astuteo.com/slickmap/</description>
+    </item>
+    
+    <item>
+      <title>Modernizr: Use CSS3 and HTML5 Now</title>
+      <link>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</link>
+      <pubDate>Thu, 02 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</guid>
+      <description>Modernizr is a JavaScript library that essentially allows you to use conditionals (if-statements) in your CSS for the availability of CSS3 and HTML5, while still maintaining a fine level of control over older browsers that may not yet support these new technologies.
+http://www.modernizr.com/</description>
+    </item>
+    
+    <item>
+      <title>Why browser zoom shouldn&#39;t kill flexible layouts</title>
+      <link>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
+      <description>Zoe Mickley Gillenwater posted an interesting article which makes the argument that browser zoom doesn&amp;rsquo;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&amp;rsquo;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &amp;ldquo;Zoom text only&amp;rdquo; options, e.g. in Firefox and Safari 4.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Grids CSS</title>
+      <link>http://konigi.com/links/yahoo-grids-css/</link>
+      <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/yahoo-grids-css/</guid>
+      <description>The Yahoo! UI Library&amp;rsquo;s Grids CSS framework might seem hard to grok at first, but I&amp;rsquo;ve been using it for the past year on a commercial project and find that it&amp;rsquo;s solid for liquid CSS layouts. The grid builder helps to visualize what&amp;rsquo;s possible and view the rather obscure naming conventions they use in CSS classes.
+The framework offers four preset page widths, six preset templates, and the ability to stack and nest subdivided regions of two, three, or four columns.</description>
+    </item>
+    
+    <item>
+      <title>Spark Capital</title>
+      <link>http://konigi.com/designs/submissions/spark-capital/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/spark-capital/</guid>
+      <description>jQuery based animations and strong typography
+http://www.sparkcapital.com</description>
+    </item>
+    
+    <item>
+      <title>Navigation Markup After Content</title>
+      <link>http://konigi.com/blog/navigation-markup-after-content/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/navigation-markup-after-content/</guid>
+      <description>CSS tips offers an SEO tip for putting navigation after content and repositioning back to top by absolutely positioning the navigation block absolutely inside a relative block.
+http://css-tricks.com/navigation-markup-after-content/</description>
+    </item>
+    
+    <item>
+      <title>Fluid Grids</title>
+      <link>http://konigi.com/blog/fluid-grids/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fluid-grids/</guid>
+      <description>In the latest A List Apart, Airbag Industries&amp;rsquo; Ethan Marcotte writes about designing fluid grids, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user.</description>
+    </item>
+    
+    <item>
+      <title>Striking Web Sites with Font Stacks that Inspire</title>
+      <link>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</link>
+      <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</guid>
+      <description>Inspiration Bit has a wonderful collection of sites whose style sheets utilize users&amp;rsquo; system-installed fonts.
+http://www.inspirationbit.com/striking-web-sites-with-font-stacks-that-inspire/</description>
+    </item>
+    
+    <item>
+      <title>Uni-Form</title>
+      <link>http://konigi.com/links/uni-form/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uni-form/</guid>
+      <description>Uni-Form is a cool tool from Dragan Babić of Superawesome. The CSS library standardizes form markup (xhtml) and css, and &amp;ldquo;modularizes&amp;rdquo; it so even people with only basic knowledge of these technologies can get nice looking, well structured, highly customizable, semantic, accessible and usable forms. Download the plug and play XHTML and CSS and you&amp;rsquo;re ready to go.
+http://sprawsm.com/uni-form/</description>
+    </item>
+    
+    <item>
+      <title>Grid Designer: CSS grid generator</title>
+      <link>http://konigi.com/blog/grid-designer-css-grid-generator/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/grid-designer-css-grid-generator/</guid>
+      <description>This is a cool browser-based CSS grid generator created by Rasmus Schultz of mindplay.dk. Lets you quickly set some column, gutter, and margin sizes using forms inputs or button controls. Similarly you can set typography with form controls, and the results are shown on screen. When you&amp;rsquo;re happy, you can bookmark your work, and export the CSS. Sweet.
+Via @emenel
+http://grid.mindplay.dk</description>
+    </item>
+    
+    <item>
+      <title>Making Modular Layout Systems</title>
+      <link>http://konigi.com/blog/making-modular-layout-systems/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/making-modular-layout-systems/</guid>
+      <description>Jason Santa Maria&amp;rsquo;s 24 Ways entry provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. http://24ways.org/2008/making-modular-layout-systems</description>
+    </item>
+    
+    <item>
+      <title>PolyPage HTML Prototyping Javascript Library</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-library/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-library/</guid>
+      <description>Polypage is a JQuery-based HTML prototyping javascript library that was designed to ease the process of showing multiple page states in html mock-ups. By adding simply adding class names to a document you can imply state and conditional view logic. Brilliant.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+    <item>
+      <title>Typechart - Browse Web Type, Grab CSS</title>
+      <link>http://konigi.com/blog/typechart-browse-web-type-grab-css/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typechart-browse-web-type-grab-css/</guid>
+      <description>TYPECHART is pretty neat. It lets you flip through, preview for Mac or Windows and compare web typography while retrieving the CSS.
+http://www.typechart.com/</description>
+    </item>
+    
+    <item>
+      <title>3 JQuery Methods for Interactive Menu Effects</title>
+      <link>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</guid>
+      <description>3 recent articles show how to get interactive effects on menus, proving that you don&amp;rsquo;t need Flash for this kind of simple interactivity.  Dave Shea&amp;rsquo;s tutorial in ALA shows how to create interactive menu hover effects using CSS sprites and the JQuery Javascript library. A sprite image is a single graphic with multiple states mapped on the graphic, a technique borrowed from game design, where game characters are shown in different states of action.</description>
+    </item>
+    
+    <item>
+      <title>CSS Framework Roundup</title>
+      <link>http://konigi.com/blog/css-framework-roundup/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/css-framework-roundup/</guid>
+      <description>Hidden Pixels recently rounded up the available CSS frameworks into a list. I happen to be evaluating CSS frameworks as well to find a flexible system to provide on a CMS I&amp;rsquo;m working on. The Hidden Pixels list isn&amp;rsquo;t very descriptive of the specific usage or value each framework has to offer, so I&amp;rsquo;ve provided a summary of each to make this a useful reference when evaluating the list.
+The CSS presentation frameworks listed below provide the underlying CSS structure for typical web site needs.</description>
+    </item>
+    
+    <item>
+      <title>emastic CSS Framework</title>
+      <link>http://konigi.com/blog/emastic-css-framework/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/emastic-css-framework/</guid>
+      <description>emastic is an interesting looking CSS Framework that is designed for both fixed and fluid layout. It looks like a nice alternative to fluid layouts than YUI Grids, with simpler and more flexible column structuring and class naming.
+* Lightweight (compressed weight less then 4kb)
+* Personalized width of the page in (em,px,%)
+* Use of fixed and fluid columns in the grid.
+* Elastic Layout with &amp;ldquo;em&amp;rdquo;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
+    </item>
+    
+    <item>
+      <title>Fonts available for @font-face embedding</title>
+      <link>http://konigi.com/blog/fonts-available-font-face-embedding/</link>
+      <pubDate>Wed, 02 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fonts-available-font-face-embedding/</guid>
+      <description>Webfonts.info provides a list of fonts that are available for @font-face embedding in CSS files.
+http://www.webfonts.info/wiki/index.php?title=Fonts_available_for_%40font-face_embedding</description>
+    </item>
+    
+    <item>
+      <title>Graphpaper Press Themes for WordPress</title>
+      <link>http://konigi.com/blog/graphpaper-press-themes-wordpress/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/graphpaper-press-themes-wordpress/</guid>
+      <description>Graphpaper Press is Thad Allender&amp;rsquo;s repository of minimal themes for WordPress that are built on the Blueprint CSS framework. Allender is creating 1 new skin every month in 2008. The first in the series are the Gridline themes, a pared down, minimal design that comes in three flavors: lite, news, and magazine. Any of these should provide a barebones framework for a small business looking to use WordPress to get their site up and running quickly.</description>
+    </item>
+    
+    <item>
+      <title>15 CSS Properties You Probably Never Use (but perhaps should)</title>
+      <link>http://konigi.com/blog/15-css-properties-you-probably-never-use-perhaps-should/</link>
+      <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/15-css-properties-you-probably-never-use-perhaps-should/</guid>
+      <description>On seomoz, Matthew Inman points to 15 rarely used CSS properties, and why you might want to be aware of if you don&amp;rsquo;t already use them. I have to admit to only using a handful of these, and not with any regularity.
+ clip visibility text-shadow content quotes counter-reset and counter-increment marks page-break-before and page-break-after orphans and widows font-size-adjust font-stretch font-variant caption-side table-layout empty-cells 
+http://www.seomoz.org/blog/css-properties-you-probably-never-use</description>
+    </item>
+    
+    <item>
+      <title>CSS with Vertical Rhythm</title>
+      <link>http://konigi.com/links/css-vertical-rhythm/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/css-vertical-rhythm/</guid>
+      <description>drewish.com provides a nice script that takes a base font and line height and generates a scale of font classes with font sizes, line height, and margins calculated as ems. It&#39;s an odd selection of scale however with fonts sized at 12, 14, 16, 18, 20, 22, and 24 px. You can easily set this to a more familiar 12, 14, 16, 18, 21, 24, 36px. Or following Mark Boulton&#39;s lead, you can set to 11, 13, 16, 18, 24px.</description>
+    </item>
+    
+    <item>
+      <title>CSSTYPE</title>
+      <link>http://konigi.com/blog/csstype/</link>
+      <pubDate>Sat, 12 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/csstype/</guid>
+      <description>CSSTYPE is a CSS generator that allows you to select a font from a list of commonly installed fonts on Windows and Mac OS, set all type attributes (size, color, etc.), preview with sample text, and copy the resulting CSS. http://www.csstype.com/</description>
+    </item>
+    
+    <item>
+      <title>Templates for Creating Blueprint-Compatible Comps</title>
+      <link>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</guid>
+      <description>I&#39;ve created Adobe Photoshop and Illustrator templates for creating comps that work with Olav Bjorkoy&#39;s Blueprint CSS Framework. The templates are simply documents with guides based on the 24 units provided by Blueprint. The background image of the grid is also provided with a layer to show unit numbers if you like, and the Illustrator document shows a fake comp to demonstrate positioning on the grid.
+You may download the templates here:</description>
+    </item>
+    
+  </channel>
+</rss>

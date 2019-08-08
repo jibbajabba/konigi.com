@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svg on Konigi</title>
+    <link>http://konigi.com/tags/svg/</link>
+    <description>Recent content in Svg on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Apr 2018 12:47:40 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/svg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RGBA feColorMatrix</title>
+      <link>http://konigi.com/links/rgba-fecolormatrix/</link>
+      <pubDate>Tue, 24 Apr 2018 12:47:40 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/rgba-fecolormatrix/</guid>
+      <description>feColorMatrix is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
+This filter allows granular per channel color manipulation. Una Kravets wrote an excellent article explaining how to use it.</description>
+    </item>
+    
+    <item>
+      <title>Ai to Canvas Plug-In</title>
+      <link>http://konigi.com/links/ai-canvas-plug/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ai-canvas-plug/</guid>
+      <description>The Ai-&amp;gt;Canvas plug-in enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.
+http://visitmix.com/labs/ai2canvas/</description>
+    </item>
+    
+    <item>
+      <title>When can I use... HTML5, CSS3, etc.</title>
+      <link>http://konigi.com/links/when-can-i-use-html5-css3-etc/</link>
+      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-html5-css3-etc/</guid>
+      <description>Can I Use provides compatibility tables for features in HTML5, CSS3, SVG and other upcoming web technologies.
+http://caniuse.com/</description>
+    </item>
+    
+  </channel>
+</rss>

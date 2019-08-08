@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+
+{{ partial "hero.html" . }}
+
+{{/* CONTENT */}}
+<section class="section article">
+  <div class="container">
+
+    <div class="columns">
+      <div class="column is-four-fifths">
+        <article>
+          <section class="article-body content">{{ .Content }}</section>
+          <section class="metadata single bottom">
+            <div class="pub-date">Published on {{ .Date.Format "Monday, Jan 2, 2006" }} in <a href="/{{ .Section }}" class="capitalize">{{ .Section }}</a></div>
+            <ul class="tags">
+            {{ range .Params.tags }}
+              <li>
+                <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+              </li>
+            {{ end }}
+            </ul>
+          </section>
+        </article>
+      </div>{{/* /column */}}
+      <div class="column is-one-fifth">
+        {{ partial "ad_primary.html" . }}
+      </div>{{/* /column */}}
+    </div>{{/* /columns */}}
+
+    {{/* Next/Prev Nav */}}
+    {{ if or .PrevInSection .NextInSection }}
+    {{/* this div holds these a tags as a unit for flex-box display */}}
+      <hr>
+      <div class="pagination">
+        {{if .PrevInSection}}
+          <a href="{{ .PrevInSection.Permalink }}" title="{{ .PrevInSection.Title }}">
+          &lt; {{ .PrevInSection.Title }}
+          </a>
+        {{end}}
+
+        {{if .NextInSection}}
+          <a href="{{.NextInSection.Permalink }}" title="{{ .NextInSection.Title }} ">
+          {{ .NextInSection.Title }} &gt;
+          </a>
+        {{end}}
+
+    	</div>
+    {{ end }}
+
+  </div>
+</section>
+{{/* END CONTENT */}}
+
+{{ partial "footer.html" . }}

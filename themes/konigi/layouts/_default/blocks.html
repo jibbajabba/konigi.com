@@ -1,0 +1,16 @@
+{{/* BLOCKS ON HOME PAGE - USES BULMA TILES */}}
+<article class="tile is-child ">
+  <div class="entry">
+    <a href="{{ .Permalink }}">
+      <div class="entryinner" style="background-image: url('{{ if .Params.featuredimg }}{{ .Params.featuredimg }}{{ end }}')"></div>
+      <div class="category">
+        {{ .Section }}
+      </div>
+      <div class="meta">
+        <hr/>
+        <h2 class="title">{{ .Title }}</h2>
+        <p class="summary">{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}</p>
+      </div>
+    </a>
+  </div>
+</article>

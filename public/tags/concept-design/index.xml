@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concept Design on Konigi</title>
+    <link>http://konigi.com/tags/concept-design/</link>
+    <description>Recent content in Concept Design on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/concept-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mozilla Labs Design Challenge: Reinventing Tabs in the Browser</title>
+      <link>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</link>
+      <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
+      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &amp;ldquo;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&amp;rdquo; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
+http://design-challenge.mozilla.com/summer09/showcase.php</description>
+    </item>
+    
+    <item>
+      <title>Communicating Concepts</title>
+      <link>http://konigi.com/blog/communicating-concepts/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/communicating-concepts/</guid>
+      <description>Victor writes about some of the less obvious points when it comes to presenting and communicating concept designs.
+When I see concepts that are received well, the concept itself can usually only take a portion of the credit. Just as important is how the concept is communicated. Some of this is common knowledge: make it look good, choose the right level of fidelity, show it in context. Others are maybe not so obvious…</description>
+    </item>
+    
+    <item>
+      <title>Shades of Gray: Wireframes as Thinking Device</title>
+      <link>http://konigi.com/blog/shades-gray-wireframes-thinking-device/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/shades-gray-wireframes-thinking-device/</guid>
+      <description>Will Evans discusses how he uses wireframes in his design process. The story is one you&amp;rsquo;ve probably heard before. It&amp;rsquo;s a description of concept design, using wireframes as the tool for finding the right design. One could use sketching just as well. He&amp;rsquo;s talking about that path we take as designers to frame the problem for discussion, extrapolate solutions from that discussion, and generate possible solution concepts. He calls his process one of divergence, transformation, and covergence.</description>
+    </item>
+    
+    <item>
+      <title>How do you design? Ebook</title>
+      <link>http://konigi.com/blog/how-do-you-design-ebook/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/how-do-you-design-ebook/</guid>
+      <description>Hugh Dubberly has released a free E Book on design and development models.
+In this book, I have collected over one-hundred descriptions of design and development processes, from architecture, industrial design, mechanical engineering, quality management, and software development. They range from short mnemonic devices, such as the 4Ds (deﬁne, design, develop, deploy), to elaborate schemes, such as Archer’s 9-phase, 229-step “systematic method for designers.” Some are synonyms for the same process; others represent differing approaches to design.</description>
+    </item>
+    
+    <item>
+      <title>Working through Screens Book</title>
+      <link>http://konigi.com/blog/working-through-screens-book/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/working-through-screens-book/</guid>
+      <description>Flashbulb Interactions&amp;rsquo;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
+    </item>
+    
+    <item>
+      <title>Concept Design Tools</title>
+      <link>http://konigi.com/blog/concept-design-tools/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/concept-design-tools/</guid>
+      <description>Victor Lombardi discusses concept design in Digital Web Magazine, pointing out that digital designers should take some inspiration from design processes for ideation and concept generation from the fields of architecture and industrial design. I think the main idea is to learn from the practices and methods from these fields, and use that as inspiration for what might be useful in your concept design practice. That is not to say that every project needs to result in a dozen concepts that need to be prototyped at high fidelity and therefore at significant cost.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boxes on Konigi</title>
+    <link>http://konigi.com/tags/boxes/</link>
+    <description>Recent content in Boxes on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/boxes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>darrenalawi.com</title>
+      <link>http://konigi.com/designs/submissions/darrenalawicom/</link>
+      <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/darrenalawicom/</guid>
+      <description>Different approach to a blog &amp;amp; portfolio design, built on Wordpress.
+http://www.darrenalawi.com</description>
+    </item>
+    
+  </channel>
+</rss>

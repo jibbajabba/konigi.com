@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping on Konigi</title>
+    <link>http://konigi.com/tags/prototyping/</link>
+    <description>Recent content in Prototyping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2015 11:17:22 -0800</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skillshare Course on Rapid Wireframing</title>
+      <link>http://konigi.com/blog/skillshare-rapid-wireframing-course/</link>
+      <pubDate>Tue, 10 Nov 2015 11:17:22 -0800</pubDate>
+      
+      <guid>http://konigi.com/blog/skillshare-rapid-wireframing-course/</guid>
+      <description>I published a free course for Balsamiq users on Skillshare. The course, Rapid Wireframing: Finding the Right Product Design, is designed for those new to Balsamiq, but also features some demonstration of new features like Quick Draw (using the mouse to block out wireframe zones) and Alternates (creating alternate versions of screens). If you&amp;rsquo;re a veteran user, you may be interested in checking that out, and updating to the latest version to take advantage of these useful new ways of working on projects.</description>
+    </item>
+    
+    <item>
+      <title>Principle for Mac: Animation and Prototyping</title>
+      <link>http://konigi.com/links/principle-mac/</link>
+      <pubDate>Fri, 28 Aug 2015 10:31:39 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/principle-mac/</guid>
+      <description>Principle for Mac ($99) is a tool for designing animation, primarily for mobile devices. It provides an easy to use interface for prototyping interaction, transitions, or other animated elements in your interface.
+You can design with text, rectangles (which can modified with border radius to make circles), or graphics created with other tools, and then hook up animations for actions like taps, scrolling, and drag, and use the drivers UI to connect those actions to drive other properties.</description>
+    </item>
+    
+    <item>
+      <title>Roots Static Site Builder</title>
+      <link>http://konigi.com/links/roots/</link>
+      <pubDate>Tue, 25 Aug 2015 15:15:25 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/roots/</guid>
+      <description>Roots is an open source static site compiler that can help take some of the work out of setting up your own build tasks using taskrunners like gulp or grunt. It runs in your terminal and requires minimal setup.</description>
+    </item>
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</guid>
+      <description>AniJS is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. A simple example contains IF, ON, DO, and TO pairs and would look like this: &amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;</description>
+    </item>
+    
+    <item>
+      <title>uilang</title>
+      <link>http://konigi.com/links/uilang/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uilang/</guid>
+      <description>uilang is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt; You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things.</description>
+    </item>
+    
+    <item>
+      <title>Cloudwash: Washing machine prototype by Berg</title>
+      <link>http://konigi.com/blog/cloudwash-washing-machine-prototype-berg/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/cloudwash-washing-machine-prototype-berg/</guid>
+      <description>I love Berg&amp;rsquo;s demo of their Cloudwash smart washing machine concept. The company created the prototype to demonstrate how a smart networked appliance might be better designed. The video provides an excellent walkthrough of their design process.
+They simplify the face, which consisted of many controls for dedicated functions, reducing that to &amp;ldquo;high value functions&amp;rdquo; only. More functionality is accessible via a smart phone app, which also integrates the device with services such as warranty and supplies management and purchasing.</description>
+    </item>
+    
+    <item>
+      <title>Origami: Design prototyping with Quartz Composer</title>
+      <link>http://konigi.com/links/origami-design-prototyping-quartz-composer/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/origami-design-prototyping-quartz-composer/</guid>
+      <description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that&amp;rsquo;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&amp;rsquo;s UI allows you connect patches with wires (or tubes, if you&amp;rsquo;re familiar with that metaphor) to perform tasks or set behaviors and properties.
+Jay Thrash&amp;rsquo;s video explains how to use it.</description>
+    </item>
+    
+    <item>
+      <title>Precomposed Touch Gestures</title>
+      <link>http://konigi.com/links/precomposed-touch-gestures/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/precomposed-touch-gestures/</guid>
+      <description>Aureus Wade&amp;rsquo;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.
+http://areuswade.com/precomposed-touch-gestures/</description>
+    </item>
+    
+    <item>
+      <title>Protosketch</title>
+      <link>http://konigi.com/links/protosketch/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/protosketch/</guid>
+      <description>Protosketch is a new free app for iOS from UI Stencils to convert sketches to interactive prototypes. The app is made to work with their sketch pads and stencils. Sketch your screens, add them to the app, define hot areas for links, select link destinations, and prototype.
+https://protosketch.uistencils.com</description>
+    </item>
+    
+    <item>
+      <title>Mixture</title>
+      <link>http://konigi.com/links/mixture/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mixture/</guid>
+      <description>Mixture is a rapid prototyping and static site generation tool for Mac and Windows. It works with the Liquid templating system, supports includes and smart paths, handles HAML and SASS comilation, CSS and JS minification, and provides a simple model system for global and custom data, and supports access to form and query data in their request model. It can produce static HTML that you can push to a hosting service, and allows use of your own domain.</description>
+    </item>
+    
+    <item>
+      <title>Hammer for Mac</title>
+      <link>http://konigi.com/links/hammer-mac/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/hammer-mac/</guid>
+      <description>Hammer is a static web site builder for the Mac that lets you build out sites quickly with no server side requirements.
+Hammer does includes without PHP, compiles Coffeescript to JS, SASS/SCSS to CSS, has an auto-refresh feature for never having to reload the browser, and provides some simple to use helpers. Since it knows about all of the files in your projects, you just reference names and it knows how to build out paths.</description>
+    </item>
+    
+    <item>
+      <title>Redacted Font</title>
+      <link>http://konigi.com/links/redacted-font/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/redacted-font/</guid>
+      <description>Christian Naths&amp;rsquo; Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&amp;rsquo;t end up wider than your normal font setting.
+Git it for free.
+https://github.com/christiannaths/Redacted-Font/blob/master/README.md</description>
+    </item>
+    
+    <item>
+      <title>Tapotype Transition Library</title>
+      <link>http://konigi.com/links/tapotype-transition-library/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/tapotype-transition-library/</guid>
+      <description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
+http://tapotype.com/</description>
+    </item>
+    
+    <item>
+      <title>Text Snippets</title>
+      <link>http://konigi.com/blog/text-snippets/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/text-snippets/</guid>
+      <description>About This is a work in progress. I&#39;m copying over my commonly used text snippets and wireframes as I go.
+People&#39;s Names, Sorted 10, First Name  Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   10, Last Name  Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun   Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun    20, First Name  Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   20, Last Name  Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun   Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun</description>
+    </item>
+    
+    <item>
+      <title>Text Snippets</title>
+      <link>http://konigi.com/tools/text-snippets/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/tools/text-snippets/</guid>
+      <description>About This is a work in progress. I&#39;m copying over my commonly used text snippets and wireframes as I go.
+People&#39;s Names, Sorted 10, First Name  Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   10, Last Name  Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun   Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun   20, First Name  Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   20, Last Name  Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun   Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun   Wireframe Symbols  Download Balsamiq BMML file</description>
+    </item>
+    
+    <item>
+      <title>protomoto: Prototyping and Wireframing Tool Finder</title>
+      <link>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</link>
+      <pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid>
+      <description>protomoto is an excellent showcase of prototyping or wireframing tools created to helps designers find a tool that&amp;rsquo;s suited to the specific devices or platforms they are designing for. The site, developed by Paper &amp;amp; Equator, will be adding more filters in the future as they continue to evolve the resource, so that you can browse the tools based on features. Very cool.
+Check out protomoto.
+http://protomoto.com/</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap Fireworks</title>
+      <link>http://konigi.com/links/bootstrap-fireworks/</link>
+      <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/bootstrap-fireworks/</guid>
+      <description>Bootstrap Fireworks a UI Toolkit created Grady Kelly for Twitter Bootstrap, the HTML/CSS/JS framework. The entire UI recreated as vector images for Adobe Fireworks. (Fw PNG)
+http://www.extendingfireworks.com/?p=133</description>
+    </item>
+    
+    <item>
+      <title>Speed Wireframing a Click-Through Prototype Using Symbols in Mockups</title>
+      <link>http://konigi.com/blog/speed-wireframing-click-through-prototype-using-symbols-mockups/</link>
+      <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/speed-wireframing-click-through-prototype-using-symbols-mockups/</guid>
+      <description>Click the full screen icon, it&amp;rsquo;s much better that way. Headphones warning: rowdy party music ahead.
+I rarely do click-through prototypes, but if I have to, then I use Symbols and links in Mockups to make it painless. This is a speed-wireframing video I whipped up to demonstrate to customers in a few minutes what the experience of wireframing with Symbols is like.
+http://youtu.be/_8IyyvECYrg?hd=1</description>
+    </item>
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://konigi.com/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/have-nice-day/</guid>
+      <description>Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
+Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
+I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with.</description>
+    </item>
+    
+    <item>
+      <title>Travis Isaacs Demonstrates the Keynote Wireframe Toolkit</title>
+      <link>http://konigi.com/blog/travis-isaacs-demonstrates-keynote-wireframe-toolkit/</link>
+      <pubDate>Wed, 04 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/travis-isaacs-demonstrates-keynote-wireframe-toolkit/</guid>
+      <description>If you&#39;re curious about Keynote prototyping, Travis Isaacs&#39; describes how he works with the presentation software to produce click-through prototypes. As Travis notes, it&#39;s even useful to people who like to go between a low-fidelity wireframe created in another application to interactive demonstrations.
+Keynote Kung-Fu: How to wireframe like a ninja
+  You can purchase Travis&#39; Keynote Wireframe Toolkit here on Konigi.
+http://konigi.com/store/product/keynote-wireframe-toolkit</description>
+    </item>
+    
+    <item>
+      <title>quplo: HTML Prototyping</title>
+      <link>http://konigi.com/links/quplo-html-prototyping/</link>
+      <pubDate>Thu, 22 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/quplo-html-prototyping/</guid>
+      <description>Quplo may be the most promising HTML prototyping tools I&amp;rsquo;ve seen for UX designers who know a little HTML and would like to do HTML prototyping, but either don&amp;rsquo;t have the chops to build the interaction by hand, or are lazy like me.
+The web-based tool allows you to build multiple prototypes using a combination of standard HTML/CSS. If you can do JS, the standard JS libraries are available to include in your pages (or sheets in Quplo lingo).</description>
+    </item>
+    
+    <item>
+      <title>DataTables (table plug-in for jQuery)</title>
+      <link>http://konigi.com/links/datatables-table-plug-jquery/</link>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/datatables-table-plug-jquery/</guid>
+      <description>DataTables is a plug-in for the jQuery Javascript library. It is flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table. Key features:
+  Variable length pagination  On-the-fly filtering  Multi-column sorting with data type detection  Smart handling of column widths  Display data from almost any data source  DOM, Javascript array, Ajax file and server-side processing (PHP, C#, Perl, Ruby, AIR, Gears etc)  Fully internationalisable  jQuery UI ThemeRoller support  Wide variety of plug-ins inc.</description>
+    </item>
+    
+    <item>
+      <title>Dapp: The App Design App</title>
+      <link>http://konigi.com/links/dapp-app-design-app/</link>
+      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/dapp-app-design-app/</guid>
+      <description>Dapp is an Apple UI Standards professional rapid application development tool that runs in the iPhone. It lets you design iPhone app prototypes, publish a spec to PDF, and generate iPhone SDK code.
+http://dapp.kerofrog.com.au/</description>
+    </item>
+    
+    <item>
+      <title>LiveView for iPhone &amp; iPad</title>
+      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
+      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
+      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
+    </item>
+    
+    <item>
+      <title>Axure Better Defaults Library v2</title>
+      <link>http://konigi.com/blog/axure-better-defaults-library-v2/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/axure-better-defaults-library-v2/</guid>
+      <description>If I were an Axure user, this is what I would be using. Version 2 of Loren Baxter&amp;rsquo;s of the Better Defaults library has been expanded to sixty five (or so) interactive and cleanly styled widgets. Use it in place of the standard widget set.
+http://www.acleandesign.com/2010/04/axure-better-defaults-library-v2/</description>
+    </item>
+    
+    <item>
+      <title>All the Right Way to Wireframe Videos</title>
+      <link>http://konigi.com/blog/all-right-way-wireframe-videos/</link>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid>
+      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&amp;rsquo; approaches. The right way? There isn&amp;rsquo;t one right way. That&amp;rsquo;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
+   Todd Zaki Warfel
+
+ Russ Unger
+ Fred Beecher</description>
+    </item>
+    
+    <item>
+      <title>Designing OmniGraphSketcher for the iPad </title>
+      <link>http://konigi.com/blog/designing-omnigraphsketcher-ipad/</link>
+      <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-omnigraphsketcher-ipad/</guid>
+      <description>The Omni Group posted some photos and a little story about their progress working on prototypes for the OmniGraphSketcher for the iPad. The app is a simple graph drawing and data plotting tool that they&amp;rsquo;re creating an iPad version of. Apparently no one at Omni Group is sleeping much while their iPad apps are being developed, but they are doing some interesting things with hardware prototypes, including mocking up the hardware with 3d printers.</description>
+    </item>
+    
+    <item>
+      <title>iPad Stencil for Omnigraffle</title>
+      <link>http://konigi.com/links/ipad-stencil-omnigraffle/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ipad-stencil-omnigraffle/</guid>
+      <description>iA have created an iPad stencil for OmniGraffle. Contains backgrounds, title bars, buttons, selectors, and other iPhone UI elements. Based the iPad PSD GUI by Teehan+Lax. Text is fully editable on lists, title bars, buttons, and scroll wheels
+Download and read more at iA
+http://informationarchitects.jp/ipad-stencil-for-omnigraffle/</description>
+    </item>
+    
+    <item>
+      <title>iPhoneOS Design Stencil for iPhone and iPad</title>
+      <link>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</guid>
+      <description>An iPhone OS OmniGraffle stencil for designing applications for iPhone, iPod touch and iPad devices. The stencil, for now, is targeted at developers familiar with the default characteristics of views and controls provided by UIKit. The stencil shapes are all vector based. The initial focus is on views and controls provided by UIKit and recommended application styles as discussed in the iPhone and iPad Human Interface Guidelines.
+http://www.morford.org/iphoneosdesignstencil/</description>
+    </item>
+    
+    <item>
+      <title>Napkee supports 100% of Mockups controls and adds extended export options</title>
+      <link>http://konigi.com/blog/napkee-supports-100-mockups-controls-and-adds-extended-export-options/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/napkee-supports-100-mockups-controls-and-adds-extended-export-options/</guid>
+      <description>Napkee gets an update with iPhone controls and now covers 100% of what you find in Balsamiq Mockups. What I&amp;rsquo;m most excited about are the export settings. Under the HTML settings you can now define a title for your exported files, a new name for the Icons folder and you can specify an external CSS file that will be included in each export. More info on the release here.
+http://www.napkee.com/blog/2010/01/100percent/</description>
+    </item>
+    
+    <item>
+      <title>ForeUI 2.0 Released</title>
+      <link>http://konigi.com/blog/foreui-20-released/</link>
+      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/foreui-20-released/</guid>
+      <description>ForeUI have announced a 2.0 release that includes community features for sharing UI components and importing into your library, new element panel management that lets you categorize elements and choose which to display, a powerful tree-based page management window, global properties/variables that can be retrieved by scripted expressions, and custom events that can be triggered from scripted expressions. Sophisticated stuff.
+Disclosure: ForeUI are sponsors of Konigi
+http://www.foreui.com/blog/?p=658</description>
+    </item>
+    
+    <item>
+      <title>Brosho - Design CSS in the browser</title>
+      <link>http://konigi.com/links/brosho-design-css-browser/</link>
+      <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/brosho-design-css-browser/</guid>
+      <description>This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.
+The CSS generated by your edits can then be generated and copy-pasted into your stylesheet file for minor edits.</description>
+    </item>
+    
+    <item>
+      <title>LiveView for iPhone</title>
+      <link>http://konigi.com/links/liveview-iphone/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/liveview-iphone/</guid>
+      <description>LiveView is great little freebie for UI design &amp;amp; prototyping on iPhone. Essentially it sends a 320x480 viewport from your Mac to your iPhone, so is useful for creating quick and dirty simulations, demos, and user experience prototypes.
+http://www.zambetti.com/projects/liveview/</description>
+    </item>
+    
+    <item>
+      <title>10 Beautiful Sketches for Website Prototypes</title>
+      <link>http://konigi.com/blog/10-beautiful-sketches-website-prototypes/</link>
+      <pubDate>Tue, 29 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-beautiful-sketches-website-prototypes/</guid>
+      <description>woorkup.com has collected a set of beautifully executed sketches for prototypes.
+http://woorkup.com/2009/12/28/10-beautiful-sketches-for-website-prototypes/</description>
+    </item>
+    
+    <item>
+      <title>Axure RP Pro Mac Alpha</title>
+      <link>http://konigi.com/blog/axure-rp-pro-mac-alpha/</link>
+      <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/axure-rp-pro-mac-alpha/</guid>
+      <description>The Axure RP Pro 5.6 for Mac Alpha is now available for download. You can follow progress and find information on licensing at www.axureformac.com. The alpha version expires February 28, 2010. A valid alpha/beta will be available until the final release of 5.6 for Mac so your work will not be interrupted.
+http://www.axure.com/downloadbeta.aspx</description>
+    </item>
+    
+    <item>
+      <title>Easy front-end framework</title>
+      <link>http://konigi.com/links/easy-front-end-framework/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/easy-front-end-framework/</guid>
+      <description>Easy Framework is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.
+http://easyframework.com/</description>
+    </item>
+    
+    <item>
+      <title>StaticMatic: Static HTML building framework</title>
+      <link>http://konigi.com/links/staticmatic-static-html-building-framework/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/staticmatic-static-html-building-framework/</guid>
+      <description>StaticMatic is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.
+Via Jérôme Gravel-Niquet on the htmlprototyping group
+http://staticmatic.rubyforge.org/</description>
+    </item>
+    
+    <item>
+      <title>HTML Prototyping Discussion Group</title>
+      <link>http://konigi.com/blog/html-prototyping-discussion-group/</link>
+      <pubDate>Tue, 15 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/html-prototyping-discussion-group/</guid>
+      <description>As you may know, I&#39;ve been working on an html prototyping toolkit that&#39;s in its infancy, and available to play with in pre-release form here on Konigi. What you also may know is that I hope to put the code in a repository so that people can contribute UI component markup/css/js to it, but what I&#39;ve got is not mature enough yet.
+A few people have already started sharing their ideas and tips with me and I&#39;ve felt like it&#39;s kind of a waste to have some of these discussions happen offline, so I want to step out and start these discussions in a wider venue.</description>
+    </item>
+    
+    <item>
+      <title>Balsamiq Exports Multi-Canvas Mockups to Single PDF</title>
+      <link>http://konigi.com/blog/balsamiq-exports-multi-canvas-mockups-single-pdf/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/balsamiq-exports-multi-canvas-mockups-single-pdf/</guid>
+      <description>Balsamiq announced that Mockups now supports export of multiple canvases to a single PDF that includes links. This means that your multi-canvas mockups can now be used as click through prototypes in Acrobat. Download the demo PDF file for a test drive.
+http://www.balsamiq.com/blog/2009/11/13/weekly-release-export-to-pdf-a-fresh-coat-of-paint/</description>
+    </item>
+    
+    <item>
+      <title>Protokit [Archived]</title>
+      <link>http://konigi.com/tools/protokit/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/tools/protokit/</guid>
+      <description>NOTE: Protokit is no longer being developed, but is still available for you to poke fun at.
+Protokit was an experimental project to develop a toolkit for creating HTML prototypes. It uses the following open source libraries and plugins: Blueprint, jQuery, jQuery UI, jQuery Templates, and iXEdit. More information about the included libraries and their licensing agreements can be found in theREADME file.
+Version 0.1 was the preliminary version and is very rough.</description>
+    </item>
+    
+    <item>
+      <title>ixEdit: Visual Tool for Prototyping with jQuery</title>
+      <link>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</link>
+      <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</guid>
+      <description>ixEdit is a JavaScript-based interaction design tool for the web. With IxEdit, designers can practice DOM-scripting without coding to change, add, move, or transform elements dynamically on your web pages. It&amp;rsquo;s specifically designed for HTML prototyping and allows designers to build interactive interfaces directly in the browser, and provides the code to copy and paste into the HTML page. Works with Firefox, Safari, Chrome, or IE. Watch the video below to see how it works.</description>
+    </item>
+    
+    <item>
+      <title>Mockingbird</title>
+      <link>http://konigi.com/links/mockingbird/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mockingbird/</guid>
+      <description>Mockingbird is a web-based service for quickly creating multi-page, click through wireframes or prototypes using a library of UI components. It&amp;rsquo;s written on the Cappuccino web framework, so the prototypes don&amp;rsquo;t require Flash.
+http://gomockingbird.com/</description>
+    </item>
+    
+    <item>
+      <title>Protoscript: Prototype Scripting Library</title>
+      <link>http://konigi.com/links/protoscript-prototype-scripting-library/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/protoscript-prototype-scripting-library/</guid>
+      <description>Protoscript is a prototype scripting library utilizing both jQuery and YUI behaviors to add interactivity to HTML elements. By combining different behaviors with different elements and events you can create complex interactions without writing JavaScript.
+Via @egregilon
+http://protoscript.com</description>
+    </item>
+    
+    <item>
+      <title>The Process Toolbox, part eight: Prototyping</title>
+      <link>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</link>
+      <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</guid>
+      <description>Simon Collison writes about the different forms of prototyping in ErskineLabs&amp;rsquo; Process Toolbox, describing the benefits of paper, wireframe, and browser prototypes.
+As much as all parties may talk about requirements and argue over features, often they won’t really “get it” until they can see the concept represented visually, and understand its exact behaviour. This brings us on to various methods of prototyping. 
+Found via I ♥ wireframes. Read more at Erskine Labs.</description>
+    </item>
+    
+    <item>
+      <title>Sketchy Axure Widget Library</title>
+      <link>http://konigi.com/links/sketchy-axure-widget-library/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sketchy-axure-widget-library/</guid>
+      <description>Ascentium have posted a library of sketch-style wireframe stencils/widgets. You can view more information and download the stencils from their blog and view a functional prototype of the widgets.
+http://xrm.ascentium.com/blog/ux-seo/Post222.aspx</description>
+    </item>
+    
+    <item>
+      <title>SpoolCast with Todd Zaki Warfel: Prototyping Experiences</title>
+      <link>http://konigi.com/blog/spoolcast-todd-zaki-warfel-prototyping-experiences/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/spoolcast-todd-zaki-warfel-prototyping-experiences/</guid>
+      <description>Jared Spool talks with Todd Zaki Warfel about his forthcoming Prototyping book to be published by Rosenfeld Media, and got him to talk about his 2 years of research while working on the book.
+Todd&amp;rsquo;s firm, Message First, utilizes prototypes as a core element of the design process and has been giving a series of presentations and workshops recently to describe his research into the different prototyping practices of UX pros, and talk about the utility of the prototype.</description>
+    </item>
+    
+    <item>
+      <title>Jane Austin &amp; Chris Neale on Sketch Prototypes</title>
+      <link>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jane-austin-chris-neale-sketch-prototypes/</guid>
+      <description>The paper prototype is generally used as a design tool and even usability testing tool, but the folks at IG Index have figured out a creative way to use sketches and paper prototypes as a communication tool in place of wireframes for demonstrating interaction to development teams. Martin Belam posted video from UX London 09 of Jane Austin, Chris Neale and Frances Eida discussing this simple method of taking wireframe/storyboard sketches or paper prototypes, and creating stop-motion animation to demonstrate interface.</description>
+    </item>
+    
+    <item>
+      <title>Rapid Prototyping Tools Revisited</title>
+      <link>http://konigi.com/blog/rapid-prototyping-tools-revisited/</link>
+      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/rapid-prototyping-tools-revisited/</guid>
+      <description>Dan Harrelson at adaptive path posts his updated list of prototyping tools. You can view the Google Doc directly here.
+Via @andrewkorf
+http://www.adaptivepath.com/blog/2009/09/16/rapid-prototyping-tools-revisited/</description>
+    </item>
+    
+    <item>
+      <title>ForeUI: Create Skinnable &amp; Interactive Prototype</title>
+      <link>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</guid>
+      <description>ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and
+clickable UI prototype for your website or software, and run the interactive
+simulation in your web browser.
+ForeUI provides a set of predefined elements for creating mockup, you can drag
+them into the editing area and tweak them. You can also create your own elements
+and libraries.
+ForeUI makes prototype skinnable, by changing the UI theme, all elements in</description>
+    </item>
+    
+    <item>
+      <title>App Sketchbook: iPhone App Sketchbook</title>
+      <link>http://konigi.com/links/app-sketchbook-iphone-app-sketchbook/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/app-sketchbook-iphone-app-sketchbook/</guid>
+      <description>This is sweet. A sketchbook made for iPhone app design. Features three actual-size iPhone templates per page, pixel (20px) ruler and title bar markings, ruled section for app development notes, and 600 screens (100 double-sided pages).
+http://appsketchbook.com/</description>
+    </item>
+    
+    <item>
+      <title>Napkee: Create Prototypes from Balsamiq Mockups</title>
+      <link>http://konigi.com/links/napkee-create-prototypes-balsamiq-mockups/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/napkee-create-prototypes-balsamiq-mockups/</guid>
+      <description>Napkee is a very exciting tool that extends the quick and easy wireframing process in Balsamiq Mockups by importing your Balsamiq files and generating interactive prototypes in Flex or HTML version.
+To start off, you build your series of wireframes in Mockups, optionally creating links between pages. The screenshot below shows a wireframe of a fictional news site I created to try it out. I mocked up a site home page, and a login screen for my test.</description>
+    </item>
+    
+    <item>
+      <title>Fireworks Script for iPhone App Prototypes</title>
+      <link>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</link>
+      <pubDate>Wed, 05 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</guid>
+      <description>The iPhone extension helps create a mockup of an iPhone application in Fireworks. It automatically adds the iPhone wrapper when you preview the mockup, or package it for distribution as an AIR application. The slide-in, slide-out effects that are charecteristic of iPhone can be generated using this extension.Updated resolution to 480X320.
+http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&amp;extid=1786031</description>
+    </item>
+    
+    <item>
+      <title>That design is money! Pentagram redesigns an ATM UI</title>
+      <link>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</link>
+      <pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</guid>
+      <description>Holger Struppek has written an article describing the design and prototyping process for the redesign of the Wells Fargo ATM user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.
+The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design.</description>
+    </item>
+    
+    <item>
+      <title>OverSite: Wireframe Software</title>
+      <link>http://konigi.com/links/oversite-wireframe-software/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/oversite-wireframe-software/</guid>
+      <description>OverSite is a cross-platform application for wireframing and prototyping. It uses a drag and drop interface and can build HTL prototypes from your linked pages.
+The app lets you define the hierarchy of your website or application, create sections and subsections, fill them with pages and screens, and rearrange your structure using a drag-and-drop interface. The app automatically generates a site map, and any changes you make to your structure will instantly be reflected.</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Prototyping Book Site</title>
+      <link>http://konigi.com/blog/dynamic-prototyping-book-site/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dynamic-prototyping-book-site/</guid>
+      <description>Dynamic Prototyping with SketchFlow in Expression Blend is a book coming out in late 2009 through Que Publishing and is being written by Chris Bernard and Sara Summers. It will teach you everything you need to know to create rich and dynamic prototypes using SketchFlow in Expression Blend. The book site includes updates about the progress on the book and a preview chapter and the associated projects that go along with it.</description>
+    </item>
+    
+    <item>
+      <title>Konigi DIY Wireframe Magnets</title>
+      <link>http://konigi.com/blog/konigi-diy-wireframe-magnets/</link>
+      <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/konigi-diy-wireframe-magnets/</guid>
+      <description>The Konigi DIY Wireframe Magnet Kit is based on the wireframe stencils and includes 3 sheets of elements that might be useful in whiteboard prototyping. Simply download and print the PDFs onto magnet sheets. They were designed and tested for use with Avery 3270 Printable Magnet Sheets for Inkjet Printers. Lamination is also recommended so they&amp;rsquo;re usable with dry-erase markers. Enjoy!
+http://konigi.com/tools/wireframe-magnets-diy-kit</description>
+    </item>
+    
+    <item>
+      <title>Playing with DIY UI Magnets</title>
+      <link>http://konigi.com/blog/playing-diy-ui-magnets/</link>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/playing-diy-ui-magnets/</guid>
+      <description>I&amp;rsquo;m experimenting with making magnets of some of the elements of the Wireframe Stencil to use for prototyping. Was an interesting experiment printing and cutting these. Next time I think I&amp;rsquo;ll have to laminate the sheet first, and then cut. The lamination might make it possible to write on them with dry erase marker. If you write directly on the magnet sheets the ink will stay permanently I&amp;rsquo;d think. The surface seems kind of porous and a little textured.</description>
+    </item>
+    
+    <item>
+      <title>Axure for Mac</title>
+      <link>http://konigi.com/blog/axure-mac/</link>
+      <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/axure-mac/</guid>
+      <description>Axure started a blog to discuss progress on the MAxure, a Mac version of Axure RP. Nice.
+http://www.axureformac.com/</description>
+    </item>
+    
+    <item>
+      <title>Adobe Flash Catalyst Beta Available for Download</title>
+      <link>http://konigi.com/blog/adobe-flash-catalyst-beta-available-download/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/adobe-flash-catalyst-beta-available-download/</guid>
+      <description>The Flash Catalyst Beta is available to download.
+http://labs.adobe.com/technologies/flashcatalyst/?sdid=EQIFS</description>
+    </item>
+    
+    <item>
+      <title>FlairBuilder: Interactive Wireframes and Software Prototypes</title>
+      <link>http://konigi.com/links/flairbuilder-interactive-wireframes-and-software-prototypes/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/flairbuilder-interactive-wireframes-and-software-prototypes/</guid>
+      <description>FlairBuilder is a cross-platform tool for rapid authoring of interactive wireframes and software prototypes. It focuses purely on wireframing/prototyping, and provides an experience that looks like it&#39;s targeted at apps like Axure, but work will cross-platform because it&#39;s built on Adobe AIR.
+ The application provides a page/canvas editor onto which you may drag and drop UI components. Selecting a component provides a properties inspector so that may set dimensions and stylistic properties, text values, and any other available UI options.</description>
+    </item>
+    
+    <item>
+      <title>zef[a]media UX Templates</title>
+      <link>http://konigi.com/links/zefamedia-ux-templates/</link>
+      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/zefamedia-ux-templates/</guid>
+      <description>zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
+http://www.zefamedia.com/websites/free-ux-templates/</description>
+    </item>
+    
+    <item>
+      <title>Justinmind Prototyper</title>
+      <link>http://konigi.com/blog/justinmind-prototyper/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/justinmind-prototyper/</guid>
+      <description>Justinmind Prototyper is a tool to design wireframes and run simulations for web, desktop and mobile applications. The product looks similar to Axure, and lets you define user interface elements using a drag and drop environment with component libraries, and attach actions to components. The prototypes allow you to map interactive behaviors to elements, define process logic and flow, and add functional specifications and annotations. Looks very full featured and offers the possibility of running a web server to deploy multiple prototypes that are viewable in a browser and allow users to comment on designs.</description>
+    </item>
+    
+    <item>
+      <title>iPhone Mockup</title>
+      <link>http://konigi.com/blog/iphone-mockup/</link>
+      <pubDate>Fri, 03 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/iphone-mockup/</guid>
+      <description>iPhone Mockup looks like a cool proof of concept for a sketchy mockup app for iPhone. It&amp;rsquo;s a bit like Balsamiq in spirit, but is done completely with JQuery. Firefox and Safari are the target browsers, and there is no option for doing secure mockups. Whatever you do will be visible to the world, so don&amp;rsquo;t plan on using it for anything other than playing. Nice concept though. Thanks, Andrew.</description>
+    </item>
+    
+    <item>
+      <title>TechCrunch Tablet Prototype</title>
+      <link>http://konigi.com/blog/techcrunch-tablet-prototype/</link>
+      <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/techcrunch-tablet-prototype/</guid>
+      <description>TechCrunch shows off their second prototype, following Michael Arrington and company&amp;rsquo;s challenge to come up with a $200 touch screen netbook tablet. Looks like the price would be closer to $300, but they&amp;rsquo;re well on their way to proving the concept. http://www.techcrunch.com/2009/01/19/techcrunch-tablet-update-prototype-b/</description>
+    </item>
+    
+    <item>
+      <title>Mocklinkr Prototyping and Review Tool</title>
+      <link>http://konigi.com/links/mocklinkr-prototyping-and-review-tool/</link>
+      <pubDate>Fri, 19 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mocklinkr-prototyping-and-review-tool/</guid>
+      <description>Mocklinkr is another new design mockup review service to hit the web. This one adds a little twist, however, that might be pretty useful. After you upload images of your designs or wireframes, Mocklinkr let&amp;rsquo;s you create clickable sections on the image linking to another image. This let&amp;rsquo;s you do very simple click-through prototypes to change state and navigate between pages. In a way, this seems a bit like the Berkeley GUIR Denim tool, which is sadly no longer available at the GUIR site.</description>
+    </item>
+    
+    <item>
+      <title>Software Tool Design: Design by Sketching</title>
+      <link>http://konigi.com/blog/software-tool-design-design-sketching/</link>
+      <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/software-tool-design-design-sketching/</guid>
+      <description>The second part of Stephen Chambers&amp;rsquo; series on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&amp;rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.
+James, the team leader had just read Bill Buxton&amp;rsquo;s Sketching the User Experience and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas.</description>
+    </item>
+    
+    <item>
+      <title>Wireframing Experiences and Applications with Flash Catalyst</title>
+      <link>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</link>
+      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</guid>
+      <description>Peter Flynn gives a demo of wireframing in Adobe Flash Catalyst, aka Thermo. Every online demo I&amp;rsquo;ve seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release. It&amp;rsquo;s only slightly ironic that his first 5 minutes are talk about how wireframes are by definition, low fidelity, given my last post.</description>
+    </item>
+    
+    <item>
+      <title>The Konigi OG Toolset is Coming</title>
+      <link>http://konigi.com/blog/konigi-og-toolset-coming/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/konigi-og-toolset-coming/</guid>
+      <description>That&amp;rsquo;s OmniGraffle, not Original Gangster. It&amp;rsquo;s been over a year since the last update to my OmniGraffle Wireframe Stencils. I&amp;rsquo;m due for a new version after some cleanup and organization into separate stencils to make use of OG5&amp;rsquo;s nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I&amp;rsquo;ve worked on in the past 2 years at Sling and at Traction.</description>
+    </item>
+    
+    <item>
+      <title>Create Your Own Magnetic Prototype</title>
+      <link>http://konigi.com/blog/create-your-own-magnetic-prototype/</link>
+      <pubDate>Mon, 24 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/create-your-own-magnetic-prototype/</guid>
+      <description>Adaptive Path&amp;rsquo;s Alexa Andrzejewski suggests how to create your own magnetic prototypes using printable magnets for user interface elements. Good stuff. Customizable and inexpensive.
+http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/</description>
+    </item>
+    
+    <item>
+      <title>Napkin Look &amp; Feel</title>
+      <link>http://konigi.com/blog/napkin-look-feel/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/napkin-look-feel/</guid>
+      <description>Napkin Look and Feel is a cool looking open source tool for Java developers to produce application prototypes with a low-fidelity sketchy interface.
+The idea is to try to develop a look and feel that can be used in Java applications that looks informal and provisional, yet be fully functional for development. Often when people see a GUI mock-up, or a complete GUI without full functionality, they assume that the code behind it is working.</description>
+    </item>
+    
+    <item>
+      <title>Protonotes: HTML prototyping collaboration tool</title>
+      <link>http://konigi.com/links/protonotes-html-prototyping-collaboration-tool/</link>
+      <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/protonotes-html-prototyping-collaboration-tool/</guid>
+      <description>Protonotes provides a service to allow teams to add notes directly onto html prototypes. Check out the video below for a demo. After you register the confirmation email provides a few snippets of javascript to put into your html prototypes to insert a menubar over the top of your site. The menubar provides controls for creating notes and can be configured to be unobtrusive.  http://www.protonotes.com/</description>
+    </item>
+    
+    <item>
+      <title>16 User Interface Prototyping Tools</title>
+      <link>http://konigi.com/blog/16-user-interface-prototyping-tools/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/16-user-interface-prototyping-tools/</guid>
+      <description>Russel Wilson of Dexo Design has done an excellent review of available UI Prototyping tools and provided tables comparing attributes including how fun they are to use, time to ramp up, and support for interactivity. His final assessment is below:
+1) Low fidelity mockups for idea exploration and communication: Balsamiq
+2) Interactive prototypes to test and communicate interactions: Adobe Flex (Thermo may change my mind)
+3) High fidelity drawing tool: Adobe Illustrator or OmniGraffle</description>
+    </item>
+    
+    <item>
+      <title>PolyPage HTML Prototyping Javascript Library</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-library/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-library/</guid>
+      <description>Polypage is a JQuery-based HTML prototyping javascript library that was designed to ease the process of showing multiple page states in html mock-ups. By adding simply adding class names to a document you can imply state and conditional view logic. Brilliant.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+    <item>
+      <title>What do you look for in a sketch notebook?</title>
+      <link>http://konigi.com/blog/what-do-you-look-sketch-notebook/</link>
+      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/what-do-you-look-sketch-notebook/</guid>
+      <description>It&amp;rsquo;s getting kind of old skool over here in the home office. I haven&amp;rsquo;t yet gotten around to talking about why I&amp;rsquo;m spending time on notepads and notebooks, and just how I use these things. But I&amp;rsquo;m going to post an article describing just that. This photo is just a teaser to let you know that I&amp;rsquo;m still working away at this sketch paper stuff because it&amp;rsquo;s an itch that just won&amp;rsquo;t go away.</description>
+    </item>
+    
+    <item>
+      <title>GUI Prototyping Tools</title>
+      <link>http://konigi.com/blog/gui-prototyping-tools/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/gui-prototyping-tools/</guid>
+      <description>Cunningham &amp;amp; Cunningham have a wiki page listing a great collection of prototyping tools.
+http://c2.com/cgi/wiki?GuiPrototypingTools</description>
+    </item>
+    
+    <item>
+      <title>Axure Design Pattern Library</title>
+      <link>http://konigi.com/links/axure-design-pattern-library/</link>
+      <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/axure-design-pattern-library/</guid>
+      <description>Loren Baxter has created an excellent looking set of design patterns for Axure users. The kit provides droppable interface elements for demonstrating rich interactions like editing in place, lightbox effects, video embedding, and a bunch more. When I worked in a Windows only company, we used Axure and I loved how easy it made wireframing and prototyping simple interactions by just dragging and dropping. This tool kit will definitely make the job even easier.</description>
+    </item>
+    
+    <item>
+      <title>Balsamiq Mockups: Prototyping Software</title>
+      <link>http://konigi.com/links/balsamiq-mockups-prototyping-software/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/balsamiq-mockups-prototyping-software/</guid>
+      <description>Balsamiq Mockups is an incredible application for creating user interface mockups. The application allows you layout interface sketches using the 50 interface controls included. Controls are added to the canvas or notebook by dragging and dropping or by using an insert input with auto-completion suggestions. As with Visio, many controls may be easily customized by editing values in the properties panel, and may be modified to show state, e.g. selected, disabled, etc.</description>
+    </item>
+    
+    <item>
+      <title>Pencil Project: Open Source Drawing and Prototyping Software</title>
+      <link>http://konigi.com/links/pencil-project-open-source-drawing-and-prototyping-software/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/pencil-project-open-source-drawing-and-prototyping-software/</guid>
+      <description>Duong Thanh An has begun work on Pencil, an open source diagramming tool to free users from commercial products such as Visio and OmniGraffle. Pencil is an application that runs on the Mozilla Gecko engine and can be run as a Firefox 3 tool, or in standalone mode (Windows and Linux only for now). The first version looks very promising and provides the basic functionalities needed to create diagrams and page schematics.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Design Pattern Library Stencils</title>
+      <link>http://konigi.com/links/yahoo-design-pattern-library-stencils/</link>
+      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/yahoo-design-pattern-library-stencils/</guid>
+      <description>The Yahoo! Design Pattern Library have released stencils for design patterns in OmniGraffle, Visio, PDF, PNG, and SVG format. I had planned to do the same for OmniGraffle users, but they beat me to the punch. :) This has easily become the best resource out there for design pattern examples. Congrats to Christian Crumlish and his team.
+http://developer.yahoo.com/ypatterns/wireframes/</description>
+    </item>
+    
+    <item>
+      <title>Xtnd Dreamweaver Extensions for HTML Prototyping</title>
+      <link>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</guid>
+      <description>xtnd urslf provides extensions for Adobe products. Currently they offer components for Jquery, Prototype, and MooTools. This should be helpful for people who do HTML prototypes in Dreamweaver and need to demonstrate interactive functionalities such as animation, transitions, and AJAX.
+http://xtnd.us/</description>
+    </item>
+    
+    <item>
+      <title>Paper Prototyping with Morae</title>
+      <link>http://konigi.com/blog/paper-prototyping-morae/</link>
+      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/paper-prototyping-morae/</guid>
+      <description>Userfocus provides some inspiration for capturing paper prototype tests with Morae and a webcam. Their method invovlves positioning the camera over the prototype, connect the cam directly to the PC, viewing the camera live in a video editor, and recording the output of the editor in Morae. This method is ingenious. It gives you all of the agility of doing a paper prototype, with the flexbility and control of using Morae for the observation, note taking, and highlight reel creation.</description>
+    </item>
+    
+  </channel>
+</rss>

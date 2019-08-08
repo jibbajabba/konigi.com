@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html Prototyping on Konigi</title>
+    <link>http://konigi.com/tags/html-prototyping/</link>
+    <description>Recent content in Html Prototyping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Aug 2015 15:15:25 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/html-prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roots Static Site Builder</title>
+      <link>http://konigi.com/links/roots/</link>
+      <pubDate>Tue, 25 Aug 2015 15:15:25 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/roots/</guid>
+      <description>Roots is an open source static site compiler that can help take some of the work out of setting up your own build tasks using taskrunners like gulp or grunt. It runs in your terminal and requires minimal setup.</description>
+    </item>
+    
+    <item>
+      <title>AniJS: Declarative handling library for CSS animations</title>
+      <link>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</link>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/anijs-declarative-handling-library-css-animations/</guid>
+      <description>AniJS is a library for CSS animations that allows you to write simple statements for handling animation as key/value pairs in html data attributes. It feels very close to writing natural language statements, in a format that is a bit more familiar in code than writing sentences. A simple example contains IF, ON, DO, and TO pairs and would look like this: &amp;lt;input id=&#34;name&#34; type=&#34;text&#34; data-anijs=&#34;if: focus, do: wobble, to: p&#34;</description>
+    </item>
+    
+    <item>
+      <title>uilang</title>
+      <link>http://konigi.com/links/uilang/</link>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uilang/</guid>
+      <description>uilang is a minimal, ui-focused programming language for web designers that handles click events, primarily for toggling classes and css display properties. I love the natural language approach to scripting in uilang. You just insert a statement in a code block like this and it works magically: &amp;lt;code&amp;gt;clicking on &#34;.try-it&#34; toggles class &#34;hidden&#34; on &#34;.info-box&#34;&amp;lt;/code&amp;gt; You still have to write your CSS to handle things like effects, but that&#39;s a plus if you don&#39;t want or need someone else&#39;s implementation of those things.</description>
+    </item>
+    
+    <item>
+      <title>Semantic UI Library</title>
+      <link>http://konigi.com/links/semantic-ui-library/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/semantic-ui-library/</guid>
+      <description>Semantic UI is a framework for building HTML sites that aims at creating a system based on semantic naming and sensible defaults.
+The framework compares itself directly with Bootstrap. It uses simple, common language for parts of interface elements and familiar rules used in natural languages for describing elements. Interface definitions are tag ambivalent so you can use div, article, section, span without affecting the display of the element.
+http://semantic-ui.com/</description>
+    </item>
+    
+    <item>
+      <title>Random User Generator</title>
+      <link>http://konigi.com/links/random-user-generator/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/random-user-generator/</guid>
+      <description>RandomUser is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information.
+http://randomuser.me/</description>
+    </item>
+    
+    <item>
+      <title>Mixture</title>
+      <link>http://konigi.com/links/mixture/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mixture/</guid>
+      <description>Mixture is a rapid prototyping and static site generation tool for Mac and Windows. It works with the Liquid templating system, supports includes and smart paths, handles HAML and SASS comilation, CSS and JS minification, and provides a simple model system for global and custom data, and supports access to form and query data in their request model. It can produce static HTML that you can push to a hosting service, and allows use of your own domain.</description>
+    </item>
+    
+    <item>
+      <title>Hammer for Mac</title>
+      <link>http://konigi.com/links/hammer-mac/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/hammer-mac/</guid>
+      <description>Hammer is a static web site builder for the Mac that lets you build out sites quickly with no server side requirements.
+Hammer does includes without PHP, compiles Coffeescript to JS, SASS/SCSS to CSS, has an auto-refresh feature for never having to reload the browser, and provides some simple to use helpers. Since it knows about all of the files in your projects, you just reference names and it knows how to build out paths.</description>
+    </item>
+    
+    <item>
+      <title>Static HTML: The new old school</title>
+      <link>http://konigi.com/blog/static-html-new-old-school/</link>
+      <pubDate>Fri, 29 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/static-html-new-old-school/</guid>
+      <description>I&#39;ve been looking for ways to energize my creativity in between the longer stretches of time spent on difficult, routine, and less creative work. The thing that has been doing it for me lately is working with static html on some of my smaller production sites.
+I was playing around with static html tools for a little side project I&#39;ve been toying with. I was tinkering with Stacey and Kirby. Awesome tools for static PHP page building.</description>
+    </item>
+    
+    <item>
+      <title>One div: Pure CSS icons</title>
+      <link>http://konigi.com/links/one-div-pure-css-icons/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/one-div-pure-css-icons/</guid>
+      <description>One Div is a library of icons that are realised in pure css with only one html div as an alternative to SVG. Icons allow precise borders even when resized—same as one would expect with vector icons.
+http://one-div.com/</description>
+    </item>
+    
+    <item>
+      <title>jKit: jQuery based UI Toolkit</title>
+      <link>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</guid>
+      <description>jKit is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.
+http://jquery-jkit.com/</description>
+    </item>
+    
+    <item>
+      <title>Ai to Canvas Plug-In</title>
+      <link>http://konigi.com/links/ai-canvas-plug/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ai-canvas-plug/</guid>
+      <description>The Ai-&amp;gt;Canvas plug-in enables Adobe Illustrator to export vector and bitmap artwork directly to an HTML5 canvas element that can be rendered in a canvas-enabled browser. The plug-in provides drawing, animation and coding options such as events so that you can build interactive, well-designed canvas-based web apps.
+http://visitmix.com/labs/ai2canvas/</description>
+    </item>
+    
+    <item>
+      <title>Learn to Code</title>
+      <link>http://konigi.com/articles/learn-code/</link>
+      <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/articles/learn-code/</guid>
+      <description>The Debate The debate about whether or not designers need to learn to code is essentially about knowing enough HTML and CSS, and maybe some Javascript to be able to prototype web views.
+Mastery and the ability to produce production code is not something most interaction designers and information architects will have the opportunity to achieve, but being capable enough to communicate design on web products requires some basic skills that you can learn in a few days or months to start.</description>
+    </item>
+    
+    <item>
+      <title>Wirefy: Responsive Wireframe Library</title>
+      <link>http://konigi.com/links/wirefy-responsive-wireframe-library/</link>
+      <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/wirefy-responsive-wireframe-library/</guid>
+      <description>Wirefy is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.
+http://cjdsie.github.com/wirefy/</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Bookmarklet</title>
+      <link>http://konigi.com/links/responsive-design-bookmarklet/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/responsive-design-bookmarklet/</guid>
+      <description>Victor Coulon&#39;s Responsive Design Bookmarklet is a simple browser-based tool for testing your web layout in desktop, tablet and mobile phone dimensions. Save the bookmarklet, go to the page you want to test, then select the bookmarklet. It puts your page in a frame at the dimensions you want to test. Found via Takashi Sakamoto
+http://responsive.victorcoulon.fr/</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap, from Twitter</title>
+      <link>http://konigi.com/links/bootstrap-twitter/</link>
+      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/bootstrap-twitter/</guid>
+      <description>Bootstrap is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.
+http://twitter.github.com/bootstrap/</description>
+    </item>
+    
+    <item>
+      <title>InstaCSS: CSS Documentation Search</title>
+      <link>http://konigi.com/links/instacss-css-documentation-search/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/instacss-css-documentation-search/</guid>
+      <description>Using InstaCSS is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&amp;rsquo;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item like this. Via Think Vitamin Newsletter
+http://instacss.com/</description>
+    </item>
+    
+    <item>
+      <title>Animate.css: Plug-and-play CSS animation stylesheet</title>
+      <link>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</link>
+      <pubDate>Tue, 18 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</guid>
+      <description>animate.css is a stylesheet created by Dan Eden for doing common, cross-browser css3 animations for things like transitions for emphasis. To use them in your project, simply add add the stylesheet and link, add a class to an element, or call the animation yourself in your CSS file.
+http://daneden.me/animate/</description>
+    </item>
+    
+    <item>
+      <title>Placehold.it: Simple image placeholders</title>
+      <link>http://konigi.com/links/placeholdit-simple-image-placeholders/</link>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/placeholdit-simple-image-placeholders/</guid>
+      <description>Placehold.it is a placeholder image service that let&amp;rsquo;s you place images using a url like this: http://placehold.it/350x150 which ends up like the box below when placed in an image tag.
+Via @moddpodd
+http://placehold.it</description>
+    </item>
+    
+    <item>
+      <title>lorempixum: Placeholder images for every case</title>
+      <link>http://konigi.com/links/lorempixum-placeholder-images-every-case/</link>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/lorempixum-placeholder-images-every-case/</guid>
+      <description>lorempixum is a cool placeholder image service for html wireframers and prototypers. Set dimensions for a placeholder image, and optionally select a category and color or black and white, and the URL will provided will serve a random image for your html page.
+Via @poornerd
+http://lorempixum.com/</description>
+    </item>
+    
+    <item>
+      <title>{placekitten}</title>
+      <link>http://konigi.com/links/placekitten/</link>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/placekitten/</guid>
+      <description>{placekitten}. Kittens for placeholder images, inspired by placeholder.it. Use at your own risk.
+See also: http://placedog.com/ and http://placesheen.com/
+Via @nickf
+http://placekitten.com/</description>
+    </item>
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://konigi.com/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/have-nice-day/</guid>
+      <description>Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
+Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
+I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with.</description>
+    </item>
+    
+    <item>
+      <title>Wirify: Create wireframes from web pages</title>
+      <link>http://konigi.com/links/wirify-create-wireframes-web-pages/</link>
+      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/wirify-create-wireframes-web-pages/</guid>
+      <description>Wirify is a bookmarklet that lets you turn any web page into a wireframe in one click. Similar to the Web Without Words, it converts all of the elements on a web page to gray boxes, so you can visualize the page as a schematic without content.  This reminds me of a a technique used in painting and design where one steps back a distance from the canvas or screen and blurs the eyes to get a view of the placement of parts of the design, the relationship of the parts to each other, the white space, and the hierarchy of elements.</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
+      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
+      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
+HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
+    </item>
+    
+    <item>
+      <title>quplo: HTML Prototyping</title>
+      <link>http://konigi.com/links/quplo-html-prototyping/</link>
+      <pubDate>Thu, 22 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/quplo-html-prototyping/</guid>
+      <description>Quplo may be the most promising HTML prototyping tools I&amp;rsquo;ve seen for UX designers who know a little HTML and would like to do HTML prototyping, but either don&amp;rsquo;t have the chops to build the interaction by hand, or are lazy like me.
+The web-based tool allows you to build multiple prototypes using a combination of standard HTML/CSS. If you can do JS, the standard JS libraries are available to include in your pages (or sheets in Quplo lingo).</description>
+    </item>
+    
+    <item>
+      <title>Google Chrome Extensions for web developers </title>
+      <link>http://konigi.com/links/google-chrome-extensions-web-developers/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/google-chrome-extensions-web-developers/</guid>
+      <description>Google Chrome’s developer extensions are useful in-browser web development tools for such things as testing pages on various screen resolutions, analyzing app performance, working with HTML, CSS, JS, generating lorem ipsum greeking, and more.
+https://chrome.google.com/extensions/featured/web_dev</description>
+    </item>
+    
+    <item>
+      <title>Design, the web, and craft</title>
+      <link>http://konigi.com/blog/design-web-and-craft/</link>
+      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-web-and-craft/</guid>
+      <description>I&#39;m a little late on getting to this one, but wanted to post before I forgot because it is a great topic for early and mid-career web designers. Matt (emenel) reacted to Mark Boulton&#39;s thoughts about whether or not designers needed to know html.
+Matt summarizes what he believes:
+As a designer there is a continuum you travel over the course of your career. It starts with making - crafting objects in your selected medium - and progresses through a point where you internalize your craft and can design without making.</description>
+    </item>
+    
+    <item>
+      <title>Napkee supports 100% of Mockups controls and adds extended export options</title>
+      <link>http://konigi.com/blog/napkee-supports-100-mockups-controls-and-adds-extended-export-options/</link>
+      <pubDate>Wed, 27 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/napkee-supports-100-mockups-controls-and-adds-extended-export-options/</guid>
+      <description>Napkee gets an update with iPhone controls and now covers 100% of what you find in Balsamiq Mockups. What I&amp;rsquo;m most excited about are the export settings. Under the HTML settings you can now define a title for your exported files, a new name for the Icons folder and you can specify an external CSS file that will be included in each export. More info on the release here.
+http://www.napkee.com/blog/2010/01/100percent/</description>
+    </item>
+    
+    <item>
+      <title>HTML Wireframe Tool</title>
+      <link>http://konigi.com/links/html-wireframe-tool/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/html-wireframe-tool/</guid>
+      <description>Waiting for your thumbnail&amp;hellip;
+This is an interesting looking tool that lets you create HTML wireframes using a web interface. You specify your grid, then insert one of the pre-defined UI components into the page. An inspector lets you modify the component attributes. There isn&amp;rsquo;t any information about who is responsible for this tool and if it&amp;rsquo;s merely an experiment or a demo of something we can expect to see in an application or framework.</description>
+    </item>
+    
+    <item>
+      <title>Drawter: DrawAble Markup Language</title>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
+      <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
+      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
+Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website&#39;s code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div&#39;s style properties within floating inspectors.</description>
+    </item>
+    
+    <item>
+      <title>UKI: Simple UI Kit for complex web apps</title>
+      <link>http://konigi.com/links/uki-simple-ui-kit-complex-web-apps/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/uki-simple-ui-kit-complex-web-apps/</guid>
+      <description>Uki is a fast and simple JavaScript user interface toolkit for desktop-like web applications. It comes with a rich view-component library ranging from Slider to List and SplitPane.
+http://ukijs.org/</description>
+    </item>
+    
+    <item>
+      <title>Easy front-end framework</title>
+      <link>http://konigi.com/links/easy-front-end-framework/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/easy-front-end-framework/</guid>
+      <description>Easy Framework is a CSS/HTML/JavaScript framework created by Alen Grakalic. It provides a simple foundation for creating front end templates and provides a cookbook of jQuery-powered interactive behaviors you can use in your prototypes.
+http://easyframework.com/</description>
+    </item>
+    
+    <item>
+      <title>StaticMatic: Static HTML building framework</title>
+      <link>http://konigi.com/links/staticmatic-static-html-building-framework/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/staticmatic-static-html-building-framework/</guid>
+      <description>StaticMatic is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.
+Via Jérôme Gravel-Niquet on the htmlprototyping group
+http://staticmatic.rubyforge.org/</description>
+    </item>
+    
+    <item>
+      <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
+      <link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
+      <description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
+ Via se on the htmlprototyping group</description>
+    </item>
+    
+    <item>
+      <title>HTML Prototyping Discussion Group</title>
+      <link>http://konigi.com/blog/html-prototyping-discussion-group/</link>
+      <pubDate>Tue, 15 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/html-prototyping-discussion-group/</guid>
+      <description>As you may know, I&#39;ve been working on an html prototyping toolkit that&#39;s in its infancy, and available to play with in pre-release form here on Konigi. What you also may know is that I hope to put the code in a repository so that people can contribute UI component markup/css/js to it, but what I&#39;ve got is not mature enough yet.
+A few people have already started sharing their ideas and tips with me and I&#39;ve felt like it&#39;s kind of a waste to have some of these discussions happen offline, so I want to step out and start these discussions in a wider venue.</description>
+    </item>
+    
+    <item>
+      <title>ixEdit: Visual Tool for Prototyping with jQuery</title>
+      <link>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</link>
+      <pubDate>Thu, 19 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ixedit-visual-tool-prototyping-jquery/</guid>
+      <description>ixEdit is a JavaScript-based interaction design tool for the web. With IxEdit, designers can practice DOM-scripting without coding to change, add, move, or transform elements dynamically on your web pages. It&amp;rsquo;s specifically designed for HTML prototyping and allows designers to build interactive interfaces directly in the browser, and provides the code to copy and paste into the HTML page. Works with Firefox, Safari, Chrome, or IE. Watch the video below to see how it works.</description>
+    </item>
+    
+    <item>
+      <title>Meet the super-light HTML prototyping toolkit in under 3 minutes</title>
+      <link>http://konigi.com/blog/meet-super-light-html-prototyping-toolkit-under-3-minutes/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/meet-super-light-html-prototyping-toolkit-under-3-minutes/</guid>
+      <description>This is a demo of an HTML Prototyping Toolkit that I&amp;rsquo;ve assembled from a few open source libraries. The idea is to create something super light so you can sketch your wireframes in HTML.
+Using Templates I&amp;rsquo;m using a jQuery template for creating columns in a grid. Columns look like this:
+
+ {cols} &amp;lt;&amp;ndash; grid layout container {col12} &amp;lt;&amp;ndash; 12 unit column {/col} &amp;lt;&amp;ndash; closed column {col12last} &amp;lt;&amp;ndash; 12 unit column last in container {/col} {/cols} &amp;lt;&amp;ndash; end of container  You can try out the prototypes I&amp;rsquo;m playing with here:</description>
+    </item>
+    
+    <item>
+      <title>Protoscript: Prototype Scripting Library</title>
+      <link>http://konigi.com/links/protoscript-prototype-scripting-library/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/protoscript-prototype-scripting-library/</guid>
+      <description>Protoscript is a prototype scripting library utilizing both jQuery and YUI behaviors to add interactivity to HTML elements. By combining different behaviors with different elements and events you can create complex interactions without writing JavaScript.
+Via @egregilon
+http://protoscript.com</description>
+    </item>
+    
+    <item>
+      <title>The Process Toolbox, part eight: Prototyping</title>
+      <link>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</link>
+      <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</guid>
+      <description>Simon Collison writes about the different forms of prototyping in ErskineLabs&amp;rsquo; Process Toolbox, describing the benefits of paper, wireframe, and browser prototypes.
+As much as all parties may talk about requirements and argue over features, often they won’t really “get it” until they can see the concept represented visually, and understand its exact behaviour. This brings us on to various methods of prototyping. 
+Found via I ♥ wireframes. Read more at Erskine Labs.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s broken about wireframes and how can we fix them?</title>
+      <link>http://konigi.com/blog/whats-broken-about-wireframes-and-how-can-we-fix-them/</link>
+      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/whats-broken-about-wireframes-and-how-can-we-fix-them/</guid>
+      <description>Generally speaking I have 2 gripes with wireframes. One is that they&#39;re very limited and come with issues in terms of communicating design. Secondly, they&#39;re not fast and flexible enough as communication artifacts.
+HTML wireframes and prototypes provide some relief from some of the issues, and I&#39;d like to hear what other people are looking for when doing HTML wireframes in order to fix and overcome the limitations of wireframes made in graphics software.</description>
+    </item>
+    
+    <item>
+      <title>Napkee: Create Prototypes from Balsamiq Mockups</title>
+      <link>http://konigi.com/links/napkee-create-prototypes-balsamiq-mockups/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/napkee-create-prototypes-balsamiq-mockups/</guid>
+      <description>Napkee is a very exciting tool that extends the quick and easy wireframing process in Balsamiq Mockups by importing your Balsamiq files and generating interactive prototypes in Flex or HTML version.
+To start off, you build your series of wireframes in Mockups, optionally creating links between pages. The screenshot below shows a wireframe of a fictional news site I created to try it out. I mocked up a site home page, and a login screen for my test.</description>
+    </item>
+    
+    <item>
+      <title>OverSite: Wireframe Software</title>
+      <link>http://konigi.com/links/oversite-wireframe-software/</link>
+      <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/oversite-wireframe-software/</guid>
+      <description>OverSite is a cross-platform application for wireframing and prototyping. It uses a drag and drop interface and can build HTL prototypes from your linked pages.
+The app lets you define the hierarchy of your website or application, create sections and subsections, fill them with pages and screens, and rearrange your structure using a drag-and-drop interface. The app automatically generates a site map, and any changes you make to your structure will instantly be reflected.</description>
+    </item>
+    
+    <item>
+      <title>Boks: Visual Grid Editor</title>
+      <link>http://konigi.com/links/boks-visual-grid-editor/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/boks-visual-grid-editor/</guid>
+      <description>Boks is a cross-platform AIR app for visually creating grids using the Blueprint CSS framework. The app provides an inspector for setting up the page, column and gutter widths, provides typography settings for setting the vertical rhythm of your text, and generates the CSS and grid background image for you to export. Once your grid is set, draw sections in your grid, add lorem ipsum greeking, and the export file will include an HTML template with all of your divs laid out for you.</description>
+    </item>
+    
+    <item>
+      <title>PolyPage: HTML Prototyping JavaScript Plugin</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-plugin/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-plugin/</guid>
+      <description>Polypage is a JQuery plugin that was designed to ease the process of showing multiple page states in html mock-ups. By simply adding class names to a document you can imply state and conditional view logic.
+You can view a tutorial for setting up a Polypage project at 24 ways. The latest version is available from the github repository.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+    <item>
+      <title>PolyPage HTML Prototyping Javascript Library</title>
+      <link>http://konigi.com/links/polypage-html-prototyping-javascript-library/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/polypage-html-prototyping-javascript-library/</guid>
+      <description>Polypage is a JQuery-based HTML prototyping javascript library that was designed to ease the process of showing multiple page states in html mock-ups. By adding simply adding class names to a document you can imply state and conditional view logic. Brilliant.
+http://code.new-bamboo.co.uk/polypage/</description>
+    </item>
+    
+  </channel>
+</rss>

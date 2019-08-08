@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giveaway on Konigi</title>
+    <link>http://konigi.com/tags/giveaway/</link>
+    <description>Recent content in Giveaway on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/giveaway/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&amp;amp;quot;Beautify Your Workspace&amp;amp;quot; Giveaway</title>
+      <link>http://konigi.com/blog/beautify-your-workspace-giveaway/</link>
+      <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/beautify-your-workspace-giveaway/</guid>
+      <description>Konigi is having a &amp;ldquo;Beautify Your Workspace&amp;rdquo; giveaway thanks to the fabulous people at All Modern. What better way to keep producing inspiring work than to create an inspiring workspace, surrounded by the clean and modern design of the lighting and desk accessories we&amp;rsquo;ve chosen for you. Modern Office Gear All Modern has a fantastic selection of modern furniture, home décor and lighting from brands like Knoll, Herman Miller, Heller and Blu Dot.</description>
+    </item>
+    
+  </channel>
+</rss>

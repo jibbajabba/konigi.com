@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usability Testing on Konigi</title>
+    <link>http://konigi.com/tags/usability-testing/</link>
+    <description>Recent content in Usability Testing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 12:13:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/usability-testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unmoderated Remote Usability Testing</title>
+      <link>http://konigi.com/articles/unmoderated-remote-usability-testing/</link>
+      <pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate>
+      
+      <guid>http://konigi.com/articles/unmoderated-remote-usability-testing/</guid>
+      <description>About Unmoderated Remote Usability Testing (URUT) is a technique for conducting usability testing where participants take test sessions alone and without the presence or interaction with a facilitator. Sessions are usually conducted with the aid of a remote testing software service.
+While moderated testing is preferred, URUT may be beneficial when budget or time constraints are an issue. Because URUT is conducted asynchronously, there are some disadvantages. For instance, when instructed, users may not employ the think aloud approach on their own without prompting, users cannot seek support including asking for clarification if tasks are not clear, and facilitators cannot ask follow up questions.</description>
+    </item>
+    
+    <item>
+      <title>PowWow</title>
+      <link>http://konigi.com/links/powwow/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/powwow/</guid>
+      <description>PowWow is a free simple service for scheduling user research using your Google Calendar. The fine folks at Pointless Corp (aka Viget) created this as a side project for handling scheduling of user interviews and testing, but could be used for any kind of event.
+There are other apps like this that remove the fuss of coordinating schedules via email. PowWow does it simply, and provides a polished and pleasing experience.</description>
+    </item>
+    
+    <item>
+      <title>AirServer: Airplay receiver for iOS devices</title>
+      <link>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid>
+      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.</description>
+    </item>
+    
+    <item>
+      <title>Reflector.app: iOS AirPlay mirroring to computer</title>
+      <link>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</guid>
+      <description>Reflector lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.
+@dakotareese tipped me that some users report problems using apps that hack into Airplay. More info here.
+Via 90poe
+https://www.reflectorapp.com/</description>
+    </item>
+    
+    <item>
+      <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
+      <link>http://konigi.com/links/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <description>Mr Tappy is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.
+Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.</description>
+    </item>
+    
+    <item>
+      <title>Usabilla now supports mobile usability testing</title>
+      <link>http://konigi.com/blog/usabilla-now-supports-mobile-usability-testing/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/usabilla-now-supports-mobile-usability-testing/</guid>
+      <description>Usabilla is one of the remote, unmoderated usability test services I&amp;rsquo;ve reviewed and used in the past (full disclosure: they also now sponsor this site). They&amp;rsquo;ve added mobile testing to their remote, unmoderated testing service. The new feature lets users participate by using their smartphones or tablets to test the screenshots or urls you specify in each task or scenario.
+As with their past offering, participants are stepped through each scenario and asked to respond by adding markers to screens and notes/responses to your questions.</description>
+    </item>
+    
+    <item>
+      <title>Usaura: Free 5-second tests</title>
+      <link>http://konigi.com/links/usaura-free-5-second-tests/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usaura-free-5-second-tests/</guid>
+      <description>Usaura is a free service for conducting 5-second tests. Upload a screenshot. Enter a question asking your respondents to respond by clicking somewhere on your screenshot. Copy the test url to give to participants or use Twitter to share the test. View the results as a heatmap or as click nodes with time-to-click data.
+I set up a dummy test to try here.
+http://www.usaura.com/</description>
+    </item>
+    
+    <item>
+      <title>YouEye: User testing with webcam eye tracking</title>
+      <link>http://konigi.com/links/youeye-user-testing-webcam-eye-tracking/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/youeye-user-testing-webcam-eye-tracking/</guid>
+      <description>&amp;lt;a href=&amp;quot;http://www.youeye.com/&amp;lsquo;&amp;gt;YouEye looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.
+http://youeye.com</description>
+    </item>
+    
+    <item>
+      <title>Clue: A 5 Second Test Service</title>
+      <link>http://konigi.com/links/clue-5-second-test-service/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/clue-5-second-test-service/</guid>
+      <description>Zurb&amp;rsquo;s Clue is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.
+To use, enter a URL for a page you&#39;d like to test, they generate a screenshot, and provide you with URLs for the test and the test report. Here&#39;s an example using this site: test and report. Feel free to mock my home page at will.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Usability Testing Tips</title>
+      <link>http://konigi.com/blog/mobile-usability-testing-tips/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobile-usability-testing-tips/</guid>
+      <description>Harry Brignull has been posting some great quick tips for doing mobile usability testing including how to record from two webcams using an application called AmCap and how to craft inexpensive usability testing sleds for mobile phones.
+http://www.90percentofeverything.com/2010/10/05/mobile-usability-testing-tip-recording-from-two-webcams</description>
+    </item>
+    
+    <item>
+      <title>WhatUsersDo.com Review on 90 Percent of Everything</title>
+      <link>http://konigi.com/blog/whatusersdocom-review-90-percent-everything/</link>
+      <pubDate>Tue, 03 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/whatusersdocom-review-90-percent-everything/</guid>
+      <description>Harry Brignull did a thorough review of WhatUsersDo.com, a UK-based remote, unmoderated, qualitative usability testing service. To use the service, you pay £25-£30 per participant and you get back screen recordings with audio of them thinking aloud during the tasks. The test participants are chosen from a pool of users paid to take usability tests, similar to usertesting.com.
+As Brignull notes, this is possibly valuable to companies with little experience doing usability testing on their own before, but is less likely to be of value to companies with the experience and budget for doing moderated usability research on their own, or with a usability research consultancy.</description>
+    </item>
+    
+    <item>
+      <title>AddUse User research service</title>
+      <link>http://konigi.com/links/adduse-user-research-service/</link>
+      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/adduse-user-research-service/</guid>
+      <description>AddUse is a commercial user research service that allow you to run and analyze web surveys and allows usability test facilitators to manually capture and analyze the results of test sessions.
+http://www.adduse.com/Default.aspx</description>
+    </item>
+    
+    <item>
+      <title>OpenHallway: Unmoderated Remote Usability Testing with Screen Recording</title>
+      <link>http://konigi.com/links/openhallway-unmoderated-remote-usability-testing-screen-recording/</link>
+      <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/openhallway-unmoderated-remote-usability-testing-screen-recording/</guid>
+      <description>Inspired by the 5 second test, a lot web-based services have cropped up to support remote usability testing. In the past few years, I&#39;ve been experimenting with some of these to conduct super small, unmoderated remote usability testing sessions. I&#39;ve used Morae extensively in the past, but for most of my needs, that&#39;s like using a sledgehammer on a pushpin.
+I&#39;d been successful using fivesecondtest and Usabilla, who decided to sponsor me after I participated in the beta and gave feedback.</description>
+    </item>
+    
+    <item>
+      <title>Usabilla Officially Launches</title>
+      <link>http://konigi.com/blog/usabilla-officially-launches/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/usabilla-officially-launches/</guid>
+      <description>Remote usability testing service Usabilla has officially launched with tiered payment plans and PDF reports for all your test results. They will continue to provide a free service for up to 5 pages which lets you analyze the results of the first 25 participants of each test.
+The Amsterdam based usability startup has been making impressive progress since their launch nearly six months ago. With the help of beta testers Usabilla have been able to build a useful tool to collect feedback on webpages, mockups, sketches, and other images.</description>
+    </item>
+    
+    <item>
+      <title>Usabilla Travel Site Test: Underdogs beat Expedia in usability showdown</title>
+      <link>http://konigi.com/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</link>
+      <pubDate>Fri, 06 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/usabilla-travel-site-test-underdogs-beat-expedia-usability-showdown/</guid>
+      <description>Usabilla was ran usability tests to compare the usability of four travel sites and has posted the results. Their analysis concludes that Expedia gets defeated by its competitors Hotwire, Priceline, and Travelocity on basic usability tasks. Expedia performed the worst in a usability showdown between the four major international travel sites. A total of 148 people participated in this usability test and tried to perform three basic tasks on one of the four websites.</description>
+    </item>
+    
+    <item>
+      <title>Treejack - Information architecture testing</title>
+      <link>http://konigi.com/links/treejack-information-architecture-testing/</link>
+      <pubDate>Sun, 06 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/treejack-information-architecture-testing/</guid>
+      <description>Treejack is a tool to help you test the effectiveness of an information architecture.&amp;nbsp; Use it to find out which categories are strong, which labels need tweaking and what tasks people are struggling with.&amp;nbsp; Because you can upload an existing or proposed IA, and test with participants remotely, you get rapid feedback at a fraction of the cost of in-person testing.
+Often, usability testing only reveals flaws with the interaction and interface elements.</description>
+    </item>
+    
+    <item>
+      <title>Usabilla Beta Continues to Improve</title>
+      <link>http://konigi.com/blog/usabilla-beta-continues-improve/</link>
+      <pubDate>Thu, 03 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/usabilla-beta-continues-improve/</guid>
+      <description>I&amp;rsquo;ve been watching Usabilla for some time now as a beta tester with the expectation of utilizing it on several projects. They&amp;rsquo;ve continued to make improvements to the app, with the help of our feedback. They&amp;rsquo;ve also posted new information on their site to familiarize users with their product. This is a review of my recent test with the latest revisions.
+Creating Tests The process is still quite simple: 1) Create a new test, 2) Add pages to test either from images you upload or using URLs, 3) Use the pre-defined tasks and add your own tasks, 4) Invite users to participate.</description>
+    </item>
+    
+    <item>
+      <title>UserTesting.com: Automated usability testing</title>
+      <link>http://konigi.com/links/usertestingcom-automated-usability-testing/</link>
+      <pubDate>Wed, 15 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usertestingcom-automated-usability-testing/</guid>
+      <description>UserTesting is a commercial service that promises automated usability testing.
+You might think of this as a series of task-oriented usability test sessions where you only need enter a number of tasks for a test that will take approximately 15 minutes, enter the demographics (age, income) and technographics (computer experience) for the user you&#39;d like to target. UserTesting has a pool of paid testers who accept sessions, view your site with a floating layer that shows the tasks to complete while they record their voice, mouse clicks and movements, and page changes.</description>
+    </item>
+    
+    <item>
+      <title>Infomaki: Open Source Usability Testing Software</title>
+      <link>http://konigi.com/links/infomaki-open-source-usability-testing-software/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/infomaki-open-source-usability-testing-software/</guid>
+      <description>Infomaki is a Ruby on Rails application developed by the New York Public Library as a way of rapidly testing alternate designs and navigation language with minimal disruption to users. NYPL are using it to power http://usability.nypl.org and test new designs for the main NYPL.org web site. More and documentation is available at the NYPL Labs blog, http://labs.nypl.org.
+https://sourceforge.net/projects/infomaki/</description>
+    </item>
+    
+    <item>
+      <title>User Testing Mistakes and How to Avoid Them</title>
+      <link>http://konigi.com/blog/user-testing-mistakes-and-how-avoid-them/</link>
+      <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-testing-mistakes-and-how-avoid-them/</guid>
+      <description>Jeff Sexton got Patrick Sullivan, Jr. to list the top things not to do when conducting a usability test. The top 6 list should serve as a good reminder for the UX Designer who does the occasional user test.
+1) Never ask, “What do you think about this?”
+2) Don’t feed the tester with your question.
+3) Don’t let users be the designers.
+4) Don’t let the statistics fool you.</description>
+    </item>
+    
+    <item>
+      <title>Use It Better: Usability Testing Service for Flash Sites</title>
+      <link>http://konigi.com/links/use-it-better-usability-testing-service-flash-sites/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/use-it-better-usability-testing-service-flash-sites/</guid>
+      <description>Use It Better is an online tool for recording user sessions for testing &amp;amp; analysing user experience and usability on Adobe Flash websites.
+http://www.useitbetter.com/</description>
+    </item>
+    
+    <item>
+      <title>Clixpy.com Click Path Tracking</title>
+      <link>http://konigi.com/links/clixpycom-click-path-tracking/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/clixpycom-click-path-tracking/</guid>
+      <description>Clixpy is a service that tracks everything your site’s users do, from mouse movement, clicks, and scrolling, to form inputs. The user sessions are as video for you to analyze. Installation requires pasting a few lines of JavaScript into your pages. Check out their excellent demo to see how it works.
+http://clixpy.com/</description>
+    </item>
+    
+    <item>
+      <title>Handbook of Usability Testing: Templates and Forms</title>
+      <link>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</guid>
+      <description>The Handbook of Usability Testing, by Jeffrey Rubin and Dana Chisnell, describes how to plan, design, and conduct effective tests. The books site includes a downloads page with templates and examples of usability test plans, questionairres, test scripts, and consent forms.
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html</description>
+    </item>
+    
+    <item>
+      <title>Usability Testing</title>
+      <link>http://konigi.com/articles/usability-testing/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/articles/usability-testing/</guid>
+      <description>Definition Usability testing is the measurement of the usability of a product or service. The definition from usability.gov succinctly describes the process.
+In a usability test, representative users try to do typical tasks with the product, while observers, including the development staff, watch, listen, and take notes. The product can be a Web site, Web application, or any other product. It does not have to be a finished product. You should be testing prototypes from early paper-based stages through fully functional later stages.</description>
+    </item>
+    
+    <item>
+      <title>Usability.gov Templates &amp; Examples</title>
+      <link>http://konigi.com/links/usabilitygov-templates-examples/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usabilitygov-templates-examples/</guid>
+      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&amp;rsquo;s usability needs. All of these are in the public domain and can be freely downloaded.
+Among the most useful of the files you&amp;rsquo;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
+    </item>
+    
+    <item>
+      <title>Usabilla</title>
+      <link>http://konigi.com/links/usabilla/</link>
+      <pubDate>Tue, 21 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usabilla/</guid>
+      <description>Usabilla is a remote usability testing service that allows you to quickly create short tests that solicit feedback from your users. The service allows you to direct a few questions using screenshots of pages, e.g. you might ask users what do you like/not like about this page, where would you look to find X? Users then click on screenshot to add markers with their notes or answers.
+http://usabilla.com</description>
+    </item>
+    
+    <item>
+      <title>Loop11: Online, Unmoderated User Testing</title>
+      <link>http://konigi.com/links/loop11-online-unmoderated-user-testing/</link>
+      <pubDate>Sun, 19 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/loop11-online-unmoderated-user-testing/</guid>
+      <description>Loop11 is a web-based user-experience testing tool, allowing companies to conduct online, unmoderated user testing.
+Loop11 provides the ability to gain detailed insights and understandings of user behaviour. These insights are obtained via a live interactive environment where users are asked to complete a series of tasks and questions on your website or interface. All interactions are captured, processed and made available in real-time reports.
+Loop11 is not a survey or web analytics tool, but a user experience tool helping you to understand user behaviour.</description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>http://konigi.com/articles/usability/</link>
+      <pubDate>Fri, 17 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/articles/usability/</guid>
+      <description>Definition Usability is an approach to product development that incorporates direct user feedback throughout the development cycle in order to reduce costs and create products and tools that meet user needs. There are many definitions of usability from books by usability professionals.
+Two international standards define usability and human-centered (or user-centered) design:
+&amp;quot;[Usability refers to] the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.</description>
+    </item>
+    
+    <item>
+      <title>Silverback Usability Testing Software</title>
+      <link>http://konigi.com/links/silverback-usability-testing-software/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/silverback-usability-testing-software/</guid>
+      <description>Silverback is a simple to use usability testing application that allows you to capture screen activity, record audio and video of the participant’s voice, add chapter markers on the fly, control recording with the remote, and export to Quicktime.
+http://silverbackapp.com</description>
+    </item>
+    
+    <item>
+      <title>NYPL Labs Infomaki: A lightweight usability testing service</title>
+      <link>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</link>
+      <pubDate>Tue, 17 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/nypl-labs-infomaki-lightweight-usability-testing-service/</guid>
+      <description>The New York Public Library Labs has begun testing a light usability testing system to supplement their formal tests, inspired by the Five Second Test method which was devised by Jared Spool and turned into a service by the guys at mayhem(method). The service, nicknamed Infomaki (info roll?), combines the type of service 5 second test provides, as well as allowing single question surveys for checking on things like simple labeling issues, which you might have tested using card sorting.</description>
+    </item>
+    
+    <item>
+      <title>userfly: Instant web-based usability testing service</title>
+      <link>http://konigi.com/links/userfly-instant-web-based-usability-testing-service/</link>
+      <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/userfly-instant-web-based-usability-testing-service/</guid>
+      <description>userfly.com from Chris Estreich on Vimeo. Userfly is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&amp;rsquo;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. This looks like a pretty nice service for certain types of observation. There doesn&amp;rsquo;t appear to be any options for interacting with users, e.</description>
+    </item>
+    
+    <item>
+      <title>UX Booth: Free Website Usability Testing Reviews &amp; UX Blog</title>
+      <link>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</guid>
+      <description>The UX Booth is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.
+Via Digital Web
+http://www.uxbooth.com/</description>
+    </item>
+    
+    <item>
+      <title>STC Usability Toolkit</title>
+      <link>http://konigi.com/links/stc-usability-toolkit/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/stc-usability-toolkit/</guid>
+      <description>The STC Usability Toolkit is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. http://www.stcsig.org/usability/resources/toolkit/toolkit.html</description>
+    </item>
+    
+    <item>
+      <title>five second test: A simple online usability test</title>
+      <link>http://konigi.com/links/five-second-test-simple-online-usability-test/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/five-second-test-simple-online-usability-test/</guid>
+      <description>The five second test is a simple usability test that helps you measure the effectiveness of your user interfaces by getting users to look at a screen for 5 seconds, and then asking them to recall what they saw. This is something I typically do at the start of a usability test to see what users understand at a high level. Show them a screen, take it away, have them talk, ask them questions.</description>
+    </item>
+    
+    <item>
+      <title>Usability Test Data Logger for Excel</title>
+      <link>http://konigi.com/links/usability-test-data-logger-excel/</link>
+      <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usability-test-data-logger-excel/</guid>
+      <description>User Focus&amp;rsquo; Todd Zazelenchuk provides an excellent Microsoft Excel tool with macros that turn the document into an application for collecting usability test data. &amp;ldquo;This spreadsheet allows you to measure task completion rates, analyse questionnaire data, and summarise participant comments. It even includes a timer so you can measure time-on-task. The spreadsheet is highly customisable.&amp;rdquo;
+Download the Excel document and documentation for free.
+http://www.userfocus.co.uk/resources/datalogger.html</description>
+    </item>
+    
+    <item>
+      <title>Silverback: Usability Testing Software for the Mac</title>
+      <link>http://konigi.com/blog/silverback-usability-testing-software-mac/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/silverback-usability-testing-software-mac/</guid>
+      <description>Silverback launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won&amp;rsquo;t have to ever touch another Windows box if you don&amp;rsquo;t want to. (I&amp;rsquo;m kidding. I&amp;rsquo;m sure you will at some point in your life.)
+Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won&amp;rsquo;t find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</description>
+    </item>
+    
+    <item>
+      <title>A Peek Inside Google&amp;acirc;��s Gmail Usability Lab</title>
+      <link>http://konigi.com/blog/peek-inside-google-s-gmail-usability-lab/</link>
+      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/peek-inside-google-s-gmail-usability-lab/</guid>
+      <description>TechCrunch has some photos of a usability lab used by the Gmail team at Google. Some of the photos include earlier iterations of Google Chat that were being tested in the lab.
+I only see shots of the observers&amp;rsquo; room in the photos, but there&amp;rsquo;s some description of their testing room as well.
+It’s a small room with a large flat screen monitor, along with a desk and computer. It also has a number of discrete cameras (and a microphone) that keep an eye on the user herself as well as the screen.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Pays $25 a session for user testing</title>
+      <link>http://konigi.com/blog/facebook-pays-25-session-user-testing/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/facebook-pays-25-session-user-testing/</guid>
+      <description>TechCrunch caught a Craigslist posting soliciting for people in the Bay Area to participate in 30 minute long user testing sessions for only $25.
+ </description>
+    </item>
+    
+    <item>
+      <title>Viewing Search Results in the Chart View of Morae</title>
+      <link>http://konigi.com/blog/viewing-search-results-chart-view-morae/</link>
+      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/viewing-search-results-chart-view-morae/</guid>
+      <description>TechSmith has published a useful tutorial that shows how to view where people clicked during sessions. Morae recordings use TechSmith’s Rich Recording Technology (RRT) to capture video, audio, camera input, as well as all sorts of data, including keyboard entry, screen text, web page changes, mouse clicks, and system events. Use Manager’s Search Results pane to help you focus in on this valuable information to support your findings.
+ This feature is pretty hidden, so Morae users will want to check this out.</description>
+    </item>
+    
+    <item>
+      <title>Paper Prototyping with Morae</title>
+      <link>http://konigi.com/blog/paper-prototyping-morae/</link>
+      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/paper-prototyping-morae/</guid>
+      <description>Userfocus provides some inspiration for capturing paper prototype tests with Morae and a webcam. Their method invovlves positioning the camera over the prototype, connect the cam directly to the PC, viewing the camera live in a video editor, and recording the output of the editor in Morae. This method is ingenious. It gives you all of the agility of doing a paper prototype, with the flexbility and control of using Morae for the observation, note taking, and highlight reel creation.</description>
+    </item>
+    
+  </channel>
+</rss>

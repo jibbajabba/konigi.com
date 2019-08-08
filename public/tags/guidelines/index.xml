@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guidelines on Konigi</title>
+    <link>http://konigi.com/tags/guidelines/</link>
+    <description>Recent content in Guidelines on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/guidelines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>17 guidelines for better information architecture from 1991</title>
+      <link>http://konigi.com/blog/17-guidelines-better-information-architecture-1991/</link>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/17-guidelines-better-information-architecture-1991/</guid>
+      <description>Jussi Pasanen of Volkside pulls out an HCI gem in Kent L. Norman&amp;rsquo;s The Psychology of Menu Selection: Designing Cognitive Control at the Human/Computer Interface, and repurposes the list of guidelines from the Checklist for Menu Design to provide a set of suitable guidelines for information architects to use with today’s websites. Norman&amp;rsquo;s book is available for free on the web.
+Via @BogieZero
+http://www.volkside.com/2010/03/15-guidelines-for-better-information-architecture-from-1991/</description>
+    </item>
+    
+    <item>
+      <title>Userfocus 247 Web Usability Guidelines</title>
+      <link>http://konigi.com/links/userfocus-247-web-usability-guidelines/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/userfocus-247-web-usability-guidelines/</guid>
+      <description>Userfocus provides guidelines for evaluating web site usability. The cover the following different contexts.
+ Home page usability Task orientation Navigation and IA Forms and data entry Trust and credibility Writing and content quality Page layout and visual design Search usability Help, feedback and error tolerance 
+http://www.userfocus.co.uk/resources/guidelines.html</description>
+    </item>
+    
+    <item>
+      <title>Lighthouse International - Making Text Legible</title>
+      <link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid>
+      <description>Lighthouse provides 10 basic guidelines for designing for people with partial sight. &#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;
+http://www.lighthouse.org/accessibility/legible/</description>
+    </item>
+    
+  </channel>
+</rss>

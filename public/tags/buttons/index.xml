@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buttons on Konigi</title>
+    <link>http://konigi.com/tags/buttons/</link>
+    <description>Recent content in Buttons on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Aug 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/buttons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Now that&#39;s a big-assed button</title>
+      <link>http://konigi.com/blog/now-thats-big-assed-button/</link>
+      <pubDate>Tue, 03 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/now-thats-big-assed-button/</guid>
+      <description>There&amp;rsquo;s no doubt about where the call to action is here. I especially like the useful copy on this page. &amp;quot;If for any reason you are unwilling or unable to click the giant button, please email us&amp;hellip;&amp;quot;
+Via @patio11
+http://www.gaiaonline.com/</description>
+    </item>
+    
+    <item>
+      <title>About the close tab behaviour in Google Chrome</title>
+      <link>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</link>
+      <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</guid>
+      <description>Basil Safwat does a very thorough comparison of the the tabs in Mac Safari and Chrome, pointing out the subtleties in the close button positioning and behavior. While Mac close icons are on the left by convention, Chrome positions them to the right of the tab and keeps them visible, while Safari positions them to the left and only displays the close icon on hover. I initially had to relearn the close button position because Firefox also places them on the right.</description>
+    </item>
+    
+    <item>
+      <title>Call To Action Buttons</title>
+      <link>http://konigi.com/blog/call-action-buttons/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/call-action-buttons/</guid>
+      <description>Lee Munroe has collected a slew of examples of Signup and Download call to action buttons that exemplify good CTA button design. He has 4 criteria for designing a good call to action button, involving the appropriate use of color, language, size, and white space around the button.
+http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-buttons/</description>
+    </item>
+    
+    <item>
+      <title>Shelfari Hybrid Buttons, Revised</title>
+      <link>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</guid>
+      <description>We covered Shelfari&#39;s hybrid button in their list views of bookshelf items. That example showed a single push button with an attached icon for drop down menu. The single button allowed for the use of a default behavior, while the drop down arrow allowed for the display of other options for the item. The drop down menu allowed users to make multiple selections, i.e. using checkbox behaviors, rather than just select one value in the drop down list.</description>
+    </item>
+    
+    <item>
+      <title>Shelfari Hybrid Buttons</title>
+      <link>http://konigi.com/interfaces/shelfari-hybrid-buttons/</link>
+      <pubDate>Tue, 03 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/shelfari-hybrid-buttons/</guid>
+      <description>Shelfari has a clever hybrid button/drop down menu to display actions on books. The button label shows the current status of the item, e.g. on my shelf, add to my shelf. When the user hovers over a button of a book that&#39;s not in your shelf, the label changes to &#34;Add to I&#39;ve Read&#34;. Clicking the drop down arrow shows other options for the book with shelf actions in the top half (I plan to read, I&#39;m reading now, I&#39;ve read), and the bottom half shows other attributes of your book (Favorite, I own, Wish list).</description>
+    </item>
+    
+  </channel>
+</rss>

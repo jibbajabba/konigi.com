@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Browser Testing on Konigi</title>
+    <link>http://konigi.com/tags/browser-testing/</link>
+    <description>Recent content in Browser Testing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/browser-testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RemoteIE: Remote Testing for Internet Explorer</title>
+      <link>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</guid>
+      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.
+https://remote.modern.ie/</description>
+    </item>
+    
+    <item>
+      <title>Ghostlab Browser Testing Tool</title>
+      <link>http://konigi.com/links/ghostlab-browser-testing-tool/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ghostlab-browser-testing-tool/</guid>
+      <description>Ghostlab is a tool for synchronized browser testing. It synchronizes scrolls, clicks, reloads and form input across all connected clients so that you can test a full user experience.
+http://vanamco.com/ghostlab/</description>
+    </item>
+    
+    <item>
+      <title>Shim Browser Testing Tool</title>
+      <link>http://konigi.com/links/shim-browser-testing-tool/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/shim-browser-testing-tool/</guid>
+      <description>Shim is a node.js-based browser-compatibility tool that lets you synchronize several devices/browsers and surf the same pages simultaneously on all of them.
+https://github.com/antistatique/shim</description>
+    </item>
+    
+    <item>
+      <title>Remote Preview</title>
+      <link>http://konigi.com/links/remote-preview/</link>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/remote-preview/</guid>
+      <description>Remote Preview is a JavaScript-based tool for previewing a web page on multiple devices, built by Viljami Salminen @viljamis for the Helsinki Device Lab. Just enter a URL, hit Enter, and the new URL gets automatically loaded on each device. Works on platforms like Android, Blackberry, iOS, Maemo, Meego, Symbian, Windows Phone and WebOS. I don&#39;t think the GameBoy pictured is supported. ;)
+
+Source code is available on Github.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Design Bookmarklet</title>
+      <link>http://konigi.com/links/responsive-design-bookmarklet/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/responsive-design-bookmarklet/</guid>
+      <description>Victor Coulon&#39;s Responsive Design Bookmarklet is a simple browser-based tool for testing your web layout in desktop, tablet and mobile phone dimensions. Save the bookmarklet, go to the page you want to test, then select the bookmarklet. It puts your page in a frame at the dimensions you want to test. Found via Takashi Sakamoto
+http://responsive.victorcoulon.fr/</description>
+    </item>
+    
+    <item>
+      <title>Adobe Shadow Mobile Device Testing</title>
+      <link>http://konigi.com/links/adobe-shadow-mobile-device-testing/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/adobe-shadow-mobile-device-testing/</guid>
+      <description>Adobe Labs&#39; Shadow is an application for Mac and Windows that allows you to preview and inspect your mobile website on iOS and Android devices.
+After installing the software on your computer and any number of mobile devices, you can connect and pair them and all devices will be kept in sync with the web site you&#39;re previewing on your computer. This should help perform remote inspection and debugging so you can see HTML/CSS/JavaScript changes instantly on your devices.</description>
+    </item>
+    
+    <item>
+      <title>Responsive.is: Display and present responsive web designs</title>
+      <link>http://konigi.com/links/responsiveis-display-and-present-responsive-web-designs/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/responsiveis-display-and-present-responsive-web-designs/</guid>
+      <description>Responsive.is is a clever tool. Enter a URL or append one to http://responsive.is to view how the layout presents itself on the Desktop, and in tablets and mobile phones.
+http://responsive.is/</description>
+    </item>
+    
+    <item>
+      <title>Sauce Labs: Cloud-Based Cross-Browser Testing</title>
+      <link>http://konigi.com/links/saucelabs-cloud-based-cross-browser-testing/</link>
+      <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/saucelabs-cloud-based-cross-browser-testing/</guid>
+      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&amp;rsquo;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
+    </item>
+    
+    <item>
+      <title>BrowserStack: Cross-Browser Testing Tool</title>
+      <link>http://konigi.com/links/browserstack-cross-browser-testing-tool/</link>
+      <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/browserstack-cross-browser-testing-tool/</guid>
+      <description>Browserstack allows you to stop relying on screenshot web apps or using multiple virtual machines to do your testing. The service gives you remote, web-based, VNC screen sharing using the web browser you choose, so you can test your web sites and apps in real time rather than relying on static screen comparisons.
+Enter a URL to test, and select a target browser in the version of your choosing and screen resolution.</description>
+    </item>
+    
+    <item>
+      <title>Litmus Browser Testing Software</title>
+      <link>http://konigi.com/blog/litmus-browser-testing-software/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
+      <description>Litmus is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.
+They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above.</description>
+    </item>
+    
+  </channel>
+</rss>

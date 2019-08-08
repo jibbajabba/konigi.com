@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Prototyping on Konigi</title>
+    <link>http://konigi.com/tags/application-prototyping/</link>
+    <description>Recent content in Application Prototyping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/application-prototyping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://konigi.com/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/have-nice-day/</guid>
+      <description>Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
+Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
+I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language Selection on Konigi</title>
+    <link>http://konigi.com/tags/language-selection/</link>
+    <description>Recent content in Language Selection on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/language-selection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YouTube Localization</title>
+      <link>http://konigi.com/interfaces/youtube-localization/</link>
+      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/youtube-localization/</guid>
+      <description>YouTube&#39;s localization options limit content to submissions from a particular country, and the language selection options allow users to change the interface language. This is one of those interfaces that becomes clear when you&#39;ve clicked the links, because the option are hidden until you click the &#34;Worldwide&#34; link. Qualifying labels like &#34;Content: World | Lang: En (US)&#34; might make these very obvious. It&#39;s nice that YouTube gives you that content selector.</description>
+    </item>
+    
+    <item>
+      <title>Pappelina Language Selection</title>
+      <link>http://konigi.com/interfaces/pappelina-language-selection/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/pappelina-language-selection/</guid>
+      <description>Pappelina, an interior design product company, provides a fun language selection page when you arrive at the site. Pick the hand with the ribbons in flag colors for Sweden for Swedish or UK/US for English. I know this is just a Flash splash page, but it&#39;s functional and a pretty entry page.
+ http://www.pappelina.com/site.htm</description>
+    </item>
+    
+  </channel>
+</rss>

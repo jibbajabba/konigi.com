@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coffee on Konigi</title>
+    <link>http://konigi.com/tags/coffee/</link>
+    <description>Recent content in Coffee on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/coffee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clover Innovates the Coffee Maker</title>
+      <link>http://konigi.com/blog/clover-innovates-coffee-maker/</link>
+      <pubDate>Sun, 20 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/clover-innovates-coffee-maker/</guid>
+      <description>The $11,000 Clover Coffee Maker brews one cup of coffee at a time using a method similar to a French Press, but with the ability to customize water volume and temperature per cup. The machine is programmable and has a network connection, so the machine can use brewing parameters for specific roasts. Check the video below for the Clover in action.  According to Wired Magazine, Howard Schultz, the founder of Starbucks described the coffee by saying, &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

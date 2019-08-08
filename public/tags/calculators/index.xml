@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculators on Konigi</title>
+    <link>http://konigi.com/tags/calculators/</link>
+    <description>Recent content in Calculators on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2015 10:18:14 -0800</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/calculators/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aspect Ratio Calculators</title>
+      <link>http://konigi.com/links/aspect-ratio-calculators/</link>
+      <pubDate>Tue, 17 Nov 2015 10:18:14 -0800</pubDate>
+      
+      <guid>http://konigi.com/links/aspect-ratio-calculators/</guid>
+      <description>In my Skillshare course there&amp;rsquo;s a brief moment where I show a ratio calculator that I use for doing things like figuring out dimensions of containers while designing.
+The idea is simple. You have a ratio like 16:9, 4:3, 9:6, etc. and want to see how to scale another object with that ratio using a fixed dimension, e.g. you know the width.
+Here are a few that I like:
+Aspect Ratio Calculator, a free web calculator by Andrew Hedges that I&amp;rsquo;ve used for years.</description>
+    </item>
+    
+  </channel>
+</rss>

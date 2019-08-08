@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop Up Windows on Konigi</title>
+    <link>http://konigi.com/tags/pop-up-windows/</link>
+    <description>Recent content in Pop Up Windows on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Sep 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/pop-up-windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study of User Response to Fake Dialogs</title>
+      <link>http://konigi.com/blog/study-user-response-fake-dialogs/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/study-user-response-fake-dialogs/</guid>
+      <description>Ars reports on a study by the psychology department at NC State that will appear in the Proceedings of the Human Factors and Ergonomics Society. The study tested how college students respond to fake dialog boxes in browser popup windows and found that the students are so anxious to get the dialog out of the way, they click right through obvious warning signs. Follow-up questions revealed that the students seemed to find any dialog box a distraction from their assigned task; nearly half said that all they cared about was getting rid of these dialogs.</description>
+    </item>
+    
+  </channel>
+</rss>

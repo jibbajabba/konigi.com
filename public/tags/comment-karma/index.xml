@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comment Karma on Konigi</title>
+    <link>http://konigi.com/tags/comment-karma/</link>
+    <description>Recent content in Comment Karma on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Dec 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/comment-karma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engadget Comment Voting</title>
+      <link>http://konigi.com/interfaces/engadget-comment-voting/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/engadget-comment-voting/</guid>
+      <description>Engadget&#39;s comment rating and karma system uses +1/-1 voting, so users can vote comments up or down. Votes below a certain threshold get dimmed out rather than hidden. When a vote is applied, the user&#39;s vote is registered, a message appears, and the voting controls are hidden. To the right, there&#39;s an exclamation mark to flag inappropriate comments, which are then immediately collapsed from view.
+ http://www.engadget.com/</description>
+    </item>
+    
+    <item>
+      <title>YouTube Comment Rating</title>
+      <link>http://konigi.com/interfaces/youtube-comment-rating/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/youtube-comment-rating/</guid>
+      <description>YouTube&#39;s comment rating controls allow users to vote a comment up or down. When user enters a down vote, the comment is collapsed from view. There is a link to the left of rating controls to report a comment as spam.
+ http://www.youtube.com/</description>
+    </item>
+    
+  </channel>
+</rss>

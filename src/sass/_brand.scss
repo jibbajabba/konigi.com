@@ -1,0 +1,45 @@
+// TRANSITION
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+// NAVBAR
+.navbar {
+  padding-top: 0 !important;
+  animation: .5s ease-out 0s .5s slideInFromTop;
+  .container {
+    padding: .25em 0;
+    border-top: 6px solid $black;
+    border-bottom: 1px solid $black;
+  }
+}
+
+.navbar-brand {
+  @include fontsize(24, 24);
+  font-weight: 700;
+  letter-spacing: -1.15px;
+  a {
+    color: $black;
+  }
+}
+
+.navbar-item.is-active {
+  font-weight: bold;
+}
+
+// FOOTER
+footer.footer {
+  background: #fff;
+  .container {
+    padding-top: 3em;
+    border-top: 2px solid $black;
+  }
+  p {
+    font-size: 1em;
+  }
+}

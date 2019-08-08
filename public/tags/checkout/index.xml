@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Checkout on Konigi</title>
+    <link>http://konigi.com/tags/checkout/</link>
+    <description>Recent content in Checkout on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/checkout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Apple Store&#39;s Checkout Form Redesign</title>
+      <link>http://konigi.com/blog/apple-stores-checkout-form-redesign/</link>
+      <pubDate>Tue, 22 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apple-stores-checkout-form-redesign/</guid>
+      <description>I finally made some time to read through Luke Wroblewski&amp;rsquo;s excellent review of the changes in the Apple store&amp;rsquo;s redesigned checkout form. According to Wroblewski, &amp;quot;&amp;hellip;retail sales data shows that Mac sales were up 21% year-over-year in the months of October and November. So it&amp;rsquo;s interesting to note that Apple&amp;rsquo;s primary online sales channel (Web-based checkout) was redesigned during this time.
+I wasn&#39;t surprised that the single page checkout form is an improvement over the paged version.</description>
+    </item>
+    
+  </channel>
+</rss>

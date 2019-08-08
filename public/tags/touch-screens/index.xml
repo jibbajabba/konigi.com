@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Touch Screens on Konigi</title>
+    <link>http://konigi.com/tags/touch-screens/</link>
+    <description>Recent content in Touch Screens on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/touch-screens/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Precomposed Touch Gestures</title>
+      <link>http://konigi.com/links/precomposed-touch-gestures/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/precomposed-touch-gestures/</guid>
+      <description>Aureus Wade&amp;rsquo;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.
+http://areuswade.com/precomposed-touch-gestures/</description>
+    </item>
+    
+    <item>
+      <title>Touch Notation</title>
+      <link>http://konigi.com/links/touch-notation/</link>
+      <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/touch-notation/</guid>
+      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&amp;rsquo;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
+The Touch Notation page provides PSD, AI, and OmniGraffle templates. I&#39;ve additionally created a Balsamiq Mockups version of the system on Mockups To Go.</description>
+    </item>
+    
+    <item>
+      <title>Sencha Touch HTML5 Mobile App Framework</title>
+      <link>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</link>
+      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</guid>
+      <description>Sencha Touch looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: GeoCongress (makes use of geolocation), Solitaire (drag and drop and flip animations), Kiva (provides iPad popover controls).
+Sencha Touch allows you to develop web apps that look and feel native on Apple iOS and Google Android touchscreen devices. It&#39;s built specifically to leverage HTML5, CSS3, and Javascript and makes use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline.</description>
+    </item>
+    
+    <item>
+      <title>GestureWorks Open Source Multitouch Gesture Library</title>
+      <link>http://konigi.com/links/gestureworks-open-source-multitouch-gesture-library/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/gestureworks-open-source-multitouch-gesture-library/</guid>
+      <description>GestureWorks is a multitouch authoring environment for Flash and Flex that ships with a library of over 20 unique gestures. This gesture library is built upon an open source gesture framework, allowing developers to customize and extend the “gesture object” to create support for new gestures. The library is available for GestureWorks, and posters in PNG, PDF and AI format are also provided.
+http://gestureworks.com/about/open-source-gesture-library/</description>
+    </item>
+    
+    <item>
+      <title>Touch Gesture Reference Guide</title>
+      <link>http://konigi.com/links/touch-gesture-reference-guide/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/touch-gesture-reference-guide/</guid>
+      <description>Luke Wroblewski&amp;rsquo;s Touch Gesture Reference Guide is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures.</description>
+    </item>
+    
+    <item>
+      <title>Gesturecons: Multi-Touch Icons</title>
+      <link>http://konigi.com/links/gesturecons-multi-touch-icons/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/gesturecons-multi-touch-icons/</guid>
+      <description>Gesture icons created for wireframing touch interfaces. High resolution multi-touch vector icons, scalable and alterable (.pdf, .ai, .eps file types.) Free for personal use, and commercial licenses are available.
+http://gesturecons.com/</description>
+    </item>
+    
+    <item>
+      <title>Kicker Studio: Touchscreen Stencils</title>
+      <link>http://konigi.com/links/kicker-studio-touchscreen-stencils/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/kicker-studio-touchscreen-stencils/</guid>
+      <description>Gesture stencils based on drawings Rachel Glaves did for the book, &amp;quot;Designing Gestural Interfaces,&amp;quot; suitable for using in documentation. The drawings are of hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread. Available in OmniGraffle, Illustrator, Photoshop, Fireworks and SVG formats.
+http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
+    </item>
+    
+    <item>
+      <title>Touchscreen Stencils</title>
+      <link>http://konigi.com/links/touchscreen-stencils/</link>
+      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/touchscreen-stencils/</guid>
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
+    </item>
+    
+    <item>
+      <title>iPhone GUI PSD</title>
+      <link>http://konigi.com/links/iphone-gui-psd/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/iphone-gui-psd/</guid>
+      <description>The iPhone GUI PSD by teehan+lax is an editable layered Photoshop file with graphic elements including the iPhone, buttons and controls, form inputs, and application chrome. Thanks to Designnotes for the tip.
+http://www.teehanlax.com/blog/?p=447</description>
+    </item>
+    
+  </channel>
+</rss>

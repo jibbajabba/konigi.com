@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+{{ range .Paginator.Pages }}
+  {{ .Render "list-node"}}
+{{ end }}
+<section class="pagination-block">
+{{ template "_internal/pagination.html" . }}
+</section>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on Konigi</title>
+    <link>http://konigi.com/tags/web-design/</link>
+    <description>Recent content in Web Design on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/web-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://konigi.com/links/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/concept-feedback-website-review-community/</guid>
+      <description>Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.</description>
+    </item>
+    
+    <item>
+      <title>Roberto Gadotti</title>
+      <link>http://konigi.com/designs/submissions/roberto-gadotti/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/roberto-gadotti/</guid>
+      <description>http://www.robertogadotti.it/</description>
+    </item>
+    
+    <item>
+      <title>Silverado Vineyards </title>
+      <link>http://konigi.com/designs/submissions/silverado-vineyards/</link>
+      <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/silverado-vineyards/</guid>
+      <description>Silverado Vineyards celebrates a new Flash website with an interactive vineyard map and gorgeous photo galleries on most wine, tours, and tasting pages to bring visitors to the heart of Sonoma County, online.
+http://www.silveradovineyards.com/vineyards/</description>
+    </item>
+    
+    <item>
+      <title>Zeroscale Web Design</title>
+      <link>http://konigi.com/designs/submissions/zeroscale-web-design/</link>
+      <pubDate>Sun, 23 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/zeroscale-web-design/</guid>
+      <description>http://www.zeroscale.co.uk</description>
+    </item>
+    
+    <item>
+      <title>Clarovision</title>
+      <link>http://konigi.com/designs/submissions/clarovision/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/clarovision/</guid>
+      <description>The ClaroVision.NET software platform is seamlessly bringing together digital television and personal digital content worlds, and enables access to myriads of Internet services on the living room TV. We help you to build fully integrated and market demanded media center products that are easy to use, provide visually attractive user experience, and incorporate your brand image and values. http://www.clarovision.com</description>
+    </item>
+    
+  </channel>
+</rss>

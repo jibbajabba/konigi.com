@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slide Transitions on Konigi</title>
+    <link>http://konigi.com/tags/slide-transitions/</link>
+    <description>Recent content in Slide Transitions on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/slide-transitions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profoto Breadcrumbs</title>
+      <link>http://konigi.com/interfaces/profoto-breadcrumbs/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/profoto-breadcrumbs/</guid>
+      <description>Profoto&#39;s take on the breadcrumb combines expanded menus for each branch to provide a drill-down method for navigating siblings, aunts, great-aunts, etc. It basically exposes the hierarchy of siblings at each level, and it&#39;s really most useful when you&#39;ve navigated deep into a hierarchy. It can get a little weird when you use these, because you have to remember that you&#39;re viewing siblings in the branch you&#39;re exposing. If you look at the last screenshot for the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Apple Support Email Button</title>
+      <link>http://konigi.com/interfaces/apple-support-email-button/</link>
+      <pubDate>Wed, 25 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/apple-support-email-button/</guid>
+      <description>The Apple Support site features a very simple &#34;email this page&#34; button in the upper right of the screen along with other tools like print and call support. The email widget starts out as an envelope icon. When clicked, the icon slides to the left and an input appears with a &#34;To&#34; label and a &#34;Send&#34; button. The user simply enters the recipients address and presses send. An AJAX progress spinner appears briefly, then a confirmation message, and the form collapses back to the icon.</description>
+    </item>
+    
+    <item>
+      <title>Apple Accordions</title>
+      <link>http://konigi.com/interfaces/apple-accordions/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/apple-accordions/</guid>
+      <description>Apple&#39;s accordion module provides a method for displaying a good deal of informational and promotional content without overwhelming the interface. The types of things that are displayed in these are accordions are usually supporting content, so the desire to use a design pattern that hides and shows these panels of content is useful. Only one panel is visible at a time, and hovering over or clicking a panel heading brings its content into view with a smooth slide transition.</description>
+    </item>
+    
+    <item>
+      <title>Panic Tabs and Carousel Panel</title>
+      <link>http://konigi.com/interfaces/panic-tabs-and-carousel-panel/</link>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/panic-tabs-and-carousel-panel/</guid>
+      <description>Panic&#39;s product page for Coda provides a hybrid interface utilizing both tabs along the top of the information panel, and arrows on the sides to slide through all of the pages in a carousel.
+1. The product information panel in the full page.2. Clicking the next arrow slides to the next panel in the carousel.3. Clicking a tab further to the right, slides all panels off to the left until the target page is reached.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Autos Carousel and Accordion Panel</title>
+      <link>http://konigi.com/interfaces/yahoo-autos-carousel-and-accordion-panel/</link>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/yahoo-autos-carousel-and-accordion-panel/</guid>
+      <description>Yahoo! Autos has uses a nice hybrid design pattern for promoting the different categories of top cars selected by users. Situated in the right hand column, the arrows at the upper right allow the user to slide through the different lists. The details for the top car are shown in an exposed panel of the accordion, and the titles of the remaining 4 are displayed as well with large number to indicate order.</description>
+    </item>
+    
+  </channel>
+</rss>

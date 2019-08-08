@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css Frameworks on Konigi</title>
+    <link>http://konigi.com/tags/css-frameworks/</link>
+    <description>Recent content in Css Frameworks on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/css-frameworks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>960 grid template for OmniGraffle</title>
+      <link>http://konigi.com/links/960-grid-template-omnigraffle/</link>
+      <pubDate>Mon, 07 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/960-grid-template-omnigraffle/</guid>
+      <description>I’m a big fan of increasing efficiency and consistency from conceptual design to implementation. This OmniGraffle template has helped me quite a bit in that regard, and I decided to share it with others.
+http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/</description>
+    </item>
+    
+    <item>
+      <title>The 1Kb CSS Grid</title>
+      <link>http://konigi.com/links/1kb-css-grid/</link>
+      <pubDate>Sat, 20 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/1kb-css-grid/</guid>
+      <description>The 1KB Grid is a simple, lightweight CSS framework that weighs in at 1K and handles fixed or fluid layouts. More info here.
+http://www.1kbgrid.com/</description>
+    </item>
+    
+    <item>
+      <title>Boks: Visual Grid Editor</title>
+      <link>http://konigi.com/links/boks-visual-grid-editor/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/boks-visual-grid-editor/</guid>
+      <description>Boks is a cross-platform AIR app for visually creating grids using the Blueprint CSS framework. The app provides an inspector for setting up the page, column and gutter widths, provides typography settings for setting the vertical rhythm of your text, and generates the CSS and grid background image for you to export. Once your grid is set, draw sections in your grid, add lorem ipsum greeking, and the export file will include an HTML template with all of your divs laid out for you.</description>
+    </item>
+    
+    <item>
+      <title>CSScaffold</title>
+      <link>http://konigi.com/links/csscaffold/</link>
+      <pubDate>Tue, 17 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/csscaffold/</guid>
+      <description>Anthony Short produced a video demonstration of CSScaffold, a CSS framework takes the structural principles and architecture of current grid systems like Blueprint and the generation engine of Shaun Inman&amp;rsquo;s CSS Cacheer, and creates a CSS Grid System Builder that lets you define the rules for your layouts using meaningfully named CSS ids and classes, and automatically generates the grid system to those rules. It&amp;rsquo;s a framework that lets you focus on fitting the CSS to your design, rather than the reverse, and gives you the ability to focus on meaningful abstractions and naming rather than structural ones, so you can easily make changes in the future.</description>
+    </item>
+    
+    <item>
+      <title>960 Grid System</title>
+      <link>http://konigi.com/links/960-grid-system/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/960-grid-system/</guid>
+      <description>The 960 Grid System is a CSS Framework based on 960px width and can be used with 12 or 16 column grid. 12 column grid uses 60 px wide columns and 16 column grid is used with 40 px columns. Each has 10px gutters on either side or 20px combined between columns. 960 px was chosen as a base number because it is divisible by 2, 3, 4, 5, 6, 8, 10, 12, 15, 16, 20, 24, 30, 32, 40, 48, 60, 64, 80, 96, 120, 160, 192, 240, 320 and 480.</description>
+    </item>
+    
+  </channel>
+</rss>

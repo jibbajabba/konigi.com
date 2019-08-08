@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Email Notification on Konigi</title>
+    <link>http://konigi.com/tags/email-notification/</link>
+    <description>Recent content in Email Notification on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/email-notification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zerply Email Notifications Settings</title>
+      <link>http://konigi.com/interfaces/zerply-email-notifications-settings/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/zerply-email-notifications-settings/</guid>
+      <description>Simple things appeal to me. I like the simplicity of being able to usubscribe immediately. Zerply goes the extra mile and not only gives me options to never get email notifications via links in the notification itself, but also to change the frequency of updates. Nice.
+1. Email notification from Zerply.2. Update frequency settings in the bottom. Click and you&amp;rsquo;re done.
+http://zerply.com/</description>
+    </item>
+    
+  </channel>
+</rss>

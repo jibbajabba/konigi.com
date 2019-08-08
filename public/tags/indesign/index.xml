@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indesign on Konigi</title>
+    <link>http://konigi.com/tags/indesign/</link>
+    <description>Recent content in Indesign on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/indesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EightShapes Unify: Wireframes Preview</title>
+      <link>http://konigi.com/blog/eightshapes-unify-wireframes-preview/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/eightshapes-unify-wireframes-preview/</guid>
+      <description>EightShapes demonstrates the Adobe InDesign system for wireframing within their Unify Framework.
+http://unify.eightshapes.com/wireframes/wireframes-preview/</description>
+    </item>
+    
+    <item>
+      <title>Adobe Launches CS4 Suite of Applications</title>
+      <link>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</guid>
+      <description>Ars rounds up the new features in the forthcoming release of the Adobe CS4 suite to be released sometime next month. I think I&#39;ll have to upgrade for the multipage docs in Illustrator alone.
+Photoshop CS4
+ * GPU-based drawing of documents onscreen
+* 64-bit for Windows
+* Expanded 3-D paint, lighting and rendering tools
+Illustrator CS4
+ * Multipage documents with different sizes
+* Indesign-style separations preview
+* Many updated tools like gradient and blob brush</description>
+    </item>
+    
+  </channel>
+</rss>

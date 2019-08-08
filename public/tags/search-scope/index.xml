@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Scope on Konigi</title>
+    <link>http://konigi.com/tags/search-scope/</link>
+    <description>Recent content in Search Scope on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/search-scope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kontain Search</title>
+      <link>http://konigi.com/interfaces/kontain-search/</link>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/kontain-search/</guid>
+      <description>Kontain is a social media site for sharing photos, video, and music. The site provides a large, simple search form at the top of most aggregate pages, and a pared down version of the search form in the upper right corner of single asset pages. A pull down menu to the right of the search input displays options for searching everything, or restricting to media types, users, or just updates. The options are displayed as circles, and should function as radios.</description>
+    </item>
+    
+    <item>
+      <title>New York Magazine Search</title>
+      <link>http://konigi.com/interfaces/new-york-magazine-search/</link>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/new-york-magazine-search/</guid>
+      <description>New York Magazine provides a site search form in the header with options to limit the scope of search, and features advanced filtering options on results page. The results page is simple on the surface, but provides powerful filtering options in the sidebar. The search strategy is shown with actions for removing terms from the search or clear all.
+I found some of the behaviors on filtering options to be inconsistent with others.</description>
+    </item>
+    
+    <item>
+      <title>iStockphoto Search</title>
+      <link>http://konigi.com/interfaces/istockphoto-search/</link>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/istockphoto-search/</guid>
+      <description>iStockphoto takes a rather approach to search that offers plenty of options. When the user is logged out, they&#39;re presented with a search form on the front page with options that appear when the input is in focus. The user may then select typical options, e.g. size under photos, number of credits under illustration, format for video. On the results page, a simpler search form is displayed at the top of the page.</description>
+    </item>
+    
+  </channel>
+</rss>

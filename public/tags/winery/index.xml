@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winery on Konigi</title>
+    <link>http://konigi.com/tags/winery/</link>
+    <description>Recent content in Winery on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 May 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/winery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chateau Ste. Michelle</title>
+      <link>http://konigi.com/designs/submissions/chateau-ste-michelle/</link>
+      <pubDate>Wed, 06 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/chateau-ste-michelle/</guid>
+      <description>The online brand re-invention of highly regarded Ste Michelle Wine Estates hits full stride with FINE Design Group&amp;rsquo;s launch of the Chateau Ste Michelle site at http://www.ste-michelle.com/. Dramatic images of the Pacific Northwest&amp;rsquo;s most renowned wineries combines with functionality like events calendars, retailer locators, reviews search, interactive maps, wine browsing, to bring the Chateau Ste Michelle family of brands to life.
+http://www.ste-michelle.com/</description>
+    </item>
+    
+  </channel>
+</rss>

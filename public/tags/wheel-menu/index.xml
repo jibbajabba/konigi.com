@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wheel Menu on Konigi</title>
+    <link>http://konigi.com/tags/wheel-menu/</link>
+    <description>Recent content in Wheel Menu on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/wheel-menu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wikipedia Roll Clusters and Wheel Menus</title>
+      <link>http://konigi.com/interfaces/wikipedia-roll-clusters-and-wheel-menus/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/wikipedia-roll-clusters-and-wheel-menus/</guid>
+      <description>Wikipedia Roll, a Flash-based Wikipedia browsing application attempts to help provide better exploration of Wikipedia entries by doing some content/link analysis and clustering topics and sub-topics related to the retrieved entry. The screen above shows the entry for &#34;interaction design.&#34; You can see that the links occurring in the article, and presumably, other related topics are grouped into clusters that can be further explored. Each cluster provides a wheel tool for spinning through the group&#39;s available terms.</description>
+    </item>
+    
+  </channel>
+</rss>

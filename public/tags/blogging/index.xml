@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Konigi</title>
+    <link>http://konigi.com/tags/blogging/</link>
+    <description>Recent content in Blogging on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Going Slow</title>
+      <link>http://konigi.com/blog/going-slow/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/going-slow/</guid>
+      <description>The New York Times fashion section article, &amp;ldquo;Blogging at a Snail&amp;rsquo;s Pace&amp;rdquo; discusses slow blogging, a near Ludd-like movement against the practice of posting quick and in high volume. It&amp;rsquo;s like slow food versus fast food. Slow bloggers discard the belief that webloggers need to post often, because the reflectiveness of thought and quality of writing suffer. When comparing the slow versus fast differences, Barbara Ganley, a blogger who writes from Vermont had this to say.</description>
+    </item>
+    
+    <item>
+      <title>OnSugar Site Publishing</title>
+      <link>http://konigi.com/interfaces/onsugar-site-publishing/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/onsugar-site-publishing/</guid>
+      <description>Sugar Inc. releases the OnSugar Blogging platform to let Sugar community members start their own sites. Based on the Drupal platform, OnSugar provides some very nice modifications to clean up and simplify the posting and content management interfaces provided by the popular open source CMS. What I like most about what they&#39;ve done with Drupal is the clean tabbed UI for content creation, the media embedding options for inserting images from Getty, ShopStyle, and Fashion week photos, and the excellent spread editor.</description>
+    </item>
+    
+  </channel>
+</rss>

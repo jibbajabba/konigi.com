@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagination on Konigi</title>
+    <link>http://konigi.com/tags/pagination/</link>
+    <description>Recent content in Pagination on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autoblog Pagination</title>
+      <link>http://konigi.com/interfaces/autoblog-pagination/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/autoblog-pagination/</guid>
+      <description>Autoblog&#39;s photo galleries feature beautiful, large automobile photos. Each gallery shows large beveled previous/next buttons above and below the photo, with a [current photo]/[total photos] indicator above. Below, a strip of thumbnails shows the full list of images in the gallery. An indicator of the current photo in that strip, e.g. with a special border treatment would ice the cake.
+ http://www.autoblog.com/gallery</description>
+    </item>
+    
+    <item>
+      <title>MSNBC Spectra Visual Newsreader Carousel</title>
+      <link>http://konigi.com/interfaces/msnbc-spectra-visual-newsreader-carousel/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/msnbc-spectra-visual-newsreader-carousel/</guid>
+      <description>MSNBC.com&#39;s Spectra Visual Newsreader provides an interesting way of visually presenting channels of content from the massive news site. Adding channels drops media cards into the screen and rotates them in a 3D carousel. Below the vortext of cards, a hybrid pagination scrollbar, which bests Apple&#39;s concept, allows the user to select cards to view one at a time. Previous/Next arrows allow linear progression. A helpful [current card]/[total cards] indicator is shown on the scroll bar.</description>
+    </item>
+    
+    <item>
+      <title>iTunes Pagination</title>
+      <link>http://konigi.com/interfaces/itunes-pagination/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/itunes-pagination/</guid>
+      <description>The iTunes Store has 3 different pagination controls it uses in different places. The most common method for paging through a series of items is to show a carousel on the main pages, with prev/next arrow icons to shuffle through sets of 3-4. On special featured modules with larger poster image thumbnails they use coverflow with their hybrid scrollbar which has arrows that increment one item at a time, or allow you to scroll to move through larger increments.</description>
+    </item>
+    
+    <item>
+      <title>Previous and Next Actions in Web Forms</title>
+      <link>http://konigi.com/blog/previous-and-next-actions-web-forms/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/previous-and-next-actions-web-forms/</guid>
+      <description>Nice short article in UIE by Luke Wroblewski illustrating the issues to think of when designing previous/next buttons in forms. http://www.uie.com/articles/previous_next_luke</description>
+    </item>
+    
+    <item>
+      <title>Flickr Pagination</title>
+      <link>http://konigi.com/interfaces/flickr-pagination/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/flickr-pagination/</guid>
+      <description>Pagination is often overlooked as a minor detail. Good pagination gives the user a sense of how many pages of content, e.g. search results or gallery pages, are available to view and makes it obvious how to navigate those pages. It indicates the current page, provides link targets to advance or go backward, provides a shortcuts to jump to the start of the list, and indicates how many pages are left in the list, and possibly how many items are found in the pages.</description>
+    </item>
+    
+    <item>
+      <title>Kurafire and Smashing Mag on Pagination</title>
+      <link>http://konigi.com/blog/kurafire-and-smashing-mag-pagination/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/kurafire-and-smashing-mag-pagination/</guid>
+      <description>Faruk Ateş provides some suggestions for implementing pagination, all of which I would agree with. After the suggestion list, Ateş shows quite a few examples and discusses what&#39;s good and bad about them. There&#39;s a huge list of examples on Smashing Magazine as well, although some of them are a little fussy.
+Oddly enough, while a few of the examples show the method of using an ellipsis plus the last few page numbers as a way to show number of pages, Ateş doesn&#39;t count that as a recommended practice.</description>
+    </item>
+    
+    <item>
+      <title>Issuu Pagination</title>
+      <link>http://konigi.com/interfaces/issuu-pagination/</link>
+      <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/issuu-pagination/</guid>
+      <description>Issuu is an online self-publishing service that allows users to create e-magazines and books that are displayed in their slick Flash reader. The service also provides social features around the content. One of the nicest things about the reader is the usable pagination. The reader features the typical next/previous and jump to page features you&#39;d find in an ebook or PDF reader. They also provide some features that are similar to the browsing experience with Preview, the Dock, and QuickLook in the Mac, utilizing miniature thumbnails of pages to scroll through pages.</description>
+    </item>
+    
+  </channel>
+</rss>

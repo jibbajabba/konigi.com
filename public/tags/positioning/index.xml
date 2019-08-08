@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Positioning on Konigi</title>
+    <link>http://konigi.com/tags/positioning/</link>
+    <description>Recent content in Positioning on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/positioning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the close tab behaviour in Google Chrome</title>
+      <link>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</link>
+      <pubDate>Thu, 10 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/about-close-tab-behaviour-google-chrome/</guid>
+      <description>Basil Safwat does a very thorough comparison of the the tabs in Mac Safari and Chrome, pointing out the subtleties in the close button positioning and behavior. While Mac close icons are on the left by convention, Chrome positions them to the right of the tab and keeps them visible, while Safari positions them to the left and only displays the close icon on hover. I initially had to relearn the close button position because Firefox also places them on the right.</description>
+    </item>
+    
+  </channel>
+</rss>

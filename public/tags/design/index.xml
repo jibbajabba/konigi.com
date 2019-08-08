@@ -1,0 +1,2508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Konigi</title>
+    <link>http://konigi.com/tags/design/</link>
+    <description>Recent content in Design on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relay.io Design Sharing via Slack</title>
+      <link>http://konigi.com/links/relay-io-design-sharing-via-slack/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/relay-io-design-sharing-via-slack/</guid>
+      <description>Relay looks like it&amp;rsquo;ll be a nice design communication tool for teams using Slack. Capture screens directly from Adobe CC, Sketch, Chrome, or anything else on your screen and it&amp;rsquo;ll be ready for critique in Slack, with comments and annotation.
+(Hatip Leon)</description>
+    </item>
+    
+    <item>
+      <title>99u Conference Notes: Quirky Studio Visit with Ben Kaufman</title>
+      <link>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</link>
+      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/99u-conference-notes-quirky-studio-visit-ben-kaufman/</guid>
+      <description>A group of 99u attendees had a visit with Ben Kaufman, the CEO/founder of product development company Quirky, who gave us a look into how his company uses crowd-sourcing to deliver products. Here are some of my notes from that visit. More 99u notes to follow.
+Kaufman got his start as an inventor in high school when he made a lanyard to hold an iPod shuffle. The company he started to ship this product later morphed into Mophie, the maker of the JuiceBox battery case.</description>
+    </item>
+    
+    <item>
+      <title>How might we...</title>
+      <link>http://konigi.com/blog/how-might-we/</link>
+      <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/how-might-we/</guid>
+      <description>We know that starting with why is important to product design, but what comes next? &#34;How&#34; would definitely come soon after. But there are many ways to propose how to begin exploring possibilities. The 99u points to a number of questions to ask before starting a project, and how language matters. They refer to Warren Berger&#39;s article in the Harvard Business Review about one of the questions top innovators ask when confronted with a design challenge.</description>
+    </item>
+    
+    <item>
+      <title>Frontify: Design review, documentation, and specification app</title>
+      <link>http://konigi.com/links/frontify-design-review-documentation-and-specification-app/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/frontify-design-review-documentation-and-specification-app/</guid>
+      <description>Frontify looks like an interesting SaaS product for design teams. It provides collaborative features for getting design feedback, creating specifications, documentation and style guides, and linking pages together.
+The commenting and linking features are what you&#39;d expect, but what I was really impressed with are the measures, colors, and typography tools for generating style guides. Very nicely done. There are additional capabilities for code export &amp;amp; integration with their API.</description>
+    </item>
+    
+    <item>
+      <title>Macaw: Code-savvy web design tool</title>
+      <link>http://konigi.com/links/macaw-code-savvy-web-design-tool/</link>
+      <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/macaw-code-savvy-web-design-tool/</guid>
+      <description>Macaw is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.
+There are some great optimizations for nudging/pudging on a grid, and for setting properties that make sense for css—thinking of positioning and dimensions.
+The outline view is a nice way to browse through all the groups in the document and adding container tags and/or classes for semantic html publishing.</description>
+    </item>
+    
+    <item>
+      <title>GoodUI Newsletter: Ideas for getting good conversion rates</title>
+      <link>http://konigi.com/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</link>
+      <pubDate>Thu, 11 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/goodui-newsletter-ideas-getting-good-conversion-rates/</guid>
+      <description>Jakub Linowski, creator of Wireframes Magazine just started writing a newsletter called Good UI on how to design sites that are easy to use and also yield high conversion rates.
+He&#39;s looking at how to employ practical ideas that satisfy the business side as well as the people using it, which I&#39;m sure is something we all want to do on sites that sell a product or service. He plans to publish the newsletter monthly.</description>
+    </item>
+    
+    <item>
+      <title>IPEVO Ziggi Review</title>
+      <link>http://konigi.com/links/ipevo-ziggi-review/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ipevo-ziggi-review/</guid>
+      <description>Have you ever done the dance of holding a sketch up to your computer&amp;rsquo;s webcam or taken pictures of them with your iPhone to email to yourself or to colleagues? I&amp;rsquo;ve done that sort of thing for all of the years that I&amp;rsquo;ve worked remotely on design and development teams, because scanners get tired real fast. Frustrated with this process, I had largely given up, until a few months ago when I was looking for tools to share work on paper between students and teachers.</description>
+    </item>
+    
+    <item>
+      <title>Your app is a collection of tiny details</title>
+      <link>http://konigi.com/blog/your-app-collection-tiny-details/</link>
+      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid>
+      <description>&#34;Getting the details right is the difference between something that delights, and something customers tolerate.&#34;
+&amp;#8212;Jeff Atwood
+I didn&#39;t read Jeff Atwood&#39;s article about cat feeders right away, because it really is 90% about a cat product. It&#39;s also a terrific demonstration of what he&#39;s saying above. The first version of the product, a cat feeder, served a core need well enough for him to satisfice with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it.</description>
+    </item>
+    
+    <item>
+      <title>Realizing Empathy: An Inquiry into the Meaning of Making</title>
+      <link>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</link>
+      <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</guid>
+      <description>Seung Chan Lim, better known as Slim, spent 10 years making software, working in computer science and interaction design at MAYA Design where he was the Assistant Director of Engineering. After some soul searching he began to ask why he was doing what he was doing, and at the suggestion of a mentor, he went out to do something different, something he didn&amp;rsquo;t understand. He went to art school.</description>
+    </item>
+    
+    <item>
+      <title>Omnigraffle Stencil for Twitter Bootstrap 2</title>
+      <link>http://konigi.com/links/omnigraffle-stencil-twitter-bootstrap-2/</link>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/omnigraffle-stencil-twitter-bootstrap-2/</guid>
+      <description>The team at Viget have created a free OmniGraffle stencil for designing interfaces with Twitter Bootstrap.
+http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/</description>
+    </item>
+    
+    <item>
+      <title>Offscreen Magazine</title>
+      <link>http://konigi.com/blog/offscreen-magazine/</link>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/offscreen-magazine/</guid>
+      <description>Offscreen is a print magazine that takes an in-depth look at the life and work of people that create websites and apps. They&amp;rsquo;re interested in telling the less obvious human stories of creativity, passion and hard work that hide behind every interface.
+The first issue includes conversations with web standards wizard Dan Cederholm, all-round-talent Drew Wilson, former last.fm design lead Hannah Donovan, 37signals&#39; designer and product manager Ryan Singer, design entrepreneur Andrew Wilkinson and pixel-perfectionist Benjamin de Cock.</description>
+    </item>
+    
+    <item>
+      <title>Design is the fundamental soul of a human-made creation</title>
+      <link>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</link>
+      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</guid>
+      <description>Adam Pritzker deftly combined this image of an Apple I and this Steve Jobs quote on design from an interview in 2000 that appeared in Fortune.
+“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.</description>
+    </item>
+    
+    <item>
+      <title>Letting Go</title>
+      <link>http://konigi.com/blog/letting-go/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/letting-go/</guid>
+      <description>Two great slides from Yiibu&#39;s presentation, Letting Go, a talk about design in an time of increasing disruption.
+ &#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;
+&amp;#8212; Martin Thomas in &#34;Loose: The Future of Business is Letting Go&#34;</description>
+    </item>
+    
+    <item>
+      <title>Why The Valley Wants Designers That Can Code</title>
+      <link>http://konigi.com/blog/why-valley-wants-designers-can-code/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/why-valley-wants-designers-can-code/</guid>
+      <description>Jared Spool talks about why designers who code are popular in Silicon Valley right now, and for the most part, it boils down to this. Small software and web startups value and are able to use a broader range of skillsets, because one of the highest priorities, especially for bootstrapped startups, is to ship while lean on resources.
+Jared notes that those who don&#39;t think designers should know how to code say this dilutes the designer&#39;s value.</description>
+    </item>
+    
+    <item>
+      <title>Have a nice day</title>
+      <link>http://konigi.com/blog/have-nice-day/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/have-nice-day/</guid>
+      <description>Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
+Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
+I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with.</description>
+    </item>
+    
+    <item>
+      <title>Refactoring for designers</title>
+      <link>http://konigi.com/blog/refactoring-designers/</link>
+      <pubDate>Thu, 13 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/refactoring-designers/</guid>
+      <description>Ryan Singer at 37signals explains code refactoring to designers so that they can use it correctly in a design context.
+Designers sometimes use the word “refactor” in a loose way. I think they overhear the word from programmers without getting the precise meaning. This article will introduce the term to designers so they can gain the same advantages that programmers have from a clear understanding.
+How do designers loosely understand refactoring?</description>
+    </item>
+    
+    <item>
+      <title>Sarah Sampsel on Designing The Washington Post for iPad</title>
+      <link>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</link>
+      <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</guid>
+      <description>Sarah Sampsel wrote about designing the Washington Post iPad app, in 2 entries describing a little bit about the process. The first entry describes the types of interaction, visual design, and brand issues she had to consider when designing for the device. The second shows a few wireframes of the evolution of the home screen design.
+Would have been lovely to also see some of the sketches, but it&#39;s awesome that Sarah shared not just final wireframes, but a series of wireframes showing the iterations.</description>
+    </item>
+    
+    <item>
+      <title>Overhauling Balsamiq.com</title>
+      <link>http://konigi.com/blog/overhauling-balsamiqcom/</link>
+      <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/overhauling-balsamiqcom/</guid>
+      <description>We launched an overhauled Balsamiq.com this week and I wrote about the effort. In addition to doing interface design on the product (myBalsamiq mostly up to now) I also get to be the &amp;quot;webmaster.&amp;quot; :) What that means in our small startup is doing the user research, interface design, visual design, and front end development. If you know me, you know that I dig getting to do more than one thing, so that&amp;rsquo;s a win.</description>
+    </item>
+    
+    <item>
+      <title>visualizing.org</title>
+      <link>http://konigi.com/blog/visualizingorg/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/visualizingorg/</guid>
+      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:
+It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
+    </item>
+    
+    <item>
+      <title>Review: Sync design comps to iPhone</title>
+      <link>http://konigi.com/links/review-sync-design-comps-iphone/</link>
+      <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/review-sync-design-comps-iphone/</guid>
+      <description>Review is a simple app to review your visual design comps on the iPhone. You install an app on your mac and an app on your iPhone and pair the two. On the Mac, drop images into Review, and they&amp;rsquo;re synced with the iPhone for previewing at full screen.
+http://www.getreviewapp.com/</description>
+    </item>
+    
+    <item>
+      <title>Exclusive Reels</title>
+      <link>http://konigi.com/designs/submissions/exclusive-reels/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/exclusive-reels/</guid>
+      <description>The team over at mediumrare (www.mrare.ca) are proud to launch their latest site - Exclusive Reels.
+http://www.exclusivereels.com/</description>
+    </item>
+    
+    <item>
+      <title>elegant web</title>
+      <link>http://konigi.com/designs/submissions/elegant-web/</link>
+      <pubDate>Tue, 11 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/elegant-web/</guid>
+      <description>http://www.elegantweb.com</description>
+    </item>
+    
+    <item>
+      <title>Salacious Swapping on Design Swap</title>
+      <link>http://konigi.com/blog/salacious-swapping-design-swap/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/salacious-swapping-design-swap/</guid>
+      <description>I love the idea of Design Swap, even if it reminds me of Wife Swap, key parties, the swinging &amp;lsquo;70s and that movie Ice Storm. It&amp;rsquo;s better, because it&amp;rsquo;s an exhibitionist, one-to-one CSS Zen Garden style swap of designs between two designer&amp;rsquo;s sites. And we get to be the voyeurs. Salacious.
+It&#39;s a shame that they didn&#39;t pick up on the wife swap theme like I did, and go with a &#39;70s disco, swinging aesthetic.</description>
+    </item>
+    
+    <item>
+      <title>The iPad is a Toy</title>
+      <link>http://konigi.com/blog/ipad-toy/</link>
+      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ipad-toy/</guid>
+      <description>&amp;ldquo;Apple said Monday that it sold more than 300,000 iPads on the day of its launch, ushering in a new era of people buying things to find out what they are.&amp;rdquo; &amp;ndash; Seth Meyer for Weekend Update on SNL.
+ I knew that it would be much more like an iPod Touch than a Mac netbook. But what I didn&amp;rsquo;t know until I &amp;ldquo;found out what it really was,&amp;rdquo; to quote Seth Meyer, was that it is for me better and more than I want from a netbook.</description>
+    </item>
+    
+    <item>
+      <title>The Pineapple Thief</title>
+      <link>http://konigi.com/designs/submissions/pineapple-thief/</link>
+      <pubDate>Sat, 17 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/pineapple-thief/</guid>
+      <description>Brown &amp;amp; White launches the new site for rock band The Pineapple Thief to promote their 8th studio album. The whole site was built on the wordpress platform… oh and almost forgot to mention the album art was designed by the legendary Storm Thorgerson.
+http://www.pineapplethief.com</description>
+    </item>
+    
+    <item>
+      <title>Alan van Roemburg</title>
+      <link>http://konigi.com/designs/submissions/alan-van-roemburg/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/alan-van-roemburg/</guid>
+      <description>A Melbourne based designer, specialising in graphic design, web design and icons.
+http://alanvanroemburg.com</description>
+    </item>
+    
+    <item>
+      <title>Only Two Designers</title>
+      <link>http://konigi.com/designs/submissions/only-two-designers/</link>
+      <pubDate>Thu, 25 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/only-two-designers/</guid>
+      <description>http://www.only2designers.com</description>
+    </item>
+    
+    <item>
+      <title>iPad Templates and Stencils</title>
+      <link>http://konigi.com/blog/ipad-templates-and-stencils/</link>
+      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ipad-templates-and-stencils/</guid>
+      <description>Emily Chang rounds up the offering of iPad UI stencils. Some nice OmniGraffle and Photoshop sets in there.
+http://emilychang.com/2010/03/ipad-templates-and-stencils/</description>
+    </item>
+    
+    <item>
+      <title>All the Right Way to Wireframe Videos</title>
+      <link>http://konigi.com/blog/all-right-way-wireframe-videos/</link>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid>
+      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&amp;rsquo; approaches. The right way? There isn&amp;rsquo;t one right way. That&amp;rsquo;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
+   Todd Zaki Warfel
+
+ Russ Unger
+ Fred Beecher</description>
+    </item>
+    
+    <item>
+      <title>Typograph</title>
+      <link>http://konigi.com/blog/typograph/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typograph/</guid>
+      <description>Iain Lamb&amp;rsquo;s Typograph is cool tool that allows you to explore the relationship between scale and rhythm by modifying the properties of typographic elements in a page of sample text.
+It sets out to explore how two, intertwined concepts, often playful but sometimes cheeky, can be encouraged to dance in web pages. Drag the colored boxes along the scale to throw these words anew. For the most part, this text is just a libretto for the performance you are about to play upon it.</description>
+    </item>
+    
+    <item>
+      <title>Silverado Vineyards </title>
+      <link>http://konigi.com/designs/submissions/silverado-vineyards/</link>
+      <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/silverado-vineyards/</guid>
+      <description>Silverado Vineyards celebrates a new Flash website with an interactive vineyard map and gorgeous photo galleries on most wine, tours, and tasting pages to bring visitors to the heart of Sonoma County, online.
+http://www.silveradovineyards.com/vineyards/</description>
+    </item>
+    
+    <item>
+      <title>Ultimate Guide To Grid-Based Web Design</title>
+      <link>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</link>
+      <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
+      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.
+Via @zakiwarfel
+http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html</description>
+    </item>
+    
+    <item>
+      <title>Webgriffe</title>
+      <link>http://konigi.com/designs/submissions/webgriffe/</link>
+      <pubDate>Fri, 30 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/webgriffe/</guid>
+      <description>The portfolio site of the Webgriffe does an excellent job highlighting the work of a web agency with interests in both the fashion and design trends. The site immerse the user in a business catwalk video on the background. The studio worked hard to realize a SEO friendly dinamic flash site with deep linking navigation and high attention to usability.
+http://www.webgriffe.com</description>
+    </item>
+    
+    <item>
+      <title>Michael Bierut: 5 Secrets from 86 Notebooks</title>
+      <link>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</link>
+      <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
+      <description>This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
+Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &amp;ldquo;the sicker, the better.&amp;rdquo; Digging into the 86 notebooks he&amp;rsquo;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
+    </item>
+    
+    <item>
+      <title>Just add an egg: Usability, User Experience and Dramaturgy</title>
+      <link>http://konigi.com/blog/just-add-egg-usability-user-experience-and-dramaturgy/</link>
+      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/just-add-egg-usability-user-experience-and-dramaturgy/</guid>
+      <description>Harry Brignull quotes a passage from Susan Marks&amp;rsquo; Finding Betty Crocker to tell the story of how the cake mix maker used a clever bit of imagination about the process of using their product to give customers the feeling of playing a desirable role&amp;ndash;that of home-maker and cook. They did this by simply requiring that real eggs be used in making cakes, rather than incorporating powered egg, and marketed this as a benefit.</description>
+    </item>
+    
+    <item>
+      <title>Showcase of Web Design in Russia</title>
+      <link>http://konigi.com/blog/showcase-web-design-russia/</link>
+      <pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/showcase-web-design-russia/</guid>
+      <description>As part of Smashing Mag&amp;rsquo;s Global Web Design series, they&amp;rsquo;ve created a showcase of Russian Web Design with Designcollector&amp;rsquo;s Arseny Vesnin providing the commentary.
+http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</description>
+    </item>
+    
+    <item>
+      <title>Timeline Views of the News</title>
+      <link>http://konigi.com/blog/timeline-views-news/</link>
+      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/timeline-views-news/</guid>
+      <description>Viget&amp;rsquo;s Peyton Crump has collected screenshots from his research on data-driven timelines of news.
+http://www.viget.com/inspire/timeline-views-of-the-news/</description>
+    </item>
+    
+    <item>
+      <title>Caterina Fake on why working hard is overrated</title>
+      <link>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
+      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&amp;rsquo;t as important as working on the right things. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;
+Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be.</description>
+    </item>
+    
+    <item>
+      <title>John Maeda on Simplicity at Apple, and the Future of Design</title>
+      <link>http://konigi.com/blog/john-maeda-simplicity-apple-and-future-design/</link>
+      <pubDate>Fri, 25 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/john-maeda-simplicity-apple-and-future-design/</guid>
+      <description>John Maeda wrote a short article for Huffington Post about simplicity and humanizing design, what it has meant for the software developed on Apple products, and what it means for the future. The respect so many designers have for Apple is possibly bourne out of reverence for the philosophies that lead to reduction, simplicity, and the humanizing of user interfaces. Maeda talks about Jonathan Ive in this regard, citing his ability to make something real and human by getting his hands dirty.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Removes Rounded Corners</title>
+      <link>http://konigi.com/blog/facebook-removes-rounded-corners/</link>
+      <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/facebook-removes-rounded-corners/</guid>
+      <description>It&amp;rsquo;s not terribly newsworthy, but Facebook&amp;rsquo;s design team announced that they&amp;rsquo;ve stopped rounding corners on all elements. I noticed, however, that they kept the slight (3px?) rounding of names in the To: field of the messaging section. That somehow feels like a natural place for an exception to rounding corners for some reason. You know, so you don&amp;rsquo;t get impaled when backspacing in the field. Kidding. This is a quote from their announcement.</description>
+    </item>
+    
+    <item>
+      <title>Managing UI Complexity</title>
+      <link>http://konigi.com/blog/managing-ui-complexity/</link>
+      <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/managing-ui-complexity/</guid>
+      <description>Brandon Walkin&amp;rsquo;s article &amp;ldquo;Managing UI Complexity&amp;rdquo; offers some excellent pointers or reminders of concepts and techniques that help reduce complexity in an interface, including progressive diclosure, contextual actions, aligment and hierarchy. There&amp;rsquo;s an abundance of examples with screenshots and deconstruction of interfaces to demonstrate the techniques in practice.
+http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/</description>
+    </item>
+    
+    <item>
+      <title>Bill C. English</title>
+      <link>http://konigi.com/designs/submissions/bill-c-english/</link>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/bill-c-english/</guid>
+      <description>Online portfolio and journal of UI and web designer Bill C. English.
+http://billcenglish.com</description>
+    </item>
+    
+    <item>
+      <title>Icons for Interaction</title>
+      <link>http://konigi.com/blog/icons-interaction/</link>
+      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/icons-interaction/</guid>
+      <description>This is the presentation from Jon Hicks&amp;rsquo; @media 2009 Icons for Interation talk in London, which includes speaking notes for every slide. Hicks demonstrates effective design and strategies for use, providing plenty of examples, and a link list that points to the resources and tips mentioned. You can download the PDF of the talk.
+http://hicksdesign.co.uk/journal/icons-for-interaction</description>
+    </item>
+    
+    <item>
+      <title>Realizations of Rounded Rectangles</title>
+      <link>http://konigi.com/blog/realizations-rounded-rectangles/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/realizations-rounded-rectangles/</guid>
+      <description>Plasq designer, Keith Lang, recounts the story from computer folklore of how the rounded rectangle came to dominate the Mac OS, and discusses its effect on visual cognition. He gets Professor Jürg Nänni, author of Visual Perception to offer his opinion.
+A rectangle with sharp edges takes indeed a little bit more cognitive visible effort than for example an ellipse of the same size. Our “fovea-eye” is even faster in recording a circle.</description>
+    </item>
+    
+    <item>
+      <title>So you&#39;re thinking about becoming a designer?</title>
+      <link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid>
+      <description>Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:
+So you’re thinking about becoming a designer? If I could tell you only one thing about going into the field, my advice would be ___________ .
+ The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. Focus on empathy and understanding problems  Being empathetic helps designers create things that move people.</description>
+    </item>
+    
+    <item>
+      <title>That design is money! Pentagram redesigns an ATM UI</title>
+      <link>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</link>
+      <pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</guid>
+      <description>Holger Struppek has written an article describing the design and prototyping process for the redesign of the Wells Fargo ATM user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.
+The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design.</description>
+    </item>
+    
+    <item>
+      <title>100 Years of Design Manifestos</title>
+      <link>http://konigi.com/blog/100-years-design-manifestos/</link>
+      <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/100-years-design-manifestos/</guid>
+      <description>Social Design Notes has collected a list of design manifestos from the past 100 years, largely drawn from Mario Piazza’s presentation at the Più Design Può conference in Florence. Since the days of radical printer-pamphleteers, design and designers have a long history of fighting for what’s right and working to transform society. The rise of the literary form of the manifesto also parallels the rise of modernity and the spread of letterpress printing.</description>
+    </item>
+    
+    <item>
+      <title>iPhone Apps with Sexy Interfaces</title>
+      <link>http://konigi.com/blog/iphone-apps-sexy-interfaces/</link>
+      <pubDate>Sat, 18 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/iphone-apps-sexy-interfaces/</guid>
+      <description>Mac App Storm gathers together a collection of iPhone apps with noteworthy designs. They say, &amp;ldquo;Whether you’re looking for a robotic unit converter, a realistic app for reading novels, or a intuitive Twitter client – this roundup has something for you. Each application puts design first, offering a fantastic user experience.&amp;rdquo; Check it out.
+http://mac.appstorm.net/roundups/iphone-roundups/30-iphone-apps-with-sexy-interfaces/</description>
+    </item>
+    
+    <item>
+      <title>Infographics: Examples of Design-Enhanced Data</title>
+      <link>http://konigi.com/blog/infographics-examples-design-enhanced-data/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/infographics-examples-design-enhanced-data/</guid>
+      <description>Jim Basio of Viget shows off a collection of his favorite Infographics.
+http://www.viget.com/inspire/infographics-galore/</description>
+    </item>
+    
+    <item>
+      <title>Beautiful Minimal Websites</title>
+      <link>http://konigi.com/blog/beautiful-minimal-websites/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/beautiful-minimal-websites/</guid>
+      <description>I&amp;rsquo;m enjoying the 6 part collection of minimalist designs posted by Vandelay Design. Some sites are more minimalist than others. I tend to use that term loosely at times as well. But the predominant theme seems to be type as interface, minimal use of graphics (aside from a logo and the body content), few if any graphic treatments of navigation, and little to no use of texture and graphic effects, and liberal use of white space.</description>
+    </item>
+    
+    <item>
+      <title>Dashboard Insight&#39;s Dashboard Gallery</title>
+      <link>http://konigi.com/blog/dashboard-insights-dashboard-gallery/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dashboard-insights-dashboard-gallery/</guid>
+      <description>Dashboard Insight has an extensive collection of screenshots of information dashboards that are worth a look.
+http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx</description>
+    </item>
+    
+    <item>
+      <title>100 Login Forms</title>
+      <link>http://konigi.com/blog/100-login-forms/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/100-login-forms/</guid>
+      <description>Design Reviver collects and captures a massive set of 100 login forms.
+http://designreviver.com/inspiration/100-sites-with-outstanding-login-forms/</description>
+    </item>
+    
+    <item>
+      <title>Ryan Singer Interview on Think Vitamin</title>
+      <link>http://konigi.com/blog/ryan-singer-interview-think-vitamin/</link>
+      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ryan-singer-interview-think-vitamin/</guid>
+      <description>Think Vitamin interviews 37 Signals&amp;rsquo; Ryan Singer to talk about ui design, frontend development, project management and inspiration. I like that Singer suggests that designers read more about writing copy, but even more so, I like how he suggests that designers should also consider learning more about front end development and programming frameworks. At the very least, it allows designers to be conversant with developers, and ideally it gives a designer a new range of skills they can use for such things as prototyping or doing proof of concept work on their own.</description>
+    </item>
+    
+    <item>
+      <title>@font-face: The Potential of Web Typography</title>
+      <link>http://konigi.com/blog/font-face-potential-web-typography/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/font-face-potential-web-typography/</guid>
+      <description>How can @font-face be used with currently implemented CSS selectors to create engaging, nuanced and more mature typography? Ian Lynam &amp;amp; Craig Mod discuss the potential of using @font-face now that Firefox 3.5 is out. http://craigmod.com/journal/font-face/</description>
+    </item>
+    
+    <item>
+      <title>Federal IT Dashboard</title>
+      <link>http://konigi.com/blog/federal-it-dashboard/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/federal-it-dashboard/</guid>
+      <description>This is a new dashboard that tracks the U.S. Government&amp;rsquo;s reported spending on technology.
+http://it.usaspending.gov/</description>
+    </item>
+    
+    <item>
+      <title>MTV&#39;s brand new look</title>
+      <link>http://konigi.com/blog/mtvs-brand-new-look/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
+      <description>MTV International / Mad Drummer from Universal Everything on Vimeo.
+ Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&amp;rsquo;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&amp;rsquo;s recent rebranding in the Tristan Eaton designed character videos.
+http://creativereview.co.uk/cr-blog/2009/june/mtvs-brand-new-look</description>
+    </item>
+    
+    <item>
+      <title>Open Source Designers: A community of practice for design &amp; user experience people in Open Source</title>
+      <link>http://konigi.com/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</link>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</guid>
+      <description>Leisa Reichelt has started a Ning community for designers contributing to open source projects. If you’re doing design &amp;amp; user experience work in an open source community, then chances are we have a lot in common – no matter what community we’re working in. We have some big challenges every day, but we also know that if we can overcome those challenges we can make a really big contribution to the sustainability and increased popularity of open source software.</description>
+    </item>
+    
+    <item>
+      <title>Designing Humanity into Your Products</title>
+      <link>http://konigi.com/blog/designing-humanity-your-products/</link>
+      <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-humanity-your-products/</guid>
+      <description>This is the video of the keynote from Ziba Design&amp;rsquo;s Bill DeRouchey, at the June 2009 conference &amp;ldquo;From Business to Buttons: Designing for Effect&amp;rdquo; in Malmo, Sweden
+http://businesstobuttons.com/2009/06/12/keynote-designing-humanity-into-your-products-bill-derouchey-from-ziba-design/</description>
+    </item>
+    
+    <item>
+      <title>A Dialogue on Design With Intent</title>
+      <link>http://konigi.com/blog/dialogue-design-intent/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dialogue-design-intent/</guid>
+      <description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&amp;rsquo;s desire to influence. The first is Robert Fabricant&amp;rsquo;s article on &amp;ldquo;Design with Intent: how designers can influence behavior&amp;rdquo;, and the follow up is Dan Lockton&amp;rsquo;s &amp;ldquo;frog design on Design with Intent&amp;rdquo;.
+User centered design focuses primarily on user needs and research and decision making must support these needs.</description>
+    </item>
+    
+    <item>
+      <title>A Collection of Inspirational Website Collections</title>
+      <link>http://konigi.com/blog/collection-inspirational-website-collections/</link>
+      <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/collection-inspirational-website-collections/</guid>
+      <description>The Design Cubicle collects the design inspiration collections. More single page collections of links and screenshots than you&amp;rsquo;ll ever have time to look at, and each title starting with a number, so you can add it all up.
+http://www.thedesigncubicle.com/2009/06/motherload-collection-of-inspirational-website-collections/</description>
+    </item>
+    
+    <item>
+      <title>Making grids in Illustrator</title>
+      <link>http://konigi.com/blog/making-grids-illustrator/</link>
+      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/making-grids-illustrator/</guid>
+      <description>font.is has an excellent tutorial for setting up grids in Adobe Illustrator using the Split Into Grid tool.
+http://font.is/?p=1226</description>
+    </item>
+    
+    <item>
+      <title>UI Testing Results for LessAccounting.com Call To Action</title>
+      <link>http://konigi.com/blog/ui-testing-results-lessaccountingcom-call-action/</link>
+      <pubDate>Tue, 16 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ui-testing-results-lessaccountingcom-call-action/</guid>
+      <description>Less Everything did a couple of A-B tests on the call to action buttons on the home page of their Less Accounting product. Their first test modified the design of 2 buttons (see tour, try), using 1 button instead for the &amp;ldquo;Try Less Accounting&amp;rdquo; link and a text link for &amp;ldquo;See Tour&amp;rdquo;. They noticed a small increase in conversion when they went to the single button, and then did a second test, reversing the position of the button and link.</description>
+    </item>
+    
+    <item>
+      <title>InfoGraphic Designs: Overview, Examples and Best Practices</title>
+      <link>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</link>
+      <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</guid>
+      <description>Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. View them all at Infoshift.
+http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/</description>
+    </item>
+    
+    <item>
+      <title>Sketchbook: Conceptual Drawings from the World&#39;s Most Influential Designers</title>
+      <link>http://konigi.com/blog/sketchbook-conceptual-drawings-worlds-most-influential-designers/</link>
+      <pubDate>Fri, 12 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sketchbook-conceptual-drawings-worlds-most-influential-designers/</guid>
+      <description>Core77 reviews Timothy O&amp;rsquo;Donnell&amp;rsquo;s Sketchbook, which looks at the problem solving processes of influential designers on finished projects through the lens of their sketchbooks. It looks beautiful. Organized in three sections, &amp;ldquo;Rough,&amp;rdquo; &amp;ldquo;Refined,&amp;rdquo; and &amp;ldquo;Random&amp;rdquo; (plus bonus section &amp;ldquo;Revealed,&amp;rdquo; where O&amp;rsquo;Donnell shows the thumbnail sketches he used to lay out the book), almost all sketches/sketchbook pages are pared with pictures of the finished product side by side. The &amp;ldquo;Rough&amp;rdquo; section features loose artwork and thick lines, but crisp final products, like the way Jason Munn turns simple sketches into iconic music posters, while the &amp;ldquo;Refined&amp;rdquo; section sees Stefan Bucher&amp;rsquo;s gorgeous pens turned into, well, equally iconic logos and business cards.</description>
+    </item>
+    
+    <item>
+      <title>88 Single Page Website Designs</title>
+      <link>http://konigi.com/blog/88-single-page-website-designs/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/88-single-page-website-designs/</guid>
+      <description>instantShift has compiled a massive collection of single-page web page designs.
+http://www.instantshift.com/2009/06/10/88-single-page-website-designs-for-design-inspiration/</description>
+    </item>
+    
+    <item>
+      <title>A Project Guide to UX Design</title>
+      <link>http://konigi.com/blog/project-guide-ux-design/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/project-guide-ux-design/</guid>
+      <description>The companion site to the book, Project Guide to UX Design: For User Experience Designers in the Field or in the Making, by authors Russ Unger &amp;amp; Carolyn Chandler contains additional reference materials from the book and a bonus chapter, “A Brief Guide to Meetings”.
+http://projectuxd.com/</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback</title>
+      <link>http://konigi.com/links/concept-feedback/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/concept-feedback/</guid>
+      <description>Concept Feedback.com is a free community where designers and developers can exchange feedback on design projects. Registered users have the ability to post marketing concepts for free. Concepts may include, but are not limited to, websites, logos, newsletters, landing pages, advertisements and videos. Reviewers can offer constructive feedback on each concept using a proprietary feedback tool. Feedback is automatically collected and archived for the user to help improve the final concept and get better results.</description>
+    </item>
+    
+    <item>
+      <title>Notable: Website design feedback </title>
+      <link>http://konigi.com/blog/notable-website-design-feedback/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/notable-website-design-feedback/</guid>
+      <description>Notable is a commercial service that allows teams to screen capture web pages, and gather feedback by placing annotations and markers on the screens.
+http://www.notableapp.com/home</description>
+    </item>
+    
+    <item>
+      <title>iPhone Stencil Kit</title>
+      <link>http://konigi.com/blog/iphone-stencil-kit/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/iphone-stencil-kit/</guid>
+      <description>The good folks at Seattle&amp;rsquo;s Design Commission are selling a metal stencil for drawing iPhone UIs and screen elements. Comes with a Zebra pencil and downloadable 3-up iPhone mockup paper.
+http://www.designcommission.com/shop/iphone-stencil-kit/</description>
+    </item>
+    
+    <item>
+      <title>iPhone UX Reviews</title>
+      <link>http://konigi.com/blog/iphone-ux-reviews/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/iphone-ux-reviews/</guid>
+      <description>iPhone UX Reviews is a blog devoted to user experience reviews of iPhone apps &amp;amp; advice on creating apps.
+http://www.iphoneuxreviews.com/</description>
+    </item>
+    
+    <item>
+      <title>Free Flash Catalyst Tutorials on Lynda.com</title>
+      <link>http://konigi.com/blog/free-flash-catalyst-tutorials-lyndacom/</link>
+      <pubDate>Tue, 09 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/free-flash-catalyst-tutorials-lyndacom/</guid>
+      <description>Lynda.com has free introductory tutorials for the Flash Catalyst beta, screencasted by Mordy Golding.
+http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
+    </item>
+    
+    <item>
+      <title>Fixed vs. Fluid vs. Elastic Layout</title>
+      <link>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
+      <description>Smashing Magazine compares fixed, fluid, and elastic layout strategies and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&amp;rsquo;s right for your project. http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/</description>
+    </item>
+    
+    <item>
+      <title>Kicker Studio&#39;s Jennifer Bove on how to design enjoyment</title>
+      <link>http://konigi.com/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/kicker-studios-jennifer-bove-how-design-enjoyment/</guid>
+      <description>Jennifer Bove, principal at Kicker Studio, writes about the ways interaction designers can make design more about people and less about technology--designing behaviors that are defined from the point of view of humans, and designed to elicit emotion, make products and services more enjoyable and easier to use. Bove writes about the subtle things that can reference human connection, whether it is the language presented in system messages, the logic behind system behaviors that reflects human thought and desire, or subtle cues and movement that feels organic This is an excellent read that picks up the thread in Don Norman&#39;s Emotional Design, and Dave Malouf&#39;s recent writing about moving beyond function towards enjoyment.</description>
+    </item>
+    
+    <item>
+      <title>Oooh, that&#39;s Clever! (unnatural experiments in web design)</title>
+      <link>http://konigi.com/blog/oooh-thats-clever-unnatural-experiments-web-design/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/oooh-thats-clever-unnatural-experiments-web-design/</guid>
+      <description>Clearleft&amp;rsquo;s Paul Annet talks about simple, clever little tricks that can make web pages pleasing. This is a slideshow with audio. No accompanying video, but if you jump to the end, you&amp;rsquo;ll find links for the videos shown during the talk. More at Paul Annet&amp;rsquo;s site.
+http://www.slideshare.net/nicepaul/oooh-thats-clever-unnatural-experiments-in-web-design</description>
+    </item>
+    
+    <item>
+      <title>yay!everyday</title>
+      <link>http://konigi.com/designs/submissions/yayeveryday/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/yayeveryday/</guid>
+      <description>yay!everyday is community inspiration gallery focussed on sharing images that showcase artists, designers, and their work. Love the random sort option, and the staggered placement of the gallery of images which feels like an installation of paintings on a gallery wall.
+http://yayeveryday.com/</description>
+    </item>
+    
+    <item>
+      <title>Razorfashion Retail Experience</title>
+      <link>http://konigi.com/blog/razorfashion-retail-experience/</link>
+      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/razorfashion-retail-experience/</guid>
+      <description>Razorfashion Retail Experience from Razorfish - Emerging Experiences on Vimeo.
+ Razorfish shows off their concept for touch screen retail experiences using the Razorfish Touch Framework.
+http://emergingexperiences.com/2009/05/introducing-the-razorfashion-retail-experience/</description>
+    </item>
+    
+    <item>
+      <title>Adobe Flash Catalyst Beta Available for Download</title>
+      <link>http://konigi.com/blog/adobe-flash-catalyst-beta-available-download/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/adobe-flash-catalyst-beta-available-download/</guid>
+      <description>The Flash Catalyst Beta is available to download.
+http://labs.adobe.com/technologies/flashcatalyst/?sdid=EQIFS</description>
+    </item>
+    
+    <item>
+      <title>Apparent usability vs. inherent usability</title>
+      <link>http://konigi.com/blog/apparent-usability-vs-inherent-usability/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apparent-usability-vs-inherent-usability/</guid>
+      <description>Occasionally the argument about the affect of aesthetics or beauty on usability seems to come up in UX discussion, and this CHI short paper from 1995 is referred to. This is an article by members of the Design Center, Hitachi discusses the team&#39;s research on determinants to apparent usability, based on tests of design and psychology students. These results show that the apparent usability is less correlated with the inherent usability compared to to the apparent beauty.</description>
+    </item>
+    
+    <item>
+      <title>Typekit: Foundry-Approved Font Embedding</title>
+      <link>http://konigi.com/blog/typekit-foundry-approved-font-embedding/</link>
+      <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typekit-foundry-approved-font-embedding/</guid>
+      <description>Jeff Veen announces Typekit, a solution for providing foundry-approved font embedding on the web. More info below from the Typkekit blog.
+We’ve been working with foundries to develop a consistent web-only font linking license. We’ve built a technology platform that lets us to host both free and commercial fonts in a way that is incredibly fast, smoothes out differences in how browsers handle type, and offers the level of protection that type designers need without resorting to annoying and ineffective DRM.</description>
+    </item>
+    
+    <item>
+      <title>Typography Is the UI on the Zune HD</title>
+      <link>http://konigi.com/blog/typography-ui-zune-hd/</link>
+      <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typography-ui-zune-hd/</guid>
+      <description>Zune HD Video Hands On from Gizmodo on Vimeo.
+ http://fosat.tumblr.com/post/114567959/typography-is-the-user-interface-the-new-zune-hd</description>
+    </item>
+    
+    <item>
+      <title>Inside IDEO</title>
+      <link>http://konigi.com/blog/inside-ideo/</link>
+      <pubDate>Wed, 27 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/inside-ideo/</guid>
+      <description>Design Observer points to the 1999 ABC Nightline program that took an inside look at IDEO. How does the process of designing a better product work? To show you, Nightline went to Palo Alto, CA to the designers at IDEO, and gave them the toughest problem we could think of. Take something old and familiar like the shopping cart and completely redesign it in just five days.
+IDEO&amp;rsquo;s unique brand of brainstorming is called &amp;ldquo;Deep Dive,&amp;rdquo; a sort of total immersion into the problem at hand.</description>
+    </item>
+    
+    <item>
+      <title>Wireframe Icons, Royalty Free, EPS and PNG</title>
+      <link>http://konigi.com/blog/wireframe-icons-royalty-free-eps-and-png/</link>
+      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/wireframe-icons-royalty-free-eps-and-png/</guid>
+      <description>Based on demand to use the wireframe icons on web sites, and to use them in Adobe Illustrator and Visio, I&amp;rsquo;ve created EPS and PNG versions that include a Royalty Free license agreement. You may use them in your UX documents, but the license also permits you to use them in web sites. There are restrictions for use on commercial products or commercial applications that offer products
+or services for sale or for fee-based usage, however.</description>
+    </item>
+    
+    <item>
+      <title>Dan Klyn interview with Richard Saul Wurman</title>
+      <link>http://konigi.com/blog/dan-klyn-interview-richard-saul-wurman/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dan-klyn-interview-richard-saul-wurman/</guid>
+      <description>IA instructor and author of the forthcoming book &#34;Now That I See It&#34; interviewed Richard Saul Wurman to discuss architecture and design, IA roots in library and information work, and the work of making the complex clear.
+One thing that I latched onto is Wurman&#39;s contention that his success working with the design of information systems and structures comes as a result of acknowledging his ignorance. &#34;Grasp your life as an ignorant person,&#34;</description>
+    </item>
+    
+    <item>
+      <title>Highrise Contacts Design Exploration</title>
+      <link>http://konigi.com/blog/highrise-contacts-design-exploration/</link>
+      <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/highrise-contacts-design-exploration/</guid>
+      <description>Jason Zimdars describes the explorations and iterations over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. http://jasonzimdars.com/svn/highrise.html</description>
+    </item>
+    
+    <item>
+      <title>User Experience Sketches Flickr Group</title>
+      <link>http://konigi.com/blog/user-experience-sketches-flickr-group/</link>
+      <pubDate>Wed, 13 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-experience-sketches-flickr-group/</guid>
+      <description>New UX sketch group on Flickr. This group is a collection of user experience sketches from a variety of designers solving a various problems from all around the world.
+A sketch is
+1. Unpreciousness : Sketches are not precious and can destroyed to make room for more ideas.
+2. Quick : Sketches don’t take days to make. They are fast as we are fast.
+3. Useful : UX sketches lead to solutions.</description>
+    </item>
+    
+    <item>
+      <title>The Value of Paper Prototyping</title>
+      <link>http://konigi.com/blog/value-paper-prototyping/</link>
+      <pubDate>Tue, 12 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/value-paper-prototyping/</guid>
+      <description>Christian Watson discusses how he uses paper prototypes, showing a photo of a recent project he worked on.
+Rather than sketch the whole page on a sheet of paper, I prefer to draw out the various components of the page, cut them out, and Blu-Tack them to the paper. This makes it easy to change different elements, switch them around, etc, without having to redraw the whole page each time.</description>
+    </item>
+    
+    <item>
+      <title>AlternativeTo: App comparison site may be useful for competitive research</title>
+      <link>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</guid>
+      <description>AlternativeTo might be an interesting tool when doing competitive research. The new site describes itself as a a way to find better Windows, Mac, Linux and online applications by submitting the app you want to replace. It&amp;rsquo;s a community site that relies on user submissions, so the number of alternatives is limited in some areas. Having a look at the Basecamp alternatives, for instance, only shows MS Project and the RedMine web app when I looked.</description>
+    </item>
+    
+    <item>
+      <title>Should Design Be Held Back by a Tyranny of Data</title>
+      <link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link>
+      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid>
+      <description>The NYTimes interviewed Doug Bowman to talk about his departure from Google, which Bowman wrote about on his blog in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:
+Bowman on Google:
+“Data eventually becomes a crutch for every decision, paralyzing the company and preventing it from making any daring design decisions,”
+ Bowman on Twitter, where he is now Creative Director:</description>
+    </item>
+    
+    <item>
+      <title>inezborges</title>
+      <link>http://konigi.com/designs/submissions/inezborges/</link>
+      <pubDate>Fri, 08 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/inezborges/</guid>
+      <description>inezborges, is a graphic and designer web working on Oporto. Specializing in Web and Print Design, she creates clean, engaging, and functional websites.
+Nowadays, she spends most of her free time in researching web design technologies. She´s working in the internet industry, focusing on web design as well as user interface design, web 2.0.
+http://www.inezborges.com</description>
+    </item>
+    
+    <item>
+      <title>The future of wireframes?</title>
+      <link>http://konigi.com/blog/future-wireframes/</link>
+      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/future-wireframes/</guid>
+      <description>On Made By Many, Isaac Pinnock looks back at his 10 year history using wireframes and their evolution in IA practice from time consuming deliverable in functional specifications, to disposable artifacts of the design process. The notion that highly visual wireframes should be part of the design process resonates with me. http://www.madebymany.co.uk/the-future-of-wireframes-00991</description>
+    </item>
+    
+    <item>
+      <title>Pretty Sketchy Group on Flickr</title>
+      <link>http://konigi.com/blog/pretty-sketchy-group-flickr/</link>
+      <pubDate>Tue, 05 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pretty-sketchy-group-flickr/</guid>
+      <description>Jason Santa Maria started a sketchbook group on flickr. Sketchbooks are not about being a good artist, they’re about being a good thinker. In the spirit of awareness, I’ve set up a Flickr group for this very purpose. Post one, and only one, spread/page from your sketchbook. It’s always fun to see how everyone else’s mind works.
+ Read more about it in Jason&amp;rsquo;s post Pretty Sketchy.
+http://www.flickr.com/groups/prettysketchy/</description>
+    </item>
+    
+    <item>
+      <title>Jason Santa Maria: The Influence of Print Design</title>
+      <link>http://konigi.com/blog/jason-santa-maria-influence-print-design/</link>
+      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jason-santa-maria-influence-print-design/</guid>
+      <description>SVA Dot Dot Dot Lectures: Jason Santa Maria from MFA Interaction Design on Vimeo.
+ In SVA&amp;rsquo;s Dot Dot Dot lecture series, Jason Santa Maria talks about the role of print design in influencing design on the web, and how visual designers might bring the same level of attention to designing online content with the same rigor and attention to visual meaning.
+http://vimeo.com/4394152</description>
+    </item>
+    
+    <item>
+      <title>siiimple minimalist design gallery</title>
+      <link>http://konigi.com/blog/siiimple-minimalist-design-gallery/</link>
+      <pubDate>Tue, 28 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/siiimple-minimalist-design-gallery/</guid>
+      <description>Lovely minimalist design inspiration from siiimple.
+http://www.siiimple.com/</description>
+    </item>
+    
+    <item>
+      <title>In Defense of Eye Candy</title>
+      <link>http://konigi.com/blog/defense-eye-candy/</link>
+      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/defense-eye-candy/</guid>
+      <description>There are quite a few nice takeaways from Stephen P. Anderson&amp;rsquo;s article in A List Apart, a discussion in defense of the value of visual design beyond more than just aesthetic skinning of functionality. I like this one where he flips the notion that things are enjoyable because of how they function by saying:
+[T]hings that are enjoyable will be easy to use and efficient.&amp;rdquo;
+ This is connected with the user&amp;rsquo;s belief that attention to design detail is related to quality.</description>
+    </item>
+    
+    <item>
+      <title>Move beyond function towards connection</title>
+      <link>http://konigi.com/blog/move-beyond-function-towards-connection/</link>
+      <pubDate>Wed, 22 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/move-beyond-function-towards-connection/</guid>
+      <description>David Malouf believes that &#34;most successful products create a sense of connectedness between the consumer and the designer and that this connection occurs when designers balance the pull towards the rational, functional, &amp;amp; expedient with the natural &amp;amp; emotional.&#34;
+In his article on Johnny Holland, David looks more deeply at what it means for an end-user to be connected to a product. He first looks at how art creates connection with humanity.</description>
+    </item>
+    
+    <item>
+      <title>Dear Designer, You Suck</title>
+      <link>http://konigi.com/blog/dear-designer-you-suck/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dear-designer-you-suck/</guid>
+      <description>Khoi Vinh wrote an entry on taking the need for criticism inside the studio, and extending that openness in engaging in critical dialogue to discussion with peers outside of your working groups.
+Like it or not, you can’t have a serious discourse about an art form until you have people whose sole involvement in that art form is criticism. You need, in effect, an independent press. Actually, to be clear, what you need is an economic model that can support a corps of passionate, clear-thinking individuals who are dedicated to vigilantly watching over the progression of the medium.</description>
+    </item>
+    
+    <item>
+      <title>Hunkering: Putting Disorientation into the Design Process</title>
+      <link>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</guid>
+      <description>Jared Spool talks about &#34;visual disorientation,&#34; a designer&#39;s technique for evaluating your design work in the middle of a process. It&#39;s certainly common to see designer&#39;s tack up pieces of paper around their project space, e.g. schematics, pictures with references to other objects that provide inspiration, etc. Hunkering, however, is more of a technique to create disorientation and change in one&#39;s perspective momentarily, to assess what you&#39;ve done. Visual disorientation is a fast way to identify the places where things don&#39;t quite match up.</description>
+    </item>
+    
+    <item>
+      <title>UX Vision: The design superpower also known as The Squint Test</title>
+      <link>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</link>
+      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</guid>
+      <description>UX Hero points out a technique that you may not be using, but should consider. Stepping back and squinting to evaluate your work is something I was told to do repeatedly when I was first learning to paint, and is something I still do today as an interface designer. It helps you see the whole of your screen and look for anything that stands out, and see what needs to draw more attention, depending on the priority and hierarchy of your page elements.</description>
+    </item>
+    
+    <item>
+      <title>Teaser Page/Email Signup Collection</title>
+      <link>http://konigi.com/blog/teaser-pageemail-signup-collection/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/teaser-pageemail-signup-collection/</guid>
+      <description>Campaign Monitor has collected a few examples of attention getting email signup teaser pages. I also have a few I&amp;rsquo;ve collected in a flickr set over the last few years.
+http://www.campaignmonitor.com/blog/post/2717/teaser-page-design-inspiration/</description>
+    </item>
+    
+    <item>
+      <title>Information Architects Web Trend Map 4</title>
+      <link>http://konigi.com/blog/information-architects-web-trend-map-4/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/information-architects-web-trend-map-4/</guid>
+      <description>Information Architects, Japan, post their 4th Web Trends map. They&amp;rsquo;ll only be printing 1,000 copies.
+http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
+    </item>
+    
+    <item>
+      <title>Litmus Browser Testing Software</title>
+      <link>http://konigi.com/blog/litmus-browser-testing-software/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
+      <description>Litmus is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.
+They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Path&#39;s Favorite Sketch Tools</title>
+      <link>http://konigi.com/blog/adaptive-paths-favorite-sketch-tools/</link>
+      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/adaptive-paths-favorite-sketch-tools/</guid>
+      <description>Leah Buley lists Adaptive Path&amp;rsquo;s favorite sketch tools. There’s an interesting shift happening in user experience design. After years of making documents that look like they are FEBE (for engineers, by engineers), we’re seeing increasing evidence of the human hand in our own work. Why are sketches and drawing suddenly so prevalent? Well, for one, they can save a lot of time and mitigate the risk of building the wrong thing.</description>
+    </item>
+    
+    <item>
+      <title>PicoCool</title>
+      <link>http://konigi.com/blog/picocool/</link>
+      <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/picocool/</guid>
+      <description>I&amp;rsquo;m a regular reader of Emily Chang&amp;rsquo;s eHub, one of my sources for learning about interesting web app and services. Emily recently launced a new showcase of interesting finds with PicoCool. A global community dedicated to uncovering the cool, whether in art, design, environment, culture, architecture, fashion, travel or technology. Our community finds and shares tiny bytes and unique content from the world of peer media, social networks and subcultures. We discover upcoming designs, cool products, micro-trends, subcultures, artists, human experiences, innovations, philosophies, technologies, and more.</description>
+    </item>
+    
+    <item>
+      <title>The History &amp; Evolution of User Experience Design</title>
+      <link>http://konigi.com/blog/history-evolution-user-experience-design/</link>
+      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/history-evolution-user-experience-design/</guid>
+      <description>On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&amp;rsquo;s Peter Merholz to talk about the history and evolution of User Experience Design. User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&amp;rsquo;s actually not the way many designers historically thought about making things.</description>
+    </item>
+    
+    <item>
+      <title>Communicating Concepts</title>
+      <link>http://konigi.com/blog/communicating-concepts/</link>
+      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/communicating-concepts/</guid>
+      <description>Victor writes about some of the less obvious points when it comes to presenting and communicating concept designs.
+When I see concepts that are received well, the concept itself can usually only take a portion of the credit. Just as important is how the concept is communicated. Some of this is common knowledge: make it look good, choose the right level of fidelity, show it in context. Others are maybe not so obvious…</description>
+    </item>
+    
+    <item>
+      <title>Improving the transition from paper to Photoshop</title>
+      <link>http://konigi.com/blog/improving-transition-paper-photoshop/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/improving-transition-paper-photoshop/</guid>
+      <description>On the creative briefing blog, Verne Ho offers some suggestions for creating a fluid process for going from sketch to Photoshop. He shows the sketches for several projects and the resulting visual design comps. http://creativebriefing.com/improving-the-transition-from-paper-to-photoshop/</description>
+    </item>
+    
+    <item>
+      <title>Photoshop and Illustrator Grid Templates</title>
+      <link>http://konigi.com/blog/photoshop-and-illustrator-grid-templates/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/photoshop-and-illustrator-grid-templates/</guid>
+      <description>I moved the Photoshop and Illustrator templates for the Blueprint Grid System over from my personal blog at urlgreyhot to Konigi&amp;rsquo;s Tools section. So now you can make the most of the system I use here and go from sketch to wireframe, to visual design comp.
+The complete tool kit now includes:  printable graph paper graph paper notepads wireframe template Adobe Photoshop template Adobe Illlustrator template 
+http://konigi.com/tools/overview</description>
+    </item>
+    
+    <item>
+      <title>Tim Wood&#39;s Sketchbook Techniques</title>
+      <link>http://konigi.com/blog/tim-woods-sketchbook-techniques/</link>
+      <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/tim-woods-sketchbook-techniques/</guid>
+      <description>Brian Pirie recaps Tim Wood’s talk at Interaction 09 conference on how to get the most out of your sketchbook. Wood used examples from artists notebooks to illustrate techniques that might be useful in refining our craft.
+http://sensinct.com/interaction-09-sketchbook-techniques/</description>
+    </item>
+    
+    <item>
+      <title>6 Tips for a Great Flex UX</title>
+      <link>http://konigi.com/blog/6-tips-great-flex-ux/</link>
+      <pubDate>Fri, 06 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/6-tips-great-flex-ux/</guid>
+      <description>Theresa Neil is writing a 6 part series of articles on designing great Adobe Flex/Air user experiences. The first 3 parts are up now.
+After designing several large enterprise applications for diverse clients and industries, I’ve noticed some barriers to crafting a great experience in Flex. I think these barriers arise from the relative newness of the technology (and RIAs in general), the initial focus on development over design, and the confidence that Flex can provide a great UX out of the box.</description>
+    </item>
+    
+    <item>
+      <title>How Software is Built: Interview with Liz Danzico</title>
+      <link>http://konigi.com/blog/how-software-built-interview-liz-danzico/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/how-software-built-interview-liz-danzico/</guid>
+      <description>The Scott Swigart and Sean Campbell interview Liz Danico to discuss user experience on the How Software is Built blog. The lengthy conversation covers a wide array of topics including Liz&#39;s view of the differences in design process between typical clients with small teams and larger open source projects with communities of participants, design vision and leadership in open source software, and opinions about the acceptance with the direction that open source software has led users in terms of sharing data.</description>
+    </item>
+    
+    <item>
+      <title>Sockyung Hong&#39;s Vimeo Sketches on Flickr</title>
+      <link>http://konigi.com/blog/sockyung-hongs-vimeo-sketches-flickr/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sockyung-hongs-vimeo-sketches-flickr/</guid>
+      <description>Sockyung Hong posts sketches of Vimeo design concepts on Flickr. Very nice to examples of peoples&amp;rsquo; design sketches like this.
+Via agentangelo
+http://flickr.com/photos/soxiam/tags/sketch,vimeo</description>
+    </item>
+    
+    <item>
+      <title>Plagiarism Vs. Inspiration</title>
+      <link>http://konigi.com/blog/plagiarism-vs-inspiration/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/plagiarism-vs-inspiration/</guid>
+      <description>The recent Skittles launch, which appropriated Modernista&#39;s idea, and the Shepard Fairey law suit, which questions whether or not the artist has a first ammendment right to use images appropriated from an AP photohjournalist, is making me think more and more about the issue of plagiarism vs. inspiration. I don&#39;t know who was involved with the making of the Skittles site, but it reminds me of how BBDO ripped off Spike Jonze&#39;s &#34;</description>
+    </item>
+    
+    <item>
+      <title>jQuery Sparklines</title>
+      <link>http://konigi.com/blog/jquery-sparklines/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jquery-sparklines/</guid>
+      <description>The jQuery Sparklines plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. The plugin is compatible with most modern browsers and has been tested with Firefox 2+, Safari 3+, Opera 9 and Internet Explorer 6 &amp;amp; 7.
+Via @darrengeraghty
+http://www.omnipotent.net/jquery.sparkline/</description>
+    </item>
+    
+    <item>
+      <title>Mike Rhode&#39;s Wireframes Sketch Set on Flickr</title>
+      <link>http://konigi.com/blog/mike-rhodes-wireframes-sketch-set-flickr/</link>
+      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mike-rhodes-wireframes-sketch-set-flickr/</guid>
+      <description>Mike Rhode&amp;rsquo;s set of http://www.flickr.com/photos/rohdesign/sets/72157614397535202/&amp;quot;&amp;gt;wireframe sketches on Flickr is some beautiful stuff. Also check out Mike&amp;rsquo;s sketch notes and other design work on his blog.
+Via Nick Finck
+http://www.flickr.com/photos/rohdesign/sets/72157614397535202/</description>
+    </item>
+    
+    <item>
+      <title>Milton Glaser on Shepard Fairey and Plagiarism</title>
+      <link>http://konigi.com/blog/milton-glaser-shepard-fairey-and-plagiarism/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/milton-glaser-shepard-fairey-and-plagiarism/</guid>
+      <description>Print Magazine interviews Milton Glaser to discuss Shepard Fairey and the topic of appropriation and plagiarism. If you&amp;rsquo;re not familiar, Fairey is the graffiti artist responsible for such iconic imagery as the ubiquitous Andre OBEY tag and the Obama Hope image. Glaser had this to say, on the topic of copying other artists&amp;rsquo; work:
+The process of looking back at the past is very accepted in our business—the difference is when you take something without adding anything to the conversation.</description>
+    </item>
+    
+    <item>
+      <title>The Language We Use</title>
+      <link>http://konigi.com/blog/language-we-use/</link>
+      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/language-we-use/</guid>
+      <description>In &#34;The language we use,&#34; David Malouf discusses how ideas about user interaction can become so ingrained in what we are familiar with, that our language begins to reflect that familiarity. That can lead to a natural tendency to explain away interaction without thought to what it means to the design of a thing. In this case a student describes the change of context in a sketch presentation by using the word &#34;</description>
+    </item>
+    
+    <item>
+      <title>NY Times Article Skimmer</title>
+      <link>http://konigi.com/blog/ny-times-article-skimmer/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ny-times-article-skimmer/</guid>
+      <description>The New York Times&amp;rsquo; Article Skimmer prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. Via SwissMiss
+http://prototype.nytimes.com/gst/articleSkimmer/</description>
+    </item>
+    
+    <item>
+      <title>Designing by Writing</title>
+      <link>http://konigi.com/blog/designing-writing/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-writing/</guid>
+      <description>I love what tiny gigantic has written in this great short post about designing by writing (or the non-iterative design process). I agree wholeheartedly, although I think of writing as part of design to be accretive and/or iterative. A few choice bits from the entry:
+[W]hen someone asks you why you used green, or why you included that crumpled-paper background, or why there’s a bird in the logo, you’re gonna need to know.</description>
+    </item>
+    
+    <item>
+      <title>Is Good Design Replicable?</title>
+      <link>http://konigi.com/blog/good-design-replicable/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/good-design-replicable/</guid>
+      <description>Joshua Porter&#39;s post about whether good design can be replicated is fabulous. What I like is the idea that there isn&#39;t a solid set of methods that you can reuse in every case and think it might guarantee success or &#34;good design&#34;. There&#39;s an interesting thought in there about process:
+I wonder if the real issue is that most of the time designers simply don’t know if what they’re building is great, and they end up relying on process to get as far as they can.</description>
+    </item>
+    
+    <item>
+      <title>Website Redesign: Tips and Thoughts from the Creattica Inspire Design</title>
+      <link>http://konigi.com/blog/website-redesign-tips-and-thoughts-creattica-inspire-design/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/website-redesign-tips-and-thoughts-creattica-inspire-design/</guid>
+      <description>Creatica writes about the redesign of FaveUp, which will be relaunched as Creatica Inspire. The lengthy article discusses the process of designing Creatica Inspire and includes links to HTML mockups for the new site, and for illustration purposes shows the evolution of PSDtuts, which will also come in line with the new Creatica family of sites. Great read for anyone considering redesigning an existing site with an established set of users, especially with regard to improving funcitonalities, IXD and IA, without upsetting users.</description>
+    </item>
+    
+    <item>
+      <title>Striking Web Sites with Font Stacks that Inspire</title>
+      <link>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</link>
+      <pubDate>Thu, 05 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/striking-web-sites-font-stacks-inspire/</guid>
+      <description>Inspiration Bit has a wonderful collection of sites whose style sheets utilize users&amp;rsquo; system-installed fonts.
+http://www.inspirationbit.com/striking-web-sites-with-font-stacks-that-inspire/</description>
+    </item>
+    
+    <item>
+      <title>User Centered Design Work Process Toolkit</title>
+      <link>http://konigi.com/blog/user-centered-design-work-process-toolkit/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-centered-design-work-process-toolkit/</guid>
+      <description>This is a nice diagram of the user centered design process and an overview of the methods and techniques which might be used. The HCI toolkit is managed by Bas Leurs for Rotterdam University of Applied Sciences.
+http://project.cmd.hro.nl/cmi/hci/toolkit/</description>
+    </item>
+    
+    <item>
+      <title>404 Error Pages, One More Time</title>
+      <link>http://konigi.com/blog/404-error-pages-one-more-time/</link>
+      <pubDate>Thu, 29 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/404-error-pages-one-more-time/</guid>
+      <description>Smashing Magazine expound upon what makes a well designed 404 page in their latest design gallery which features 50 examples. Inspired by the gallery, I made a more useful 404 for Konigi as well.
+http://www.smashingmagazine.com/2009/01/29/404-error-pages-one-more-time/</description>
+    </item>
+    
+    <item>
+      <title>Fubiz Redesign</title>
+      <link>http://konigi.com/blog/fubiz-redesign/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fubiz-redesign/</guid>
+      <description>Fubiz has done a beautiful redesign. The gorgeous video below showcases the redesign, giving you a taste of what to expect as you begin to use it. I&#39;m really digging the Mosaic view and the Popular carousel in the sidebar.
+Fubiz Redesign from peresini mattias on Vimeo. http://www.fubiz.net/2009/01/28/fubiz-nouvelle-version/</description>
+    </item>
+    
+    <item>
+      <title>The Printed Blog</title>
+      <link>http://konigi.com/blog/printed-blog/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/printed-blog/</guid>
+      <description>The Printed Blog is an interesting project that aims at publishing a newspaper of weblogs and user generated content. I like the idea of using this as a PDF rather than as a printed newspaper, since I no longer read printed newspapers. I also like the newspaper format, and have been using Tabbloid to peruse my must read daily feeds rather than using my RSS reader lately. I wonder, however, about taking online media and making analog versions of it.</description>
+    </item>
+    
+    <item>
+      <title>stopdesign is back!</title>
+      <link>http://konigi.com/blog/stopdesign-back/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/stopdesign-back/</guid>
+      <description>Doug Bowman has started blogging again! http://stopdesign.com/</description>
+    </item>
+    
+    <item>
+      <title>Playground Contextual Banner Ad</title>
+      <link>http://konigi.com/blog/playground-contextual-banner-ad/</link>
+      <pubDate>Sat, 24 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/playground-contextual-banner-ad/</guid>
+      <description>Swedish agency Akestam Holst has created a contextual banner ad for retailer Playground Stores that selects an appropriate jacket for you depending on the weather where in your location. The demo seems hard coded, but is kind of neat. Would be really weird if they could figure out my gender and favorite colors.
+Via Creativity
+http://www.dallassthlm.com/playground/playground.html</description>
+    </item>
+    
+    <item>
+      <title>10 Techniques for an Effective Call to Action</title>
+      <link>http://konigi.com/blog/10-techniques-effective-call-action/</link>
+      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-techniques-effective-call-action/</guid>
+      <description>Boagworld looks at 10 ways to design an effective call to action.
+Having an effective call to action is an essential part of any website. A call to action is not just limited to ecommerce sites. Every website should have an objective it wants users to complete whether it is filling in a contact form, signup for a newsletter or volunteering their time.
+A call to action provides&amp;hellip;
+Focus to your site</description>
+    </item>
+    
+    <item>
+      <title>25 Magazine Style Website Designs</title>
+      <link>http://konigi.com/blog/25-magazine-style-website-designs/</link>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/25-magazine-style-website-designs/</guid>
+      <description>Vandelay collects screenshots of front page designs of 25 magazine sites. http://vandelaydesign.com/blog/galleries/magazine-style-website/</description>
+    </item>
+    
+    <item>
+      <title>Paula Scher gets serious at TED</title>
+      <link>http://konigi.com/blog/paula-scher-gets-serious-ted/</link>
+      <pubDate>Fri, 16 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/paula-scher-gets-serious-ted/</guid>
+      <description>Fantastic TED video of Paula Scher looking back at her career for those moments where she was able to devote time and effort to serious play and create wonderful work, and contrasting it with the unfortunate moments when the serious becomes solemn. I love how this retrospective observation of her career brings her to conclude that the best of times for her as a designer is when she comes into a project with no grounding or bearing&amp;ndash;those times where lack of history or reference point allows that kind of play to emerge.</description>
+    </item>
+    
+    <item>
+      <title>Web Design Trends For 2009</title>
+      <link>http://konigi.com/blog/web-design-trends-2009/</link>
+      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/web-design-trends-2009/</guid>
+      <description>Smashing Mag curates their top web design trends, and gives us the first of a multi-part set with these 10 great examples. It&amp;rsquo;s a well picked, high quality collection of screenshots as is typical of these guys. They never disappoint. Here&amp;rsquo;s a snippet describing the list:
+Web design trends for 2009: recent developments, new design elements and new graphic approaches. We also discuss situations in which these trends can be used and present some beautiful examples.</description>
+    </item>
+    
+    <item>
+      <title>Feltron 2008 Annual Report</title>
+      <link>http://konigi.com/blog/feltron-2008-annual-report/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/feltron-2008-annual-report/</guid>
+      <description>Nick Felton&amp;rsquo;s annual report continues to take mundane data and meticulously render superb stastical diagrams and information graphics. If every corporate Power Point chart looked this good, fewer people would be bored out of their skulls in meetings.
+http://feltron.com/index.php?/content/2008_annual_report/</description>
+    </item>
+    
+    <item>
+      <title>Pretty Loaded</title>
+      <link>http://konigi.com/blog/pretty-loaded/</link>
+      <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pretty-loaded/</guid>
+      <description>A preloader museum curated by Big Spaceship. Via Swissmiss
+http://prettyloaded.com/</description>
+    </item>
+    
+    <item>
+      <title>CSSiPhone</title>
+      <link>http://konigi.com/blog/cssiphone/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/cssiphone/</guid>
+      <description>How cool is this? A CSS Design gallery showing sites as viewed through the iPhone. http://cssiphone.com/</description>
+    </item>
+    
+    <item>
+      <title>The Browser Wars</title>
+      <link>http://konigi.com/blog/browser-wars/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/browser-wars/</guid>
+      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.
+http://www.pixellabs.com/images/browserwars.png</description>
+    </item>
+    
+    <item>
+      <title>20 Websites with Beautiful Typography</title>
+      <link>http://konigi.com/blog/20-websites-beautiful-typography/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/20-websites-beautiful-typography/</guid>
+      <description>Six revisions showcases 20 sites that use typography exceptionally well.
+http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/</description>
+    </item>
+    
+    <item>
+      <title>Grid Designer: CSS grid generator</title>
+      <link>http://konigi.com/blog/grid-designer-css-grid-generator/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/grid-designer-css-grid-generator/</guid>
+      <description>This is a cool browser-based CSS grid generator created by Rasmus Schultz of mindplay.dk. Lets you quickly set some column, gutter, and margin sizes using forms inputs or button controls. Similarly you can set typography with form controls, and the results are shown on screen. When you&amp;rsquo;re happy, you can bookmark your work, and export the CSS. Sweet.
+Via @emenel
+http://grid.mindplay.dk</description>
+    </item>
+    
+    <item>
+      <title>Talking About Sketching About Interacting</title>
+      <link>http://konigi.com/blog/talking-about-sketching-about-interacting/</link>
+      <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/talking-about-sketching-about-interacting/</guid>
+      <description>Talking About Sketching About Interacting
+View SlideShare presentation or Upload your own. (tags: dotdotdot mfa)   This the audio and slides from the presentation Chris Fahey gave at SVA&amp;rsquo;s Interaction Design Program series dot dot dot. In this excellent short short talks (16 minutes), Chris talks about sketching and shows plenty of examples from his notebooks. Great series of events that Liz Danzico and company are putting on. Chris will be on the faculty of the MFA program.</description>
+    </item>
+    
+    <item>
+      <title>Software Tool Design: Design by Sketching</title>
+      <link>http://konigi.com/blog/software-tool-design-design-sketching/</link>
+      <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/software-tool-design-design-sketching/</guid>
+      <description>The second part of Stephen Chambers&amp;rsquo; series on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&amp;rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.
+James, the team leader had just read Bill Buxton&amp;rsquo;s Sketching the User Experience and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas.</description>
+    </item>
+    
+    <item>
+      <title>Fear of the High Fidelity Wireframe</title>
+      <link>http://konigi.com/blog/fear-high-fidelity-wireframe/</link>
+      <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fear-high-fidelity-wireframe/</guid>
+      <description>In Twitter today, I posted a message that I need to resist putting rounded corners on boxes in wireframes. Then I got a few replies essentially saying that stylized elements shouldn&amp;rsquo;t be in wireframes. Context is everything. Taken out of context, it is very difficult to possibly critique a specific design technique without knowing the how and why you&amp;rsquo;re using it. Because of that 140 character constraint in Twitter, I didn&amp;rsquo;t really explain that this rounded corner example came from my hybrid high-fidelity wireframing and visual design document I was working on.</description>
+    </item>
+    
+    <item>
+      <title>50 Beautiful Icon Sets</title>
+      <link>http://konigi.com/blog/50-beautiful-icon-sets/</link>
+      <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/50-beautiful-icon-sets/</guid>
+      <description>Noupe rounds up their &amp;ldquo;50 most beautiful icon sets of 2008.&amp;ldquo;.
+http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</description>
+    </item>
+    
+    <item>
+      <title>Brooklyn Museum: 1stfans, a socially-networked museum membership</title>
+      <link>http://konigi.com/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/</guid>
+      <description>The Brooklyn Museum continues its exploration and extension of Museum services by offering 1stfans a socially-networked museum membership. Members pay a smaller $20 membership fee and get access to special events where they can mingle with other 1stfans members, may skip lines at film events, and get alerts via flickr, facebook, and twitter. The museum also recently added a crowd-sourced art work tagging interface that allows users to describe work in the collection using free tags, and has utilized Flickr for over a year now to promote events.</description>
+    </item>
+    
+    <item>
+      <title>How do you design? Ebook</title>
+      <link>http://konigi.com/blog/how-do-you-design-ebook/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/how-do-you-design-ebook/</guid>
+      <description>Hugh Dubberly has released a free E Book on design and development models.
+In this book, I have collected over one-hundred descriptions of design and development processes, from architecture, industrial design, mechanical engineering, quality management, and software development. They range from short mnemonic devices, such as the 4Ds (deﬁne, design, develop, deploy), to elaborate schemes, such as Archer’s 9-phase, 229-step “systematic method for designers.” Some are synonyms for the same process; others represent differing approaches to design.</description>
+    </item>
+    
+    <item>
+      <title>Johnny Holland Magazine</title>
+      <link>http://konigi.com/blog/johnny-holland-magazine/</link>
+      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/johnny-holland-magazine/</guid>
+      <description>Johnny Holland Magazine is an interesting new collaborative magazine co-authored by a handful of creatives who talk about experience design.
+Johnny is an open collective talking, sharing and finding answers about the interaction between people and products, systems or processes.
+
+http://johnnyholland.org/</description>
+    </item>
+    
+    <item>
+      <title>The Grid System</title>
+      <link>http://konigi.com/blog/grid-system/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/grid-system/</guid>
+      <description>The ultimate resource on Grid Systems. You&amp;rsquo;ll find links to articles, books, tools, and other resources related to grid systems here. Via Coudal.
+http://www.thegridsystem.org/</description>
+    </item>
+    
+    <item>
+      <title>Motionographer</title>
+      <link>http://konigi.com/blog/motionographer/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/motionographer/</guid>
+      <description>Motionographer is a source of inspiration for filmmakers, animators and designers.
+http://motionographer.com/</description>
+    </item>
+    
+    <item>
+      <title>The Art of the Title Sequence</title>
+      <link>http://konigi.com/blog/art-title-sequence/</link>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/art-title-sequence/</guid>
+      <description>Title sequences storyboarded, discussed. Just excellent. http://www.artofthetitle.com/</description>
+    </item>
+    
+    <item>
+      <title>Working through Screens Book</title>
+      <link>http://konigi.com/blog/working-through-screens-book/</link>
+      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/working-through-screens-book/</guid>
+      <description>Flashbulb Interactions&amp;rsquo;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
+    </item>
+    
+    <item>
+      <title>10 Cameras for Design Research</title>
+      <link>http://konigi.com/blog/10-cameras-design-research/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-cameras-design-research/</guid>
+      <description>Jess McMullin shares his research on choosing a camera for design research on the bplusd blog. His list covers a selection of cameras for still pictures and short video capture. At the end of the summer I chose the Panasonic Lumix DMC-TZ5to complement my Canon SD20 for both work and play. At work I wanted to be able to capture things like white boards, projected presentation screens, and do short video of live screens.</description>
+    </item>
+    
+    <item>
+      <title>Newspaper Website Design</title>
+      <link>http://konigi.com/blog/newspaper-website-design/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/newspaper-website-design/</guid>
+      <description>Smashing Magazine does a newspaper roundup in a week that saw the FT.com make news for its redesign. These days, the design lines between blogs and newspapers are starting to converge a bit with those newspapers that take the threat of the blog format seriously. Smashing Mag does a good design of screenshooting and comparing what news sites are doing. http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/</description>
+    </item>
+    
+    <item>
+      <title>Sprint Now Widgets</title>
+      <link>http://konigi.com/blog/sprint-now-widgets/</link>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sprint-now-widgets/</guid>
+      <description>Sprint&amp;rsquo;s widgetopia is a clever Flash site advertising their mobile broadband card.
+http://now.sprint.com/widget/</description>
+    </item>
+    
+    <item>
+      <title>50 Stunning Examples of a Great Redesign</title>
+      <link>http://konigi.com/blog/50-stunning-examples-great-redesign/</link>
+      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/50-stunning-examples-great-redesign/</guid>
+      <description>Function lists 50 great redesigns in a wide range of industries and product types from logos to automobile design. A redesign can be worth its weight in gold if you get it right. There is a thin line between freshening up your design, and taking a step backwards with a redesign. Sometimes a redesign can be subtle and simple, and other times it can be a huge re-vamp of a company and it’s goals.</description>
+    </item>
+    
+    <item>
+      <title>INSPIRE - A publication from the Adobe Experience Design team</title>
+      <link>http://konigi.com/blog/inspire-publication-adobe-experience-design-team/</link>
+      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/inspire-publication-adobe-experience-design-team/</guid>
+      <description>Inspire is a new site from Adobe Experience Design. With interviews, videos, and examples of work, the site is part magazine, part showcase, part news portal. It&amp;rsquo;s definitely worth a regular watch. http://xd.adobe.com/#/home</description>
+    </item>
+    
+    <item>
+      <title>Effectiveness of Brainstorming</title>
+      <link>http://konigi.com/blog/effectiveness-brainstorming/</link>
+      <pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/effectiveness-brainstorming/</guid>
+      <description>Found on smartex, and believed by jibbajabba to occasionally be true of group brainstorming&amp;hellip;
+Wikipedia on &amp;ldquo;Brainstorming&amp;rdquo;.
+Although brainstorming has become a popular group technique, researchers have generally failed to find evidence of its effectiveness for enhancing either quantity or quality of ideas generated. Because of such problems as distraction, social loafing, evaluation apprehension, and production blocking, brainstorming groups are little more effective than other types of groups, and they are actually less effective than individuals working independently.</description>
+    </item>
+    
+    <item>
+      <title>Cooper-Hewitt, National Design Museum: People&#39;s Design Award</title>
+      <link>http://konigi.com/blog/cooper-hewitt-national-design-museum-peoples-design-award/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/cooper-hewitt-national-design-museum-peoples-design-award/</guid>
+      <description>Results are in of the People&amp;rsquo;s Choice award for the Cooper-Hewitt&amp;rsquo;s National Design Award. The Zon Hearing Aid grabbed the prize.
+http://peoplesdesignaward.cooperhewitt.org/2008/browse/all/0</description>
+    </item>
+    
+    <item>
+      <title>Creative 30</title>
+      <link>http://konigi.com/blog/creative-30/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/creative-30/</guid>
+      <description>VICE, Volvo, The Independent and Yahoo! have teamed up on a project called Creative 30 which aims to find and celebrate thirty of Britain’s most promising young creative people. Check out the video interviews that take a peek into the lives and process of the selected designers.
+http://www.creative30.net/</description>
+    </item>
+    
+    <item>
+      <title>Designing for One User (Bespoke User Interfaces)</title>
+      <link>http://konigi.com/blog/designing-one-user-bespoke-user-interfaces/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-one-user-bespoke-user-interfaces/</guid>
+      <description>Chris Fahey discusses the merits of bespoke UI design, referencing the successful design of John King&#39;s touch wall which was created for King by Perceptive Pixel. Bespoke design--the practice of designing something specifically for and individual--might be more prevalent in the digital world than most people realize. The examples provided out in the quotes of software designers and developers point out the most common case where this is happening. Designers who design products by focusing on what they want/need for themselves is common enough.</description>
+    </item>
+    
+    <item>
+      <title>Human Resources</title>
+      <link>http://konigi.com/blog/human-resources/</link>
+      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/human-resources/</guid>
+      <description>The Human Resources blog looks like an interesting new source for visual and industrial design inspiration.
+http://www.welcometohr.com/</description>
+    </item>
+    
+    <item>
+      <title>iStik Designers Make a Better iPod Holder</title>
+      <link>http://konigi.com/blog/istik-designers-make-better-ipod-holder/</link>
+      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/istik-designers-make-better-ipod-holder/</guid>
+      <description>Core77 talks about a couple that makes good with self-designed iPod accessory, the iStik. Great example of designers finding buyers in a market saturated with accessory makers. They stand out because they&amp;rsquo;ve thought of the problem, researched how to make the better mousetrap and deliver a product that sells the story of sticking your nano wherever you want when you work out. They&amp;rsquo;ve made $50K in 6 months. Excellent stuff.</description>
+    </item>
+    
+    <item>
+      <title>twitrratr: Sentiment on Twitter</title>
+      <link>http://konigi.com/blog/twitrratr-sentiment-twitter/</link>
+      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
+      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
+    </item>
+    
+    <item>
+      <title>Typocalypse</title>
+      <link>http://konigi.com/blog/typocalypse/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typocalypse/</guid>
+      <description>Lars Willem Veldkampf&amp;rsquo;s Typocalypse flickr set exposes the subliminal messages in type.
+http://flickr.com/photos/larsveldkamp/sets/72157607710779069/</description>
+    </item>
+    
+    <item>
+      <title>Sumopaint.com beta - Image Editing in the Browser</title>
+      <link>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</link>
+      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</guid>
+      <description>Sumopaint, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing.</description>
+    </item>
+    
+    <item>
+      <title>Von Roxy Designer Wear for the Graphic Design Community</title>
+      <link>http://konigi.com/blog/von-roxy-designer-wear-graphic-design-community/</link>
+      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/von-roxy-designer-wear-graphic-design-community/</guid>
+      <description>Because some of us don&amp;rsquo;t mind dropping dollars for design t-shirts. :)
+Via swissmiss
+http://www.vonroxy.com/</description>
+    </item>
+    
+    <item>
+      <title>web.without.words</title>
+      <link>http://konigi.com/blog/webwithoutwords/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/webwithoutwords/</guid>
+      <description>Every week web.without.words takes a popular and known website and reconstructs it by removing all words and images, replacing them with blocks (a common &amp;ldquo;concepting&amp;rdquo; phase of any design process).
+Via The Letter
+http://webwithoutwords.com/</description>
+    </item>
+    
+    <item>
+      <title>What Goes into a Well-Done Critique</title>
+      <link>http://konigi.com/blog/what-goes-well-done-critique/</link>
+      <pubDate>Fri, 10 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/what-goes-well-done-critique/</guid>
+      <description>Jared Spool writes an excellent article describing how to give a good design critique. A well-done critique is a way to step away from the specifics of the design process and better understand how to create great designs. We do this by starting with the current design and asking &#34;What is it we&#39;re really trying to do here?&#34; and &#34;How close are we to doing it?&#34;
+ The design crit is one of the most valuable parts of the design process to me.</description>
+    </item>
+    
+    <item>
+      <title>A Guide to Choosing Colors for Your Brand</title>
+      <link>http://konigi.com/blog/guide-choosing-colors-your-brand/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/guide-choosing-colors-your-brand/</guid>
+      <description>Usability Post combines the color values from Cymbolism with popular brands to demonstrate the association of color with meaning.
+http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-brand/</description>
+    </item>
+    
+    <item>
+      <title>Concept Design Tools</title>
+      <link>http://konigi.com/blog/concept-design-tools/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/concept-design-tools/</guid>
+      <description>Victor Lombardi discusses concept design in Digital Web Magazine, pointing out that digital designers should take some inspiration from design processes for ideation and concept generation from the fields of architecture and industrial design. I think the main idea is to learn from the practices and methods from these fields, and use that as inspiration for what might be useful in your concept design practice. That is not to say that every project needs to result in a dozen concepts that need to be prototyped at high fidelity and therefore at significant cost.</description>
+    </item>
+    
+    <item>
+      <title>Dave Gray&#39;s Sketches</title>
+      <link>http://konigi.com/blog/dave-grays-sketches/</link>
+      <pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dave-grays-sketches/</guid>
+      <description>Great sketch and sketch note collection in Dave Gray&amp;rsquo;s flickr.
+http://www.flickr.com/photos/davegray/sets/1672209/</description>
+    </item>
+    
+    <item>
+      <title>Sketch of CDJ Setup in djdownload.com Newsletter</title>
+      <link>http://konigi.com/blog/sketch-cdj-setup-djdownloadcom-newsletter/</link>
+      <pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sketch-cdj-setup-djdownloadcom-newsletter/</guid>
+      <description>djdownload.com newsletter 02/10/08
+http://images.djdownload.com/img/newsletter/02102008/newsletter02102008.html</description>
+    </item>
+    
+    <item>
+      <title>Lighthouse International - Making Text Legible</title>
+      <link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid>
+      <description>Lighthouse provides 10 basic guidelines for designing for people with partial sight. &#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;
+http://www.lighthouse.org/accessibility/legible/</description>
+    </item>
+    
+    <item>
+      <title>Adobe Launches CS4 Suite of Applications</title>
+      <link>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/adobe-launches-cs4-suite-applications/</guid>
+      <description>Ars rounds up the new features in the forthcoming release of the Adobe CS4 suite to be released sometime next month. I think I&#39;ll have to upgrade for the multipage docs in Illustrator alone.
+Photoshop CS4
+ * GPU-based drawing of documents onscreen
+* 64-bit for Windows
+* Expanded 3-D paint, lighting and rendering tools
+Illustrator CS4
+ * Multipage documents with different sizes
+* Indesign-style separations preview
+* Many updated tools like gradient and blob brush</description>
+    </item>
+    
+    <item>
+      <title>NO!SPEC vs. crowdSPRING Debate at 37signals</title>
+      <link>http://konigi.com/blog/nospec-vs-crowdspring-debate-37signals/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/nospec-vs-crowdspring-debate-37signals/</guid>
+      <description>37 signals gave the soapbox to crowdSPRING to justify the crowdsourcing and spec work platform and the debate ensued. I got through about half of the long rant, then half of the comments, and called it a day. I&#39;ve already chimed in about my opinion for crowdSPRING. I believe there is a place for this market, and if small businesses will support it with dollars, then it will continue to exist.</description>
+    </item>
+    
+    <item>
+      <title>Typechart - Browse Web Type, Grab CSS</title>
+      <link>http://konigi.com/blog/typechart-browse-web-type-grab-css/</link>
+      <pubDate>Wed, 24 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typechart-browse-web-type-grab-css/</guid>
+      <description>TYPECHART is pretty neat. It lets you flip through, preview for Mac or Windows and compare web typography while retrieving the CSS.
+http://www.typechart.com/</description>
+    </item>
+    
+    <item>
+      <title>Announcing the Konigi Store</title>
+      <link>http://konigi.com/blog/announcing-konigi-store/</link>
+      <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/announcing-konigi-store/</guid>
+      <description>I&amp;rsquo;m pleased to announce the first of a series of products that I&amp;rsquo;m producing for creatives involved in design for the screen. The first 2 products are graph paper notepads formatted for user interface design and design of time-related sequences.
+The Wireframe Graph Paper Notepad is made for visual designers, interaction designers, and information architects designing for the screen. The notepad has 50 sheets at 8 1&amp;frasl;2 x 11 inches on white 70# paper, glued on the left side.</description>
+    </item>
+    
+    <item>
+      <title>12 Examples of Paragraph Typography</title>
+      <link>http://konigi.com/blog/12-examples-paragraph-typography/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/12-examples-paragraph-typography/</guid>
+      <description>12 examples complete with CSS from Jon Tan&amp;rsquo;s article on The Paragraph in Web Typography &amp;amp; Design.
+http://jontangerine.com/silo/typography/p/#default</description>
+    </item>
+    
+    <item>
+      <title>Design Thinking Blog</title>
+      <link>http://konigi.com/blog/design-thinking-blog/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-thinking-blog/</guid>
+      <description>Tim Brown, of IDEO, has been creating some excellent posts to his new blog about design thinking and is writing a book on the topic.
+http://designthinking.ideo.com/</description>
+    </item>
+    
+    <item>
+      <title>Flickr: The Face (1980-2004)</title>
+      <link>http://konigi.com/blog/flickr-face-1980-2004/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/flickr-face-1980-2004/</guid>
+      <description>A Flickr Group with covers from fashion mag, The Face. As an undergrad in the early 90&amp;rsquo;s, I was friends with an art dealer I worked with for a few years who read this magazine. He used to let me borrow his clothes, and the thing I took most of the time was his The Face t-shirt that I&amp;rsquo;d wear with a black jacket. This set of photos brings back funny memories of that NYC gallery scene.</description>
+    </item>
+    
+    <item>
+      <title>iYo YoYo Charger for iPhone</title>
+      <link>http://konigi.com/blog/iyo-yoyo-charger-iphone/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/iyo-yoyo-charger-iphone/</guid>
+      <description>Peter Thuvander&amp;rsquo;s concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I&amp;rsquo;m a big fan of efforts to provide clever alternative energy sources from human-powered generators.
+Via Core77, yo.
+http://www.peterthuvander.se/</description>
+    </item>
+    
+    <item>
+      <title>minimalsites</title>
+      <link>http://konigi.com/blog/minimalsites/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/minimalsites/</guid>
+      <description>minimalsites is a nice minimalist CSS web design showcase.
+http://www.minimalsites.com/</description>
+    </item>
+    
+    <item>
+      <title>flogged magazine</title>
+      <link>http://konigi.com/blog/flogged-magazine/</link>
+      <pubDate>Wed, 10 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/flogged-magazine/</guid>
+      <description>A magazine devoted to showcasing design projects that have been rejected by clients. Sounds excellent. Will be interesting to see what gets submitted and if people blur out details enough to make the client anonymous.
+http://floggedmagazine.com/</description>
+    </item>
+    
+    <item>
+      <title>Bill Buxton Lecture on Sketching and Experience Design at Stanford</title>
+      <link>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</link>
+      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</guid>
+      <description>Bill Buxton gives a lecture at the Stanford University Human-Computer Interaction Seminar (CS 547, June 1, 2007) giving an excellent deep dive into some of the topics in his book, Sketching User Experiences.
+ Designing for experience comes with a whole new level of complexity. This is especially true in this emerging world of information appliances, reactive environments, and ubiquitous computing, where, along with those of their users, we have to factor in the convoluted behaviors of the products themselves.</description>
+    </item>
+    
+    <item>
+      <title>100 Design Book Covers</title>
+      <link>http://konigi.com/blog/100-design-book-covers/</link>
+      <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/100-design-book-covers/</guid>
+      <description>visual evation posts pictures from 100 design books.
+http://www.evasion.cc/blog/comments/100-design-books-covers/</description>
+    </item>
+    
+    <item>
+      <title>Problem Analysis is Not the Key to Successful Design Process</title>
+      <link>http://konigi.com/blog/problem-analysis-not-key-successful-design-process/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/problem-analysis-not-key-successful-design-process/</guid>
+      <description>Diving deeply into problem analysis or early bottom up activity is not typical activity for experienced and successful designers. A more flexible approach and parallel thought processes and activities are more characteristic. That is the observation of Nigel Cross in an essay he writes in the Design Studies Journal.
+Victor Lombardi sparks a great debate about design process on Noise Between Stations while discussing the differences in approach to process between expert and novice designers, as described by Nigel Cross and Henrik Gedenryd in their independent research on the topic.</description>
+    </item>
+    
+    <item>
+      <title>Think Draw Make</title>
+      <link>http://konigi.com/blog/think-draw-make/</link>
+      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/think-draw-make/</guid>
+      <description>From the &amp;gt;Think&amp;gt;Draw&amp;gt;Make&amp;gt; about page:
+&amp;ldquo;One of the big objectives of this site is to encourage Designers to participate by designing their own visualizations (in 550 by 450 pixels) to match their interpretation of what they think the design process should be.&amp;rdquo;
+http://www.thinkdrawmake.com/</description>
+    </item>
+    
+    <item>
+      <title>emastic CSS Framework</title>
+      <link>http://konigi.com/blog/emastic-css-framework/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/emastic-css-framework/</guid>
+      <description>emastic is an interesting looking CSS Framework that is designed for both fixed and fluid layout. It looks like a nice alternative to fluid layouts than YUI Grids, with simpler and more flexible column structuring and class naming.
+* Lightweight (compressed weight less then 4kb)
+* Personalized width of the page in (em,px,%)
+* Use of fixed and fluid columns in the grid.
+* Elastic Layout with &amp;ldquo;em&amp;rdquo;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
+    </item>
+    
+    <item>
+      <title>Pattern Tap Launches</title>
+      <link>http://konigi.com/blog/pattern-tap-launches/</link>
+      <pubDate>Tue, 22 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pattern-tap-launches/</guid>
+      <description>I&amp;rsquo;m psyched to see that Squared Eye has launched a veritable smorgasbord of interface and visual design inspiration with the user-generated screenshot gallery on Pattern Tap. Get your Tap on! http://patterntap.com/</description>
+    </item>
+    
+    <item>
+      <title>Veerle&#39;s Inspiration series: Magazines</title>
+      <link>http://konigi.com/blog/veerles-inspiration-series-magazines/</link>
+      <pubDate>Mon, 14 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/veerles-inspiration-series-magazines/</guid>
+      <description>Veerle Pieters continues her excellent design inspiration series with screenshots from a handful of magazines, both digital and ezine.
+http://veerle.duoh.com/blog/comments/inspiration_series_magazines/</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Creating a Site in Fireworks</title>
+      <link>http://konigi.com/blog/tutorial-creating-site-fireworks/</link>
+      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/tutorial-creating-site-fireworks/</guid>
+      <description>Brazilian web designer Fabio Sasso provides a tutorial describing how he creates a site in Fireworks. I&#39;m not a Fireworks user, but this blog entry caught my eye because of how instructive and thoroughly illustrated it is. I&#39;m a loyal Photoshop user and don&#39;t intend to drop dollars for another graphics program, but the examples here make Fireworks look pretty darned nice.
+http://abduzeedo.com/classy-personal-portfolio-fireworks</description>
+    </item>
+    
+    <item>
+      <title>Fonts available for @font-face embedding</title>
+      <link>http://konigi.com/blog/fonts-available-font-face-embedding/</link>
+      <pubDate>Wed, 02 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fonts-available-font-face-embedding/</guid>
+      <description>Webfonts.info provides a list of fonts that are available for @font-face embedding in CSS files.
+http://www.webfonts.info/wiki/index.php?title=Fonts_available_for_%40font-face_embedding</description>
+    </item>
+    
+    <item>
+      <title>Continuum Javascript Ratio Calculator</title>
+      <link>http://konigi.com/blog/continuum-javascript-ratio-calculator/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/continuum-javascript-ratio-calculator/</guid>
+      <description>Continuum&amp;rsquo;s Javascript Ratio Calculator is a handy tool you can use to calculate object dimensions based on a ratio you provide. You can do this easily in a graphics tool like Photoshop by setting an image size and resizing, but this can be useful when you just need to pull those dimensions out when planning a project layout.
+http://www.continuum2.com/js_ratio.php</description>
+    </item>
+    
+    <item>
+      <title>The CANADIAN DESIGN RESOURCE</title>
+      <link>http://konigi.com/blog/canadian-design-resource/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/canadian-design-resource/</guid>
+      <description>The Canadian Design Resource is a blog that showcases work from Canadian designers covering a wide range of disciplines.
+Thanks DesignNotes.
+http://www.canadiandesignresource.ca/officialgallery/index.php</description>
+    </item>
+    
+    <item>
+      <title>BusinessWeek Best and Worst of the Web</title>
+      <link>http://konigi.com/blog/businessweek-best-and-worst-web/</link>
+      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/businessweek-best-and-worst-web/</guid>
+      <description>BusinessWeek selects a jury to pick the best and worst designed web sites.
+BusinessWeek canvassed the Web&amp;rsquo;s best and brightest designers—from Khoi Vinh of The New York Times&amp;rsquo; Web site to Don Norman, Silicon Valley&amp;rsquo;s chief usability guru—to find out which site designs they rate — and which ones they hate.
+
+http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm</description>
+    </item>
+    
+    <item>
+      <title>Penguin Design Award</title>
+      <link>http://konigi.com/blog/penguin-design-award/</link>
+      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/penguin-design-award/</guid>
+      <description>Penguin Books has announced the winners and shortlist for the 2008 Penguin Design Award.
+http://www.penguin.co.uk/static/cs/uk/0/minisites/penguindesignaward/2008winners.php</description>
+    </item>
+    
+    <item>
+      <title>Typography for Children</title>
+      <link>http://konigi.com/blog/typography-children/</link>
+      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typography-children/</guid>
+      <description>Fonts.com provides some suggestions for selecting readable and appropriate fonts for children.
+Pictured above are exceptional standbys recommended by Fonts.com: Sassoon Primary, Gill Sans Schoolbook, Bembo Schoolbook and Plantin Schoolbook.
+http://www.fonts.com/aboutfonts/articles/fyti/typography+for+children.htm</description>
+    </item>
+    
+    <item>
+      <title>2008 Web Design Trends</title>
+      <link>http://konigi.com/blog/2008-web-design-trends/</link>
+      <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/2008-web-design-trends/</guid>
+      <description>Web Designer Wall has compiled an amazing list of trends in web design for 2008.
+So what’s hot now? Pencil sketches, handwritten notes, card stocks, watercolor effects, collage art, script fonts, grungy and splatter ink backgrounds (glossy gradients are not &amp;ldquo;in&amp;rdquo; this year). Another trend to be on the lookout for are the vintage and retro styles which I’ve posted earlier this year. Here is a list of 82 sites picked from Best Web Gallery that show the current design trends.</description>
+    </item>
+    
+    <item>
+      <title>25 Awesome Stock Texture and Photo Websites</title>
+      <link>http://konigi.com/blog/25-awesome-stock-texture-and-photo-websites/</link>
+      <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/25-awesome-stock-texture-and-photo-websites/</guid>
+      <description>Design Reviver has collected links for 25 great stock texture and photo site.
+http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites</description>
+    </item>
+    
+    <item>
+      <title>75 Insane High Res Photoshop Brushes</title>
+      <link>http://konigi.com/blog/75-insane-high-res-photoshop-brushes/</link>
+      <pubDate>Sat, 28 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/75-insane-high-res-photoshop-brushes/</guid>
+      <description>Elite By Design has collected links to 75 high resolution Photoshop brushes.
+http://elitebydesign.com/75-insane-high-res-photoshop-brushes/</description>
+    </item>
+    
+    <item>
+      <title>The Future Of Apple Is In 1960s Braun</title>
+      <link>http://konigi.com/blog/future-apple-1960s-braun/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/future-apple-1960s-braun/</guid>
+      <description>Gizmodo puts Dieter Rams&amp;rsquo; designs at Braun next to Jonathan Ives&amp;rsquo; designs at Apple.
+10 principles of design according to Rams:
+ Good design is innovative. Good design makes a product useful. Good design is aesthetic. Good design helps us to understand a product. Good design is unobtrusive. Good design is honest. Good design is durable. Good design is consequent to the last detail. Good design is concerned with the environment.</description>
+    </item>
+    
+    <item>
+      <title>The Paper Version of the Web</title>
+      <link>http://konigi.com/blog/paper-version-web/</link>
+      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/paper-version-web/</guid>
+      <description>After posting the Konigi Graph Paper, someone pointed me to Deeplinking&amp;rsquo;s collection of photos of paper prototypes and user interface sketches.
+http://deeplinking.net/paper-web/</description>
+    </item>
+    
+    <item>
+      <title>TypoWiki</title>
+      <link>http://konigi.com/blog/typowiki/</link>
+      <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typowiki/</guid>
+      <description>I noticed the TypoWiki on TypoPhile for the first time. The wiki is &amp;ldquo;a user-created encyclopedia of all things type and design-related. Users create and edit Wiki entries with the aim of becoming a collaborative, useful, balanced and relevant resource.&amp;rdquo;
+This is a very simple wiki created on top of Drupal. They&amp;rsquo;ve done a nice job of creating a core set of wiki pages (&amp;ldquo;indices&amp;rdquo;, as they call them) linked off the front so you can edit those pages and create forward links to new resources.</description>
+    </item>
+    
+    <item>
+      <title>Imaxinasons</title>
+      <link>http://konigi.com/blog/imaxinasons/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/imaxinasons/</guid>
+      <description>International jazz festival
+http://www.imaxinasons.com/en</description>
+    </item>
+    
+    <item>
+      <title>Grid tips for Photoshop users</title>
+      <link>http://konigi.com/blog/grid-tips-photoshop-users/</link>
+      <pubDate>Thu, 19 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/grid-tips-photoshop-users/</guid>
+      <description>Made by Elephant has a great article with tips for creating guides quickly and accurately in Photoshop.
+http://www.madebyelephant.com/blog/grid-tips-for-photoshop-users</description>
+    </item>
+    
+    <item>
+      <title>Icon Design Explained (Quickly)</title>
+      <link>http://konigi.com/blog/icon-design-explained-quickly/</link>
+      <pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/icon-design-explained-quickly/</guid>
+      <description>Jon Hicks describes his guidelines and workflow when creating icons.
+http://www.hicksdesign.co.uk/journal/icon-design-explained-quickly</description>
+    </item>
+    
+    <item>
+      <title>Rhodia Drive</title>
+      <link>http://konigi.com/blog/rhodia-drive/</link>
+      <pubDate>Sat, 14 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/rhodia-drive/</guid>
+      <description>Rhodia Drive is a fantastic blog written by someone named Tedo, a Filipino journalist currently based in Chicago, that is devoted to Rhodia notepads. Tedo posts random stories, artwork and photos from Rhodia lovers around the world. I always carry around a 3&amp;frasl;5 x 4.5 Rhodia notepad and traded in my Tufte graph paper for Rhodia a little over a year ago. If you&amp;rsquo;re one of us, check out Rhodia Drive and the flickr group.</description>
+    </item>
+    
+    <item>
+      <title>70 Amazing Business Cards @ Fubiz</title>
+      <link>http://konigi.com/blog/70-amazing-business-cards-fubiz/</link>
+      <pubDate>Fri, 13 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/70-amazing-business-cards-fubiz/</guid>
+      <description>http://www.fubiz.net/blog/index.php?2008/04/15/1692-70-amazing-business-cards</description>
+    </item>
+    
+    <item>
+      <title>IA TV</title>
+      <link>http://konigi.com/blog/ia-tv/</link>
+      <pubDate>Fri, 13 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ia-tv/</guid>
+      <description>IA TV is a blog that posts videos related to information architecture and interaction design.
+http://iatelevision.blogspot.com/</description>
+    </item>
+    
+    <item>
+      <title>MySpace Redesign</title>
+      <link>http://konigi.com/blog/myspace-redesign/</link>
+      <pubDate>Fri, 13 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/myspace-redesign/</guid>
+      <description>TechCrunch has screenshots of the MySpace redesign that launches next week. Adaptive Path were involved in the design and IA process.
+Los Angeles based social network MySpace, which has 115 million monthly visitors worldwide (Comscore, April 2008), will be launching a redesign of its site next week. The first phase of the project, internally called “MySpace 2.0,” will launch on Wednesday June 18.
+The changes affect five major areas of the service: homepage, navigation, profile editor, search and the MySpaceTV Flash player.</description>
+    </item>
+    
+    <item>
+      <title>Monocle Design Notes</title>
+      <link>http://konigi.com/blog/monocle-design-notes/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/monocle-design-notes/</guid>
+      <description>Dan Hill provides an incredibly open and detailed description of the decision making process that went into designing and deploying Monocle.com. This is not to be missed. http://www.cityofsound.com/blog/2008/04/monocle-design.html</description>
+    </item>
+    
+    <item>
+      <title>CGART: Video and Motion Graphics Showcase</title>
+      <link>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</link>
+      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</guid>
+      <description>CGART is an excellent new showcase that curates motion work covering the following areas: Motion Design, Animation, CG Animation, Cinematography, Special Effects, Interesting Advertising, Music Videos, Making of Videos, Movie Trailers, Motion Experiments.
+http://cgart.com/</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourced Color Explorer</title>
+      <link>http://konigi.com/blog/crowdsourced-color-explorer/</link>
+      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/crowdsourced-color-explorer/</guid>
+      <description>I have to admit, that this crowdsourced color explorer is one of the coolest ideas I&amp;rsquo;ve seen in, oh, the last few weeks. On the Dolores blog, Brendan explains how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the World Color Survey. The result was the color explorer, aka &amp;ldquo;The Amazing Color Label Wheel!</description>
+    </item>
+    
+    <item>
+      <title>67 Thoughts About Design</title>
+      <link>http://konigi.com/blog/67-thoughts-about-design/</link>
+      <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/67-thoughts-about-design/</guid>
+      <description>Tom Peters does a brain dump of the main ideas he&amp;rsquo;s discussed about design in the past 15 years. In his list, he drops some thoughts that simply reflect the era of the present and past 15 years, and in others he provides nuggets of wisdom. Here&amp;rsquo;s a sampling.
+ Everybody&amp;rsquo;s doin&amp;rsquo; it Small things are often (usually?) more important than big things.
+&amp;ldquo;It&amp;rdquo; is about the way every individual conducts himself or herself.</description>
+    </item>
+    
+    <item>
+      <title>Designing from the Inside Out</title>
+      <link>http://konigi.com/blog/designing-inside-out/</link>
+      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designing-inside-out/</guid>
+      <description>Laura Richardson writes in interactions magazine, May/June 2008 (subscription required for full text) about a philosophy of industrial design whose goal is to &amp;ldquo;get to the heart of the matter&amp;#8212;meaningful interactions at the core of great product design.&amp;rdquo; In a sense, I can boil this down to needs. People have needs, explicit and unexpressed, that have to be described in relation to your product. The successful products are those where the flow between need and fulfillment are fluid and natural.</description>
+    </item>
+    
+    <item>
+      <title>Beautiful Icon Sets on deviantART</title>
+      <link>http://konigi.com/blog/beautiful-icon-sets-deviantart/</link>
+      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/beautiful-icon-sets-deviantart/</guid>
+      <description>Noupe curates a list of 40 free icon sets showcased in the deviantART icons gallery.
+http://www.noupe.com/freebie/40-extremely-beautifull-icon-sets-hand-picked-from-deviantart.html</description>
+    </item>
+    
+    <item>
+      <title>misprinted type</title>
+      <link>http://konigi.com/blog/misprinted-type/</link>
+      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/misprinted-type/</guid>
+      <description>Eduardo Recife&amp;rsquo;s misprinted type has some fine distressed fonts, if that suits you. Some are free to download and a bunch are for sale. There are also free Photoshop brushes up for grabs. Check it.
+http://www.misprintedtype.com/v3/fonts.php</description>
+    </item>
+    
+    <item>
+      <title>Nine skills that separate good and great designers</title>
+      <link>http://konigi.com/blog/nine-skills-separate-good-and-great-designers/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/nine-skills-separate-good-and-great-designers/</guid>
+      <description>This is a great slide from an presentation given by Cameron Moll in 2006 titled, &amp;ldquo;Nine skills that separate good and great designers.&amp;rdquo;
+http://www.cameronmoll.com/archives/001266.html</description>
+    </item>
+    
+    <item>
+      <title>Small Design Teams Are Better</title>
+      <link>http://konigi.com/blog/small-design-teams-are-better/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/small-design-teams-are-better/</guid>
+      <description>Here are 2 recent articles that discuss why small teams are more effective than larger ones.  Great Numbers, Not So Great Design, by Khoi Vinh in Subtraction
+This craft, and whatever pretensions to art it can pull off, rests so much on the efficiency of transferring ideas from the brain to the hand. This means that in its ideal form, it works best when practiced by a single person. The perfect design staff is a single designer who can conceive of and execute an idea from start to finish — a straight shot from the right brain to the wrist — maintaining the same coherent creative vision throughout.</description>
+    </item>
+    
+    <item>
+      <title>The Ampersand</title>
+      <link>http://konigi.com/blog/ampersand/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ampersand/</guid>
+      <description>A blog devoted to the ampersand. Via swissmiss
+http://ampersand.gosedesign.net/</description>
+    </item>
+    
+    <item>
+      <title>Log&amp;Atilde;&amp;sup3;logos</title>
+      <link>http://konigi.com/blog/log-logos/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/log-logos/</guid>
+      <description>Yes, clearly, that&#39;s what they must have been thinking about when they made that logo. Logólogos proposes even more of the equations that describe popular logo design concepts.
+http://logologos.blogspot.com/</description>
+    </item>
+    
+    <item>
+      <title>Roku Netflix Player</title>
+      <link>http://konigi.com/blog/roku-netflix-player/</link>
+      <pubDate>Tue, 20 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/roku-netflix-player/</guid>
+      <description>Yet another set top box makes a move to bring the 10 foot Internet TV and movie experience to your living room. This time Roku, maker of the Soundbridge audio player, has teamed up with Netflix to deliver their video on demand service to a set top box designed for Netflix service only. The $100 box allows you to navigate your queue, view show/movie information, and stream videos that were previously only available for Internet streaming to Windows users previously.</description>
+    </item>
+    
+    <item>
+      <title>Little Chimp Society Illustration Blog</title>
+      <link>http://konigi.com/blog/little-chimp-society-illustration-blog/</link>
+      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/little-chimp-society-illustration-blog/</guid>
+      <description>Little Chimp Society is a weblog that showcases great illustration.
+http://thelittlechimpsociety.com/</description>
+    </item>
+    
+    <item>
+      <title>The Photoshop Anthology: Free for a limited time</title>
+      <link>http://konigi.com/blog/photoshop-anthology-free-limited-time/</link>
+      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/photoshop-anthology-free-limited-time/</guid>
+      <description>For a limited time, you can get a free PDF copy of SitePoint&#39;s Photoshop primer, The Photoshop Anthology. Requires that you submit your email address for download link.
+http://photoshop.aws.sitepoint.com/</description>
+    </item>
+    
+    <item>
+      <title>USA Political Election Logos</title>
+      <link>http://konigi.com/blog/usa-political-election-logos/</link>
+      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/usa-political-election-logos/</guid>
+      <description>Logoblink has compiled logos from U.S. political campaigns for presidential election from 1960 to 2008.
+http://logoblink.com/2008/03/23/usa-polit-logos-2008-1960/</description>
+    </item>
+    
+    <item>
+      <title>Get Out And Play</title>
+      <link>http://konigi.com/blog/get-out-and-play/</link>
+      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/get-out-and-play/</guid>
+      <description>The Nokia ngage Get Out and Play site features some fun stop motion animation, a sick Breakout game using people, and the game Snake played out as an animation of 1,000 people. This is brilliant. Don&#39;t miss it.
+http://www.get-out-and-play.com/index.php</description>
+    </item>
+    
+    <item>
+      <title>Vintage Logos</title>
+      <link>http://konigi.com/blog/vintage-logos/</link>
+      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/vintage-logos/</guid>
+      <description>&amp;ldquo;A collection of vintage logos from a mid-70&amp;rsquo;s edition of the book World of Logotypes&amp;rdquo; Check the logo set on flickr.
+http://www.flickr.com/photos/mr_carl/sets/72157604144345854/</description>
+    </item>
+    
+    <item>
+      <title>wear palettes</title>
+      <link>http://konigi.com/blog/wear-palettes/</link>
+      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/wear-palettes/</guid>
+      <description>wear palettes is a color blog that creates color palettes from photos posted to the Sartorialist, a fashion photography blog that posts pictures of clothing, mainly seen on the streets of NYC.
+http://wearpalettes.blogspot.com/</description>
+    </item>
+    
+    <item>
+      <title>Information Design Patterns</title>
+      <link>http://konigi.com/blog/information-design-patterns/</link>
+      <pubDate>Wed, 07 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/information-design-patterns/</guid>
+      <description>Christian Behrens&amp;rsquo; information design pattern repository collects solutions for &amp;ldquo;&amp;hellip;the display, behavior, and user interaction of complex infographics. The collection is available in the form of a 200-page book that additionally includes a profound historical record of information design as well as an introduction inthe research field of design patterns.&amp;rdquo;
+http://niceone.org/infodesign/</description>
+    </item>
+    
+    <item>
+      <title>Alessandro Pautasso Interview</title>
+      <link>http://konigi.com/blog/alessandro-pautasso-interview/</link>
+      <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/alessandro-pautasso-interview/</guid>
+      <description>abduzeedo has a brief interview with Italian illustrator Alessandro Pautasso. Pautasso illustrates his photography by creating ornate, curvilinear, and beautifully decorative overlaying lines. In the interview he talks about his gear and his inspirations, talks about how he got started as an illustrator, and offers a peak into his toolbox. Check it out.
+You can view more of Pautasso&amp;rsquo;s work at:
+ http://www.nosurprises.it/ http://flickr.com/photos/kaneda99/ 
+http://abduzeedo.com/alessandro-pautasso-interview</description>
+    </item>
+    
+    <item>
+      <title>Do websites need to look exactly the same in every browser?</title>
+      <link>http://konigi.com/blog/do-websites-need-look-exactly-same-every-browser/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/do-websites-need-look-exactly-same-every-browser/</guid>
+      <description>That&amp;rsquo;s one hell of a domain name: http://dowebsitesneedtolookexactlythesameineverybrowser.com/
+http://dowebsitesneedtolookexactlythesameineverybrowser.com/</description>
+    </item>
+    
+    <item>
+      <title>Commercial graphic design is not self-expression</title>
+      <link>http://konigi.com/blog/commercial-graphic-design-not-self-expression/</link>
+      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/commercial-graphic-design-not-self-expression/</guid>
+      <description>Chuck Green offers some advice to designers who see a lot of uniformity in look and feel or sameness of style in their graphic design projects. His point is that design is not artistic expression and that designers need to be able to focus their work on solving problems rather than merely layering their point of view and style over their solution. He argues that the ability to devise different approaches to different problems is difficult, but that designers should attempt this while keeping their opinions at bay.</description>
+    </item>
+    
+    <item>
+      <title>Typography for Headlines</title>
+      <link>http://konigi.com/blog/typography-headlines/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typography-headlines/</guid>
+      <description>Christian Watson of Smiley Cat Web Design provides an excellent showcase of headline typographic design from across the web.
+http://www.smileycat.com/miaow/archives/typography-for-headlines.php</description>
+    </item>
+    
+    <item>
+      <title>Designers Toolbox: OS Form Elements</title>
+      <link>http://konigi.com/blog/designers-toolbox-os-form-elements/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/designers-toolbox-os-form-elements/</guid>
+      <description>The Designers Toolbox provides a nice resource for designers looking to create form elements in design comps or wireframes. The site displays every type of form element that can be generated by Windows XP IE and Firefox, and Mac OS X Safari and Firefox. Photoshop files can be downloaded for each form element.
+Thanks, swissmiss.
+http://www.designerstoolbox.com/designresources/elements/</description>
+    </item>
+    
+    <item>
+      <title>Celebration Of Vintage and Retro Design</title>
+      <link>http://konigi.com/blog/celebration-vintage-and-retro-design/</link>
+      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/celebration-vintage-and-retro-design/</guid>
+      <description>Smashing Magazine has collected a series of pictures celebrating vintage and retro desigtn&amp;#8212;ads, illustrations, book covers, pins and posters from 1920-1980s or inspired by that period. http://www.smashingmagazine.com/2008/04/21/celebration-of-vintage-and-retro-design/</description>
+    </item>
+    
+    <item>
+      <title>REC: Immersive Movie Ad</title>
+      <link>http://konigi.com/blog/rec-immersive-movie-ad/</link>
+      <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/rec-immersive-movie-ad/</guid>
+      <description>The REC movie site is one of the most immersive Flash video interactive pieces I&amp;rsquo;ve seen in a long time. The site puts you into the movie as though you are watching video captured from an observer who is actually in the scene. There&amp;rsquo;s a qality to the video and the storytelling here that feels very reminiscent of the Blair Witch Project, and here it is an equally successful vehicle. After exploring and experiencing some of the terror for a few minutes, check out the video footage of audience reactions at a screening of the film.</description>
+    </item>
+    
+    <item>
+      <title>CSSTYPE</title>
+      <link>http://konigi.com/blog/csstype/</link>
+      <pubDate>Sat, 12 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/csstype/</guid>
+      <description>CSSTYPE is a CSS generator that allows you to select a font from a list of commonly installed fonts on Windows and Mac OS, set all type attributes (size, color, etc.), preview with sample text, and copy the resulting CSS. http://www.csstype.com/</description>
+    </item>
+    
+    <item>
+      <title>FontStruct: User Generated Fonts</title>
+      <link>http://konigi.com/blog/fontstruct-user-generated-fonts/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fontstruct-user-generated-fonts/</guid>
+      <description>Font retailer, FontShop are launching FontStruct a free font-building tool that lets users create fonts via an online font editor using geometrical shapes, which are arranged in a grid pattern, like tiles or bricks. TrueType fonts are generated for use on Mac or PC. Users can keep fonts to themselves or share them with the community. All fonts are free to download. http://fontstruct.fontshop.com/</description>
+    </item>
+    
+    <item>
+      <title>30 Must See Comment Designs for Web Designers</title>
+      <link>http://konigi.com/blog/30-must-see-comment-designs-web-designers/</link>
+      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/30-must-see-comment-designs-web-designers/</guid>
+      <description>The Blog Design Blog has collected 30 examples of comment interfaces on weblogs.
+Thanks, swissmiss.
+http://www.blogdesignblog.com/blog-design/30-comment-designs-for-webdesigners/</description>
+    </item>
+    
+    <item>
+      <title>Stockvault.net</title>
+      <link>http://konigi.com/blog/stockvault-net/</link>
+      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/stockvault-net/</guid>
+      <description>Stockvault.net provides an alternative to royalty free stock art vendors, by providing a user contributed archive of free photos and images.
+http://www.stockvault.net/</description>
+    </item>
+    
+    <item>
+      <title>The Superest: Who is the superest hero of them all?</title>
+      <link>http://konigi.com/blog/superest-who-superest-hero-them-all/</link>
+      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/superest-who-superest-hero-them-all/</guid>
+      <description>I absolutely love the idea The Superest, a game/blog that features drawings of superheroes. The Superest is a continually running game of My Team, Your Team. The rules are simple:
+Player 1 draws a character with a power. Player 2 then draws a character whose power cancels the power of that previous character. Repeat.
+ To experience the fun in order, start at the first hero.
+http://www.thesuperest.com/</description>
+    </item>
+    
+    <item>
+      <title>Should Redesign?</title>
+      <link>http://konigi.com/blog/should-redesign/</link>
+      <pubDate>Sat, 05 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/should-redesign/</guid>
+      <description>Should Redesign is a new design gallery that displays a screenshot of a site and asks users to vote on whether or not they should be redesigned.
+http://www.shouldredesign.com/</description>
+    </item>
+    
+    <item>
+      <title>HITSPAPER</title>
+      <link>http://konigi.com/designs/submissions/hitspaper/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/hitspaper/</guid>
+      <description>http://antenna7.com/root/</description>
+    </item>
+    
+    <item>
+      <title>Google Design Principles</title>
+      <link>http://konigi.com/blog/google-design-principles/</link>
+      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/google-design-principles/</guid>
+      <description>Luke Wroblewski summarizes the fundamental principles that guide Google in designing user experiences, as told by John Wiley in a WritersUA presentation.
+ Useful: focus on people -their lives, their work, their dreams. Fast: every millisecond counts Simple: simplicity is powerful. Engaging: engage beginners and attract experts. Innovative: dare to be innovative. Universal: design for the world. Profitable: plan for today&#39;s and tomorrow&#39;s business. Beautiful: delight the eye without distracting the mind.</description>
+    </item>
+    
+    <item>
+      <title>Design Eye for South By</title>
+      <link>http://konigi.com/blog/design-eye-south/</link>
+      <pubDate>Mon, 17 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/design-eye-south/</guid>
+      <description>Design Eye strikes again, with a redesign barn raising for SXSW.
+http://designeye.org/sxswi/</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s Design process</title>
+      <link>http://konigi.com/blog/apples-design-process/</link>
+      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apples-design-process/</guid>
+      <description>Michael Lopp, Senior Engineering Manager at Apple discussed Apple&#39;s design process at a presentation given at SXSW. Business Week summarized the points, excerpted below.  Pixel Perfect Mockups
+This, Lopp admitted, causes a huge amount of work and takes an enormous amount of time. But, he added, “it removes all ambiguity.” That might add time up front, but it removes the need to correct mistakes later on.
+10 to 3 to 1</description>
+    </item>
+    
+    <item>
+      <title>Templates for Creating Blueprint-Compatible Comps</title>
+      <link>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</guid>
+      <description>I&#39;ve created Adobe Photoshop and Illustrator templates for creating comps that work with Olav Bjorkoy&#39;s Blueprint CSS Framework. The templates are simply documents with guides based on the 24 units provided by Blueprint. The background image of the grid is also provided with a layer to show unit numbers if you like, and the Illustrator document shows a fake comp to demonstrate positioning on the grid.
+You may download the templates here:</description>
+    </item>
+    
+    <item>
+      <title>10 Mistakes in Icon Design</title>
+      <link>http://konigi.com/blog/10-mistakes-icon-design/</link>
+      <pubDate>Sat, 16 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-mistakes-icon-design/</guid>
+      <description>Denis Kortunov provides a nice illustrated list of common mistakes in icon design.
+ Insufficient differentiation between icons Too many elements in one icon Unnecessary elements Lack of unity of style within a set of icons Unnecessary perspective and shadows in small icons Overly original metaphors National or social characteristics not being taken into account Images of real interface elements in icons Text inside icons Outside the pixel framework</description>
+    </item>
+    
+    <item>
+      <title>CritBuns</title>
+      <link>http://konigi.com/designs/submissions/critbuns/</link>
+      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/critbuns/</guid>
+      <description>http://www.critbuns.com</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Blank Canvas Phobia</title>
+      <link>http://konigi.com/blog/overcoming-blank-canvas-phobia/</link>
+      <pubDate>Sun, 27 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/overcoming-blank-canvas-phobia/</guid>
+      <description>Cameron Moll discusses the issue of staring at a blank canvas in Photoshop, and his approach to overcoming &amp;ldquo;blankcanvasphobia&amp;rdquo; and leaping into the design process.
+ Familiarize yourself with how others have solved the same problem you’re solving. Draw from previous work. Sketch it out Begin with a grid Begin in grayscale Start with the &amp;ldquo;core.&amp;rdquo; If nothing sticks, come back later</description>
+    </item>
+    
+    <item>
+      <title>Killing Bad Layout Conventions</title>
+      <link>http://konigi.com/blog/killing-bad-layout-conventions/</link>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/killing-bad-layout-conventions/</guid>
+      <description>Andy Rutledge exposes the flaws of an established design conventions&amp;#8212;the 3 column layout. The layout is typically identified by a wide center column with 2 flanking narrow sidebar, and it can be found on some of the largest and most popular sites, including Amazon.com and Apple.com. Rutledge points out the limitations and inefficiencies of this layout:
+ Symmetry is usually detrimental to content hierarchy Symmetry diminishes viewer interest Having 2 sidebars, one on either side, defeats the purpose of sidebar content It requires that site visitors first learn (and perhaps relearn from page to page) where to look for a particular sort of ancillary information or links Often results in far too much ancillary information on the page The particular sort of visual noise generated by the 2 bracketing sidebars diminishes, rather than enhances, user/reader focus on the main content  Rutledge challenges designers to really think about their given problems and design for them; to challenge what has become conventional.</description>
+    </item>
+    
+    <item>
+      <title>10 Ways To Get Design Approval</title>
+      <link>http://konigi.com/blog/10-ways-get-design-approval/</link>
+      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/10-ways-get-design-approval/</guid>
+      <description>On 24 Ways, Paul Boag offers suggestions for getting design approval.
+1. Define the role of the client and designer
+2. Understand the business
+3. Understand the users
+4. Avoid multiple concepts
+5. Use mood boards
+6. Say what you like
+7. Wireframe the homepage
+8. Present your designs
+9. Provide written supporting material
+10. Control the feedback
+Read more at 24 Ways...</description>
+    </item>
+    
+  </channel>
+</rss>

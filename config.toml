@@ -1,0 +1,13 @@
+theme = "konigi"
+baseurl = "http://konigi.com/"
+languageCode = "en-us"
+title = "Konigi"
+MetaDataFormat = "toml"
+pluralizeListTitles = false
+Paginate = "30"
+PageSize = "30"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  status = "status"

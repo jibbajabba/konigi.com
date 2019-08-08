@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheat Sheets on Konigi</title>
+    <link>http://konigi.com/tags/cheat-sheets/</link>
+    <description>Recent content in Cheat Sheets on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/cheat-sheets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CSS 3 Cheat Sheet (PDF)</title>
+      <link>http://konigi.com/links/css-3-cheat-sheet-pdf/</link>
+      <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/css-3-cheat-sheet-pdf/</guid>
+      <description>Smashing Magazine&amp;rsquo;s printable CSS 3 Cheat Sheet provides a complete listing of all the properties, selectors types and allowed values in the current CSS 3 specification from the W3C. Each property is provided in a section that attempts to match it with the section (module) that it is most actively associated within the W3C specification. Next to each property is a listing of the expected values that that property takes (normal text shows named values it accepts and italics shows value types it will accept).</description>
+    </item>
+    
+  </channel>
+</rss>

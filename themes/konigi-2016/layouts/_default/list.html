@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+{{ partial "body_top.html" . }}
+<!-- LIST -->
+<section id="main">
+  <h1 id="title">{{ .Title }}</h1>
+  <ul id="list">
+      {{ range .Paginator.Pages }}
+          {{ .Render "li"}}
+      {{ end }}
+  </ul>
+</section>
+<section class="pagination-block">
+{{ template "_internal/pagination.html" . }}
+</section>
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

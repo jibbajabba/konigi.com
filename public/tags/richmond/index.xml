@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richmond on Konigi</title>
+    <link>http://konigi.com/tags/richmond/</link>
+    <description>Recent content in Richmond on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2017 11:02:59 -0719</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/richmond/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Richmond Bridge</title>
+      <link>http://konigi.com/sunchasing/019/</link>
+      <pubDate>Sun, 19 Nov 2017 11:02:59 -0719</pubDate>
+      
+      <guid>http://konigi.com/sunchasing/019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

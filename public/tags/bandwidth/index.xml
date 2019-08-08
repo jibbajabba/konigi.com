@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bandwidth on Konigi</title>
+    <link>http://konigi.com/tags/bandwidth/</link>
+    <description>Recent content in Bandwidth on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/bandwidth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Formula 1 Video Bandwidth Profiler</title>
+      <link>http://konigi.com/interfaces/formula-1-video-bandwidth-profiler/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/formula-1-video-bandwidth-profiler/</guid>
+      <description>Formula 1&#39;s Video site provides a bandwidth profiler before display their video player. After checking your bandwidth availability, the app suggests a resolution and quality that will give you the best experience.
+1. User selects the video they wish to view.2. App assesses available bandwidth.3. App provides report of bandwidth and resolution, and suggests the option that will provide the best experience.4. Grade 2 video player. http://www.formula1.com/video/</description>
+    </item>
+    
+  </channel>
+</rss>

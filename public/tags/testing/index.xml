@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Konigi</title>
+    <link>http://konigi.com/tags/testing/</link>
+    <description>Recent content in Testing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AirServer: Airplay receiver for iOS devices</title>
+      <link>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</link>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid>
+      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.</description>
+    </item>
+    
+    <item>
+      <title>Reflector.app: iOS AirPlay mirroring to computer</title>
+      <link>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</guid>
+      <description>Reflector lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.
+@dakotareese tipped me that some users report problems using apps that hack into Airplay. More info here.
+Via 90poe
+https://www.reflectorapp.com/</description>
+    </item>
+    
+    <item>
+      <title>BrowserStack: Cross-Browser Testing Tool</title>
+      <link>http://konigi.com/links/browserstack-cross-browser-testing-tool/</link>
+      <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/browserstack-cross-browser-testing-tool/</guid>
+      <description>Browserstack allows you to stop relying on screenshot web apps or using multiple virtual machines to do your testing. The service gives you remote, web-based, VNC screen sharing using the web browser you choose, so you can test your web sites and apps in real time rather than relying on static screen comparisons.
+Enter a URL to test, and select a target browser in the version of your choosing and screen resolution.</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://konigi.com/links/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/concept-feedback-website-review-community/</guid>
+      <description>Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.</description>
+    </item>
+    
+    <item>
+      <title>Google Browser Size</title>
+      <link>http://konigi.com/links/google-browser-size/</link>
+      <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/google-browser-size/</guid>
+      <description>Google Browser Size is a visualization of browser window sizes for web sites. Enter a URL into the app, and the page is displayed behind an overlay showing the percentage of browser users who are able to view the visible portion, based on their browser&amp;rsquo;s available viewport size, and their display&amp;rsquo;s screen resolution. For example, the &amp;quot;90%&amp;quot; contour means that 90% of people visiting the site have their browser window open to at least this size or larger.</description>
+    </item>
+    
+    <item>
+      <title>Guide to CSS support in email clients</title>
+      <link>http://konigi.com/links/guide-css-support-email-clients/</link>
+      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/guide-css-support-email-clients/</guid>
+      <description>Campaign Monitor provides a table showing the level of CSS support in the 23 different email clients they test, and covers all the popular applications across desktop, web and mobile email. The web-based version of the guide focusses on the 10 most popular email clients on the market, and they provide a complete report on all 23 email clients in PDF format.
+http://www.campaignmonitor.com/css/</description>
+    </item>
+    
+    <item>
+      <title>Litmus Browser Testing Software</title>
+      <link>http://konigi.com/blog/litmus-browser-testing-software/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
+      <description>Litmus is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.
+They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above.</description>
+    </item>
+    
+    <item>
+      <title>Litmus: Test your email and website designs</title>
+      <link>http://konigi.com/links/litmus-test-your-email-and-website-designs/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/litmus-test-your-email-and-website-designs/</guid>
+      <description>Litmus provides testing of web sites and email messages across all browser and email platforms for a fee.
+http://litmusapp.com/</description>
+    </item>
+    
+  </channel>
+</rss>

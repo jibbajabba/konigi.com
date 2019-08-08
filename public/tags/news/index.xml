@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Konigi</title>
+    <link>http://konigi.com/tags/news/</link>
+    <description>Recent content in News on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Oct 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timeline Views of the News</title>
+      <link>http://konigi.com/blog/timeline-views-news/</link>
+      <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/timeline-views-news/</guid>
+      <description>Viget&amp;rsquo;s Peyton Crump has collected screenshots from his research on data-driven timelines of news.
+http://www.viget.com/inspire/timeline-views-of-the-news/</description>
+    </item>
+    
+    <item>
+      <title>NY Times Article Skimmer</title>
+      <link>http://konigi.com/blog/ny-times-article-skimmer/</link>
+      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ny-times-article-skimmer/</guid>
+      <description>The New York Times&amp;rsquo; Article Skimmer prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. Via SwissMiss
+http://prototype.nytimes.com/gst/articleSkimmer/</description>
+    </item>
+    
+    <item>
+      <title>Newspaper Website Design</title>
+      <link>http://konigi.com/blog/newspaper-website-design/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/newspaper-website-design/</guid>
+      <description>Smashing Magazine does a newspaper roundup in a week that saw the FT.com make news for its redesign. These days, the design lines between blogs and newspapers are starting to converge a bit with those newspapers that take the threat of the blog format seriously. Smashing Mag does a good design of screenshooting and comparing what news sites are doing. http://www.smashingmagazine.com/2008/11/11/newspaper-website-design-trends-and-examples/</description>
+    </item>
+    
+    <item>
+      <title>CNET</title>
+      <link>http://konigi.com/designs/cnet/</link>
+      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/cnet/</guid>
+      <description>CNET redesigns its identity and with it, all of its sites now sport a cleaner, more modern aesthetic. Some claim that the original c|Net, with the block of yellow navigation on the left hand side was responsible for the proliferation of that layout type in the 90&amp;rsquo;s. Today there is only a hint of yellow, and that left sidebar that held most of the site navigation is now relegated to a simpler, singular category or local navigation purpose within a section.</description>
+    </item>
+    
+    <item>
+      <title>CNN.com Global Navigation</title>
+      <link>http://konigi.com/interfaces/cnn-com-global-navigation/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/cnn-com-global-navigation/</guid>
+      <description>The CNN News portal provides a very dense global navigation header that&#39;s got quite a bit going on, but succeeds in drawing out the main entry points for news, featured or promoted points of interest, language/edition preference setting, search, and even a sticky alert area for late breaking news. It even borrows the idea of hot topics navigation per section from Newsvine, which allows for a more variable set of local navigation based on what&#39;s happening now, rather than on a rigid top-down IA.</description>
+    </item>
+    
+    <item>
+      <title>omg!</title>
+      <link>http://konigi.com/designs/submissions/omg/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/omg/</guid>
+      <description>http://omg.yahoo.com</description>
+    </item>
+    
+    <item>
+      <title>Variety</title>
+      <link>http://konigi.com/designs/submissions/variety/</link>
+      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/variety/</guid>
+      <description>http://www.variety.com/</description>
+    </item>
+    
+    <item>
+      <title>Hold the front page</title>
+      <link>http://konigi.com/blog/hold-front-page/</link>
+      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/hold-front-page/</guid>
+      <description>The Economist reports on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&amp;rsquo;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page).</description>
+    </item>
+    
+    <item>
+      <title>Hossli</title>
+      <link>http://konigi.com/designs/hossli/</link>
+      <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/hossli/</guid>
+      <description>People&amp;rsquo;s Choice for Feb. 2008
+Hossli.com is the portfolio of Swiss journalist Peter Hossli, featuring the published articles, a weblog, and photo journal pieces by the writer. The site, designed by Swiss/American designer Tina Roth Eisenberg, presents an ultra clean and modern face to the articles. A simple navigation system for browsing the extensive archive stories by facets including category, type, year, language.
+http://hossli.com</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! NewsGlobe vs. Wii News Channel</title>
+      <link>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/yahoo-newsglobe-vs-wii-news-channel/</guid>
+      <description>Yahoo! launched the News Globe, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page.</description>
+    </item>
+    
+    <item>
+      <title>vive.in</title>
+      <link>http://konigi.com/designs/submissions/vive/</link>
+      <pubDate>Wed, 13 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/vive/</guid>
+      <description>http://www.vive.in</description>
+    </item>
+    
+    <item>
+      <title>MSNBC</title>
+      <link>http://konigi.com/designs/submissions/msnbc/</link>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/msnbc/</guid>
+      <description>http://msnbc.msn.com</description>
+    </item>
+    
+  </channel>
+</rss>

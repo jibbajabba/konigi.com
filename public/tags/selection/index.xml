@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selection on Konigi</title>
+    <link>http://konigi.com/tags/selection/</link>
+    <description>Recent content in Selection on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Mar 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/selection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shelfari Hybrid Buttons, Revised</title>
+      <link>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</guid>
+      <description>We covered Shelfari&#39;s hybrid button in their list views of bookshelf items. That example showed a single push button with an attached icon for drop down menu. The single button allowed for the use of a default behavior, while the drop down arrow allowed for the display of other options for the item. The drop down menu allowed users to make multiple selections, i.e. using checkbox behaviors, rather than just select one value in the drop down list.</description>
+    </item>
+    
+    <item>
+      <title>QuickSnapper Toggle Control</title>
+      <link>http://konigi.com/interfaces/quicksnapper-toggle-control/</link>
+      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/quicksnapper-toggle-control/</guid>
+      <description>The toggle control in QuickSnapper&#39;s account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.
+ http://www.quicksnapper.com/</description>
+    </item>
+    
+  </channel>
+</rss>

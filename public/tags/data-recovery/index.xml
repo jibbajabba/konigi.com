@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Recovery on Konigi</title>
+    <link>http://konigi.com/tags/data-recovery/</link>
+    <description>Recent content in Data Recovery on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Nov 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/data-recovery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facebook Loses Users&#39; Email Notification Settings</title>
+      <link>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</guid>
+      <description>I got this in my email from Facebook. Unfortunately, the settings that control which email notifications get sent to you were lost. We&amp;rsquo;re sorry for the inconvenience.
+ Wow. Really? I agree with what M. David Peterson had to say about the issue. Sounds like they&amp;rsquo;ve got some inexperienced engineers running the show. If this had been a web service with critical data that wasn&amp;rsquo;t backed up, people would be pretty pissed.</description>
+    </item>
+    
+  </channel>
+</rss>

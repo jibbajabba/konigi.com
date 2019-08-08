@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Form Submission on Konigi</title>
+    <link>http://konigi.com/tags/form-submission/</link>
+    <description>Recent content in Form Submission on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 May 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/form-submission/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OK-Cancel or Cancel-OK?</title>
+      <link>http://konigi.com/blog/ok-cancel-or-cancel-ok/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/ok-cancel-or-cancel-ok/</guid>
+      <description>Jakob Nielsen&#39;s latest Alertbox recommends that order of OK vs Cancel should be determined by the standard order defined by the platform&#39;s interface guidelines. Alas, if you&#39;re designing for the web, order becomes problematic because Windows interface guidelines put OK first, whereas Apple guidelines put it last. Nielsen suggests that you base the order on the installed platform of your audience, i.e. if you have predominantly Windows users, you might be best served by putting OK on the left.</description>
+    </item>
+    
+  </channel>
+</rss>

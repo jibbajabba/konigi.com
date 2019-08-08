@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webdesigner on Konigi</title>
+    <link>http://konigi.com/tags/webdesigner/</link>
+    <description>Recent content in Webdesigner on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jan 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/webdesigner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pete Usborne - Oz Edition</title>
+      <link>http://konigi.com/designs/submissions/pete-usborne-oz-edition/</link>
+      <pubDate>Tue, 19 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/pete-usborne-oz-edition/</guid>
+      <description>The 2010 Portfolio (Oz Edition) of graphic and digital designer, Pete Usborne
+http://oz.buzzgraphics.co.uk/projects/samandbuzz.php</description>
+    </item>
+    
+    <item>
+      <title>DarrenAlawi.com</title>
+      <link>http://konigi.com/designs/submissions/darrenalawicom-0/</link>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/darrenalawicom-0/</guid>
+      <description>This is my redesign. Having made many redesigns and probably being one of my toughest clients, I am happy with this one not just on the design side of things but also the presentation of the information I want to present to potential clients. Would love feedback from Konigi users.
+http://darrenalawi.com</description>
+    </item>
+    
+  </channel>
+</rss>

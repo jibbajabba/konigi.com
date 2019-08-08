@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glossary on Konigi</title>
+    <link>http://konigi.com/tags/glossary/</link>
+    <description>Recent content in Glossary on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/glossary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ed Lives Here Glossary</title>
+      <link>http://konigi.com/interfaces/ed-lives-here-glossary/</link>
+      <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/ed-lives-here-glossary/</guid>
+      <description>Paper manufacturer NewPage provides the Ed Lives Here site, a useful resource with information about paper, printing, and design. One of the features of this site is a glossary of printing terms. The glossary provides categorized sub-glossaries, as well as the typical a-z index of terms, and a search input. Browsing through the glossary is facilitated by the A-Z links, which use a fish eye lens to bring focus to a section of the list.</description>
+    </item>
+    
+  </channel>
+</rss>

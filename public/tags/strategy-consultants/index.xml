@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy Consultants on Konigi</title>
+    <link>http://konigi.com/tags/strategy-consultants/</link>
+    <description>Recent content in Strategy Consultants on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/strategy-consultants/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dew</title>
+      <link>http://konigi.com/designs/submissions/dew/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/dew/</guid>
+      <description>Minimalistic website for Dew, strategy consultants agency.
+http://www.daeasyway.ro/</description>
+    </item>
+    
+  </channel>
+</rss>

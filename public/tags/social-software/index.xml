@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Software on Konigi</title>
+    <link>http://konigi.com/tags/social-software/</link>
+    <description>Recent content in Social Software on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/social-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pace</title>
+      <link>http://konigi.com/blog/pace/</link>
+      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pace/</guid>
+      <description>Hannah Donovan&amp;rsquo;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
+    </item>
+    
+    <item>
+      <title>Letting Go</title>
+      <link>http://konigi.com/blog/letting-go/</link>
+      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/letting-go/</guid>
+      <description>Two great slides from Yiibu&#39;s presentation, Letting Go, a talk about design in an time of increasing disruption.
+ &#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;
+&amp;#8212; Martin Thomas in &#34;Loose: The Future of Business is Letting Go&#34;</description>
+    </item>
+    
+    <item>
+      <title>JS-Kit ECHO Commenting</title>
+      <link>http://konigi.com/interfaces/js-kit-echo-commenting/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/js-kit-echo-commenting/</guid>
+      <description>JS-Kit&#39;s ECHO is a service that can be embedded in CMS as a replacement for commenting, and provides a real-time stream of diggs, tweets, comments. The interface, at first blush, looks a bit like an email composition form, with From, To, and Body Fields. Selecting the From drop down menu shows options for logging in your identity via JS-Kit or a third party social networking API. The To: field adds &#34;</description>
+    </item>
+    
+    <item>
+      <title>Conversational UX Design</title>
+      <link>http://konigi.com/blog/conversational-ux-design/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/conversational-ux-design/</guid>
+      <description>[I]f you make it easy to talk to me, I will immediately be a lot more likely to keep talking.
+Zeus Jones has a great write up about using conversational language and cues to invite users through interactions. The deconstruction of the lazy trial/registration process in Tumblr is used to demonstrate how this type of engagement makes the learning process natural and inviting. The discussion picks up on the Cluetrain meme of markets as conversations, positing that systems are conversations, and turning front ends into actors that use conversational language as interface.</description>
+    </item>
+    
+    <item>
+      <title>Skittles</title>
+      <link>http://konigi.com/designs/skittles/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/skittles/</guid>
+      <description>Stealing a page out of Modernista&amp;rsquo;s book, Skittles launches a site that uses social networking and media sites as its backdrop. Like the Modernista site, the effect is unexpected and attention getting. Choosing Twitter for this experiment was pretty gutsy. Whereas they could have more control over what goes on their YouTube and Facebook pages, the sentiment on Twitter isn&amp;rsquo;t all too positive. You can check the live feed of Skittles tweets at Newstrendz, a new social trends site.</description>
+    </item>
+    
+    <item>
+      <title>Social Patterns Wiki</title>
+      <link>http://konigi.com/blog/social-patterns-wiki/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/social-patterns-wiki/</guid>
+      <description>Christian Crumlish and Erin Malone are writing a book on designing social interfaces and are starting to post the design patterns they are writing as they work through the chapters. Each pattern is open for folks to modify / give feedback.
+From the looks of that list of forward links to be added, they have a very ambitious list of design problems they&amp;rsquo;re going to be researching and providing design patterns for.</description>
+    </item>
+    
+    <item>
+      <title>UserFix Provides Community Platform for Product Feedback</title>
+      <link>http://konigi.com/blog/userfix-provides-community-platform-product-feedback/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/userfix-provides-community-platform-product-feedback/</guid>
+      <description>UserFix is a new community-based platform to support the open conversations between companies who make products and the customers who use them. The site is mainly focused on allowing the public to request features and report bugs.
+http://userfix.com/</description>
+    </item>
+    
+    <item>
+      <title>Twitter Search</title>
+      <link>http://konigi.com/interfaces/twitter-search/</link>
+      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/twitter-search/</guid>
+      <description>With Twitter&#39;s acquisition of Summize, the social messaging service now provides a very nice, and simple to use interface to see what people are twitting about. Enter a topic or keyword and click search. The options in the sidebar of the results screen are substantial too: Feeds, translations, trends, interesting queries, e.g. hashtags. Advanced search and using search operators adds a powerful, Google-like experience to your search.
+1. Simple search screen.</description>
+    </item>
+    
+    <item>
+      <title>twistori</title>
+      <link>http://konigi.com/designs/submissions/twistori/</link>
+      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/twistori/</guid>
+      <description>http://twistori.com/#i_love</description>
+    </item>
+    
+    <item>
+      <title>Favrd</title>
+      <link>http://konigi.com/blog/favrd/</link>
+      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/favrd/</guid>
+      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &amp;lsquo;favorite. Here&amp;rsquo;s the raison d&amp;rsquo;etre:
+It works on three principles: first, that anyone who wants to can have their vote counted; second, that things people find interesting are more important than people who find things interesting; and third, that by any means necessary, web-strategy, social-media, online-marketing webcocks – unaware as they are of how toxic their presence is in the arenas they cannot shut up about – must and shall be filtered out of view.</description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing The Library of Congress</title>
+      <link>http://konigi.com/blog/crowdsourcing-library-congress/</link>
+      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/crowdsourcing-library-congress/</guid>
+      <description>The Library of Congress has maded 2 of its collections of historical photographs available on Flickr. The goal is to get users to tag and comment on the photos, as well as help provide identifying information. It&#39;s very interesting to see such a large and old institution embracing open social collaboration like this. When I was in school, the idea of user supplied freetagging was pretty seen as an edge-case activity even for things like private databases.</description>
+    </item>
+    
+  </channel>
+</rss>

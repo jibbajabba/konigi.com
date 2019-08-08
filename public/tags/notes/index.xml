@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Konigi</title>
+    <link>http://konigi.com/tags/notes/</link>
+    <description>Recent content in Notes on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Feb 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sarah Mitchell&#39;s Thoughts from Interaction &#39;10</title>
+      <link>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</link>
+      <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</guid>
+      <description>LA UX designer Sarah Mitchell has posted an excellent set of sketch notes from Interaction 10. Go to her blog entry to read the accompanying written notes.
+http://www.sgmitch.com/blog/2010/02/interaction-10/</description>
+    </item>
+    
+  </channel>
+</rss>

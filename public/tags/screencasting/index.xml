@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screencasting on Konigi</title>
+    <link>http://konigi.com/tags/screencasting/</link>
+    <description>Recent content in Screencasting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/screencasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Camtasia for Mac</title>
+      <link>http://konigi.com/links/camtasia-mac/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/camtasia-mac/</guid>
+      <description>TechSmith, makers of Morae and Snagit, have released a Mac version of Camtasia, the screencast video recording software. The software allows you to capture the screen, audio and iSight input, and provides simple drag and drop editing including a lot of built-in transitions and effects. You can then easily export the HTML and SWF for embedding in a web page. Looks like an easy to use alternative that might take the work out of producing screencasts.</description>
+    </item>
+    
+    <item>
+      <title>Screenr Screencasting Service</title>
+      <link>http://konigi.com/links/screenr-screencasting-service/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/screenr-screencasting-service/</guid>
+      <description>Screenr is a web-based screen capture tool that lets you record screen video and audio from your Mac or PC and posts a link to the video, hosted on Screenr.com, to your Twitter stream.
+http://screenr.com/</description>
+    </item>
+    
+    <item>
+      <title>ScreenToaster Free Online Screen Recorder</title>
+      <link>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</link>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</guid>
+      <description>ScreenToaster is a pretty incredible web application that lets you record your web browser screen without having to download desktop software. Currently, to record a screen, you open up ScreenToaster in a browser tab, navigate to the page you want to capture, click a keyword combination, and the applet starts recording. Press another key combination to stop. The service saves the session and almost immediately gives you a flash video with your recording.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bibliographies on Konigi</title>
+    <link>http://konigi.com/tags/bibliographies/</link>
+    <description>Recent content in Bibliographies on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/bibliographies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dey Alexander&#39;s User Experience Design Resources </title>
+      <link>http://konigi.com/links/dey-alexanders-user-experience-design-resources/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/dey-alexanders-user-experience-design-resources/</guid>
+      <description>Dey Alexander Consulting&amp;rsquo;s user experience design resources directory is an extensive, categorized collection of bibliographies, tools, and resources.
+http://deyalexander.com/resources/uxd/</description>
+    </item>
+    
+  </channel>
+</rss>

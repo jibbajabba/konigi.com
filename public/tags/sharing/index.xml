@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharing on Konigi</title>
+    <link>http://konigi.com/tags/sharing/</link>
+    <description>Recent content in Sharing on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/sharing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JS-Kit ECHO Commenting</title>
+      <link>http://konigi.com/interfaces/js-kit-echo-commenting/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/js-kit-echo-commenting/</guid>
+      <description>JS-Kit&#39;s ECHO is a service that can be embedded in CMS as a replacement for commenting, and provides a real-time stream of diggs, tweets, comments. The interface, at first blush, looks a bit like an email composition form, with From, To, and Body Fields. Selecting the From drop down menu shows options for logging in your identity via JS-Kit or a third party social networking API. The To: field adds &#34;</description>
+    </item>
+    
+    <item>
+      <title>Flickr Sharing</title>
+      <link>http://konigi.com/interfaces/flickr-sharing/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/flickr-sharing/</guid>
+      <description>Flickr have added a sharing interface for their photos and videos. Presumably this is because of the introduction of videos into the ecosystem. The interface is provided via an unobtrusive link that uses AJAX to display contextual menus when clicked.
+Prior to the introduction of this interface, users had to go to click the &#34;All Sizes&#34; link to find URLs for the item.
+1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.</description>
+    </item>
+    
+  </channel>
+</rss>

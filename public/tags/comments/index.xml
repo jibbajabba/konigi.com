@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comments on Konigi</title>
+    <link>http://konigi.com/tags/comments/</link>
+    <description>Recent content in Comments on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/comments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JS-Kit ECHO Commenting</title>
+      <link>http://konigi.com/interfaces/js-kit-echo-commenting/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/js-kit-echo-commenting/</guid>
+      <description>JS-Kit&#39;s ECHO is a service that can be embedded in CMS as a replacement for commenting, and provides a real-time stream of diggs, tweets, comments. The interface, at first blush, looks a bit like an email composition form, with From, To, and Body Fields. Selecting the From drop down menu shows options for logging in your identity via JS-Kit or a third party social networking API. The To: field adds &#34;</description>
+    </item>
+    
+    <item>
+      <title>YouTube Comment Rating</title>
+      <link>http://konigi.com/interfaces/youtube-comment-rating/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/youtube-comment-rating/</guid>
+      <description>YouTube&#39;s comment rating controls allow users to vote a comment up or down. When user enters a down vote, the comment is collapsed from view. There is a link to the left of rating controls to report a comment as spam.
+ http://www.youtube.com/</description>
+    </item>
+    
+    <item>
+      <title>The Filter Embedding Media in Comments</title>
+      <link>http://konigi.com/interfaces/filter-embedding-media-comments/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/filter-embedding-media-comments/</guid>
+      <description>The Wall feature of user profiles in The Filter allows users to create entries with recommendations as embedded content. Users enter their comment and search for anything from an artist to a track to find content to recommend. The selected content is embedded in the comment to be played in the media player.
+The interface is similar to those provided in the MTV recommendations app on Facebook and the Video embedding control in Gawker Media comments.</description>
+    </item>
+    
+    <item>
+      <title>30 Must See Comment Designs for Web Designers</title>
+      <link>http://konigi.com/blog/30-must-see-comment-designs-web-designers/</link>
+      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/30-must-see-comment-designs-web-designers/</guid>
+      <description>The Blog Design Blog has collected 30 examples of comment interfaces on weblogs.
+Thanks, swissmiss.
+http://www.blogdesignblog.com/blog-design/30-comment-designs-for-webdesigners/</description>
+    </item>
+    
+    <item>
+      <title>Gawker Media Video Comments</title>
+      <link>http://konigi.com/interfaces/gawker-media-video-comments/</link>
+      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/gawker-media-video-comments/</guid>
+      <description>Gawker Media&#39;s weblogs provide a simple method for including YouTube videos in comments. The example shown here is from the Consumerist blog. Users find a video in YouTube, copy and paste the permalink URL into their comment on the blog, and the video is embedded into their published comment. This method of transcluding content is popular in wikis, but the implementation usually involves using a special syntax. Gawker&#39;s method of using translating the permalink is dead simple.</description>
+    </item>
+    
+    <item>
+      <title>i&#39;minlikewithyou Comments</title>
+      <link>http://konigi.com/interfaces/iminlikewithyou-comments/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/iminlikewithyou-comments/</guid>
+      <description>i&#39;minlikewithyou&#39;s full Flash interface pushes the boundaries of what can be done with user interfaces in terms of social interaction. The comment feature on the site&#39;s news articles and videos allows users to place comments (including a drawing) over the media. In the case of video, the comments appear briefly on top of the video at the points where people have placed them. Because of the volume of commenting on these videos, tons of comments will roll by in a frenzied flash, so it&#39;s hard to read them all.</description>
+    </item>
+    
+    <item>
+      <title>Radar Comments</title>
+      <link>http://konigi.com/interfaces/radar-comments/</link>
+      <pubDate>Tue, 05 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/radar-comments/</guid>
+      <description>Radar&#39;s comment feature allows users to post a public comment on a person&#39;s photo, or post a special comment called a whisper that only the owner will see. The owner may click the small X icons next to the comments to delete. The whisper feature is a nice idea, and the execution is dead simple. Allowing comments when viewing a set of photos in list view is very thoughtful and feels right, since these are small-sized cell phone pictures.</description>
+    </item>
+    
+    <item>
+      <title>Tubetorial Form Labels</title>
+      <link>http://konigi.com/interfaces/tubetorial-form-labels/</link>
+      <pubDate>Thu, 03 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/tubetorial-form-labels/</guid>
+      <description>By flipping the convention of labels on top or to the left of the inputs, Tubetorial provides a nicely aligned solution. We&#39;re accustomed to reading top to bottom and left to right, so it&#39;s a bit strange to have the label and input reversed this way. This works mainly because there are few inputs in a compressed area, but this might not be as efficient on large forms. 1. Comment form input with labels on right http://www.</description>
+    </item>
+    
+  </channel>
+</rss>

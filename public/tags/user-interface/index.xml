@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Interface on Konigi</title>
+    <link>http://konigi.com/tags/user-interface/</link>
+    <description>Recent content in User Interface on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What If DJ Controllers Had Built In Screens?</title>
+      <link>http://konigi.com/blog/what-if-dj-controllers-had-built-screens/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/what-if-dj-controllers-had-built-screens/</guid>
+      <description>This is a cool design challenge that showed up on DJ Tech Tools&amp;rsquo; blog to mock up DJ controllers. DJ gear vendor Numark is reported to be releasing a controller with a screen. That&amp;rsquo;s kind of interesting, because it could potentially let digital DJs that use them close their computer screen and focus on performing.
+While there are CDJs that already have color LCDs to preview deck track information, midi controllers are largely comprised of faders, buttons, knobs, toggle switches, jog wheels, and touch sensitive strips.</description>
+    </item>
+    
+  </channel>
+</rss>

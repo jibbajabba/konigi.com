@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal Forms on Konigi</title>
+    <link>http://konigi.com/tags/legal-forms/</link>
+    <description>Recent content in Legal Forms on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/legal-forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start-Up Forms Library</title>
+      <link>http://konigi.com/links/start-forms-library/</link>
+      <pubDate>Mon, 10 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/start-forms-library/</guid>
+      <description>Orrick Start-Up Tool Kit provides free legal forms that you will need to start and grow your company.
+(via @balsamiq)
+http://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp</description>
+    </item>
+    
+  </channel>
+</rss>

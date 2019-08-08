@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Font Foundries on Konigi</title>
+    <link>http://konigi.com/tags/font-foundries/</link>
+    <description>Recent content in Font Foundries on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/font-foundries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>256TM</title>
+      <link>http://konigi.com/designs/256tm/</link>
+      <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/256tm/</guid>
+      <description>What could be more appropriate for a font foundry than to use its own large, capitalized type as the focus, form, and interface for the design. 25TM is modern, minimalist, and makes its statement firmly&amp;#8212;type is the message, period.
+http://www.256tm.com/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Global Navigation on Konigi</title>
+    <link>http://konigi.com/tags/global-navigation/</link>
+    <description>Recent content in Global Navigation on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/global-navigation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virgin.com Header</title>
+      <link>http://konigi.com/interfaces/virgincom-header/</link>
+      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/virgincom-header/</guid>
+      <description>The Virgin.com redesign sports a header that provides a boatload of functionality using mega fly out menus: locale selection, micro-site navigation, registration, login, and newsletter signup. I like that they make these options readily available wherever you are on the site. The longer drop downs like the registration form, for example, seem a little long for users on smaller screens, e.g. netbooks. 1. The global navigation bar provides mega drop downs with sub-nodes and links to their subsidiary companies that provide products and services under each category.</description>
+    </item>
+    
+    <item>
+      <title>Target Drop Down Menus</title>
+      <link>http://konigi.com/interfaces/target-drop-down-menus/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/target-drop-down-menus/</guid>
+      <description>Target&#39;s global navigation features wide, multi-column drop-down menus that stretch to the full width of the page layout. The columns in the drop down show hierarchical lists of product/section contents using font weight and indentation, and additionally allow the company to promote special events.
+1. Drop down for the &amp;quot;Women&amp;quot; section shows a multi-column hierarchical list of all product sub-categories.2. The &amp;quot;See All&amp;quot; menu item allows the site to show other product categories that aren&#39;t being featured.</description>
+    </item>
+    
+    <item>
+      <title>Daylife Drop Down Menus</title>
+      <link>http://konigi.com/interfaces/daylife-drop-down-menus/</link>
+      <pubDate>Fri, 21 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/daylife-drop-down-menus/</guid>
+      <description>Daylife&#39;s drop down menu in global navigation that provides a wide ribbon to show both navigation to secondary levels and to show teaser content, e.g. the Latest News menu shows top level news categories as well as recent articles in each category. News sites like Daylife and NewsVine have been coming up with interesting ways of changing user&#39;s expectations of what can exist in global navigation. In some cases, the labels and categories for what appear in global navigation suggest a shifting information architecture that is based on what&#39;s interesting now or what people have been reading.</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Breadcrumb Tab</title>
+      <link>http://konigi.com/interfaces/yahoo-breadcrumb-tab/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/yahoo-breadcrumb-tab/</guid>
+      <description>Yahoo&#39;s hybrid tab/breadcrumb navigation is one of my favorite approaches to global and local navigation. This navigation interface answers a few nagging questions that an interface designer might ask. &#34;How do I present the user with an interface that provides focus on the area they&#39;ve navigated to, while providing a path back or to other main areas of interest?&#34;
+What&#39;s interesting here is that they provide a row of primary navigation tabs at the top level, and replace that with a hybrid tab/breadcrumb once the user makes the decision to drill down.</description>
+    </item>
+    
+    <item>
+      <title>Hulu Channel Drop Down Menu</title>
+      <link>http://konigi.com/interfaces/hulu-channel-drop-down-menu/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/hulu-channel-drop-down-menu/</guid>
+      <description>Hulu&#39;s drop down menu for channels stretches to the width of the design and provides a multi-column grid of channels. This method of running a drop down or flyout menu left-to-right rather than top-to-bottom allows interface designers to present longer lists of options without worrying about what appears in relation to the fold, and forcing scroll on longer lists.
+ http://www.hulu.com/</description>
+    </item>
+    
+    <item>
+      <title>CBS Navigation</title>
+      <link>http://konigi.com/interfaces/cbs-navigation/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/cbs-navigation/</guid>
+      <description>The CBS site features a drop down menu that spans the entire width of the layout when the user hovers over shows. Wide drop downs are not unusual, and for a time appeared on the Amazon.com site when they experiencing the growth of their departments. On CBS, this type of interface is used to display as many of the network&#39;s shows as it can, segmenting them by airing time and format.</description>
+    </item>
+    
+    <item>
+      <title>IKEA Navigation</title>
+      <link>http://konigi.com/interfaces/ikea-navigation/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/ikea-navigation/</guid>
+      <description>IKEA&#39;s navigation menus feature a simple navigation bar on the top of the layout. The most important entry points are shown as is a button for new items. A drop down menu at right for the rest of the top level entry points. Within each section, tree navigation interfaces are provided for browsing more deeply within the section.
+1. Home page.2. &amp;quot;Living Room&amp;quot; selected in the global navigation. Local navigation appears in the left sidebar.</description>
+    </item>
+    
+    <item>
+      <title>CNN.com Global Navigation</title>
+      <link>http://konigi.com/interfaces/cnn-com-global-navigation/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/cnn-com-global-navigation/</guid>
+      <description>The CNN News portal provides a very dense global navigation header that&#39;s got quite a bit going on, but succeeds in drawing out the main entry points for news, featured or promoted points of interest, language/edition preference setting, search, and even a sticky alert area for late breaking news. It even borrows the idea of hot topics navigation per section from Newsvine, which allows for a more variable set of local navigation based on what&#39;s happening now, rather than on a rigid top-down IA.</description>
+    </item>
+    
+    <item>
+      <title>Delicious Global Navigation</title>
+      <link>http://konigi.com/interfaces/delicious-global-navigation/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/delicious-global-navigation/</guid>
+      <description>The redesigned del.icio.us site provides drop down navigation to signed in users. Clicking the navigation label jumps to that section, or click the arrow to drill down in that section. They provide separators in the drop-down to chunk up the navigation options. There&#39;s some inconsistency in the treatment of selected sections. The blue background of the nav link on Home implies selected color. But if you click the links in the global nav, the blue background on Home remains on Home.</description>
+    </item>
+    
+    <item>
+      <title>Conservation International Global Navigation</title>
+      <link>http://konigi.com/interfaces/conservation-international-global-navigation/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/conservation-international-global-navigation/</guid>
+      <description>The Conservation International site provides an interesting take on the flyout or drop down global navigation bar. The site uses single, short action words set in very large type to indicate what you can do and name the sections of the site: Discover, Learn, Explore, Act, Give. These are nice pathfinder-type labels. When the user hovers over a links, the label expands to provide a phrase. For example, Learn becomes &#34;</description>
+    </item>
+    
+    <item>
+      <title>Tork Revolution Navigation</title>
+      <link>http://konigi.com/interfaces/tork-revolution-navigation/</link>
+      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/tork-revolution-navigation/</guid>
+      <description>The Tork Revolution site features a Flash global/local navigation system that appears conventional on the surface, but positions the navigation elements in unconventional places on the page, using size, position, and color to indicate hierarchy.
+1. The home page.2. Clicking, Foodservice, one of the main entry points in the global nav pulls that word out of the nav and re-positions it at the top of the page.3. Following a link to a sub-page, we are now viewing &amp;quot;Foodservice &amp; Kitchen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Konigi</title>
+    <link>http://konigi.com/categories/links/</link>
+    <description>Recent content in Links on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2019 14:55:52 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/categories/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tota11y: An Accessibility Visualization Toolkit</title>
+      <link>http://konigi.com/links/tota11y/</link>
+      <pubDate>Mon, 05 Aug 2019 14:55:52 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/tota11y/</guid>
+      <description>Tota11y is a tool to find accessibility issues on websites. Install the bookmarklet and a small button will be displayed when the bookmarklet is toggled. It runs a single javascript file on checks the page against accessibility criteria. Select criteria from the menu, and tota11y will visually call out the areas you may need to review, providing a description of the issue and recommendations for making the element accessible. The free tool is provided by Khan Academy.</description>
+    </item>
+    
+    <item>
+      <title>1 1 1 1 dns service</title>
+      <link>http://konigi.com/links/1-1-1-1-dns-service/</link>
+      <pubDate>Thu, 03 May 2018 16:24:23 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/1-1-1-1-dns-service/</guid>
+      <description>1.1.1.1 is a DNS service created by Cloudflare and APNIC to offer you a more private experience on the Internet. Here’s what they say:
+Unfortunately, by default, DNS is usually slow and insecure. Your ISP, and anyone else listening in on the Internet, can see every site you visit and every app you use — even if their content is encrypted. Creepily, some DNS providers sell data about your Internet activity or use it target you with ads.</description>
+    </item>
+    
+    <item>
+      <title>RGBA feColorMatrix</title>
+      <link>http://konigi.com/links/rgba-fecolormatrix/</link>
+      <pubDate>Tue, 24 Apr 2018 12:47:40 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/rgba-fecolormatrix/</guid>
+      <description>feColorMatrix is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
+This filter allows granular per channel color manipulation. Una Kravets wrote an excellent article explaining how to use it.</description>
+    </item>
+    
+    <item>
+      <title>Good Microcopy</title>
+      <link>http://konigi.com/links/good-microcopy/</link>
+      <pubDate>Mon, 23 Apr 2018 16:02:01 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/good-microcopy/</guid>
+      <description>Good Micrcopy is a showcase of clear, concise and sometimes quirky copy.</description>
+    </item>
+    
+    <item>
+      <title>Storyboarder</title>
+      <link>http://konigi.com/links/storyboarder/</link>
+      <pubDate>Mon, 16 Apr 2018 16:11:46 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/storyboarder/</guid>
+      <description>Wonderunit’s Storyboarder is a free storyboarding application for the Mac that lets you visualize a story quickly. Quickly sketch your stick figures, then create and show animatics to others.</description>
+    </item>
+    
+    <item>
+      <title>Graphic Design Basics</title>
+      <link>http://konigi.com/links/graphic-design-basics/</link>
+      <pubDate>Fri, 06 Apr 2018 16:16:30 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/graphic-design-basics/</guid>
+      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics&amp;nbsp; and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
+    </item>
+    
+  </channel>
+</rss>

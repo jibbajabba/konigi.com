@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+{{ partial "gnav_blog.html" . }}
+{{ partial "body_top.html" . }}
+
+<section class="article-list">
+{{ range .Paginator.Pages }}
+  {{ .Render "list-node"}}
+{{ end }}
+</section>
+<section class="pagination-block">
+{{ template "_internal/pagination.html" . }}
+</section>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

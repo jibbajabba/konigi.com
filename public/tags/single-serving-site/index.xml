@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Serving Site on Konigi</title>
+    <link>http://konigi.com/tags/single-serving-site/</link>
+    <description>Recent content in Single Serving Site on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Oct 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/single-serving-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domainr</title>
+      <link>http://konigi.com/interfaces/domainr/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/domainr/</guid>
+      <description>Domai.nr is a simple single serving site that lets you find a domain using all the top level domain extensions to complete your name.
+1. The search form.2. Enter a word and view suggestions.3. Green boxes indicate available domains. Click one to purchase. http://domai.nr/</description>
+    </item>
+    
+    <item>
+      <title>Umbrella Today Weather Forecasts</title>
+      <link>http://konigi.com/interfaces/umbrella-today-weather-forecasts/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/umbrella-today-weather-forecasts/</guid>
+      <description>Umbrella Today is a dead simple single serving site that delivers your weather forecast with a twist. Enter your zip code and it tells you if you need an umbrella#38212;if it&#39;s raining of course. Give the service your phone number, and they&#39;ll SMS you whenever the forecast calls for rain.
+1. Enter your zip code.2. The confirmation screen tells you if you need an umbrella today. Enter your phone number to get SMS notifications.</description>
+    </item>
+    
+    <item>
+      <title>Thsrs Synonym Search</title>
+      <link>http://konigi.com/interfaces/thsrs-synonym-search/</link>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/thsrs-synonym-search/</guid>
+      <description>Ironic Sans provides Thsrs, a single-serving site that provides shorter synonyms for long words. Simple idea that&#39;s well executed. If you&#39;re Firefox user, this is even more useful as a search add on. 1. User enters a long word.2. Shorter synonyms are returned if possible.3. Would be even better if it caught spelling errors. http://www.ironicsans.com/thsrs/</description>
+    </item>
+    
+    <item>
+      <title>bit.ly url shortener</title>
+      <link>http://konigi.com/interfaces/bit-ly-url-shortener/</link>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/bit-ly-url-shortener/</guid>
+      <description>Bitly is a simple url shortening service aimed at web professionals. The service provides a simply shortened URL and friendly urls based on keywords you specify. This is an example of a single-serving site that provides a simplified interface, but offers much more functionality following that initial interaction with the service. Attention is paid to making default behaviors easy, but gives expert users much more below the surface. bit.ly also offer referring tracking, an API for web apps, mirrored URL on Amazon Web Services, and thumbnail images.</description>
+    </item>
+    
+    <item>
+      <title>SensibleUnits.com Conversion Form</title>
+      <link>http://konigi.com/interfaces/sensibleunits-com-conversion-form/</link>
+      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/sensibleunits-com-conversion-form/</guid>
+      <description>SensibleUnits is a fun single purpose site that converts boring units to real objects as you type.
+ http://www.sensibleunits.com/</description>
+    </item>
+    
+  </channel>
+</rss>

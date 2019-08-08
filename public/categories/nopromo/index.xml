@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nopromo on Konigi</title>
+    <link>http://konigi.com/categories/nopromo/</link>
+    <description>Recent content in Nopromo on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/categories/nopromo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conferences and Events</title>
+      <link>http://konigi.com/articles/conferences-and-events/</link>
+      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/articles/conferences-and-events/</guid>
+      <description>All UX Design Development   The 99U New York, NY monitor  ACM SIGCHI Conference  monitor  Adaptive Path UX Intensive Workshop    Ampersand Brighton, UK; New York, NY monitor  Beyond Tellerand Düsseldorf, Germany monitor  Big Design Conference Dallas, TX   Brooklyn Beta Brooklyn, NY   Build Belfast, Northern Ireland monitor  Business of Software Boston, MA monitor  Chicago Camps Chicago, IL   Circles Grapevine, TX monitor  ConvergeSE Columbia, SC monitor  ConveyUX Seattle, WA   Cooper Workshops San Francisco, CA   dConstruct Brighton, UK monitor  Delight Portland, OR monitor  Euro IA Summit    An Event Apart  monitor  eyeo Minneapolis, MN monitor  ffwd.</description>
+    </item>
+    
+  </channel>
+</rss>

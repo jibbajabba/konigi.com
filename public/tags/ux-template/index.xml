@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux Template on Konigi</title>
+    <link>http://konigi.com/tags/ux-template/</link>
+    <description>Recent content in Ux Template on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/ux-template/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Balsamiq UX Template</title>
+      <link>http://konigi.com/tools/balsamiq-ux-template/</link>
+      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/tools/balsamiq-ux-template/</guid>
+      <description>Made for UX designers This template is made for UI designers using Balsamiq Mockups that want to create polished, client-ready presentation decks. It includes a few example pages for basic UX document needs (journey maps, personas, wireframe pages), a Symbol Library for controls crafted in Konigi-style, and grid Symbols to keep your layout tight.
+ Download for free 1. Download the template.
+2. Duplicate it whenever you start a new project.</description>
+    </item>
+    
+  </channel>
+</rss>

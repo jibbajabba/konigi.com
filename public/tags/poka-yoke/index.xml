@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poka Yoke on Konigi</title>
+    <link>http://konigi.com/tags/poka-yoke/</link>
+    <description>Recent content in Poka Yoke on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Dec 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/poka-yoke/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Input Masks in Forms</title>
+      <link>http://konigi.com/blog/input-masks-forms/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/input-masks-forms/</guid>
+      <description>Luke Wroblewski pointed to Josh Bush&amp;rsquo;s Masked Input Plugin for JQuery. Luke writes that the plugin &amp;ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Why Fail Safe When You Can Poka-yoke?</title>
+      <link>http://konigi.com/blog/why-fail-safe-when-you-can-poka-yoke/</link>
+      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/why-fail-safe-when-you-can-poka-yoke/</guid>
+      <description>Poka-Yoke is a Japanese word for &amp;ldquo;fail-safing&amp;rdquo; that I just came across and suspect might be entering my UI vocabulary soon. The entry from Wikipedia:
+Poka-yoke (IPA: [poka joke]) is a Japanese term that means &amp;ldquo;fail-safing&amp;rdquo;, &amp;ldquo;Foolproof&amp;rdquo; or &amp;ldquo;mistake-proofing&amp;rdquo; — avoiding (yokeru) inadvertent errors (poka)) is a behavior-shaping constraint, or a method of preventing errors by putting limits on how an operation can be performed in order to force the correct completion of the operation.</description>
+    </item>
+    
+  </channel>
+</rss>

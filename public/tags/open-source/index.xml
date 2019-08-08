@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Konigi</title>
+    <link>http://konigi.com/tags/open-source/</link>
+    <description>Recent content in Open Source on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infomaki: Open Source Usability Testing Software</title>
+      <link>http://konigi.com/links/infomaki-open-source-usability-testing-software/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/infomaki-open-source-usability-testing-software/</guid>
+      <description>Infomaki is a Ruby on Rails application developed by the New York Public Library as a way of rapidly testing alternate designs and navigation language with minimal disruption to users. NYPL are using it to power http://usability.nypl.org and test new designs for the main NYPL.org web site. More and documentation is available at the NYPL Labs blog, http://labs.nypl.org.
+https://sourceforge.net/projects/infomaki/</description>
+    </item>
+    
+    <item>
+      <title>Open Source Designers: A community of practice for design &amp; user experience people in Open Source</title>
+      <link>http://konigi.com/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</link>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/open-source-designers-community-practice-design-user-experience-people-open-source/</guid>
+      <description>Leisa Reichelt has started a Ning community for designers contributing to open source projects. If you’re doing design &amp;amp; user experience work in an open source community, then chances are we have a lot in common – no matter what community we’re working in. We have some big challenges every day, but we also know that if we can overcome those challenges we can make a really big contribution to the sustainability and increased popularity of open source software.</description>
+    </item>
+    
+    <item>
+      <title>How Software is Built: Interview with Liz Danzico</title>
+      <link>http://konigi.com/blog/how-software-built-interview-liz-danzico/</link>
+      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/how-software-built-interview-liz-danzico/</guid>
+      <description>The Scott Swigart and Sean Campbell interview Liz Danico to discuss user experience on the How Software is Built blog. The lengthy conversation covers a wide array of topics including Liz&#39;s view of the differences in design process between typical clients with small teams and larger open source projects with communities of participants, design vision and leadership in open source software, and opinions about the acceptance with the direction that open source software has led users in terms of sharing data.</description>
+    </item>
+    
+  </channel>
+</rss>

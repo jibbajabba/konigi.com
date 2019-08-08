@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fonts on Konigi</title>
+    <link>http://konigi.com/tags/fonts/</link>
+    <description>Recent content in Fonts on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketchnote Typeface by Mike Rohde</title>
+      <link>http://konigi.com/links/sketchnote-typeface-mike-rohde/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sketchnote-typeface-mike-rohde/</guid>
+      <description>Mike Rohde&amp;rsquo;s Sketchnote font can be purchased on Delve for desktop and webfont use. Mike created the font for the Sketchnote handbook and writes about its design on his blog. The family has four fonts: Sketchnote Text in Reg­ular, Bold and Italic, plus Sketchnote Square.
+Sketchnote Text is a friendly, casual script with a bouncy baseline and a warm texture. To emulate natural hand­writing, OpenType features auto­matically switch be­tween multiple versions of each letter or number, with over 240 alter­nates in each text font.</description>
+    </item>
+    
+    <item>
+      <title>FontPrep: Web Font Generator for Mac</title>
+      <link>http://konigi.com/links/fontprep-web-font-generator-mac/</link>
+      <pubDate>Mon, 03 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/fontprep-web-font-generator-mac/</guid>
+      <description>FontPrep is a web font generator for the Mac with a simple drag/drop interface for adding your TTF and OTF font files and generating all of the respective font-formats for the web: WOFF, EOT, and SVG. Each converted web-font is bundled with @font-face declarations, and a subsettings feature allows you to select which character sets to include.
+http://fontprep.com/</description>
+    </item>
+    
+    <item>
+      <title>Redacted Font</title>
+      <link>http://konigi.com/links/redacted-font/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/redacted-font/</guid>
+      <description>Christian Naths&amp;rsquo; Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&amp;rsquo;t end up wider than your normal font setting.
+Git it for free.
+https://github.com/christiannaths/Redacted-Font/blob/master/README.md</description>
+    </item>
+    
+    <item>
+      <title>BLOKK font</title>
+      <link>http://konigi.com/links/blokk-font/</link>
+      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/blokk-font/</guid>
+      <description>BLOKK is a font for quick mock-ups and wireframing for clients who do not understand lorem ipsum. Awesome.
+http://www.blokkfont.com/</description>
+    </item>
+    
+    <item>
+      <title>The Printed Word and The Written Words fonts from LettError</title>
+      <link>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</link>
+      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</guid>
+      <description>2 different fonts to turn text to obscure your copy in design documents so they don&amp;rsquo;t distract the audience. It&amp;rsquo;s an alternative to using real text or lorem ipsum. Download for free.
+Thanks to Ryan Schroeder (@rschroed) for pointing me to this.
+http://www.letterror.com/foundry/goodies/index.html</description>
+    </item>
+    
+    <item>
+      <title>fontcapture.com: Create fonts from your handwriting</title>
+      <link>http://konigi.com/links/fontcapturecom-create-fonts-your-handwriting/</link>
+      <pubDate>Mon, 31 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/fontcapturecom-create-fonts-your-handwriting/</guid>
+      <description>fontcapture might be interesting to people who create sketch-style wireframes, but don&amp;rsquo;t like using Apple&amp;rsquo;s Casual or Comic Sans. Simply download and fill in the font template, scan and upload it to fontcatpure, and download your completed font, usable on both Windows and Mac computers.
+http://www.fontcapture.com/</description>
+    </item>
+    
+    <item>
+      <title>misprinted type</title>
+      <link>http://konigi.com/blog/misprinted-type/</link>
+      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/misprinted-type/</guid>
+      <description>Eduardo Recife&amp;rsquo;s misprinted type has some fine distressed fonts, if that suits you. Some are free to download and a bunch are for sale. There are also free Photoshop brushes up for grabs. Check it.
+http://www.misprintedtype.com/v3/fonts.php</description>
+    </item>
+    
+    <item>
+      <title>FontStruct: User Generated Fonts</title>
+      <link>http://konigi.com/blog/fontstruct-user-generated-fonts/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fontstruct-user-generated-fonts/</guid>
+      <description>Font retailer, FontShop are launching FontStruct a free font-building tool that lets users create fonts via an online font editor using geometrical shapes, which are arranged in a grid pattern, like tiles or bricks. TrueType fonts are generated for use on Mac or PC. Users can keep fonts to themselves or share them with the community. All fonts are free to download. http://fontstruct.fontshop.com/</description>
+    </item>
+    
+    <item>
+      <title>Apple&#39;s Safari 3.1 to support downloadable web fonts and more</title>
+      <link>http://konigi.com/blog/apples-safari-3-1-support-downloadable-web-fonts-and-more/</link>
+      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apples-safari-3-1-support-downloadable-web-fonts-and-more/</guid>
+      <description>Apple Insider reports that Apple will ship Safari 3.1 with downloadable web fonts, HTML5&amp;rsquo;s SQL storage application programming interface, and HTML5 video and audio tags. They provide the following description of these new features.
+For example, CSS Transforms and CSS Animations will join web downloadable fonts in allowing Safari 3.1 and iPhone users to render web pages and web apps with enhanced design messages and real-time visual effects. By applying Transforms, developers can author trigger actions that scale, rotate, skew and translate HTML boxes in real time.</description>
+    </item>
+    
+  </channel>
+</rss>

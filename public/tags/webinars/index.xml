@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webinars on Konigi</title>
+    <link>http://konigi.com/tags/webinars/</link>
+    <description>Recent content in Webinars on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Oct 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/webinars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Experience/Rosenfeld Media Webinars</title>
+      <link>http://konigi.com/blog/smart-experiencerosenfeld-media-webinars/</link>
+      <pubDate>Wed, 29 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/smart-experiencerosenfeld-media-webinars/</guid>
+      <description>Rosenfeld Media and Smart Experience begin their webinar series. Registration is open now for the 2 opening sessions with Luke Wroblewski and Indi Young.
+http://www.rosenfeldmedia.com/webinars/</description>
+    </item>
+    
+  </channel>
+</rss>

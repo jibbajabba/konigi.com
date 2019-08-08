@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mockup on Konigi</title>
+    <link>http://konigi.com/tags/mockup/</link>
+    <description>Recent content in Mockup on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/mockup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ForeUI: Create Skinnable &amp; Interactive Prototype</title>
+      <link>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</guid>
+      <description>ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and
+clickable UI prototype for your website or software, and run the interactive
+simulation in your web browser.
+ForeUI provides a set of predefined elements for creating mockup, you can drag
+them into the editing area and tweak them. You can also create your own elements
+and libraries.
+ForeUI makes prototype skinnable, by changing the UI theme, all elements in</description>
+    </item>
+    
+  </channel>
+</rss>

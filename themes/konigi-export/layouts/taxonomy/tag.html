@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+<h2 class="page-title">{{ .Title }}</h2>
+<section class="article-list">
+  <ul>
+    {{ range .Data.Pages }}
+    {{ .Render "li"}}
+    {{ end }}
+  </ul>
+</section>
+<section class="pagination-block">
+{{ template "_internal/pagination.html" . }}
+</section>
+
+<hr>
+
+<p><a href="/tags">Browse All Tags</a></p>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

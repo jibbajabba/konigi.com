@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 Second Test on Konigi</title>
+    <link>http://konigi.com/tags/5-second-test/</link>
+    <description>Recent content in 5 Second Test on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Jul 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/5-second-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usaura: Free 5-second tests</title>
+      <link>http://konigi.com/links/usaura-free-5-second-tests/</link>
+      <pubDate>Fri, 08 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/usaura-free-5-second-tests/</guid>
+      <description>Usaura is a free service for conducting 5-second tests. Upload a screenshot. Enter a question asking your respondents to respond by clicking somewhere on your screenshot. Copy the test url to give to participants or use Twitter to share the test. View the results as a heatmap or as click nodes with time-to-click data.
+I set up a dummy test to try here.
+http://www.usaura.com/</description>
+    </item>
+    
+    <item>
+      <title>Clue: A 5 Second Test Service</title>
+      <link>http://konigi.com/links/clue-5-second-test-service/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/clue-5-second-test-service/</guid>
+      <description>Zurb&amp;rsquo;s Clue is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.
+To use, enter a URL for a page you&#39;d like to test, they generate a screenshot, and provide you with URLs for the test and the test report. Here&#39;s an example using this site: test and report. Feel free to mock my home page at will.</description>
+    </item>
+    
+    <item>
+      <title>five second test: A simple online usability test</title>
+      <link>http://konigi.com/links/five-second-test-simple-online-usability-test/</link>
+      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/five-second-test-simple-online-usability-test/</guid>
+      <description>The five second test is a simple usability test that helps you measure the effectiveness of your user interfaces by getting users to look at a screen for 5 seconds, and then asking them to recall what they saw. This is something I typically do at the start of a usability test to see what users understand at a high level. Show them a screen, take it away, have them talk, ask them questions.</description>
+    </item>
+    
+  </channel>
+</rss>

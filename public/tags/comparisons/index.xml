@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comparisons on Konigi</title>
+    <link>http://konigi.com/tags/comparisons/</link>
+    <description>Recent content in Comparisons on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of JavaScript frameworks</title>
+      <link>http://konigi.com/blog/comparison-javascript-frameworks/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/comparison-javascript-frameworks/</guid>
+      <description>Wikipedia has an excellent table of JavaScript frameworks that compares the features of Dojo, Echo3, Ext, Google Web Toolkit, jQuery, midori, MochiKit, MooTools, Prototype &amp;amp; script.aculo.us, Pyjamas, qooxdoo, Rialto, Rico, YUI, and SweetDEV RIA.
+http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks</description>
+    </item>
+    
+    <item>
+      <title>16 User Interface Prototyping Tools</title>
+      <link>http://konigi.com/blog/16-user-interface-prototyping-tools/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/16-user-interface-prototyping-tools/</guid>
+      <description>Russel Wilson of Dexo Design has done an excellent review of available UI Prototyping tools and provided tables comparing attributes including how fun they are to use, time to ramp up, and support for interactivity. His final assessment is below:
+1) Low fidelity mockups for idea exploration and communication: Balsamiq
+2) Interactive prototypes to test and communicate interactions: Adobe Flex (Thermo may change my mind)
+3) High fidelity drawing tool: Adobe Illustrator or OmniGraffle</description>
+    </item>
+    
+  </channel>
+</rss>

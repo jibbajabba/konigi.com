@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studio on Konigi</title>
+    <link>http://konigi.com/tags/studio/</link>
+    <description>Recent content in Studio on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kleber Design Ltd.</title>
+      <link>http://konigi.com/designs/submissions/kleber-design-ltd/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/kleber-design-ltd/</guid>
+      <description>I like the clever idea to use a flatpack package to frame this UK studio&amp;rsquo;s portfolio. http://www.kleber.net/</description>
+    </item>
+    
+    <item>
+      <title>keepa</title>
+      <link>http://konigi.com/designs/submissions/keepa/</link>
+      <pubDate>Fri, 03 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/keepa/</guid>
+      <description>The gang is based in Lviv, Ukraine and consists of two designers and illustrators. Collaborate with web and software developers in the area of interface and design solutions. Works with advertisement agencies and magazines, draw illustrations.
+http://www.hellokeepa.com</description>
+    </item>
+    
+    <item>
+      <title>MetaLab</title>
+      <link>http://konigi.com/designs/metalab/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/metalab/</guid>
+      <description>Metalab&amp;rsquo;s aesthetic evokes the crisp, metalic edges and rounded stylistic elements that I&amp;rsquo;ve come to associate with Apple. You can see it in the details of their gradients, shadows and lighting effects. The visual style is clean, but what I found most enjoyable was the combined use of vertical tabs and carousels on the home page&amp;#8212;essentially their portfolio. The message is really simple and bold too. &amp;ldquo;We make interfaces, we strive for pixel perfection.</description>
+    </item>
+    
+    <item>
+      <title>Multitouch Barcelona</title>
+      <link>http://konigi.com/designs/submissions/multitouch-barcelona/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/multitouch-barcelona/</guid>
+      <description>The clever, whimsy of falling balls that drop into the content boxes as the page loads, and bounce up and down as you scroll make the Multitouch Barcelona site an unexpected and enjoyable experience.
+http://www.multitouch-barcelona.com/</description>
+    </item>
+    
+    <item>
+      <title>Binary Studio</title>
+      <link>http://konigi.com/designs/submissions/binary-studio/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/binary-studio/</guid>
+      <description>Nice minimalist portfolio showcasing Aussie design studio&amp;rsquo;s work. http://binarystudio.com.au/index.html</description>
+    </item>
+    
+    <item>
+      <title>BARREL</title>
+      <link>http://konigi.com/designs/barrel/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/barrel/</guid>
+      <description>Barrel is a design studio in NYC with a clean, minimalist site. Love the logo, the non-nonsense grid, and the product photos.
+http://www.barrelny.com/</description>
+    </item>
+    
+  </channel>
+</rss>

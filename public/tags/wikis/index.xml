@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on Konigi</title>
+    <link>http://konigi.com/tags/wikis/</link>
+    <description>Recent content in Wikis on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jul 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/wikis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>System One Rich Text Editor</title>
+      <link>http://konigi.com/interfaces/system-one-rich-text-editor/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/system-one-rich-text-editor/</guid>
+      <description>System One is an enterprise content management platform that combines functionality of a wiki and CMS in a rich internet application environment. The article editor provides some interesting features and AJAX functionality, including a block/paragraph-level editor, drag and drop moving within an article, and related internal/external content suggestions.
+1. The journal&#39;s multi-entry view.2. Clicking the link to create a new page displays an input to provide the page name, and shows suggestions for pages that are similarly named.</description>
+    </item>
+    
+    <item>
+      <title>Google Sites Rich Text Editor</title>
+      <link>http://konigi.com/interfaces/google-sites-rich-text-editor/</link>
+      <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/google-sites-rich-text-editor/</guid>
+      <description>Google Sites, the new wiki application that is now part of Google Apps is a content management tool based on the JotSpot service acquired by Google. Sites retains the excellent rich text editor tools that JotSpot had. The formatting bar allows users to do the simple things you would expect from a word processor, such as making font changes and adding styles such as headings to text, insert lists, links, images, and table of contents.</description>
+    </item>
+    
+  </channel>
+</rss>

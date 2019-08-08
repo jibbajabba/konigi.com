@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Myths on Konigi</title>
+    <link>http://konigi.com/tags/myths/</link>
+    <description>Recent content in Myths on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/myths/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keith Lang&#39;s Top 10 UX Myths</title>
+      <link>http://konigi.com/blog/keith-langs-top-10-ux-myths/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/keith-langs-top-10-ux-myths/</guid>
+      <description>Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin about UX Myths. It&amp;rsquo;s full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.
+The top 10 UX myth list:
+ The Design Has to be Original People Read People Know What They Like Design Always with Implementation in Mind Can’t Decide? Make it a Preference If you Have Great Search, You Don’t Need Great Information Architecture UX Design Stops at the Edges of the Product Design to Avoid Clicks People Don’t Change If the Design is a Good One, You Don’t Need to Test It  Some of these become so ingrained, that it takes a lot of effort to convince clients or colleagues otherwise.</description>
+    </item>
+    
+  </channel>
+</rss>

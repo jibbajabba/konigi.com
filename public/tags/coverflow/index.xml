@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coverflow on Konigi</title>
+    <link>http://konigi.com/tags/coverflow/</link>
+    <description>Recent content in Coverflow on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/coverflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSNBC Spectra Visual Newsreader Carousel</title>
+      <link>http://konigi.com/interfaces/msnbc-spectra-visual-newsreader-carousel/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/msnbc-spectra-visual-newsreader-carousel/</guid>
+      <description>MSNBC.com&#39;s Spectra Visual Newsreader provides an interesting way of visually presenting channels of content from the massive news site. Adding channels drops media cards into the screen and rotates them in a 3D carousel. Below the vortext of cards, a hybrid pagination scrollbar, which bests Apple&#39;s concept, allows the user to select cards to view one at a time. Previous/Next arrows allow linear progression. A helpful [current card]/[total cards] indicator is shown on the scroll bar.</description>
+    </item>
+    
+    <item>
+      <title>iTunes Pagination</title>
+      <link>http://konigi.com/interfaces/itunes-pagination/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/itunes-pagination/</guid>
+      <description>The iTunes Store has 3 different pagination controls it uses in different places. The most common method for paging through a series of items is to show a carousel on the main pages, with prev/next arrow icons to shuffle through sets of 3-4. On special featured modules with larger poster image thumbnails they use coverflow with their hybrid scrollbar which has arrows that increment one item at a time, or allow you to scroll to move through larger increments.</description>
+    </item>
+    
+  </channel>
+</rss>

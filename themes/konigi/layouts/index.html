@@ -1,0 +1,91 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+
+<section class="section boxgrid">
+  <div class="container">
+
+    {{/* row 1 */}}
+    <div class="tile is-ancestor">
+      <div class="tile is-parent entries">
+        {{ range first 1 (where .Pages "Section"  "blog") }}
+          {{ .Render "blocks" }}
+        {{ end }}
+      </div>
+      <div class="tile is-parent entries">
+        {{ range first 1 (after 1 (where .Pages "Section"  "blog")) }}
+          {{ .Render "blocks" }}
+        {{ end }}
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child about" style="background: rgba(0,0,0,.9);color:#fff">
+          <div class="content">
+            <p class="title" style="color:#fff;">Hi. You found me.</p>
+            <p>The word Konigi means "to make known" in Esperanto. Here's where I share my creative pursuits in design, art and music.</p>
+            <p>-Michael</p>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <div class="tile is-ancestor">
+      <div class="tile is-vertical is-8">
+        {{/* articles row 2 */}}
+        <div class="tile">
+          <div class="tile is-parent entries">
+            {{ range first 1 (where .Pages "Section"  "art") }}
+            {{ .Render "blocks"}}
+            {{ end }}
+          </div>
+          <div class="tile is-parent entries">
+            {{ range first 1 (where .Pages "Section"  "music") }}
+            {{ .Render "blocks"}}
+            {{ end }}
+          </div>
+        </div>
+        {{/* articles row 3 */}}
+        <div class="tile">
+          <div class="tile is-parent entries">
+            {{ range first 1 (where .Pages "Section"  "interfaces") }}
+            {{ .Render "blocks"}}
+            {{ end }}
+          </div>
+          <div class="tile is-parent entries">
+            {{ range first 1 (where .Pages "Section"  "links") }}
+            {{ .Render "blocks"}}
+            {{ end }}
+          </div>
+        </div>
+
+        {{/* Instagram - https://lightwidget.com/ */}}
+        <div class="tile is-parent">
+          <article class="tile is-child box instagram">
+            <div class="entry">
+              <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/c0830f416feb59c794fa08e65027f99b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+            </div>
+          </article>
+        </div>
+
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child box">
+          <div class="content">
+            <h4>Check out the Gif Museum!</h4>
+            <p><a href="http://gifmuse.io"><img src="//media.konigi.com/notebook/gifuse_io.jpg" alt="gifmuse.io"/></a></p>
+            <hr/>
+            <h4>Looking for something else?</h4>
+              <p>Dig deeper into the <strong><a href="/blog">Blog</a></strong> and <strong><a href="/links">Links</a></strong> for my latest findings first.</p>
+              <p>You might also be interested in my <strong><a href="/tools/graph-paper">Printable Graph Paper</a></strong> and <strong><a href="/tools/sketchbooks-diy">DIY Sketchbook Tutorial</a></strong>.</p>
+              <p>The <strong><a href="/articles">Articles</a></strong> section is the place to find design resources and <strong><a href="/articles/sketch-book">"The Sketch Book"</a></strong>, my presentation on UI sketching. Browse this site further <a href="/tags">by tag</a>.</p>
+            <hr>
+            <h4>You won't find me on social media.</strong></h4>
+              <p>But I do share my work and life as a designer, maker and father on the gram as <a href="//www.instagram.com/konigi/">@konigi</a>.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+
+
+  </div>{{/* /container */}}
+</section>
+
+{{ partial "footer.html" . }}

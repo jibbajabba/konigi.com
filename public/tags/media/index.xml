@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Media on Konigi</title>
+    <link>http://konigi.com/tags/media/</link>
+    <description>Recent content in Media on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WhiteHouse 2.0</title>
+      <link>http://konigi.com/designs/whitehouse-20/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/whitehouse-20/</guid>
+      <description>This selection of screens showcases the different social networking and video sites that the Whitehouse has set up. It&amp;rsquo;s interesting to see how much continuity and consistency they&amp;rsquo;re able to achieve given the design constraints imposed by the sites. Perhaps they&amp;rsquo;re given the unique layout options Networks get on YouTube channels. But they couldn&amp;rsquo;t do much with the Facebook page. The MySpace implementation is particularly impressive as an example of site skinning.</description>
+    </item>
+    
+  </channel>
+</rss>

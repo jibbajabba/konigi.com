@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xml on Konigi</title>
+    <link>http://konigi.com/tags/xml/</link>
+    <description>Recent content in Xml on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Aug 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/xml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Omnigraffle Sitemap Generator from Sitemap XML</title>
+      <link>http://konigi.com/links/omnigraffle-sitemap-generator-sitemap-xml/</link>
+      <pubDate>Wed, 18 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/omnigraffle-sitemap-generator-sitemap-xml/</guid>
+      <description>Wireframes Mag pointed to an XML to OmniGraffle Sitmap Generator created by Jason Kunesh at Fuzzy Math to generate a sitemap from an XML file. The script assumes that your XML file consists of url elements, and that parent child relationships are defined by the paths in the url. For instance, http://konigi.com/about-site/unicorns would be a child of http://konigi.com/about-site. Once you generate a list of your urls and pass it to the script, OmniGraffle generates the sitemap hierarchy for you.</description>
+    </item>
+    
+  </channel>
+</rss>

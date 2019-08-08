@@ -1,0 +1,5 @@
+<xml>
+{{ range first 1400 (where .Data.Pages "Section" "==" "blog") }}
+    {{ .Render "items"}}
+{{ end }}
+</xml>

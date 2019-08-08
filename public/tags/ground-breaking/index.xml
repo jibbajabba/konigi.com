@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ground Breaking on Konigi</title>
+    <link>http://konigi.com/tags/ground-breaking/</link>
+    <description>Recent content in Ground Breaking on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/ground-breaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDEO</title>
+      <link>http://konigi.com/designs/ideo/</link>
+      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/ideo/</guid>
+      <description>The redesigned IDEO site has been sitting in a browser tab for a few weeks now because it just felt like one of those things I needed to mull over before writing about. It&amp;rsquo;s one of the few sites this year that just took me by surprise. In short, the deep treasure trove of content unleashed in this redesign is a huge departure from the tightly constrained and minimalist prior design.</description>
+    </item>
+    
+    <item>
+      <title>UNIQLO TRY</title>
+      <link>http://konigi.com/designs/uniqlo-try/</link>
+      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/uniqlo-try/</guid>
+      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&amp;rsquo;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&amp;rsquo;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&amp;rsquo;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
+    </item>
+    
+  </channel>
+</rss>

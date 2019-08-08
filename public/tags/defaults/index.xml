@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Defaults on Konigi</title>
+    <link>http://konigi.com/tags/defaults/</link>
+    <description>Recent content in Defaults on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Feb 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/defaults/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sensible Defaults</title>
+      <link>http://konigi.com/blog/sensible-defaults/</link>
+      <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/sensible-defaults/</guid>
+      <description>&#34;Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind.&#34;
+&amp;#8212;Patrick Rhone
+http://patrickrhone.com/2010/11/08/sensible-defaults/</description>
+    </item>
+    
+  </channel>
+</rss>

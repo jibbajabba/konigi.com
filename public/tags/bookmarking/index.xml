@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookmarking on Konigi</title>
+    <link>http://konigi.com/tags/bookmarking/</link>
+    <description>Recent content in Bookmarking on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/bookmarking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>yay!everyday</title>
+      <link>http://konigi.com/designs/submissions/yayeveryday/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/yayeveryday/</guid>
+      <description>yay!everyday is community inspiration gallery focussed on sharing images that showcase artists, designers, and their work. Love the random sort option, and the staggered placement of the gallery of images which feels like an installation of paintings on a gallery wall.
+http://yayeveryday.com/</description>
+    </item>
+    
+    <item>
+      <title>readbag personal bookmarking</title>
+      <link>http://konigi.com/blog/readbag-personal-bookmarking/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/readbag-personal-bookmarking/</guid>
+      <description>readbag is one of those incredibly simple and well-implemented services that puts a subtle but useful twist on a product in an already crowded space. The readbag bookmarking service (it&amp;rsquo;s actually a Google App Engine application) provides the functionality to do one thing very well&amp;ndash;bookmark pages that you want to read for later.
+Now you might argue that you can use any social bookmarking service to do this, or something like Evernote.</description>
+    </item>
+    
+  </channel>
+</rss>

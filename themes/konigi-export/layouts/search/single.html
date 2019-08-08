@@ -1,0 +1,152 @@
+{{ partial "header.html" . }}
+{{ partial "gnav_search.html" . }}
+{{ partial "body_top.html" . }}
+
+{{/* CONTENT */}}
+<article id="search">
+  <h2 class="post-title">{{ .Title }}</h2>
+  <p class="center">Like to <a href="https://www.youtube.com/watch?v=MtkK3eijBso" target="_blank">comb the desert</a>? Then you'll love having a <a href="/tags">browse through all of this site's tags</a>.</p>
+  <section class="article-body">{{ .Content }}</section>
+</article>
+
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var myCSC =  new google.search.CustomSearchControl('006261866030423320385:ljhnjznrg-k');
+    myCSC.draw('cse');
+    myCSC.setLinkTarget(google.search.Search.LINK_TARGET_SELF);
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/minimalist.css" type="text/css" />
+<style type="text/css">
+  .gsc-control-cse {
+    font-family: Arial, sans-serif;
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  input.gsc-input {
+    border-color: #999999;
+  }
+  input.gsc-search-button {
+    border-color: #999999;
+    background-color: #c0c0c0;
+  }
+  .gsc-tabHeader.gsc-tabhInactive {
+    border-color: #777777;
+    background-color: #777777;
+  }
+  .gsc-tabHeader.gsc-tabhActive {
+    border-color: #333333;
+    background-color: #333333;
+  }
+  .gsc-tabsArea {
+    border-color: #333333;
+  }
+  .gsc-webResult.gsc-result {
+    border-color: #FFFFFF;
+    background-color: #FFFFFF;
+  }
+  .gsc-webResult.gsc-result:hover {
+    border-color: #ffffff;
+    background-color: #f1f1f1;
+  }
+  .gs-webResult.gs-result a.gs-title:link,
+  .gs-webResult.gs-result a.gs-title:link b {
+    color: #0064AE;
+  }
+  .gs-webResult.gs-result a.gs-title:visited,
+  .gs-webResult.gs-result a.gs-title:visited b {
+    color: #0064AE;
+  }
+  .gs-webResult.gs-result a.gs-title:hover,
+  .gs-webResult.gs-result a.gs-title:hover b {
+    color: #0064AE;
+  }
+  .gs-webResult.gs-result a.gs-title:active,
+  .gs-webResult.gs-result a.gs-title:active b {
+    color: #0064AE;
+  }
+  .gsc-cursor-page {
+    color: #0064AE;
+  }
+  a.gsc-trailing-more-results:link {
+    color: #0064AE;
+  }
+  .gs-webResult.gs-result .gs-snippet {
+    color: #0a0a0a;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl {
+    color: #0a0a0a;
+  }
+  .gs-webResult.gs-result .gs-visibleUrl-short {
+    color: #0a0a0a;
+  }
+  .gsc-cursor-box {
+    border-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page {
+    border-color: #777777;
+    background-color: #FFFFFF;
+  }
+  .gsc-results .gsc-cursor-page.gsc-cursor-current-page {
+    border-color: #333333;
+    background-color: #333333;
+  }
+  .gs-promotion.gs-result {
+    border-color: #CCCCCC;
+    background-color: #E6E6E6;
+  }
+  .gs-promotion.gs-result a.gs-title:link {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:visited {
+    color: #0000CC;
+  }
+  .gs-promotion.gs-result a.gs-title:hover {
+    color: #444444;
+  }
+  .gs-promotion.gs-result a.gs-title:active {
+    color: #00CC00;
+  }
+  .gs-promotion.gs-result .gs-snippet {
+    color: #333333;
+  }
+  .gs-promotion.gs-result .gs-visibleUrl,
+  .gs-promotion.gs-result .gs-visibleUrl-short {
+    color: #00CC00;
+  }
+</style>
+<style type="text/css">
+  /* overrides */
+  div.gsc-control-cse {margin: 0 !important; padding: 0 !important; }
+  .cse form.gsc-search-box, form.gsc-search-box { padding: 0 !important; }
+  table.gsc-search-box td {
+    vertical-align: top;
+    border-bottom: none !important;
+    margin-bottom: 1em;
+  }
+  td.gsc-input, td.gsc-search-button { padding: 0 !important; }
+  table.gsc-search-box td.gsc-search-button input.gsc-search-button {
+    font-size: 16px;
+    padding: 5px 10px;
+    min-height: 37px;
+    height: 37px;
+  }
+  td.gsc-clear-button  { display: none !important; }
+  /* google search */
+  #google-cse-results iframe {
+  width: 100%;
+  }
+  #google-cse-results-gadget {
+  display: none !important;
+  }
+  table.bb {
+  border-bottom: 1px solid #ddd !important;
+  }
+</style>
+
+{{/* END CONTENT */}}
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

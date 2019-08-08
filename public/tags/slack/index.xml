@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slack on Konigi</title>
+    <link>http://konigi.com/tags/slack/</link>
+    <description>Recent content in Slack on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/slack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relay.io Design Sharing via Slack</title>
+      <link>http://konigi.com/links/relay-io-design-sharing-via-slack/</link>
+      <pubDate>Fri, 26 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/relay-io-design-sharing-via-slack/</guid>
+      <description>Relay looks like it&amp;rsquo;ll be a nice design communication tool for teams using Slack. Capture screens directly from Adobe CC, Sketch, Chrome, or anything else on your screen and it&amp;rsquo;ll be ready for critique in Slack, with comments and annotation.
+(Hatip Leon)</description>
+    </item>
+    
+  </channel>
+</rss>

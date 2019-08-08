@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Konigi</title>
+    <link>http://konigi.com/tags/statistics/</link>
+    <description>Recent content in Statistics on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>visualizing.org</title>
+      <link>http://konigi.com/blog/visualizingorg/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/visualizingorg/</guid>
+      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:
+It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
+    </item>
+    
+    <item>
+      <title>BBC News: The top 100 sites on the internet</title>
+      <link>http://konigi.com/blog/bbc-news-top-100-sites-internet/</link>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/bbc-news-top-100-sites-internet/</guid>
+      <description>The BBC charts the top 100 Internet sites in terms of traffic (unique visits) using January 2010 data from Nielsen. Data covers the UK, France, Germany, Italy, Spain, Switzerland, Brazil, US and Australia.
+The categories - such as retail, social networks, search/portal - were defined by the BBC. The maps were produced using the Prefuse Flare software, developed by the University of California Berkeley. You can mouse over the squares to see site names.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Public: Visualization Service</title>
+      <link>http://konigi.com/links/tableau-public-visualization-service/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/tableau-public-visualization-service/</guid>
+      <description>Tableau Public is a free service that lets anyone publish interactive data to the web. Once on the web, anyone can interact with the data, download it, or create their own visualizations of it. No programming skills are required. Windows is required for the desktop application.
+The free version of Tableau Public is for writers, bloggers, students, professors, hobbyists, journeymen, critics, citizens and more. It’s also meant for organizations, but only as an introductory service, and for continued use requires commercial licensing.</description>
+    </item>
+    
+    <item>
+      <title>jQuery Sparklines</title>
+      <link>http://konigi.com/blog/jquery-sparklines/</link>
+      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/jquery-sparklines/</guid>
+      <description>The jQuery Sparklines plugin generates sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript. The plugin is compatible with most modern browsers and has been tested with Firefox 2+, Safari 3+, Opera 9 and Internet Explorer 6 &amp;amp; 7.
+Via @darrengeraghty
+http://www.omnipotent.net/jquery.sparkline/</description>
+    </item>
+    
+    <item>
+      <title>The Browser Wars</title>
+      <link>http://konigi.com/blog/browser-wars/</link>
+      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/browser-wars/</guid>
+      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.
+http://www.pixellabs.com/images/browserwars.png</description>
+    </item>
+    
+    <item>
+      <title>Methodologie Browser Size Test</title>
+      <link>http://konigi.com/blog/methodologie-browser-size-test/</link>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/methodologie-browser-size-test/</guid>
+      <description>Mmmmm, grids. Methodologie uses stats from The Counter to display the screen resolutions supported by users&amp;rsquo; computers in their 10&amp;frasl;2008 numbers.
+http://www.methodologie.com/sizer/</description>
+    </item>
+    
+    <item>
+      <title>Screen Resolution Statistics</title>
+      <link>http://konigi.com/blog/screen-resolution-statistics/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/screen-resolution-statistics/</guid>
+      <description>When it comes to researching user&#39;s screen resolution, I&#39;m a strong believer that vertical positioning matters most when considering key issues such as location of identifying elements like site name and h1-type headings, and elements that satisfy business rules such as ad location. The B&amp;amp;A article, &#34;Blasting the Myth of the Fold&#34; addresses this issue well, and I&#39;m in agreement that &#34;the fold&#34; matters little if the above issues are dealt with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copywriting on Konigi</title>
+    <link>http://konigi.com/tags/copywriting/</link>
+    <description>Recent content in Copywriting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/copywriting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mention Call To Action</title>
+      <link>http://konigi.com/interfaces/mention-call-action/</link>
+      <pubDate>Wed, 07 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/mention-call-action/</guid>
+      <description>Mention.com&#39;s Success Stories section uses this great phrase to introduce the Proof in the drip pan at the bottom of the page.
+&amp;quot;They also started with a free trial.&amp;quot; Short and persuasive copy that makes an otherwise common CTA more compelling.
+1. Intro text, subdued company logos for the proof (so as not to compete with the CTA), and bold red call to action button to create your first alert and start a free trial.</description>
+    </item>
+    
+    <item>
+      <title>Moof Login and Registration</title>
+      <link>http://konigi.com/interfaces/moof-login-and-registration/</link>
+      <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/moof-login-and-registration/</guid>
+      <description>I&#39;m sure some might dislike the use of the bottom-border inputs here, but I&#39;m a big fan of fill-in-the-blank forms and the conversational copy used in this login and registration form on this social music site.
+ http://moof.com/</description>
+    </item>
+    
+    <item>
+      <title>Conversational UX Design</title>
+      <link>http://konigi.com/blog/conversational-ux-design/</link>
+      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/conversational-ux-design/</guid>
+      <description>[I]f you make it easy to talk to me, I will immediately be a lot more likely to keep talking.
+Zeus Jones has a great write up about using conversational language and cues to invite users through interactions. The deconstruction of the lazy trial/registration process in Tumblr is used to demonstrate how this type of engagement makes the learning process natural and inviting. The discussion picks up on the Cluetrain meme of markets as conversations, positing that systems are conversations, and turning front ends into actors that use conversational language as interface.</description>
+    </item>
+    
+    <item>
+      <title>Automatically generate table of contents using jQuery</title>
+      <link>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</link>
+      <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</guid>
+      <description>Janko at Warp Speed demonstrates a technique using jQuery to provide a navigable table of contents menu using the headings in your page content. I particularly like the method he&amp;rsquo;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin.</description>
+    </item>
+    
+    <item>
+      <title>You should follow me on Twitter: Dustin Curtis experiments with call to action</title>
+      <link>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</link>
+      <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</guid>
+      <description>Dustin Curtis did an interesting experiment with a short call to action at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &amp;ldquo;here&amp;rdquo; had a pretty significant impact. As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &amp;ldquo;You&amp;rdquo; identifies the reader directly, &amp;ldquo;should&amp;rdquo; implies an obligation, and &amp;ldquo;follow me on twitter&amp;rdquo; is a direct command.</description>
+    </item>
+    
+    <item>
+      <title>Content Templates to the Rescue</title>
+      <link>http://konigi.com/blog/content-templates-rescue/</link>
+      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/content-templates-rescue/</guid>
+      <description>Erin Kissane writes about using content templates &amp;ldquo;&amp;hellip; to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&amp;rdquo; in A List Apart.
+The ideal situation is to have a content strategist, perhaps a technical writer, who can provide the guidance for auditing and organizing information, and add some rigor to the writing process. The absence of a content strategist on a project necessitates at least dedicating one person to this task.</description>
+    </item>
+    
+    <item>
+      <title>Writing Microcopy</title>
+      <link>http://konigi.com/blog/writing-microcopy/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/writing-microcopy/</guid>
+      <description>Joshua Porter writes about the use of microcopy to create confidence and alleviate concerns in customers about the actions they take on your site. Ironically, the smallest bits of copy, microcopy, can have the biggest impact. &amp;hellip; Microcopy is small yet powerful copy. It’s fast, light, and deadly. It’s a short sentence, a phrase, a few words. A single word. It’s the small copy that has the biggest impact. Don’t judge it on its size…judge it on its effectiveness.</description>
+    </item>
+    
+    <item>
+      <title>Using Verbs As Nouns in User Interfaces</title>
+      <link>http://konigi.com/blog/using-verbs-nouns-user-interfaces/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/using-verbs-nouns-user-interfaces/</guid>
+      <description>There&#39;s an interesting discussion in UX Matters prompted by a question regarding the use of verbs as nouns. This wording used in an enterprise context is the example provided, &#34;Click here to view your views.&#34; Confusing and awkward. A dialogue follows with several designers, who seem to agree that understanding the language of the business and context, and using that in the given situation is the right approach. It&#39;s a matter of unearthing the terminology, whether through contextual inquiry and exercises like card sorting, and using what&#39;s appropriate and familiar in the context, so users can &#34;</description>
+    </item>
+    
+    <item>
+      <title>Spark Capital</title>
+      <link>http://konigi.com/designs/submissions/spark-capital/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/spark-capital/</guid>
+      <description>jQuery based animations and strong typography
+http://www.sparkcapital.com</description>
+    </item>
+    
+    <item>
+      <title>David Pogue on Tech Terms to Avoid</title>
+      <link>http://konigi.com/blog/david-pogue-tech-terms-avoid/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/david-pogue-tech-terms-avoid/</guid>
+      <description>David Pogue offers some suggestions the selection of non-jargony words when writing/speaking about technology. Most of these I agree with. Here&#39;s a few: * Enable. Who on earth says, &#34;Enable the GPS function&#34;? Only user-manual writers and computer-book authors. Say &#34;Turn on GPS&#34; instead.
+* Support. I don&#39;t mean &#34;support&#34; as in &#34;tech support,&#34; although even that term is a corporate creepy cop-out (it means &#34;help line&#34;). No, I mean the verb, as in, &#34;</description>
+    </item>
+    
+    <item>
+      <title>Economist.com Editorial Style Guide</title>
+      <link>http://konigi.com/blog/economist-com-editorial-style-guide/</link>
+      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/economist-com-editorial-style-guide/</guid>
+      <description>The Economist, the magazine and news site, provides access to the excellent editorial style guide that every journalist for the company is given. The book, written by John Grimond, is also available for purchase in the printed book form.
+http://www.economist.com/research/styleguide/</description>
+    </item>
+    
+    <item>
+      <title>Typography for Headlines</title>
+      <link>http://konigi.com/blog/typography-headlines/</link>
+      <pubDate>Mon, 28 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typography-headlines/</guid>
+      <description>Christian Watson of Smiley Cat Web Design provides an excellent showcase of headline typographic design from across the web.
+http://www.smileycat.com/miaow/archives/typography-for-headlines.php</description>
+    </item>
+    
+    <item>
+      <title>Users around the world translate Facebook for free</title>
+      <link>http://konigi.com/blog/users-around-world-translate-facebook-free/</link>
+      <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/users-around-world-translate-facebook-free/</guid>
+      <description>Facebook is tapping its international user community to help translate it&#39;s interface, namely the copy for its guidelines, into nearly the 2 dozen languages that represent the community&#39;s market outside the US. The localization effort is a massive crowdsourcing task that has been both criticized and lauded. The critics often point to the unpredictability and inconsistency of translations. Proponents of the effort applaud the boldness at utilizing an already eager community to contribute to making the application better for users in other non English-speaking countries.</description>
+    </item>
+    
+    <item>
+      <title>TeamSnap Terms of Service</title>
+      <link>http://konigi.com/interfaces/teamsnap-terms-service/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/teamsnap-terms-service/</guid>
+      <description>TeamSnap uses funny copy to accept their terms of service. There&#39;s no way a lawyer every looked at this.
+ http://go.teamsnap.com/signup</description>
+    </item>
+    
+  </channel>
+</rss>

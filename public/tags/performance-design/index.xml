@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Performance Design on Konigi</title>
+    <link>http://konigi.com/tags/performance-design/</link>
+    <description>Recent content in Performance Design on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/performance-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Dialogue on Design With Intent</title>
+      <link>http://konigi.com/blog/dialogue-design-intent/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/dialogue-design-intent/</guid>
+      <description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&amp;rsquo;s desire to influence. The first is Robert Fabricant&amp;rsquo;s article on &amp;ldquo;Design with Intent: how designers can influence behavior&amp;rdquo;, and the follow up is Dan Lockton&amp;rsquo;s &amp;ldquo;frog design on Design with Intent&amp;rdquo;.
+User centered design focuses primarily on user needs and research and decision making must support these needs.</description>
+    </item>
+    
+  </channel>
+</rss>

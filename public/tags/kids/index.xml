@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on Konigi</title>
+    <link>http://konigi.com/tags/kids/</link>
+    <description>Recent content in Kids on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wario Land: Shake It!</title>
+      <link>http://konigi.com/designs/wario-land-shake-it/</link>
+      <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/wario-land-shake-it/</guid>
+      <description>The promo site for the new Wario Land Wii game takes you into the world of the big garlicky brute as he stomps through the screen, shaking the interface up, much as he did with the YouTube promo. The big gimmick with this site is that you have to shake objects in the interface to navigate from section to section. The rest of the site makes use of a hunt for objects to keep you engaged as you explore the story and game play features.</description>
+    </item>
+    
+    <item>
+      <title>Sesame Street</title>
+      <link>http://konigi.com/designs/sesame-street/</link>
+      <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/sesame-street/</guid>
+      <description>The Sesame Workshop and PBS produce excellent Flash sites for kids. Among my favorites are the Sesame Street and Arthur sites. The recent redesign of the Sesame Street site adds new navigation options, a more YouTube-like video section, and most notably, user profiles. The best of the new features is the ability to add favorites to &amp;ldquo;Your Street,&amp;rdquo; a user profile page that uses your favorites to display a start page.</description>
+    </item>
+    
+    <item>
+      <title>Anorak Magazine</title>
+      <link>http://konigi.com/designs/submissions/anorak-magazine/</link>
+      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/anorak-magazine/</guid>
+      <description>http://www.anorak-magazine.co.uk/</description>
+    </item>
+    
+    <item>
+      <title>Fanta</title>
+      <link>http://konigi.com/designs/submissions/fanta/</link>
+      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/fanta/</guid>
+      <description>http://www.fanta.co.uk/</description>
+    </item>
+    
+  </channel>
+</rss>

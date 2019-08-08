@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css 3 on Konigi</title>
+    <link>http://konigi.com/tags/css-3/</link>
+    <description>Recent content in Css 3 on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/css-3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animate.css: Plug-and-play CSS animation stylesheet</title>
+      <link>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</link>
+      <pubDate>Tue, 18 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/animatecss-plug-and-play-css-animation-stylesheet/</guid>
+      <description>animate.css is a stylesheet created by Dan Eden for doing common, cross-browser css3 animations for things like transitions for emphasis. To use them in your project, simply add add the stylesheet and link, add a class to an element, or call the animation yourself in your CSS file.
+http://daneden.me/animate/</description>
+    </item>
+    
+    <item>
+      <title>Sencha Touch HTML5 Mobile App Framework</title>
+      <link>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</link>
+      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</guid>
+      <description>Sencha Touch looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: GeoCongress (makes use of geolocation), Solitaire (drag and drop and flip animations), Kiva (provides iPad popover controls).
+Sencha Touch allows you to develop web apps that look and feel native on Apple iOS and Google Android touchscreen devices. It&#39;s built specifically to leverage HTML5, CSS3, and Javascript and makes use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline.</description>
+    </item>
+    
+    <item>
+      <title>When can I use... HTML5, CSS3, etc.</title>
+      <link>http://konigi.com/links/when-can-i-use-html5-css3-etc/</link>
+      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-html5-css3-etc/</guid>
+      <description>Can I Use provides compatibility tables for features in HTML5, CSS3, SVG and other upcoming web technologies.
+http://caniuse.com/</description>
+    </item>
+    
+  </channel>
+</rss>

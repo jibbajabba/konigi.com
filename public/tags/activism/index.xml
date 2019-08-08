@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activism on Konigi</title>
+    <link>http://konigi.com/tags/activism/</link>
+    <description>Recent content in Activism on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Re-nourish: Design Sustainably</title>
+      <link>http://konigi.com/blog/re-nourish-design-sustainably/</link>
+      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/re-nourish-design-sustainably/</guid>
+      <description>Re-nourish.com is an independent online toolkit for sustainable graphic design.
+By providing reliable, accessible sustainability tools untethered to commercial interests, we empower graphic designers to implement sustainable decision making in their day-to-day work. Our mission is nothing short of changing the industry, helping truly sustainable graphic design become what design is, not merely what it &amp;quot;could be.&amp;quot;
+Check it out and learn how to change your business&#39; impact on the earth.</description>
+    </item>
+    
+    <item>
+      <title>The Feast Conference</title>
+      <link>http://konigi.com/blog/feast-conference/</link>
+      <pubDate>Wed, 24 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/feast-conference/</guid>
+      <description>I&amp;rsquo;ve registered to join the Feast Conference in New York City on Oct. 1.
+The Feast Conference gathers the world&amp;rsquo;s greatest innovators from across industries and society to empower, inspire and engage each other in creating world-shaking change. A creative look at the world&amp;rsquo;s toughest problems, The Feast Conference presents the most innovative solutions, insights, and best practices as a catalyst toward action.
+More than a conference, The Feast represents a bottom-up movement, so we&amp;rsquo;re curating an audience as cross-disciplinary and diverse as our talks.</description>
+    </item>
+    
+  </channel>
+</rss>

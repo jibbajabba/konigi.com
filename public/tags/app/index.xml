@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App on Konigi</title>
+    <link>http://konigi.com/tags/app/</link>
+    <description>Recent content in App on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wasabi - Unique powder adventures. Worldwide</title>
+      <link>http://konigi.com/designs/submissions/wasabi-unique-powder-adventures-worldwide/</link>
+      <pubDate>Wed, 21 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/wasabi-unique-powder-adventures-worldwide/</guid>
+      <description>The pre-launch website for Wasabi Travel - who are due to launch their winter sports webapp in late 2009.
+http://www.wasabitravel.com/</description>
+    </item>
+    
+  </channel>
+</rss>

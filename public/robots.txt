@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /design/*
+Disallow: /a-z-index/*
+Disallow: /products/*
+Disallow: /notebook/*
+Disallow: /user/*
+Disallow: /node/*

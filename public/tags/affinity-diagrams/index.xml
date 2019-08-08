@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affinity Diagrams on Konigi</title>
+    <link>http://konigi.com/tags/affinity-diagrams/</link>
+    <description>Recent content in Affinity Diagrams on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/affinity-diagrams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Edistorm</title>
+      <link>http://konigi.com/links/edistorm/</link>
+      <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/edistorm/</guid>
+      <description>Edistorm looks like an interesting tool for collaborative brainstorming. Group brainstorming sticky note boards (storms) can be set up with a background template, e.g. 5 up, SWOT, venn diagrams, etc. You place colored sticky notes with text, organize however you want, you can add +1 votes using a voting system, and add comments to notes. There&amp;rsquo;s some kind of recomendations feature that will suggest new topics, which I guess might only work well with certain content types.</description>
+    </item>
+    
+  </channel>
+</rss>

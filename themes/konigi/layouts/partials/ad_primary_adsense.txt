@@ -1,0 +1,16 @@
+<div class="ad-primary">
+  <h4>SPONSORED</h4>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- YYYALL Sidebar Ad Unit -->
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9039997918100594"
+       data-ad-slot="4844889580"
+       data-ad-format="auto"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <div class="caption">
+    <p>Click this ad to help me with hosting:</p>
+  </div>
+</div>

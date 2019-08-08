@@ -1,0 +1,7 @@
+<item>
+<title>{{ .Title }}</title>
+<description>{{ htmlEscape .Content }}</description>
+<pubDate>{{ .Date.Format "20060102" }}</pubDate>
+<category>{{ .Section }}</category>
+<tag>{{ delimit .Params.tags ", " }}</tag>
+</item>

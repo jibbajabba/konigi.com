@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Tooltips and Speech Bubbles</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" href="https://unpkg.com/bulmaswatch/cosmo/bulmaswatch.min.css">  
+  <link href="/css/konigi.css?1564326890" type="text/css" rel="stylesheet" media="all">
+  <link href="https://fonts.googleapis.com/css?Open+Sans:400,400i,600,600i&display=swap" rel="stylesheet">
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+</head>
+<body class="tools">
+
+
+
+
+  <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
+    <div class="container">
+
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">KONIGI</a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu">
+        <div id="navbarGlobal" class="navbar-end">
+          <a class="navbar-item" href="/blog/">
+            Blog
+          </a>
+
+          <a class="navbar-item" href="/articles/">
+            Articles
+          </a>
+
+          <a class="navbar-item" href="/interfaces/">
+            Interfaces
+          </a>
+
+          <a class="navbar-item is-active" href="/tools/">
+            Tools
+          </a>
+
+          <a class="navbar-item" href="/links/">
+            Links
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </nav>
+
+
+
+<section class="hero ">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        CSS Tooltips and Speech Bubbles
+      </h1>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section article">
+  <div class="container">
+
+    <div class="columns">
+      <div class="column is-four-fifths">
+        <article>
+          <section class="article-body"><p><article class="entry tools">
+  <p>I&rsquo;ve been using some new CSS techniques lately, and thought it was time to start experimenting with ideas. One thing that I thought was really cool was that you could use the :before and :after pseudo-classes to create boxes before and after an element and position those. I did that on the little screenshot images <a href="http://balsamiq.com/products/mockups/mybalsamiq">on this product page</a>, to position the little + icons.</p>
+<p>I was also interested in how I could replace some of the jQuery techniques I was using to make tooltips in myBalsamiq. One thing that bothered me about the technique in jQuery UI was that I had to use an image to create a triangle below the tool tip box. A quick search turned up a technique for creating a triangle with CSS on a <a href="http://jonrohan.me/guide/css/creating-triangles-in-css/">demo by Jon Rohan</a>. Jon&rsquo;s technique uses a few spans to create the awesome outlined bubble. I thought I&rsquo;d go simpler and just put a box shadow on the main part of the bubble so I could get rid of the spans, and then I&rsquo;d just use the :after pseudo-class to position a box that created the triangle below the bubble. The result is below. This has been tested in Webkit only.</p>
+<hr />
+<h3>Speech Bubble</h3>
+<h4>Demo</h4>
+<div class="bubble">Hi there. I like turtles.</div>
+<p style="margin-left: 1em;">Mikey sez</p>
+<h4>Code</h4>
+<p><code>&lt;div class=&ldquo;bubble&rdquo;&gt;Hi there. I like turtles.&lt;/div&gt;<br />
+&lt;p style=&ldquo;margin-left: 1em;&rdquo;&gt;Mikey sez&lt;/p&gt;</code></p>
+<p><code></p>
+<pre>
+.bubble {
+  position: relative;
+  background-color:#eee;
+  margin: 0;
+  padding:10px;
+  text-align:center;
+  width:180px;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  -webkit-box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+  box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+}
+.bubble:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: #eee transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  bottom:-19px;
+  left:1em;
+}</pre><p></code></p>
+<hr />
+<h3>Tool Tip Try 1</h3>
+<p>This one is a little trickier, because the browser will display the yellow tooltip fro the anchor as well. You could hide the title attribute by using $(&ldquo;a.tip&rdquo;).removeAttr(&ldquo;title&rdquo;); but that&rsquo;s where I&rsquo;m getting the tip from. This is one case where using a hidden span nested in the link might be smarter.</p>
+<h4>Demo</h4>
+<p><a href="#" class="tip" title="Hi, There. I like turtles.">Hover over me!</a></p>
+<h4>Code</h4>
+<p><code>&lt;a href=&ldquo;#&rdquo; class=&ldquo;tip&rdquo; title=&ldquo;Hi, There. I like turtles.&rdquo;&gt;Hover over me!&lt;/a&gt;</code></p>
+<p><code></p>
+<pre>
+a.tip {
+  position: relative;
+  text-decoration: none;
+}
+a.tip:hover:before {
+  display: block;
+  position: absolute;
+  padding: .5em;
+  content: attr(title);
+  min-width: 120px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  white-space: nowrap;
+  top: -32px;
+  background: rgba(0,0,0,.8);
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;<br />
+  color: #fff;
+  font-size: .86em;
+}
+a.tip:hover:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  top: -8px;
+  left:1em;
+}</pre><p></code></p>
+<p><br  /></p>
+<hr />
+<h3>Tool Tip Try #2</h3>
+<p>This time using a span without the pesky anchor tooltip.</p>
+<h4>Demo</h4>
+<p><a href="#" class="tip2">Hover over me!<span>Hi, There. I like turtles.</span></a></p>
+<h4>Code</h4>
+<p><code>&lt;a href=&ldquo;#&rdquo; class=&ldquo;tip2&rdquo;&gt;Hover over me!&lt;span&gt;Hi, There. I like turtles.&lt;/span&gt;&lt;/a&gt;</code></p>
+<p><code></p>
+<pre>a.tip2 {
+  position: relative;
+  text-decoration: none;
+}
+a.tip2 span {display: none;}
+a.tip2:hover span {
+  display: block;
+  position: absolute;
+  padding: .5em;
+  content: attr(title);
+  min-width: 120px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  white-space: nowrap;
+  top: -32px;
+  background: rgba(0,0,0,.8);
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;<br />
+  color: #fff;
+  font-size: .86em;
+}
+a.tip2:hover span:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  bottom: -16px;
+  left:1em;
+}</pre><p></code></p>
+<style type="text/css">
+.bubble {
+  position: relative;
+  background-color:#eee;
+  margin: 0 0 1em 0;
+  padding:10px;
+  text-align:center;
+  width:180px;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;<br />
+  -webkit-box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+  box-shadow: 0px 0 3px rgba(0,0,0,0.25);
+}
+.bubble:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: #eee transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  bottom:-19px;
+  left:1em;
+}
+a.tip {
+  position: relative;
+  text-decoration: none;
+}
+a.tip:hover:before {
+  display: block;
+  position: absolute;
+  padding: .5em;
+  content: attr(title);
+  min-width: 120px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  white-space: nowrap;
+  top: -32px;
+  background: rgba(0,0,0,.8);
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;<br />
+  color: #fff;
+  font-size: .86em;
+}
+a.tip:hover:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  top: -4px;
+  left:1em;
+}</p>
+
+<p>a.tip2 {
+  position: relative;
+  text-decoration: none;
+}
+a.tip2 span {display: none;}
+a.tip2:hover span {
+  display: block;
+  position: absolute;
+  padding: .5em;
+  content: attr(title);
+  min-width: 120px;
+  text-align: center;
+  width: auto;
+  height: auto;
+  white-space: nowrap;
+  top: -32px;
+  background: rgba(0,0,0,.8);
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  border-radius:10px;<br />
+  color: #fff;
+  font-size: .86em;
+}
+a.tip2:hover span:after {
+  position: absolute;
+  display: block;
+  content: &ldquo;&rdquo;;<br />
+  border-color: rgba(0,0,0,.8) transparent transparent transparent;
+  border-style: solid;
+  border-width: 10px;
+  height:0;
+  width:0;
+  position:absolute;
+  bottom: -20px;
+  left:1.25em;
+}
+</style></article><!-- /.entry-container  --></p>
+</section>
+          <section class="metadata single bottom">
+            <div class="pub-date">Published on Friday, Oct 29, 2010 in <a href="/tools" class="capitalize">tools</a></div>
+            <ul class="tags">
+            
+            </ul>
+          </section>
+        </article>
+      </div>
+      <div class="column is-one-fifth">
+        <div class="ad-primary">
+  <h4>SPONSORED</h4>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9039997918100594"
+       data-ad-slot="4844889580"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <div class="caption">
+    <p>Click this ad to help me with hosting:</p>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p class="top"><a href="#gnav"><i class="ss-icon">&#x25B4;</i></a></p>
+    <p><a href="/">Konigi</a> is published by <a href="http://michaelangeles.com">Michael Angeles</a> <a href="/contact">(contact)</a>. Screenshots &copy; their respective owners.</p>
+  </div>
+</footer>
+
+<amp-ad width="100vw" height=320
+     type="adsense"
+     data-ad-client="ca-pub-9039997918100594"
+     data-ad-slot="4844889580"
+     data-auto-format="rspv"
+     data-full-width>
+  <div overflow></div>
+</amp-ad>
+<script src="/js/konigi.js?1564326890"></script>
+</body>
+</html>
+

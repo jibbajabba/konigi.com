@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Konigi</title>
+    <link>http://konigi.com/tags/contact/</link>
+    <description>Recent content in Contact on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Feb 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digg Contact</title>
+      <link>http://konigi.com/interfaces/digg-contact/</link>
+      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/digg-contact/</guid>
+      <description>This is perhaps more about information architecture than interface or interaction design. One thing I like about Digg&#39;s About section is the transparency of the company that&#39;s suggested here. They only provide email addresses for contacting the company, rather than providing a form. They provide 4 types of contact: feedback, abuse, press, and partners, each type of gets sent to an email address. This exposes you, the sender, as it doesn&#39;t allow the sending of anonymous email, and gives them a way to respond to you.</description>
+    </item>
+    
+    <item>
+      <title>Oranges Contact Form</title>
+      <link>http://konigi.com/interfaces/oranges-contact-form/</link>
+      <pubDate>Wed, 30 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/oranges-contact-form/</guid>
+      <description>Edward Pistachio is a writer pulping fine short stories. Consistent with the lighthearted tone of this site, he provides a contact form that is also all about words. Getting his email address requires solving a few jumbles, and then decoding the address from letters found in the jumbles. Sure it may be frustrating if you can&#39;t figure out the jumbles, and is one of the cleverest ways I&#39;ve ever seen to gain access to a bit of info.</description>
+    </item>
+    
+    <item>
+      <title>Sidebar Creative Contact Form</title>
+      <link>http://konigi.com/interfaces/sidebar-creative-contact-form/</link>
+      <pubDate>Tue, 27 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/sidebar-creative-contact-form/</guid>
+      <description>The contact page for this design agency features a clever use of an AJAX slider to allow potential clients to for entering their budget in the range of 10K to 500K. Interesting that the slider increments in 25K&#39;s up to 100K, then increments in 100K&#39;s. Once you get them on the phone, I suppose you can give them your real budget. Maybe that helps eliminate small jobs?
+ http://sidebarcreative.com/</description>
+    </item>
+    
+  </channel>
+</rss>

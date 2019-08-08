@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horizontal Scrolling on Konigi</title>
+    <link>http://konigi.com/tags/horizontal-scrolling/</link>
+    <description>Recent content in Horizontal Scrolling on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Oct 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/horizontal-scrolling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Carousels</title>
+      <link>http://konigi.com/interfaces/apple-carousels/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/apple-carousels/</guid>
+      <description>Apple&#39;s Coverflow-like carousels are used on interior pages of Apple.com to provide visual navigation of products using product images. A set of images is displayed in a wide panel with a horizontal scrollbar. Carousels are used primarily for promotion when most sites place a set of images in this upper area of the screen below the navigation. Apple utilizes this space to provide better findability of products within each section of the site.</description>
+    </item>
+    
+  </channel>
+</rss>

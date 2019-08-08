@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blueprint Css Framework on Konigi</title>
+    <link>http://konigi.com/tags/blueprint-css-framework/</link>
+    <description>Recent content in Blueprint Css Framework on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Mar 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/blueprint-css-framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Templates for Creating Blueprint-Compatible Comps</title>
+      <link>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/templates-creating-blueprint-compatible-comps/</guid>
+      <description>I&#39;ve created Adobe Photoshop and Illustrator templates for creating comps that work with Olav Bjorkoy&#39;s Blueprint CSS Framework. The templates are simply documents with guides based on the 24 units provided by Blueprint. The background image of the grid is also provided with a layer to show unit numbers if you like, and the Illustrator document shows a fake comp to demonstrate positioning on the grid.
+You may download the templates here:</description>
+    </item>
+    
+  </channel>
+</rss>

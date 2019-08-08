@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Email Signup on Konigi</title>
+    <link>http://konigi.com/tags/email-signup/</link>
+    <description>Recent content in Email Signup on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/email-signup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaser Page/Email Signup Collection</title>
+      <link>http://konigi.com/blog/teaser-pageemail-signup-collection/</link>
+      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/teaser-pageemail-signup-collection/</guid>
+      <description>Campaign Monitor has collected a few examples of attention getting email signup teaser pages. I also have a few I&amp;rsquo;ve collected in a flickr set over the last few years.
+http://www.campaignmonitor.com/blog/post/2717/teaser-page-design-inspiration/</description>
+    </item>
+    
+  </channel>
+</rss>

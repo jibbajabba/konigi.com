@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deliverables on Konigi</title>
+    <link>http://konigi.com/tags/deliverables/</link>
+    <description>Recent content in Deliverables on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/deliverables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When Sitemaps Don&#39;t Work: Two Alternatives</title>
+      <link>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</guid>
+      <description>Interesting discussion in M. Jackson Wilkinson&amp;rsquo;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&amp;rsquo;t work in your documentation. I have to agree with one point, in that site maps don&amp;rsquo;t always serve documentation well when the notion of a strict hierarchy just doesn&amp;rsquo;t exist. But I think there&amp;rsquo;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
+    </item>
+    
+    <item>
+      <title>User Centered Design Work Process Toolkit</title>
+      <link>http://konigi.com/blog/user-centered-design-work-process-toolkit/</link>
+      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-centered-design-work-process-toolkit/</guid>
+      <description>This is a nice diagram of the user centered design process and an overview of the methods and techniques which might be used. The HCI toolkit is managed by Bas Leurs for Rotterdam University of Applied Sciences.
+http://project.cmd.hro.nl/cmi/hci/toolkit/</description>
+    </item>
+    
+    <item>
+      <title>User Experience Deliverables</title>
+      <link>http://konigi.com/blog/user-experience-deliverables/</link>
+      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-experience-deliverables/</guid>
+      <description>Peter Morville and Jeffrey Callender have been compiling a list of UX deliverables and have summarized 20 of them succintly on the Semantic Studios site.
+This list describes twenty user experience deliverables with links to relevant resources and examples. Clearly, these artifacts of the process are not the whole story. We must also think about the relationship between goals, methods, and documents. And yet, for many of us, deliverables are the coin of the realm and merit special attention.</description>
+    </item>
+    
+    <item>
+      <title>The what, when and why of wireframes</title>
+      <link>http://konigi.com/blog/what-when-and-why-wireframes/</link>
+      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/what-when-and-why-wireframes/</guid>
+      <description>James Kelway&amp;rsquo;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
+http://userpathways.com/2008/06/26/the-what-when-and-why-of-wireframes/</description>
+    </item>
+    
+    <item>
+      <title>OmniGraffle UX Template Update</title>
+      <link>http://konigi.com/blog/omnigraffle-ux-template/</link>
+      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
+      <description>I&amp;rsquo;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&amp;rsquo;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
+    </item>
+    
+    <item>
+      <title>OmniGraffle Web Design Template Updated</title>
+      <link>http://konigi.com/blog/omnigraffle-web-design-template-updated/</link>
+      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/omnigraffle-web-design-template-updated/</guid>
+      <description>I updated the OmniGraffle Web Design Template.
+This web design template is for people who do wireframes and storyboards. The template was created for OmniGraffle Professional provides the basic layout for a design deliverable including the following master canvases: document title, section title, wireframe (portrait and landscape), storyboard, and blank. The wireframes were created at 950px wide with guides following the Blueprint CSS Grid system. Wireframes also have 2 small hairline marks around the 600px point to mark the approximate fold.</description>
+    </item>
+    
+  </channel>
+</rss>

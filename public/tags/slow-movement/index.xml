@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slow Movement on Konigi</title>
+    <link>http://konigi.com/tags/slow-movement/</link>
+    <description>Recent content in Slow Movement on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/slow-movement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pace</title>
+      <link>http://konigi.com/blog/pace/</link>
+      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/pace/</guid>
+      <description>Hannah Donovan&amp;rsquo;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
+    </item>
+    
+    <item>
+      <title>Going Slow</title>
+      <link>http://konigi.com/blog/going-slow/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/going-slow/</guid>
+      <description>The New York Times fashion section article, &amp;ldquo;Blogging at a Snail&amp;rsquo;s Pace&amp;rdquo; discusses slow blogging, a near Ludd-like movement against the practice of posting quick and in high volume. It&amp;rsquo;s like slow food versus fast food. Slow bloggers discard the belief that webloggers need to post often, because the reflectiveness of thought and quality of writing suffer. When comparing the slow versus fast differences, Barbara Ganley, a blogger who writes from Vermont had this to say.</description>
+    </item>
+    
+  </channel>
+</rss>

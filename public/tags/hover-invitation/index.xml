@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hover Invitation on Konigi</title>
+    <link>http://konigi.com/tags/hover-invitation/</link>
+    <description>Recent content in Hover Invitation on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/hover-invitation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flickr Edit In Place Fields</title>
+      <link>http://konigi.com/interfaces/flickr-edit-place-fields/</link>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/flickr-edit-place-fields/</guid>
+      <description>Flickr&#39;s edit in place behaviors make it easy to change data on records without requiring the round trip to a full page editor form. They provided one of the earliest examples of this behavior, using AJAX to quickly update fields in place, and has remained the model to emulate for some time.
+1. Flickr entry in user&#39;s photos page.2. Hovering over the title field highlights it with background color to provide a subtl alert the user that it can be edited.</description>
+    </item>
+    
+    <item>
+      <title>Daylife Favoriting</title>
+      <link>http://konigi.com/interfaces/daylife-favoriting/</link>
+      <pubDate>Wed, 20 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/daylife-favoriting/</guid>
+      <description>Daylife provides an excellent mechanism for favoriting. The news portal, which is published to demonstrate the company&#39;s news delivery product, provides a simple method for saving favorites that uses a star icon. The site classifies articles into topics which are simply terms describing a subject matter, person, or company/organization. Users see star icons when they hover over a link to a topic or a story. Starring the link adds the topic or story to their &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

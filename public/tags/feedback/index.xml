@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feedback on Konigi</title>
+    <link>http://konigi.com/tags/feedback/</link>
+    <description>Recent content in Feedback on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concept Feedback - Website Review Community</title>
+      <link>http://konigi.com/links/concept-feedback-website-review-community/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/concept-feedback-website-review-community/</guid>
+      <description>Concept Feedback is a website review community with over 5,000 web designers and developers, marketers and entrepreneurs. Once a website is posted on Concept Feedback, members are invited to provide reviews. On average, a concept receives 12 or more unique reviews, while some can generate as many as 100. Because of the nature of the community, feedback can cover a variety of topics, including design, usability, content and strategy. Concept Feedback is best for getting design-related feedback from a wide audience and can be used at all stages of development.</description>
+    </item>
+    
+    <item>
+      <title>Concept Feedback</title>
+      <link>http://konigi.com/links/concept-feedback/</link>
+      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/concept-feedback/</guid>
+      <description>Concept Feedback.com is a free community where designers and developers can exchange feedback on design projects. Registered users have the ability to post marketing concepts for free. Concepts may include, but are not limited to, websites, logos, newsletters, landing pages, advertisements and videos. Reviewers can offer constructive feedback on each concept using a proprietary feedback tool. Feedback is automatically collected and archived for the user to help improve the final concept and get better results.</description>
+    </item>
+    
+    <item>
+      <title>Last.fm Feedback</title>
+      <link>http://konigi.com/interfaces/last-fm-feedback/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/last-fm-feedback/</guid>
+      <description>The feedback and bug reporting interface that Last.fm is using during its beta for the redesigned site provides a simple way to report problems and tell the company what you like. During the beta, a temporary, persistent yellow navigation bar is placed at the top of the page with links to info about the beta program, notices for known issues, and an option to leave feedback. Clicking leave feedback expands the yellow bar to show feedback options.</description>
+    </item>
+    
+    <item>
+      <title>VIRB Feedback and Bug Reporting</title>
+      <link>http://konigi.com/interfaces/virb-feedback-and-bug-reporting/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/virb-feedback-and-bug-reporting/</guid>
+      <description>VIRB&#39;s bug reporting link in the page footer allows signed in users to report bugs or send other feedback quickly and simply. Clicking the &#34;Report a bug&#34; expands the footer to display feedback options.
+1. &amp;quot;Report a Bug&amp;quot; link in footer.2. Expanded bug reporting and suggestion interface form expands in the footer. http://virb.com/</description>
+    </item>
+    
+  </channel>
+</rss>

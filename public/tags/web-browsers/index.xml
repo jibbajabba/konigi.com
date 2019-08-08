@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Browsers on Konigi</title>
+    <link>http://konigi.com/tags/web-browsers/</link>
+    <description>Recent content in Web Browsers on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/web-browsers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RemoteIE: Remote Testing for Internet Explorer</title>
+      <link>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</guid>
+      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.
+https://remote.modern.ie/</description>
+    </item>
+    
+    <item>
+      <title>Fine Res Tool</title>
+      <link>http://konigi.com/links/fine-res-tool/</link>
+      <pubDate>Mon, 17 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/fine-res-tool/</guid>
+      <description>The folks at FINE Design created a browser-based tool for seeing how your web site measures up at different screen resolutions.
+To use it, simply enter a full URL of your choosing. Up pops that location superimposed with a draggable set of rulers (x and y axis) configurable in center/left/and right alignment. These rulers allow you to view that site as it would be seen at different resolutions. So you can get a sense for what other eyeballs experience.</description>
+    </item>
+    
+    <item>
+      <title>BrowserStack: Cross-Browser Testing Tool</title>
+      <link>http://konigi.com/links/browserstack-cross-browser-testing-tool/</link>
+      <pubDate>Fri, 30 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/browserstack-cross-browser-testing-tool/</guid>
+      <description>Browserstack allows you to stop relying on screenshot web apps or using multiple virtual machines to do your testing. The service gives you remote, web-based, VNC screen sharing using the web browser you choose, so you can test your web sites and apps in real time rather than relying on static screen comparisons.
+Enter a URL to test, and select a target browser in the version of your choosing and screen resolution.</description>
+    </item>
+    
+    <item>
+      <title>LiveView for iPhone &amp; iPad</title>
+      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
+      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
+      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
+    </item>
+    
+    <item>
+      <title>When can I use... HTML5, CSS3, etc.</title>
+      <link>http://konigi.com/links/when-can-i-use-html5-css3-etc/</link>
+      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-html5-css3-etc/</guid>
+      <description>Can I Use provides compatibility tables for features in HTML5, CSS3, SVG and other upcoming web technologies.
+http://caniuse.com/</description>
+    </item>
+    
+    <item>
+      <title>Google Browser Size</title>
+      <link>http://konigi.com/links/google-browser-size/</link>
+      <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/google-browser-size/</guid>
+      <description>Google Browser Size is a visualization of browser window sizes for web sites. Enter a URL into the app, and the page is displayed behind an overlay showing the percentage of browser users who are able to view the visible portion, based on their browser&amp;rsquo;s available viewport size, and their display&amp;rsquo;s screen resolution. For example, the &amp;quot;90%&amp;quot; contour means that 90% of people visiting the site have their browser window open to at least this size or larger.</description>
+    </item>
+    
+    <item>
+      <title>When can I use... (Browser Technology Compatibility Table)</title>
+      <link>http://konigi.com/links/when-can-i-use-browser-technology-compatibility-table/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/when-can-i-use-browser-technology-compatibility-table/</guid>
+      <description>When can I use is a browser compatibility table for features in HTML5, CSS3, SVG and other upcoming web technologies. Select the technologies/standards you want to implement and the browsers you want to test. Color coded tables show which browser versions will support what you&amp;rsquo;ve selected.
+http://a.deveria.com/caniuse/</description>
+    </item>
+    
+    <item>
+      <title>Internet Explorer Collection: Installs multiple IE versions on 1 PC</title>
+      <link>http://konigi.com/links/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</link>
+      <pubDate>Fri, 10 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/internet-explorer-collection-installs-multiple-ie-versions-1-pc/</guid>
+      <description>Internet Explorer Collection is an installer that allows you to install multiple versions of IE on 1 Windows instance. It includes the IE 1.0, 1.5, 2.01, 3.0, 4.01, 5.01, 5.5, 6.0, 7.0, and 8.0.
+http://utilu.com/IECollection/</description>
+    </item>
+    
+    <item>
+      <title>Layar: Mobile Augmented Reality browser</title>
+      <link>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</guid>
+      <description>Layar is an augmented reality application for Android phones which uses location information and the phones camera to show what is around the user by displaying real time digital information on top of reality. The video shows the browser being used to scan buildings and overlay real estate information to find out which houses are for sale.
+Screencast / Video http://layar.eu/</description>
+    </item>
+    
+    <item>
+      <title>Web Browser Templates (Photoshop)</title>
+      <link>http://konigi.com/links/web-browser-templates-photoshop/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/web-browser-templates-photoshop/</guid>
+      <description>An Adobe Photoshop .PSD template with Internet Explorer, Firefox for Mac, and Firefox for Windows browser chrome. Provides a layered PSD of browser windows at the following resolutions: 800×600 pixels, 1024×768 pixels, and 1280×1024 pixels.
+http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/</description>
+    </item>
+    
+    <item>
+      <title>IETester: Testing Multiple IE Versions</title>
+      <link>http://konigi.com/links/ietester-testing-multiple-ie-versions/</link>
+      <pubDate>Thu, 24 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/ietester-testing-multiple-ie-versions/</guid>
+      <description>IETester is a free WebBrowser that allows you to have the rendering and javascript engines of IE8 beta 1, IE7 IE 6 and IE5.5 on Vista and XP, as well as the installed IE in the same process. Thanks to Chad for the tip.
+http://www.my-debugbar.com/wiki/IETester/HomePage</description>
+    </item>
+    
+    <item>
+      <title>Inquisitor Search</title>
+      <link>http://konigi.com/interfaces/inquisitor-search/</link>
+      <pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/inquisitor-search/</guid>
+      <description>Inquisitor calls itself Spotlight for the web. The free search plugin is installed in Safari and provides better search results using Safari&#39;s built in search box. When a user enters text into the input, Inquisitor displays a drop down menu with results suggestions and search term auto-completion. The first section of the drop down shows matching results pages in Google, and in the second section shows auto-completion suggestions for other terms that match the entered text.</description>
+    </item>
+    
+    <item>
+      <title>GridFox - The Grid Layout Firefox Extension</title>
+      <link>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</link>
+      <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</guid>
+      <description>GridFox is a Firefox extension that overlays a grid on any website. If you can open it in Firefox, you can put a grid on top of it. It’s easy to customize, allowing you to create the exact grid you designed your layout around.
+Via DigitalWeb
+http://www.puidokas.com/portfolio/gridfox/</description>
+    </item>
+    
+    <item>
+      <title>Install multiple versions of IE on your PC</title>
+      <link>http://konigi.com/links/install-multiple-versions-ie-your-pc/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/install-multiple-versions-ie-your-pc/</guid>
+      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&amp;rsquo;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
+    </item>
+    
+    <item>
+      <title>Litmus: Test your email and website designs</title>
+      <link>http://konigi.com/links/litmus-test-your-email-and-website-designs/</link>
+      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/litmus-test-your-email-and-website-designs/</guid>
+      <description>Litmus provides testing of web sites and email messages across all browser and email platforms for a fee.
+http://litmusapp.com/</description>
+    </item>
+    
+  </channel>
+</rss>

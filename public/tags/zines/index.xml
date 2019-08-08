@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zines on Konigi</title>
+    <link>http://konigi.com/tags/zines/</link>
+    <description>Recent content in Zines on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2015 11:15:21 -0800</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/zines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sketch Zine</title>
+      <link>http://konigi.com/blog/sketch-zine/</link>
+      <pubDate>Tue, 17 Nov 2015 11:15:21 -0800</pubDate>
+      
+      <guid>http://konigi.com/blog/sketch-zine/</guid>
+      <description>This is a little zine I made from my Sketch talk.
+I&amp;rsquo;m putting these in the package when people buy a sketchbook. I&amp;rsquo;ll be sending one out soon to everyone who already purchased a book. Still working on setting up international shipping. :)
+
+A little zine has been something I&amp;rsquo;ve always wanted to make. This is a zine in the traditional, DIY photocopy sense. It&amp;rsquo;s not an art piece, as so many beautiful zines are these days.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Comparison Tables on Konigi</title>
+    <link>http://konigi.com/tags/product-comparison-tables/</link>
+    <description>Recent content in Product Comparison Tables on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/product-comparison-tables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research: Product Comparison and Pricing Tables</title>
+      <link>http://konigi.com/blog/research-product-comparison-and-pricing-tables/</link>
+      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/research-product-comparison-and-pricing-tables/</guid>
+      <description>Nick Finck talks about the design of Product Comparison Tables.
+http://www.nickfinck.com/blog/entry/research_product_comparison_and_pricing_tables/</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tabs on Konigi</title>
+    <link>http://konigi.com/tags/tabs/</link>
+    <description>Recent content in Tabs on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Nov 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/tabs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yahoo! Breadcrumb Tab</title>
+      <link>http://konigi.com/interfaces/yahoo-breadcrumb-tab/</link>
+      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/yahoo-breadcrumb-tab/</guid>
+      <description>Yahoo&#39;s hybrid tab/breadcrumb navigation is one of my favorite approaches to global and local navigation. This navigation interface answers a few nagging questions that an interface designer might ask. &#34;How do I present the user with an interface that provides focus on the area they&#39;ve navigated to, while providing a path back or to other main areas of interest?&#34;
+What&#39;s interesting here is that they provide a row of primary navigation tabs at the top level, and replace that with a hybrid tab/breadcrumb once the user makes the decision to drill down.</description>
+    </item>
+    
+    <item>
+      <title>VideoEgg Tabs</title>
+      <link>http://konigi.com/interfaces/videoegg-tabs/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/videoegg-tabs/</guid>
+      <description>The VideoEgg Advertising Network site uses vertical tabs along the right of the page with labels properly oriented in the north-south direction. While doing tabs this way requires that they be handled as images or Flash, the metaphor is recognizable and its use makes sense immediately. Local navigation is handled inside the banner area. 1. Vertical tabs along right side of page.2. Navigation detail. Local navigation seen in the large banner area to the left of the tabs.</description>
+    </item>
+    
+    <item>
+      <title>Panic Tabs and Carousel Panel</title>
+      <link>http://konigi.com/interfaces/panic-tabs-and-carousel-panel/</link>
+      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/panic-tabs-and-carousel-panel/</guid>
+      <description>Panic&#39;s product page for Coda provides a hybrid interface utilizing both tabs along the top of the information panel, and arrows on the sides to slide through all of the pages in a carousel.
+1. The product information panel in the full page.2. Clicking the next arrow slides to the next panel in the carousel.3. Clicking a tab further to the right, slides all panels off to the left until the target page is reached.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Unbox Video Player</title>
+      <link>http://konigi.com/interfaces/amazon-unbox-video-player/</link>
+      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/amazon-unbox-video-player/</guid>
+      <description>Unbox is Amazon.com&#39;s Movie and TV Show store, which offers downloadable videos that may be played on a user&#39;s PC, TiVo, or portable media player. The Unbox video player provides a &#34;Shop&#34; browser, a carousel of poster images for viewing top selling and renting movies and TV shows. Sadly, you have to make your purchase via the Amazon.com web site, and can&#39;t purchase directly from the player. You also cannot browse videos by genre in the player&#39;s Shop.</description>
+    </item>
+    
+    <item>
+      <title>Last.fm Tabs</title>
+      <link>http://konigi.com/interfaces/last-fm-tabs/</link>
+      <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/last-fm-tabs/</guid>
+      <description>In Last.fm&#39;s redesign, the site started combining vertical tabs along the left hand side of the content area, and horizontal tabs in the main content area for sub-navigation. This is not something I would recommend. There is something rather unnatural feeling to me when vertical tabs along a Y axis are laid out with text in the West-East orientation. I think for the metaphor to make sense, the South-North orientation has to be respected, as though you were stacking real manila folders.</description>
+    </item>
+    
+    <item>
+      <title>Last.fm Top Content Charts Module</title>
+      <link>http://konigi.com/interfaces/last-fm-top-content-charts-module/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/last-fm-top-content-charts-module/</guid>
+      <description>Last.fm&#39;s top artists and top songs content module appears on user profiles. The module shows a list of top content, with options in tabs to change time slice. The content module also provides options to modify settings and embed the content on an external blog or social network site.
+1. Default tab, showing last 7 days of top artists with Last.fm&#39;s signature bar chart for number of plays. 2. Last 6 months tab.</description>
+    </item>
+    
+    <item>
+      <title>SugarSync Uploading Files</title>
+      <link>http://konigi.com/interfaces/sugarsync-uploading-files/</link>
+      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/sugarsync-uploading-files/</guid>
+      <description>SugarSync&#39;s upload file behavior uses a customized interface that is not typical. Instead of using the browser behavior for handling file uploads using &amp;lt;input type=&#34;file&#34;&amp;gt;, which typically provides an input and browse button in Firefox and Internet Explorer, SugarSync uses a single button to invoke the file browsing window, and then displays the file&#39;s name in HTML. To be fair, Safari provides a slicker interface for file uploads, which doesn&#39;t display an input, but only a button, and then shows the file name next to the button when a file is found.</description>
+    </item>
+    
+    <item>
+      <title>Google Sites Theme Editor</title>
+      <link>http://konigi.com/interfaces/google-sites-theme-editor/</link>
+      <pubDate>Fri, 18 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/google-sites-theme-editor/</guid>
+      <description>Google released the technology acquired by JotSpot as the new Sites tool in the Google Apps suite. The Sites tools provides the interface you see here for modifying the appearance of your site, using pre-defined themes as a starting place, allowing you to modify the layout of content modules in the left column, and the colors used in the layout.
+1. Selecting a theme.2. Modifying page elements.3. Configuring a module.4. Setting colors.</description>
+    </item>
+    
+    <item>
+      <title>IHT Top Stories Module</title>
+      <link>http://konigi.com/interfaces/iht-top-stories-module/</link>
+      <pubDate>Wed, 12 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/iht-top-stories-module/</guid>
+      <description>The International Herald Tribune site has, in my opinion, been the site that set the bar for clean, minimalist newspaper web sites since John Weir worked on the design circa 2000/2001. The evolution of the site has continued to stick to Weir&#39;s minimalist visual style, although his innovative DHTML column and clipping behaviors are gone.
+The top stories content module is an interface element that is a common feature in news sites.</description>
+    </item>
+    
+    <item>
+      <title>Newsweek Top 10 Module</title>
+      <link>http://konigi.com/interfaces/newsweek-top-10-module/</link>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/newsweek-top-10-module/</guid>
+      <description>Newsweek uses Clearspring&#39;s Flash widgets to display top read and emailed stories as a content delivery module in a sidebar. This module is like most top story modules provided on news sites, e.g. NY Times, but the interesting features are the ability to adjust the range of stories by time (notice the nice slider control) and to embed the module as a widget. While this module is implemented as Flash, there is no reason it can&#39;t be done as XHTML and Javascript.</description>
+    </item>
+    
+    <item>
+      <title>AOL Music Desktop Video Widget</title>
+      <link>http://konigi.com/interfaces/aol-music-desktop-video-widget/</link>
+      <pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/aol-music-desktop-video-widget/</guid>
+      <description>AOL&#39;s Desktop Widget is standalone video player (Adobe AIR application) that runs on the user&#39;s computer. The video player allows users to browse and watch the top 100 AOL Music Videos without having to access their web site. The player provides typical functions including playlisting, favoriting, sending to friend, embedding.
+1. Video player on the left. On the right are mosaic of headshots to browse artists and search box.2. Playlist mode.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Konigi</title>
+    <link>http://konigi.com/categories/articles/</link>
+    <description>Recent content in Articles on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2019 12:13:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unmoderated Remote Usability Testing</title>
+      <link>http://konigi.com/articles/unmoderated-remote-usability-testing/</link>
+      <pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate>
+      
+      <guid>http://konigi.com/articles/unmoderated-remote-usability-testing/</guid>
+      <description>About Unmoderated Remote Usability Testing (URUT) is a technique for conducting usability testing where participants take test sessions alone and without the presence or interaction with a facilitator. Sessions are usually conducted with the aid of a remote testing software service.
+While moderated testing is preferred, URUT may be beneficial when budget or time constraints are an issue. Because URUT is conducted asynchronously, there are some disadvantages. For instance, when instructed, users may not employ the think aloud approach on their own without prompting, users cannot seek support including asking for clarification if tasks are not clear, and facilitators cannot ask follow up questions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Sticky Notes</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" href="https://unpkg.com/bulmaswatch/cosmo/bulmaswatch.min.css">  
+  <link href="/css/konigi.css?1564326890" type="text/css" rel="stylesheet" media="all">
+  <link href="https://fonts.googleapis.com/css?Open+Sans:400,400i,600,600i&display=swap" rel="stylesheet">
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+</head>
+<body class="tools">
+
+
+
+
+  <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
+    <div class="container">
+
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">KONIGI</a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu">
+        <div id="navbarGlobal" class="navbar-end">
+          <a class="navbar-item" href="/blog/">
+            Blog
+          </a>
+
+          <a class="navbar-item" href="/articles/">
+            Articles
+          </a>
+
+          <a class="navbar-item" href="/interfaces/">
+            Interfaces
+          </a>
+
+          <a class="navbar-item is-active" href="/tools/">
+            Tools
+          </a>
+
+          <a class="navbar-item" href="/links/">
+            Links
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </nav>
+
+
+
+<section class="hero ">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        CSS Sticky Notes
+      </h1>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section article">
+  <div class="container">
+
+    <div class="columns">
+      <div class="column is-four-fifths">
+        <article>
+          <section class="article-body"><p><article class="entry tools">
+  <p>This is another fun trick using :before and :after CSS pseudo-classes that I used when doing the <a href="http://balsamiq.com/products/mockups">this product page</a> on Balsamiq.com. We wanted to call out people&rsquo;s attention in a secondary call to action near the middle of the screen, so I ended up creating boxes that looked like sticky notes&#8212;really they&rsquo;re taped pieces of paper in my example&#8212;with highlighted text and links in them. Here&rsquo;s how I did it.</p>
+<p>The technique is simple. You add a .sticky class to a paragraph or any other block element. In the stylesheet you add an :after rule that positions a div above the paragraph and style it to look like a piece of tape. On the Balsamiq site, I used an image to create the tape effect shown in the first example below, but the second example shows how you could do it with CSS only. You can probably go a little further and gradients, but I want to keep things simple here. So let&rsquo;s take a look.</p>
+<p>
+<hr /></p>
+<h3>Using an image to create the tape</h3>
+<p>This uses an image for the tape.</p>
+<h4>Demo</h4>
+<p class="sticky taped" style="width: 250px;">
+  <strong>The Little Turtle</strong>.<br />
+  There was a little turtle.<br />
+  He lived in a box.<br />
+  He swam in a puddle.<br />
+  He climbed on the rocks.<br />
+&#8212;Vachel Lindsay
+</p>
+<h4>Code</h4>
+<p>Feel free to download the tape image if you want it, but don&rsquo;t reference the image url on my site in your CSS.</p>
+<pre><code>
+&lt;p class=&ldquo;sticky taped&rdquo; style=&ldquo;width: 250px;&rdquo;&gt;
+  &lt;strong&gt;The Little Turtle&lt;/strong&gt;.&lt;br /&gt;
+  There was a little turtle.&lt;br /&gt;
+  He lived in a box.&lt;br /&gt;
+  He swam in a puddle.&lt;br /&gt;
+  He climbed on the rocks.&lt;br /&gt;
+  &#8212;Vachel Lindsay
+&lt;/p&gt;</p>
+
+<p>.sticky {
+  -webkit-box-shadow: #DDD 0px 1px 2px;
+  position: relative;
+  background-color: #F4F39E;
+  border-color: #DEE184;
+  text-align: center;
+  margin: 2.5em 0px;
+  padding: 1.5em 1em;
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  font-family: Chalkboard, &lsquo;Comic Sans&rsquo;;
+}
+.sticky.taped:after {
+  display: block;
+  content: &ldquo;&rdquo;;
+  position: absolute;
+  width: 151px;
+  height: 35px;
+  top: -21px;
+  left: 25%;<br />
+  background: transparent url(tape.png) 0 0 no-repeat;
+}
+</code></pre><p>
+<br />
+<hr /></p>
+<h3>Using CSS to create the tape effect</h3>
+<p>This technique uses the same .sticky class, but the added .taped2:after CSS below to create the tape without an image.</p>
+<h4>Demo</h4>
+<p class="sticky taped2" style="width: 250px;">
+  <strong>The Little Turtle</strong>.<br />
+  There was a little turtle.<br />
+He lived in a box.<br />
+He swam in a puddle.<br />
+He climbed on the rocks.<br />
+&#8212;Vachel Lindsay
+</p>
+<h4>Code</h4>
+<pre><code>
+&lt;p class=&ldquo;sticky taped2&rdquo; style=&ldquo;width: 250px;&rdquo;&gt;
+  &lt;strong&gt;The Little Turtle&lt;/strong&gt;.&lt;br /&gt;
+  There was a little turtle.&lt;br /&gt;
+  He lived in a box.&lt;br /&gt;
+  He swam in a puddle.&lt;br /&gt;
+  He climbed on the rocks.&lt;br /&gt;
+  &#8212;Vachel Lindsay
+&lt;/p&gt;</p>
+
+<p>.sticky.taped2:after {
+  display: block;
+  content: &ldquo;&rdquo;;
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  top: -21px;
+  left: 30%;<br />
+  border: 1px solid #fff;
+  background: rgba(254, 254, 254, .6);
+  -webkit-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  box-shadow: 0px 0 3px rgba(0,0,0,0.1);<br />
+}
+</code></pre><p>
+</p>
+<style type="text/css">
+.sticky {
+  -webkit-box-shadow: #DDD 0px 1px 2px;
+  position: relative;
+  background-color: #F4F39E;
+  border-color: #DEE184;
+  text-align: center;
+  margin: 2.5em 0px;
+  padding: 1.5em 1em;
+  -webkit-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  font-family: Chalkboard, &lsquo;Comic Sans&rsquo;;
+}
+.sticky.taped:after {
+  display: block;
+  content: &ldquo;&rdquo;;
+  position: absolute;
+  width: 151px;
+  height: 35px;
+  top: -21px;
+  left: 25%;<br />
+  background: transparent url(&ldquo;<a href="http://media.konigi.com/tools/extras/tape.png&quot;">http://media.konigi.com/tools/extras/tape.png&quot;</a>) 0 0 no-repeat;
+}
+.sticky.taped2:after {
+  display: block;
+  content: &ldquo;&rdquo;;
+  position: absolute;
+  width: 110px;
+  height: 30px;
+  top: -21px;
+  left: 30%;<br />
+  border: 1px solid #fff;
+  background: rgba(254, 254, 254, .6);
+  -webkit-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 0 3px rgba(0,0,0,0.1);
+  box-shadow: 0px 0 3px rgba(0,0,0,0.1);<br />
+}
+</style></article><!-- /.entry-container  --></p>
+</section>
+          <section class="metadata single bottom">
+            <div class="pub-date">Published on Saturday, Oct 30, 2010 in <a href="/tools" class="capitalize">tools</a></div>
+            <ul class="tags">
+            
+            </ul>
+          </section>
+        </article>
+      </div>
+      <div class="column is-one-fifth">
+        <div class="ad-primary">
+  <h4>SPONSORED</h4>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-9039997918100594"
+       data-ad-slot="4844889580"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  <div class="caption">
+    <p>Click this ad to help me with hosting:</p>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p class="top"><a href="#gnav"><i class="ss-icon">&#x25B4;</i></a></p>
+    <p><a href="/">Konigi</a> is published by <a href="http://michaelangeles.com">Michael Angeles</a> <a href="/contact">(contact)</a>. Screenshots &copy; their respective owners.</p>
+  </div>
+</footer>
+
+<amp-ad width="100vw" height=320
+     type="adsense"
+     data-ad-client="ca-pub-9039997918100594"
+     data-ad-slot="4844889580"
+     data-auto-format="rspv"
+     data-full-width>
+  <div overflow></div>
+</amp-ad>
+<script src="/js/konigi.js?1564326890"></script>
+</body>
+</html>
+

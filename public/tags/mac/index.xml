@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on Konigi</title>
+    <link>http://konigi.com/tags/mac/</link>
+    <description>Recent content in Mac on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Nov 2015 10:18:14 -0800</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aspect Ratio Calculators</title>
+      <link>http://konigi.com/links/aspect-ratio-calculators/</link>
+      <pubDate>Tue, 17 Nov 2015 10:18:14 -0800</pubDate>
+      
+      <guid>http://konigi.com/links/aspect-ratio-calculators/</guid>
+      <description>In my Skillshare course there&amp;rsquo;s a brief moment where I show a ratio calculator that I use for doing things like figuring out dimensions of containers while designing.
+The idea is simple. You have a ratio like 16:9, 4:3, 9:6, etc. and want to see how to scale another object with that ratio using a fixed dimension, e.g. you know the width.
+Here are a few that I like:
+Aspect Ratio Calculator, a free web calculator by Andrew Hedges that I&amp;rsquo;ve used for years.</description>
+    </item>
+    
+    <item>
+      <title>GluePrint: Floating guides for your mockups</title>
+      <link>http://konigi.com/links/glueprint-floating-guides-your-mockups/</link>
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/glueprint-floating-guides-your-mockups/</guid>
+      <description>I like the simple idea behind GluePrint. Drop your mockup or visual design comp onto the app and it provides a semi-opaque window of the design. I can see it being useful for overlaying on top of your browser, like an onionskin, while you&amp;rsquo;re working on front end implementation. And even in other reverse scenarios, like for creating new designs based on an existing version of your product.
+http://glueprintapp.com/</description>
+    </item>
+    
+    <item>
+      <title>Alfred/Hazel Workflow for Screen Capture</title>
+      <link>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</link>
+      <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/alfredhazel-workflow-screen-capture/</guid>
+      <description>If you take a lot of screenshots on a Mac like me, you probably have a good workflow for doing it using something like LittleSnapper/Ember, Awesome Screenshot or Skitch. The biggest problem I&#39;ve had is that after I take a screenshot, I often want to do something with it. I can do this by just getting Cloud to watch and upload files passively, but I&#39;ve always wanted to save to my own server after just issuing one command to capture the page.</description>
+    </item>
+    
+    <item>
+      <title>Mac OS X and iOS Icon Templates from Cohdoo</title>
+      <link>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</guid>
+      <description>Cohdoo have created downloadable iOS and OS X icon templates for Photoshop that lay out all the different sizes of assets for a given platform and state where they were to be used.
+Download the PSD templates here.
+http://blog.cohdoo.com/post/9293679992/icon-grids</description>
+    </item>
+    
+    <item>
+      <title>Typinator: Automatic text software</title>
+      <link>http://konigi.com/links/typinator-automatic-text-software/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/typinator-automatic-text-software/</guid>
+      <description>Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using Typinator, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.
+Years ago, pre-OS X, used something called TypeIt4Me to handle this and am stoked to have this kind of a tool back in my aresenal.</description>
+    </item>
+    
+    <item>
+      <title>ImageOptim: PNG/JPEG/GIF optimizer for Mac OS X</title>
+      <link>http://konigi.com/links/imageoptim-pngjpeggif-optimizer-mac-os-x/</link>
+      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/imageoptim-pngjpeggif-optimizer-mac-os-x/</guid>
+      <description>ImageOptim is a free Macintosh application that optimizes images so they take up less disk space and load faster. It finds the best compression parameters and by removing unnecessary comments and color profiles. It handles PNG, JPEG and GIF animations.
+Via @chrismessina
+http://imageoptim.pornel.net/</description>
+    </item>
+    
+    <item>
+      <title>Realizations of Rounded Rectangles</title>
+      <link>http://konigi.com/blog/realizations-rounded-rectangles/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/realizations-rounded-rectangles/</guid>
+      <description>Plasq designer, Keith Lang, recounts the story from computer folklore of how the rounded rectangle came to dominate the Mac OS, and discusses its effect on visual cognition. He gets Professor Jürg Nänni, author of Visual Perception to offer his opinion.
+A rectangle with sharp edges takes indeed a little bit more cognitive visible effort than for example an ellipse of the same size. Our “fovea-eye” is even faster in recording a circle.</description>
+    </item>
+    
+    <item>
+      <title>Silverback Usability Testing Software</title>
+      <link>http://konigi.com/links/silverback-usability-testing-software/</link>
+      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/silverback-usability-testing-software/</guid>
+      <description>Silverback is a simple to use usability testing application that allows you to capture screen activity, record audio and video of the participant’s voice, add chapter markers on the fly, control recording with the remote, and export to Quicktime.
+http://silverbackapp.com</description>
+    </item>
+    
+    <item>
+      <title>xSort: Free card sorting application for Mac OS</title>
+      <link>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</link>
+      <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</guid>
+      <description>xSort is a card sorting application for researchers and information architects that want to get a better idea of their users&amp;rsquo; mental models for any given application or task. The software is free and works on Mac OS X.
+http://www.xsortapp.com/</description>
+    </item>
+    
+    <item>
+      <title>Mac Tip: Mounting a Server Automatically</title>
+      <link>http://konigi.com/blog/mac-tip-mounting-server-automatically/</link>
+      <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mac-tip-mounting-server-automatically/</guid>
+      <description>One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.</description>
+    </item>
+    
+    <item>
+      <title>scribbles, incredibly simple drawing app for Mac</title>
+      <link>http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/</link>
+      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/</guid>
+      <description>Scribbles is perhaps the simplest drawing program I&amp;rsquo;ve ever tried. The app, created by atebits, gives you 4 tools: brush, move, pan, and zoom. There are 12 brush styles, a color picker, a big slider for brush size, and a layer manager. It looks deceptively simple on the surface, but when you explore a bit, you&amp;rsquo;ll find some really interesting functionalities that even the advanced Mac freehand drawing tools like Sketchbook and ArtRage don&amp;rsquo;t do well.</description>
+    </item>
+    
+    <item>
+      <title>Silverback: Usability Testing Software for the Mac</title>
+      <link>http://konigi.com/blog/silverback-usability-testing-software-mac/</link>
+      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/silverback-usability-testing-software-mac/</guid>
+      <description>Silverback launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won&amp;rsquo;t have to ever touch another Windows box if you don&amp;rsquo;t want to. (I&amp;rsquo;m kidding. I&amp;rsquo;m sure you will at some point in your life.)
+Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won&amp;rsquo;t find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</description>
+    </item>
+    
+    <item>
+      <title>Apple Dashcode</title>
+      <link>http://konigi.com/blog/apple-dashcode/</link>
+      <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/apple-dashcode/</guid>
+      <description>Apple&#39;s Dashcode widget builder provides a nice library interface for viewing the parts you can include in your widget, and a code library to view snippets.
+http://developer.apple.com/tools/dashcode/</description>
+    </item>
+    
+  </channel>
+</rss>

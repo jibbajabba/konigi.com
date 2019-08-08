@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auto Completion on Konigi</title>
+    <link>http://konigi.com/tags/auto-completion/</link>
+    <description>Recent content in Auto Completion on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Feb 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/auto-completion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gmail Move and Label Menus</title>
+      <link>http://konigi.com/interfaces/gmail-move-and-label-menus/</link>
+      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/gmail-move-and-label-menus/</guid>
+      <description>Google modified the labeling (tagging) menus in Gmail to add a Move option to co-exist with the prior Label drop down menu. The Move menu allows the user to move an email to a single label and then archives it, removing it from the Inbox. The Label menu allows the user to add multiple labels to the email, but does not archive it. Both menus offer a label search input with auto-completion, as well as options to create new or manage existing labels.</description>
+    </item>
+    
+    <item>
+      <title>Netflix Quick Add</title>
+      <link>http://konigi.com/interfaces/netflix-quick-add/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/netflix-quick-add/</guid>
+      <description>The video queue on Netflix offers a &#34;Quick Add&#34; functionality at the bottom of the queue that lets users search for a particular title and add it to their queue without having to view the video page. It&#39;s a single input with an auto-completion behavior to suggest videos based on what you type. Clicking a title from the suggestion list or hitting return on an exact match adds the video and shows a confirmation.</description>
+    </item>
+    
+    <item>
+      <title>Domainr</title>
+      <link>http://konigi.com/interfaces/domainr/</link>
+      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/domainr/</guid>
+      <description>Domai.nr is a simple single serving site that lets you find a domain using all the top level domain extensions to complete your name.
+1. The search form.2. Enter a word and view suggestions.3. Green boxes indicate available domains. Click one to purchase. http://domai.nr/</description>
+    </item>
+    
+    <item>
+      <title>Delicious Tag Filtering</title>
+      <link>http://konigi.com/interfaces/delicious-tag-filtering/</link>
+      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/delicious-tag-filtering/</guid>
+      <description>del.icio.us&#39; tag filtering provides an excellent interface design for filtering tags without having to scan your tag list or tag bundles, which can turn out quite long over time. In a control area that looks and behaves like a hybrid breadcrumb trail, you enter a tag into an input. Tag suggestions are provided as you type. Build up that filter by adding tags, and each tag in your crumb path can be removed independent of the path you took by clicking the tag&#39;s adjacent X icon.</description>
+    </item>
+    
+    <item>
+      <title>The Filter Embedding Media in Comments</title>
+      <link>http://konigi.com/interfaces/filter-embedding-media-comments/</link>
+      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/filter-embedding-media-comments/</guid>
+      <description>The Wall feature of user profiles in The Filter allows users to create entries with recommendations as embedded content. Users enter their comment and search for anything from an artist to a track to find content to recommend. The selected content is embedded in the comment to be played in the media player.
+The interface is similar to those provided in the MTV recommendations app on Facebook and the Video embedding control in Gawker Media comments.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Form Auto-completion</title>
+      <link>http://konigi.com/interfaces/facebook-form-auto-completion/</link>
+      <pubDate>Thu, 22 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/facebook-form-auto-completion/</guid>
+      <description>Facebook&#39;s address auto-completion in the compose message form is one of the best examples of auto-completion behavior in a form. The interaction very closely mimics what you would expect to happen in the To field of email applications like Apple Mail and Outlook.
+1. Cursor is in the To: field. Contextual help displayed below input.2. Typing characters in the input invokes person/recipient auto-completion suggestions. 3. Selecting a person from auto-completion suggestions, entering a comma, or clicking enter displays the selected recipient in a block.</description>
+    </item>
+    
+    <item>
+      <title>Last.fm Tagging</title>
+      <link>http://konigi.com/interfaces/last-fm-tagging/</link>
+      <pubDate>Thu, 22 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/last-fm-tagging/</guid>
+      <description>Last.fm provides a simple interface for tagging artists or tracks that mimics the email address entry design pattern provided in applications like Apple Mail and Facebook Messaging. Their redesign (beta site accessed May 2008) cleans up their tagging interface by providing auto-completion, and the ability delete tags by clicking the item in the input.
+1. Clicking the More menu displays the Add Tags link. Presumably, there will be more than just an add tags item in the future, otherwise Add Tags should simple be visible without this extra link.</description>
+    </item>
+    
+    <item>
+      <title>Inquisitor Search</title>
+      <link>http://konigi.com/interfaces/inquisitor-search/</link>
+      <pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/inquisitor-search/</guid>
+      <description>Inquisitor calls itself Spotlight for the web. The free search plugin is installed in Safari and provides better search results using Safari&#39;s built in search box. When a user enters text into the input, Inquisitor displays a drop down menu with results suggestions and search term auto-completion. The first section of the drop down shows matching results pages in Google, and in the second section shows auto-completion suggestions for other terms that match the entered text.</description>
+    </item>
+    
+    <item>
+      <title>Apple Site Search</title>
+      <link>http://konigi.com/interfaces/apple-site-search/</link>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/apple-site-search/</guid>
+      <description>Apple provides an excellent site search design, which includes an AJAX auto-completion drop down menu showing categorized matches against your query, and thumbnail images of matching items. The categories carry over in the search results page, which displays your results in collapsible sets, much as you would see with the Mac OS Spotlight search. Some result sets are even rendered as a carousel (look at iTunes results).
+1. Auto-completion drop down shown for query on &amp;quot;iph.</description>
+    </item>
+    
+  </channel>
+</rss>

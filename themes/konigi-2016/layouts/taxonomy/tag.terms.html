@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+{{ partial "body_top.html" . }}
+
+<h2 class="post-title">Tags</h2>
+
+<ul class="tags">
+{{ $data := .Data }}
+{{ range $key, $value := .Data.Terms.Alphabetical }}
+  <li><a href="/tags/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</li>
+{{ end }}
+</ul>
+
+<style>
+  .tags {
+    text-align: left;
+    -webkit-column-count:3;
+    -moz-column-count:3;
+    -ms-column-count:3;
+    -o-column-count:3;
+    column-count:3;
+    -webkit-column-gap:15px;
+    -moz-column-gap:15px;
+    -ms-column-gap:15px;
+    -o-column-gap:15px;
+    column-gap:15px;
+    columns:3;
+  }
+  ul.tags > li {
+    font-size: 16px;
+    color: #999;
+    margin: 0 5px 5px 0;
+    display: inline-block;
+    width: 100%;
+    float: none;
+  }
+  ul.tags > li:first-child {
+    display: none;
+  }
+</style>
+
+{{ partial "body_bottom.html" . }}
+{{ partial "footer.html" . }}

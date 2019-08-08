@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Experiments in Password Masking</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="/css/konigi.css?1565232154" type="text/css" rel="stylesheet" media="all">
+  <link href="https://fonts.googleapis.com/css?Open+Sans:400,400i,600,600i&display=swap" rel="stylesheet">
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+  <link rel="alternate" type="application/rss+xml" title="Konigi RSS Feed" href="http://konigi.com/index.xml" />
+</head>
+<body class="blog">
+
+
+
+
+  <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
+    <div class="container">
+
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">KONIGI</a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu" id="navMenu">
+        <div id="navbarGlobal" class="navbar-end">
+          <a class="navbar-item is-active" href="/blog/">
+            Blog
+          </a>
+
+          <a class="navbar-item" href="/art/">
+            Art
+          </a>
+
+          <a class="navbar-item" href="/articles/">
+            Articles
+          </a>
+
+          <a class="navbar-item" href="/interfaces/">
+            Interfaces
+          </a>
+
+          <a class="navbar-item" href="/links/">
+            Links
+          </a>
+
+          <a class="navbar-item" href="/music/">
+            Music
+          </a>
+
+          <a class="navbar-item" href="/sunchasing/">
+            Sunchasing
+          </a>
+
+          <a class="navbar-item" href="/tools/">
+            Tools
+          </a>
+
+        </div>
+      </div>
+
+    </div>
+  </nav>
+
+
+
+<section class="hero ">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Experiments in Password Masking
+      </h1>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section article">
+  <div class="container">
+
+    <div class="columns">
+      <div class="column is-four-fifths">
+        <article>
+          <section class="article-body content"><p><div class="notebook-screenshot"><a href="http://lab.arc90.com/2009/07/halfmask.php"><img src="http://media.konigi.com/notebook/halfmask.jpg" class="notebook-image" /></a></div><p>Jakob Nielsen recently <a href="http://www.useit.com/alertbox/passwords.html">called for an end to</a> password masking, and a few people have come up with interesting approaches that try to find a middle ground between the typical prractice of masking passwords with asterisks. </p>
+<p>arc90 are <a href="http://lab.arc90.com/2009/07/halfmask.php">experimenting with a half-masking technique</a>. The method partially obscures the password by placing a few blurred characters in the background so that the characters are not easily read by someone looking over the user&rsquo;s shoulder. This seems like an interesting idea. The problem for me is that I can&rsquo;t say that the characters are easily read by me either. Can you make out the password in the screenshot above? It&rsquo;s hard to, I would argue. But, I&rsquo;m one of those people who has trouble with the more twisted captchas or those with too much background noise. My eyesight is not bad, mind you, I just interpret some of the characters more creatively I guess. </p>
+<p>Another interesting idea uses a behavior that is typical in mobile phones, which masks the typed character after it is displayed briefly in the input for a specified time, or after the user enters a subsequent character. This is a terrific behavior in phones because the character is completely visible to the user. I guess it could argued that it could still be read over the user&rsquo;s shoulder, however. You can try that solution in the <a href="http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/">iPhone-like passwords using jquery</a> post on the Decaf blog.</p>
+<p>Both are interesting solutions to a problem that might be a minor nuisance to some users (although I would argue that captcha is a much bigger one to me). But my opinion is that simply having a toggle to hide/show the password clearly might be an even simpler approach. For users in public places, the input might be masked, but when they&rsquo;re alone they can keep it in the clear.</p>
+<p>UPDATE: Chris Dary also pointed to his <a href="http://lab.arc90.com/2009/07/hashmask.php">HashMask</a> experiment at arc90, which we discuss below.</p></p>
+
+<p><a href="http://lab.arc90.com/2009/07/halfmask.php">http://lab.arc90.com/2009/07/halfmask.php</a></p>
+</section>
+          <section class="metadata single bottom">
+            <div class="pub-date">Published on Monday, Jul 13, 2009 in <a href="/blog" class="capitalize">blog</a></div>
+            <ul class="tags">
+            
+              <li>
+                <a href="/tags/interface">interface</a>
+              </li>
+            
+              <li>
+                <a href="/tags/masking">masking</a>
+              </li>
+            
+              <li>
+                <a href="/tags/passwords">passwords</a>
+              </li>
+            
+            </ul>
+          </section>
+        </article>
+      </div>
+      <div class="column is-one-fifth">
+        <div class="ad-primary">
+  <div class="content">
+    <h5>Visit gifmuse</h5>
+    <a href="http://gifmuse.io"><img src="//media.konigi.com/notebook/gifuse_io.jpg" alt="gifmuse.io"/></a>
+    <hr/>
+    <h5>Say Hello</h5>
+    <p><a href="/guestbook/">Sign my guestbook</a> and share a random, weird or inspirational message or whatever is on your mind.</p>
+    <hr/>
+    <h5>Blogroll</h5>
+    <ul class="unstyled">
+      <li><a href="https://alistapart.com/">A List Apart</a></li>
+      <li><a href="https://www.carryology.com/">Carryology</a></li>
+      <li><a href="https://www.designernews.co/">Designer News</a></li>
+      <li><a href="https://ello.co/">ello</a></li>
+      <li><a href="https://kottke.org/">Kottke</a></li>
+      <li><a href="https://m.signalvnoise.com/">SvN</a></li>
+      <li><a href="http://bm.straightline.jp/">straightline</a></li>
+      <li><a href="https://www.swiss-miss.com/">Swiss Miss</a></li>
+    </ul>
+  </div>
+</div>
+
+      </div>
+    </div>
+
+    
+    
+    
+      <hr>
+      <div class="pagination">
+        
+          <a href="http://konigi.com/blog/content-templates-rescue/" title="Content Templates to the Rescue">
+          &lt; Content Templates to the Rescue
+          </a>
+        
+
+        
+          <a href="http://konigi.com/blog/dynamic-prototyping-book-site/" title="Dynamic Prototyping Book Site ">
+          Dynamic Prototyping Book Site &gt;
+          </a>
+        
+
+    	</div>
+    
+
+  </div>
+</section>
+
+
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p><a href="/">Konigi</a> is published by Michael Angeles. Find out more <a href="/about/">about this site</a> or <a href="/contact/">contact me</a>. Screenshots &copy; their respective owners.</p>
+    </div>
+  </div>
+</footer>
+
+<amp-ad width="100vw" height=320
+     type="adsense"
+     data-ad-client="ca-pub-9039997918100594"
+     data-ad-slot="4844889580"
+     data-auto-format="rspv"
+     data-full-width>
+  <div overflow></div>
+</amp-ad>
+<script src="/js/konigi.js?1565232154"></script>
+</body>
+</html>
+

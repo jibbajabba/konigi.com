@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Konigi</title>
+    <link>http://konigi.com/tags/java/</link>
+    <description>Recent content in Java on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Nov 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Napkin Look &amp; Feel</title>
+      <link>http://konigi.com/blog/napkin-look-feel/</link>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/napkin-look-feel/</guid>
+      <description>Napkin Look and Feel is a cool looking open source tool for Java developers to produce application prototypes with a low-fidelity sketchy interface.
+The idea is to try to develop a look and feel that can be used in Java applications that looks informal and provisional, yet be fully functional for development. Often when people see a GUI mock-up, or a complete GUI without full functionality, they assume that the code behind it is working.</description>
+    </item>
+    
+  </channel>
+</rss>

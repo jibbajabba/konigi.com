@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Devices on Konigi</title>
+    <link>http://konigi.com/tags/mobile-devices/</link>
+    <description>Recent content in Mobile Devices on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2015 10:31:39 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/mobile-devices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Principle for Mac: Animation and Prototyping</title>
+      <link>http://konigi.com/links/principle-mac/</link>
+      <pubDate>Fri, 28 Aug 2015 10:31:39 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/principle-mac/</guid>
+      <description>Principle for Mac ($99) is a tool for designing animation, primarily for mobile devices. It provides an easy to use interface for prototyping interaction, transitions, or other animated elements in your interface.
+You can design with text, rectangles (which can modified with border radius to make circles), or graphics created with other tools, and then hook up animations for actions like taps, scrolling, and drag, and use the drivers UI to connect those actions to drive other properties.</description>
+    </item>
+    
+    <item>
+      <title>PAPERPROTO</title>
+      <link>http://konigi.com/links/paperproto/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/paperproto/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://paperproto.com/&#34;&gt;PAPERPROTO&lt;/a&gt; is a 3D printable model to use for paper prototyping mobile applications, in the style of a &lt;a href=&#34;http://lifestyle.howstuffworks.com/crafts/seasonal/winter/theatre-activities-for-kids7.htm&#34; target=&#34;_blank&#34;&gt;story scroll&lt;/a&gt;. You can download the file or buy the model for printing on demand directly from Shapeways.&lt;/p&gt;
+
+&lt;p&gt;Via &lt;a href=&#34;http://zekefranco.com/&#34;&gt;Zeke Franco&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinterest Mobile Radial Menus</title>
+      <link>http://konigi.com/interfaces/pinterest-mobile-radial-menus/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/pinterest-mobile-radial-menus/</guid>
+      <description>Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.
+Screencast / Video http://www.pinterest.com/</description>
+    </item>
+    
+    <item>
+      <title>Tumblr Fave Animation</title>
+      <link>http://konigi.com/interfaces/tumblr-fave-animation/</link>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/tumblr-fave-animation/</guid>
+      <description>This is a small animation of the heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.
+Screencast / Video
+https://www.tumblr.com/</description>
+    </item>
+    
+    <item>
+      <title>Cloudwash: Washing machine prototype by Berg</title>
+      <link>http://konigi.com/blog/cloudwash-washing-machine-prototype-berg/</link>
+      <pubDate>Fri, 28 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/cloudwash-washing-machine-prototype-berg/</guid>
+      <description>I love Berg&amp;rsquo;s demo of their Cloudwash smart washing machine concept. The company created the prototype to demonstrate how a smart networked appliance might be better designed. The video provides an excellent walkthrough of their design process.
+They simplify the face, which consisted of many controls for dedicated functions, reducing that to &amp;ldquo;high value functions&amp;rdquo; only. More functionality is accessible via a smart phone app, which also integrates the device with services such as warranty and supplies management and purchasing.</description>
+    </item>
+    
+    <item>
+      <title>Origami: Design prototyping with Quartz Composer</title>
+      <link>http://konigi.com/links/origami-design-prototyping-quartz-composer/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/origami-design-prototyping-quartz-composer/</guid>
+      <description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that&amp;rsquo;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&amp;rsquo;s UI allows you connect patches with wires (or tubes, if you&amp;rsquo;re familiar with that metaphor) to perform tasks or set behaviors and properties.
+Jay Thrash&amp;rsquo;s video explains how to use it.</description>
+    </item>
+    
+    <item>
+      <title>Precomposed Touch Gestures</title>
+      <link>http://konigi.com/links/precomposed-touch-gestures/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/precomposed-touch-gestures/</guid>
+      <description>Aureus Wade&amp;rsquo;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.
+http://areuswade.com/precomposed-touch-gestures/</description>
+    </item>
+    
+    <item>
+      <title>Tapotype Transition Library</title>
+      <link>http://konigi.com/links/tapotype-transition-library/</link>
+      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/tapotype-transition-library/</guid>
+      <description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
+http://tapotype.com/</description>
+    </item>
+    
+    <item>
+      <title>Buxton Collection</title>
+      <link>http://konigi.com/links/buxton-collection/</link>
+      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/buxton-collection/</guid>
+      <description>Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.
+The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata.</description>
+    </item>
+    
+    <item>
+      <title>Adobe Shadow Mobile Device Testing</title>
+      <link>http://konigi.com/links/adobe-shadow-mobile-device-testing/</link>
+      <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/adobe-shadow-mobile-device-testing/</guid>
+      <description>Adobe Labs&#39; Shadow is an application for Mac and Windows that allows you to preview and inspect your mobile website on iOS and Android devices.
+After installing the software on your computer and any number of mobile devices, you can connect and pair them and all devices will be kept in sync with the web site you&#39;re previewing on your computer. This should help perform remote inspection and debugging so you can see HTML/CSS/JavaScript changes instantly on your devices.</description>
+    </item>
+    
+    <item>
+      <title>Mr. Tappy: Video rig for tablets and mobile devices</title>
+      <link>http://konigi.com/links/mr-tappy-video-rig-tablets-and-mobile-devices/</link>
+      <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/mr-tappy-video-rig-tablets-and-mobile-devices/</guid>
+      <description>Mr Tappy is a kit for filming mobile phones, tablet computers and handheld devices from the user&amp;rsquo;s point of view. Looks like a great alternative to setting up your own DIY rig, and costs $289.
+Originally designed by Nick Bowmast as a filming rig for iPad usability testing, Mr Tappy lets you capture or share user interaction with mobile devices during user experience research, product demonstrations or classroom presentations. Attach your webcam and any type of mobile device, set the camera height and angle, and record.</description>
+    </item>
+    
+    <item>
+      <title>Mobile Design Pattern Gallery</title>
+      <link>http://konigi.com/blog/mobile-design-pattern-gallery/</link>
+      <pubDate>Thu, 17 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobile-design-pattern-gallery/</guid>
+      <description>Theresa Neil&amp;rsquo;s forthcoming book, Mobile Design Pattern Gallery, is set to be released by O&amp;rsquo;Reilly in the Fall of 2011.
+Theresa launched a site to go along with the book that includes a fantastic gallery of 70 user interface design patterns for mobile devices with 400+ supporting examples from iOS, Android, BlackBerry, WebOS, Windows Mobile, and Symbian applications. The gallery covers a broad range of problems from designing your application&#39;s navigation to choosing the right invitation technique.</description>
+    </item>
+    
+    <item>
+      <title>Project Rimino, The Future of Mobile Experience</title>
+      <link>http://konigi.com/blog/project-rimino-future-mobile-experience/</link>
+      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/project-rimino-future-mobile-experience/</guid>
+      <description>Project Rimino is an interaction design project proposing a hypothetical e-paper mobile device. The project was created by Amid Moradganjeh, an interaction design student from Umea Institute of Design in Sweden, for his masters degree project on mobile experience design. The design is based on both observational and experimental design research methods. Watch the video below for the concept.
+
+Some of the ideas are pretty exciting. I particularly like the emphasis on everyday tasks, utilizing the materials of the device to create minimal, task-focussed interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Read &amp;amp;quot;Mobile Design &amp; Development&amp;amp;quot; free online</title>
+      <link>http://konigi.com/blog/read-mobile-design-development-free-online/</link>
+      <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/read-mobile-design-development-free-online/</guid>
+      <description>Brian Fling&amp;rsquo;s book, Mobile Design &amp;amp; Development, published by O&amp;rsquo;Reilly in 2009, is available to read in its entirety online. Fling says he says 75-80% of the content of the book (which is some 68,000 words) is up to date and extremely relevant as of March 2011.
+More from the author:
+I wrote this book to have something for everyone interested in designing in developing for mobile devices, regardless of experience and regardless of the application.</description>
+    </item>
+    
+    <item>
+      <title>Word Lens: Translation using Augmented Reality</title>
+      <link>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</link>
+      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid>
+      <description>This is one of the most practical uses of augmented reality I&amp;rsquo;ve seen. Word Lens translates text you capture from an iPhone&amp;rsquo;s camera to another language. I think it&amp;rsquo;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&amp;rsquo;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
+    </item>
+    
+    <item>
+      <title>MOObileFrames</title>
+      <link>http://konigi.com/blog/moobileframes/</link>
+      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/moobileframes/</guid>
+      <description>MOObileFrames is a collection of mobile sketches and wireframes curated by Hannah Milan.
+http://moobileframes.tumblr.com/page/1</description>
+    </item>
+    
+    <item>
+      <title>Mobile Usability Testing Tips</title>
+      <link>http://konigi.com/blog/mobile-usability-testing-tips/</link>
+      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobile-usability-testing-tips/</guid>
+      <description>Harry Brignull has been posting some great quick tips for doing mobile usability testing including how to record from two webcams using an application called AmCap and how to craft inexpensive usability testing sleds for mobile phones.
+http://www.90percentofeverything.com/2010/10/05/mobile-usability-testing-tip-recording-from-two-webcams</description>
+    </item>
+    
+    <item>
+      <title>Sencha Touch HTML5 Mobile App Framework</title>
+      <link>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</link>
+      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</guid>
+      <description>Sencha Touch looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: GeoCongress (makes use of geolocation), Solitaire (drag and drop and flip animations), Kiva (provides iPad popover controls).
+Sencha Touch allows you to develop web apps that look and feel native on Apple iOS and Google Android touchscreen devices. It&#39;s built specifically to leverage HTML5, CSS3, and Javascript and makes use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline.</description>
+    </item>
+    
+    <item>
+      <title>PhoneGap | Cross platform mobile framework</title>
+      <link>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</guid>
+      <description>PhoneGap is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.
+http://phonegap.com/</description>
+    </item>
+    
+    <item>
+      <title>LiveView for iPhone</title>
+      <link>http://konigi.com/links/liveview-iphone/</link>
+      <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/liveview-iphone/</guid>
+      <description>LiveView is great little freebie for UI design &amp;amp; prototyping on iPhone. Essentially it sends a 320x480 viewport from your Mac to your iPhone, so is useful for creating quick and dirty simulations, demos, and user experience prototypes.
+http://www.zambetti.com/projects/liveview/</description>
+    </item>
+    
+    <item>
+      <title>jQTouch</title>
+      <link>http://konigi.com/links/jqtouch/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jqtouch/</guid>
+      <description>jQtouch is a jQuery plugin for mobile web development on the iPhone, iPod Touch, and other forward-thinking devices. It provides themed UI components, and behaviors using native Webkit animation.
+http://www.jqtouch.com/</description>
+    </item>
+    
+    <item>
+      <title>mobileHCI 2009 Proceedings</title>
+      <link>http://konigi.com/blog/mobilehci-2009-proceedings/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobilehci-2009-proceedings/</guid>
+      <description>The full text of the proceedings of MobileHCI09, the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services is available online. The event, which covers mobile and wearable computing devices and services took place September, 2009 at the University of Bonn in Germany.
+http://mobilehci.uni-siegen.de/mhci2009.html</description>
+    </item>
+    
+    <item>
+      <title>Larva Labs Intelligent Home Screen</title>
+      <link>http://konigi.com/blog/larva-labs-intelligent-home-screen/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/larva-labs-intelligent-home-screen/</guid>
+      <description>Larva Labs&amp;rsquo; Intelligent Home Screen is a home screen replacement for Google Android devices that provides an information stream or feed. It divides the stream into 2 panels: private information on top (messages, calendar events) and public information on bottom (stock quotes, news). It provides color-coded category markers, and a draggable menubar that allows the user to selectively change the volume of information between top and bottom lists, and when pushed to a single end, provides focus on that category.</description>
+    </item>
+    
+    <item>
+      <title>MOBIFY: Mobile Site Service</title>
+      <link>http://konigi.com/blog/mobify-mobile-site-service/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mobify-mobile-site-service/</guid>
+      <description>MOBIFY is a service that lets you create a mobile version of your site for free. You start by entering your site url, and selecting regions of your page design to be used in the mobile template, using their online template editor. For many sites, one template may be sufficient to serve all of your page types. After selecting regions, you may change their order in preview mode, as well as add custom HTML and modify CSS.</description>
+    </item>
+    
+    <item>
+      <title>Layar: Mobile Augmented Reality browser</title>
+      <link>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</link>
+      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</guid>
+      <description>Layar is an augmented reality application for Android phones which uses location information and the phones camera to show what is around the user by displaying real time digital information on top of reality. The video shows the browser being used to scan buildings and overlay real estate information to find out which houses are for sale.
+Screencast / Video http://layar.eu/</description>
+    </item>
+    
+    <item>
+      <title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title>
+      <link>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid>
+      <description>Tog&#39;s comparison and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn&#39;t only about the design.
+I don&#39;t use a Kindle daily, so I can&#39;t comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it.</description>
+    </item>
+    
+    <item>
+      <title>Firefox Mobile Concept Video</title>
+      <link>http://konigi.com/blog/firefox-mobile-concept-video/</link>
+      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/firefox-mobile-concept-video/</guid>
+      <description>Firefox Mobile Concept Video from Aza Raskin on Vimeo. Aza Raskin demonstrates a touch interface concept for a Firefox Mobile browser. The mocked up prototype includes features including spatial browsing of browser tabs, and touch gestures for summoning application menus.
+http://azarask.in/blog/post/firefox-mobile-concept-video/</description>
+    </item>
+    
+    <item>
+      <title>Sketch paper for the mobile designer</title>
+      <link>http://konigi.com/links/sketch-paper-mobile-designer/</link>
+      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/sketch-paper-mobile-designer/</guid>
+      <description>Erlend posted on the Artueel blog about a great idea they had for mobile designers&amp;#8212;a sketchpaper document you can print out (PDF and PSD formats available) so you can get your ideas on paper. They&amp;rsquo;ve created sketchpaper for the iPhone and the Nokia N95. Since we‘re all big fans of the iPhone and the mobile future in general, we want to help the mobile designer achieving his goals. For those who like to sketch the design/flow of their mobile app or website we present you: sketch paper for the iPhone and Nokia N95.</description>
+    </item>
+    
+    <item>
+      <title>Schmap Guides for the iPhone</title>
+      <link>http://konigi.com/blog/schmap-guides-iphone/</link>
+      <pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/schmap-guides-iphone/</guid>
+      <description>Schmap provides a local guide service for major cities. Listings are provided with general guide information, reviews, photos, and location on a map. The iPhone service attempts to maximize the unique features of that device. Listings are simple lists with thumbnails, but if you rotate the phone to landscape orientation, the listings then display alongside a map with markers to show where each place is located. Rotating back returns to the list view.</description>
+    </item>
+    
+    <item>
+      <title>Nokia Productions</title>
+      <link>http://konigi.com/blog/nokia-productions/</link>
+      <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/nokia-productions/</guid>
+      <description>Nokia are beggining a co-creative film project about music that will call for the contribution of film clips taken with mobile phones. The site resembles most video portals, Each video page includes a video player, sharing tools, favoriting and tagging. Finally Jumpcut&amp;rsquo;s video editing/mixing tool is provided when you click the &amp;ldquo;Remix Movie&amp;rdquo; link. This allows you to reorder clips and apply effects and transitions.
+http://promotions.yahoo.com/nokiaproductions/index.php</description>
+    </item>
+    
+    <item>
+      <title>readbag personal bookmarking</title>
+      <link>http://konigi.com/blog/readbag-personal-bookmarking/</link>
+      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/readbag-personal-bookmarking/</guid>
+      <description>readbag is one of those incredibly simple and well-implemented services that puts a subtle but useful twist on a product in an already crowded space. The readbag bookmarking service (it&amp;rsquo;s actually a Google App Engine application) provides the functionality to do one thing very well&amp;ndash;bookmark pages that you want to read for later.
+Now you might argue that you can use any social bookmarking service to do this, or something like Evernote.</description>
+    </item>
+    
+    <item>
+      <title>MoFuse: Hosted Mobile Website Service</title>
+      <link>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</link>
+      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</guid>
+      <description>MoFuse is a service that allows site owners to provide a .mobi experience for their existing sites. The service allows you simply plug an RSS feed url into your account settings for a new site, and delivers a mobile formatted version of that feed. They also provide the ability to publish as an iPhone app, using the IUI interface, which you can experience on Google and FaceBook mobile sites. The service also allows you to create static pages, and customize the colors of the UI.</description>
+    </item>
+    
+    <item>
+      <title>Samsung TouchWiz &amp; F480 (Phone Scoop)</title>
+      <link>http://konigi.com/blog/samsung-touchwiz-f480-phone-scoop/</link>
+      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/samsung-touchwiz-f480-phone-scoop/</guid>
+      <description>PhoneScoop provides a demonstration and photos of the new Samsung TouchWiz finger touch user interface, a 2.0 version of the company&amp;rsquo;s Croix OS. This one of the first phones to rush to market in order to compete with the iPhone. There doesn&amp;rsquo;t appear to be a multi-touch-type interface for two-finger interactions like zooming, but dragging and dropping appears very similar to the iPhone&amp;rsquo;s drag behavior. One of the fun features is a very configurable home page, which provides user-selectable widgets.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pdf on Konigi</title>
+    <link>http://konigi.com/tags/pdf/</link>
+    <description>Recent content in Pdf on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tabbloid Delivers Your RSS Feeds as a Newsletter</title>
+      <link>http://konigi.com/blog/tabbloid-delivers-your-rss-feeds-newsletter/</link>
+      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/tabbloid-delivers-your-rss-feeds-newsletter/</guid>
+      <description>Tabbloid sat in my tabs for a little while, because really, how interesting can yet another RSS reader be? But now that I&amp;rsquo;ve tried it, I have to say that I&amp;rsquo;m pretty happy with the idea of having this pushed to me for those times when I&amp;rsquo;d rather read blog updates without my Google Reader. Tablloid turns your feeds into a cleanly designed personal magazine, and delivers a PDF to you, with links intact, at an interval you set.</description>
+    </item>
+    
+    <item>
+      <title>WALLSPANKERS PDF DOWNLOADS</title>
+      <link>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</link>
+      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</guid>
+      <description>http://wallspankers.com/wspdfzine.htm</description>
+    </item>
+    
+  </channel>
+</rss>

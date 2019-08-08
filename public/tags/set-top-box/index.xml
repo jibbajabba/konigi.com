@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Set Top Box on Konigi</title>
+    <link>http://konigi.com/tags/set-top-box/</link>
+    <description>Recent content in Set Top Box on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/set-top-box/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hillcrest Labs Remote Control</title>
+      <link>http://konigi.com/blog/hillcrest-labs-remote-control/</link>
+      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/hillcrest-labs-remote-control/</guid>
+      <description>Hillcrest Labs provides a vision of the pointing and navigating future with their demonstration of Freespace motion-controlled TV remote.
+ I came across the video demos of Hillcrest Labs&#39; remote control via NewTeevee. The video above shows a demo at the Consumer Electronics Show last winter, but check the NewTeevee link for the more complete demo of their Freespace motion control technology (sadly they won&#39;t let me embed it here). The demo shows a proof of concept software interface for the TV that allows the user to navigate and access media on their TV/Computer using the &#34;</description>
+    </item>
+    
+    <item>
+      <title>Roku Netflix Player</title>
+      <link>http://konigi.com/blog/roku-netflix-player/</link>
+      <pubDate>Tue, 20 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/roku-netflix-player/</guid>
+      <description>Yet another set top box makes a move to bring the 10 foot Internet TV and movie experience to your living room. This time Roku, maker of the Soundbridge audio player, has teamed up with Netflix to deliver their video on demand service to a set top box designed for Netflix service only. The $100 box allows you to navigate your queue, view show/movie information, and stream videos that were previously only available for Internet streaming to Windows users previously.</description>
+    </item>
+    
+  </channel>
+</rss>

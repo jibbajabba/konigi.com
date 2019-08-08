@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copy on Konigi</title>
+    <link>http://konigi.com/tags/copy/</link>
+    <description>Recent content in Copy on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/copy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Typinator: Automatic text software</title>
+      <link>http://konigi.com/links/typinator-automatic-text-software/</link>
+      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/typinator-automatic-text-software/</guid>
+      <description>Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using Typinator, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.
+Years ago, pre-OS X, used something called TypeIt4Me to handle this and am stoked to have this kind of a tool back in my aresenal.</description>
+    </item>
+    
+  </channel>
+</rss>

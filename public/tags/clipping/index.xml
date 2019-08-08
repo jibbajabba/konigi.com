@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clipping on Konigi</title>
+    <link>http://konigi.com/tags/clipping/</link>
+    <description>Recent content in Clipping on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Aug 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/clipping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TheWB.com Video Player</title>
+      <link>http://konigi.com/interfaces/thewb-com-video-player/</link>
+      <pubDate>Wed, 27 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/thewb-com-video-player/</guid>
+      <description>The WB brings its video site to the masses of OC and Friends fans and adds another network portal into the mix with Hulu. In terms of visual appearances and the high level navigation (IA), TheWB.com feels like the polar opposite in sensibility to Hulu&#39;s pared down appearances and very usable directory structure and show pages. On Hulu, once you arrive at a show page, everything you can watch whether it be a full episode or clip, is neatly organized and presented on the page.</description>
+    </item>
+    
+    <item>
+      <title>MotionBox Video Player Clipping</title>
+      <link>http://konigi.com/interfaces/motionbox-video-player-clipping/</link>
+      <pubDate>Tue, 05 Feb 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/motionbox-video-player-clipping/</guid>
+      <description>Motionbox provides a nice interface for creating clips of videos they host. Along with Hulu, Motionbox is among the first to introduce the idea of clipping portions of web video. However, Motionbox outshines Hulu in terms of usability. Clipping is a simple operation that mimics the video selection paradigm users have become comfortable with on video editing software. And unlike Hulu, Motionbox provides instant feedback about where the start and end markers lie, by moving the video playhead with the position of the markers as you adjust the clip size.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Centered Design on Konigi</title>
+    <link>http://konigi.com/tags/user-centered-design/</link>
+    <description>Recent content in User Centered Design on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/user-centered-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>User-Centered Innovation</title>
+      <link>http://konigi.com/blog/user-centered-innovation/</link>
+      <pubDate>Fri, 26 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/user-centered-innovation/</guid>
+      <description>Roberto Verganti&#39;s article in HBR, &amp;quot;User-Centered Innovation Is Not Sustainable,&amp;quot; discusses how focussing on what user&#39;s say they want isn&#39;t a strategy for innovation. Not news to you, but his take looks at what that means regarding innovation from a sustainability perspective. I found it thought-provoking in other ways as well. The main idea is this. Forward-looking designers and business or policy decision makers may have a greater role and influence regarding designing sustainability products than customers.</description>
+    </item>
+    
+  </channel>
+</rss>

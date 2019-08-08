@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+
+<section class="hero is-centered">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Tools By Konigi
+      </h1>
+      <p class="subtitle">These are some of the free tools I've made over the years—some useful, some ridiculous.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section boxgrid">
+  <div class="container">
+    <div class="columns entries is-multiline">
+      {{ range .Paginator.Pages.ByTitle }}
+        {{ .Render "blocks-in-section"}}
+      {{ end }}
+    </div>{{/* /tiles */}}
+  </div>{{/* /container */}}
+</section>
+{{/*
+<section class="section pagination">
+  <div class="container">
+    <nav>{{ template "_internal/pagination.html" . }}</nav>
+  </div>
+</section>
+*/}}
+
+{{ partial "footer.html" . }}

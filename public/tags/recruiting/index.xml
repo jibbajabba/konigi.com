@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recruiting on Konigi</title>
+    <link>http://konigi.com/tags/recruiting/</link>
+    <description>Recent content in Recruiting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Apr 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/recruiting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Represent Recruitment</title>
+      <link>http://konigi.com/designs/represent-recruitment/</link>
+      <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/represent-recruitment/</guid>
+      <description>Represent Recruitment is a boutique career placement agency in London, UK serving professionals in creative design industries. The recruiter&amp;rsquo;s site is a nicely implemented minimalist site that presents information with little fanfare. Navigation is very shallow, making content easy to traverse. One thing I think would work to this site&amp;rsquo;s benefit is to move the job listings up in the hierarchy of pages and offer email notifications or RSS feeds of new jobs.</description>
+    </item>
+    
+  </channel>
+</rss>

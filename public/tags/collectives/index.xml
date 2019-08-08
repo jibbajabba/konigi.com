@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collectives on Konigi</title>
+    <link>http://konigi.com/tags/collectives/</link>
+    <description>Recent content in Collectives on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/collectives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YCN</title>
+      <link>http://konigi.com/designs/submissions/ycn/</link>
+      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/ycn/</guid>
+      <description>Nice minimalist design from this London, UK creative organization that is equal parts industry publisher, awards host, events coordinator, and agency, serving up design and communication needs through the members of its collective. This is a multi-faceted org, and starting with the homepage and looking around through the pages, you get the impression that there&amp;rsquo;s a lot of content on this site, and a lot of people involved. The challenge upon arriving there for the first time is to understand what they&amp;rsquo;re about.</description>
+    </item>
+    
+  </channel>
+</rss>

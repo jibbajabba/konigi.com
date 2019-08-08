@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Layout on Konigi</title>
+    <link>http://konigi.com/tags/layout/</link>
+    <description>Recent content in Layout on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/layout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Responsive.is: Display and present responsive web designs</title>
+      <link>http://konigi.com/links/responsiveis-display-and-present-responsive-web-designs/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/responsiveis-display-and-present-responsive-web-designs/</guid>
+      <description>Responsive.is is a clever tool. Enter a URL or append one to http://responsive.is to view how the layout presents itself on the Desktop, and in tablets and mobile phones.
+http://responsive.is/</description>
+    </item>
+    
+    <item>
+      <title>Teez</title>
+      <link>http://konigi.com/designs/submissions/teez/</link>
+      <pubDate>Thu, 07 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/teez/</guid>
+      <description>A t-shirt store design re-think
+http://teez.com.ua</description>
+    </item>
+    
+    <item>
+      <title>Drawter: DrawAble Markup Language</title>
+      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
+      <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
+      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
+Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website&#39;s code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div&#39;s style properties within floating inspectors.</description>
+    </item>
+    
+    <item>
+      <title>Typograph</title>
+      <link>http://konigi.com/blog/typograph/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/typograph/</guid>
+      <description>Iain Lamb&amp;rsquo;s Typograph is cool tool that allows you to explore the relationship between scale and rhythm by modifying the properties of typographic elements in a page of sample text.
+It sets out to explore how two, intertwined concepts, often playful but sometimes cheeky, can be encouraged to dance in web pages. Drag the colored boxes along the scale to throw these words anew. For the most part, this text is just a libretto for the performance you are about to play upon it.</description>
+    </item>
+    
+    <item>
+      <title>jQuery Masonry</title>
+      <link>http://konigi.com/links/jquery-masonry/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jquery-masonry/</guid>
+      <description>Masonry is a layout plugin for jQuery. Think of it as the flip side of CSS floats. Whereas floating arranges elements horizontally then vertically, Masonry arranges elements vertically then horizontally according to a grid. The result minimizes vertical gaps between elements of varying height, just like a mason fitting stones in a wall.
+http://desandro.com/resources/jquery-masonry</description>
+    </item>
+    
+    <item>
+      <title>jQSlickWrap: Text Wrapping Plugin for jQuery</title>
+      <link>http://konigi.com/links/jqslickwrap-text-wrapping-plugin-jquery/</link>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jqslickwrap-text-wrapping-plugin-jquery/</guid>
+      <description>jQSlickWrap is a plugin for jQuery that allows you to wrap text around the actual contents of an irregularly-shaped image rather than it&amp;rsquo;s bounding box using CSS floats.
+http://jwf.us/projects/jQSlickWrap/</description>
+    </item>
+    
+    <item>
+      <title>Why browser zoom shouldn&#39;t kill flexible layouts</title>
+      <link>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</link>
+      <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
+      <description>Zoe Mickley Gillenwater posted an interesting article which makes the argument that browser zoom doesn&amp;rsquo;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&amp;rsquo;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &amp;ldquo;Zoom text only&amp;rdquo; options, e.g. in Firefox and Safari 4.</description>
+    </item>
+    
+    <item>
+      <title>Fixed vs. Fluid vs. Elastic Layout</title>
+      <link>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</link>
+      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
+      <description>Smashing Magazine compares fixed, fluid, and elastic layout strategies and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&amp;rsquo;s right for your project. http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/</description>
+    </item>
+    
+    <item>
+      <title>Distinguishing decorative from meaningful elements in UI design</title>
+      <link>http://konigi.com/blog/distinguishing-decorative-meaningful-elements-ui-design/</link>
+      <pubDate>Wed, 14 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/distinguishing-decorative-meaningful-elements-ui-design/</guid>
+      <description>Ryan Singer posted a article on 37 Signals, deconstructing the design of the global navigation header on Github. In his example he points out the problem with the &amp;ldquo;Repositories: All | Search&amp;rdquo; links in the account box in the upper right of the screen, which suggests that those links are scoped to the user shown in the box. This a great example of how visual grouping and proximity could be more effectively utilized to help users make sense of the available controls.</description>
+    </item>
+    
+    <item>
+      <title>Making Modular Layout Systems</title>
+      <link>http://konigi.com/blog/making-modular-layout-systems/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/making-modular-layout-systems/</guid>
+      <description>Jason Santa Maria&amp;rsquo;s 24 Ways entry provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. http://24ways.org/2008/making-modular-layout-systems</description>
+    </item>
+    
+    <item>
+      <title>web.without.words</title>
+      <link>http://konigi.com/blog/webwithoutwords/</link>
+      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/webwithoutwords/</guid>
+      <description>Every week web.without.words takes a popular and known website and reconstructs it by removing all words and images, replacing them with blocks (a common &amp;ldquo;concepting&amp;rdquo; phase of any design process).
+Via The Letter
+http://webwithoutwords.com/</description>
+    </item>
+    
+    <item>
+      <title>Placement on a Page: The Missing Ad Metric</title>
+      <link>http://konigi.com/blog/placement-page-missing-ad-metric/</link>
+      <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/placement-page-missing-ad-metric/</guid>
+      <description>Paidcontent reports on a study conducted by MarketingSherpa on advertising bechmarks, which showed the effect of online ad placement in relation to the fold.
+According to the report, most individuals don‘t see most ads served to them—especially ads served below the fold. Despite this result, media delivery reports rarely include information on whether, or what percentage of, a media buy was served above or below the fold. On the chart below, the bottom of the blue area represents the percent of total viewers who see an ad; the top represents the percent of total viewers who scroll to a point where the ad is visible on their screen.</description>
+    </item>
+    
+    <item>
+      <title>Killing Bad Layout Conventions</title>
+      <link>http://konigi.com/blog/killing-bad-layout-conventions/</link>
+      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/killing-bad-layout-conventions/</guid>
+      <description>Andy Rutledge exposes the flaws of an established design conventions&amp;#8212;the 3 column layout. The layout is typically identified by a wide center column with 2 flanking narrow sidebar, and it can be found on some of the largest and most popular sites, including Amazon.com and Apple.com. Rutledge points out the limitations and inefficiencies of this layout:
+ Symmetry is usually detrimental to content hierarchy Symmetry diminishes viewer interest Having 2 sidebars, one on either side, defeats the purpose of sidebar content It requires that site visitors first learn (and perhaps relearn from page to page) where to look for a particular sort of ancillary information or links Often results in far too much ancillary information on the page The particular sort of visual noise generated by the 2 bracketing sidebars diminishes, rather than enhances, user/reader focus on the main content  Rutledge challenges designers to really think about their given problems and design for them; to challenge what has become conventional.</description>
+    </item>
+    
+  </channel>
+</rss>

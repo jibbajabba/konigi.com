@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comparison on Konigi</title>
+    <link>http://konigi.com/tags/comparison/</link>
+    <description>Recent content in Comparison on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/comparison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VideoSWS: HTML5 Video Player Comparison</title>
+      <link>http://konigi.com/links/videosws-html5-video-player-comparison/</link>
+      <pubDate>Wed, 18 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/videosws-html5-video-player-comparison/</guid>
+      <description>I like this &amp;quot;See What Sucks&amp;quot; table of HTML5 Video players, for comparing features of the video players like library dependencies, flash fallback, playlist and audio support. Starred products indicate the &amp;quot;Suck less than others&amp;quot; rating.
+http://praegnanz.de/html5video/</description>
+    </item>
+    
+  </channel>
+</rss>

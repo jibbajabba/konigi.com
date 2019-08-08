@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+{{ partial "gnav.html" . }}
+
+<section class="hero is-centered">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        Blog
+      </h1>
+      <p class="subtitle">Because a mind is a terrible thing to waste?</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-four-fifths index">
+        {{ range .Paginator.Pages }}
+          {{ .Render "list-node"}}
+        {{ end }}
+      </div>{{/* /column */}}
+      <div class="column is-one-fifth">
+        {{ partial "ad_primary.html" . }}
+      </div>{{/* /column */}}
+    </div>{{/* /columns */}}
+  </div>{{/* /container */}}
+</section>
+<section class="section pagination">
+  <div class="container">
+    <nav>{{ template "_internal/pagination.html" . }}</nav>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

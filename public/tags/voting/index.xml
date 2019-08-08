@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voting on Konigi</title>
+    <link>http://konigi.com/tags/voting/</link>
+    <description>Recent content in Voting on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Dec 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/voting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engadget Comment Voting</title>
+      <link>http://konigi.com/interfaces/engadget-comment-voting/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/engadget-comment-voting/</guid>
+      <description>Engadget&#39;s comment rating and karma system uses +1/-1 voting, so users can vote comments up or down. Votes below a certain threshold get dimmed out rather than hidden. When a vote is applied, the user&#39;s vote is registered, a message appears, and the voting controls are hidden. To the right, there&#39;s an exclamation mark to flag inappropriate comments, which are then immediately collapsed from view.
+ http://www.engadget.com/</description>
+    </item>
+    
+    <item>
+      <title>undrln</title>
+      <link>http://konigi.com/blog/undrln/</link>
+      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/undrln/</guid>
+      <description>underln is a really simple vote to promote site by smashLAB to scoop any topic or site related to the fields of advertising, marketing, and design. Only 2 inputs: title and URL, and only Title is required.
+http://www.undrln.com/</description>
+    </item>
+    
+    <item>
+      <title>Yahoo! Buzz Voting</title>
+      <link>http://konigi.com/interfaces/yahoo-buzz-voting/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/yahoo-buzz-voting/</guid>
+      <description>Yahoo! Buzz pulls actively viewed and shared pages from its portal and puts them in a Digg-like interface with vote-to-promote buttons so users may actively push stories up and down the Buzz list. The digg/bury interface is simple. Stories are categorized by several main topic areas, and users may view the stories with the highest vote count, over several time slices, or sorted by recency.
+1. When the user visits the site the first time, a guided tour jumps the user around the page to introduce them to the site&#39;s features.</description>
+    </item>
+    
+    <item>
+      <title>RYZ Rating and Favoriting</title>
+      <link>http://konigi.com/interfaces/ryz-rating-and-favoriting/</link>
+      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/ryz-rating-and-favoriting/</guid>
+      <description>RYZ is a sneaker manufacturer that crowdsources the design of their product and shares the revenue with winners. Users download a template to create design and upload to their profile. Participants vote on the designs by giving ratings and winners receive $1000 and $1 for every pair sold. The site provides simple interfaces for both favoriting and rating entries.
+1. The voting page.2. Clicking the star badge in the corner of the image adds to favorites.</description>
+    </item>
+    
+  </channel>
+</rss>
