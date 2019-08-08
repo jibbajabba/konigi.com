@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Konigi</title>
+    <link>http://konigi.com/tags/life/</link>
+    <description>Recent content in Life on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 13:05:23 -0700</lastBuildDate>
+    
+	<atom:link href="http://konigi.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Something Awaits</title>
+      <link>http://konigi.com/blog/something-awaits/</link>
+      <pubDate>Thu, 08 Aug 2019 13:05:23 -0700</pubDate>
+      
+      <guid>http://konigi.com/blog/something-awaits/</guid>
+      <description>Camper graphic by Vecteezy!
+I grew up in central New Jersey. My family lived a modest middle class lifestyle and I’d never flown on a plane with my nuclear family growing up. What we did was camp. We went car camping every summer. I have fond memories up through 8th grade of those summers.
+When I was in the 5th grade and about 10 years old, we went on a month long car camping trip from New Jersey to California through the middle states (Illinois, North Dakota, Colorado), and then back through the southern states (Arizona, Texas, Louisiana).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://konigi.com/blog/something-awaits/</loc>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://konigi.com/articles/unmoderated-remote-usability-testing/</loc>
     <lastmod>2019-08-07T12:13:24-07:00</lastmod>
   </url>
@@ -11757,13 +11762,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/art/</loc>
+    <loc>http://konigi.com/categories/art/</loc>
     <lastmod>2019-03-16T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/art/</loc>
+    <loc>http://konigi.com/tags/art/</loc>
     <lastmod>2019-03-16T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -11944,19 +11949,19 @@
   
   <url>
     <loc>http://konigi.com/blog/</loc>
-    <lastmod>2018-09-24T09:23:11-07:00</lastmod>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://konigi.com/categories/blog/</loc>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://konigi.com/tags/blog/</loc>
     <lastmod>2009-11-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://konigi.com/categories/blog/</loc>
-    <lastmod>2018-09-24T09:23:11-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -12131,6 +12136,12 @@
   <url>
     <loc>http://konigi.com/tags/cameras/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://konigi.com/tags/camping/</loc>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -12825,14 +12836,14 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/design/</loc>
-    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/categories/design/</loc>
+    <lastmod>2011-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/design/</loc>
-    <lastmod>2011-04-13T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/tags/design/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -13283,6 +13294,12 @@
   <url>
     <loc>http://konigi.com/tags/fashion/</loc>
     <lastmod>2009-09-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://konigi.com/tags/fatherhood/</loc>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14067,14 +14084,14 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/interface/</loc>
-    <lastmod>2012-03-02T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/categories/interface/</loc>
+    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/interface/</loc>
-    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/tags/interface/</loc>
+    <lastmod>2012-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14085,13 +14102,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/interfaces/</loc>
+    <loc>http://konigi.com/categories/interfaces/</loc>
     <lastmod>2018-08-02T09:31:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/interfaces/</loc>
+    <loc>http://konigi.com/tags/interfaces/</loc>
     <lastmod>2018-08-02T09:31:33-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -14278,7 +14295,7 @@
   
   <url>
     <loc>http://konigi.com/</loc>
-    <lastmod>2019-08-07T12:13:24-07:00</lastmod>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14349,6 +14366,12 @@
   </url>
   
   <url>
+    <loc>http://konigi.com/tags/life/</loc>
+    <lastmod>2019-08-08T13:05:23-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://konigi.com/tags/light/</loc>
     <lastmod>2009-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -14385,13 +14408,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/links/</loc>
+    <loc>http://konigi.com/categories/links/</loc>
     <lastmod>2019-08-05T14:55:52-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/links/</loc>
+    <loc>http://konigi.com/tags/links/</loc>
     <lastmod>2019-08-05T14:55:52-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -14847,13 +14870,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/music/</loc>
+    <loc>http://konigi.com/categories/music/</loc>
     <lastmod>2019-05-24T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/music/</loc>
+    <loc>http://konigi.com/tags/music/</loc>
     <lastmod>2019-05-24T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -15921,14 +15944,14 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/search/</loc>
-    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/categories/search/</loc>
+    <lastmod>2014-04-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/search/</loc>
-    <lastmod>2014-04-23T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/tags/search/</loc>
+    <lastmod>2015-01-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16293,13 +16316,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/status/</loc>
-    <lastmod>2010-03-09T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/status/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/status/</loc>
+    <loc>http://konigi.com/tags/status/</loc>
+    <lastmod>2010-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -16412,13 +16435,13 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/sunchasing/</loc>
+    <loc>http://konigi.com/categories/sunchasing/</loc>
     <lastmod>2019-05-07T15:17:20-07:01</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/sunchasing/</loc>
+    <loc>http://konigi.com/tags/sunchasing/</loc>
     <lastmod>2019-05-07T15:17:20-07:01</lastmod>
     <priority>0</priority>
   </url>
@@ -16700,14 +16723,14 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/tools/</loc>
-    <lastmod>2014-07-30T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/categories/tools/</loc>
+    <lastmod>2015-11-17T10:18:14-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/tools/</loc>
-    <lastmod>2015-11-17T10:18:14-08:00</lastmod>
+    <loc>http://konigi.com/tags/tools/</loc>
+    <lastmod>2014-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -17210,14 +17233,14 @@
   </url>
   
   <url>
-    <loc>http://konigi.com/tags/wiki/</loc>
-    <lastmod>2009-01-13T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/categories/wiki/</loc>
+    <lastmod>2013-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://konigi.com/categories/wiki/</loc>
-    <lastmod>2013-12-04T00:00:00+00:00</lastmod>
+    <loc>http://konigi.com/tags/wiki/</loc>
+    <lastmod>2009-01-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
