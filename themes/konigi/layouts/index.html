@@ -7,21 +7,21 @@
     {{/* row 1 */}}
     <div class="tile is-ancestor">
       <div class="tile is-parent entries">
-        {{ range first 1 (where .Pages "Section"  "blog") }}
+        {{ range first 1 (where .Pages "Section" "blog") }}
           {{ .Render "blocks" }}
         {{ end }}
       </div>
       <div class="tile is-parent entries">
-        {{ range first 1 (after 1 (where .Pages "Section"  "blog")) }}
+        {{ range first 1 (where .Pages "Section" "articles") }}
           {{ .Render "blocks" }}
         {{ end }}
       </div>
       <div class="tile is-parent">
         <article class="tile is-child about" style="background: rgba(0,0,0,.9);color:#fff">
           <div class="content">
-            <p class="title" style="color:#fff;">Hi. You found me.</p>
-            <p>The word Konigi means "to make known" in Esperanto. Here's where I share my creative pursuits in design, art and music.</p>
-            <p>-Michael</p>
+            <span class="title" style="color:#fff;">Hi! You found me.</span>
+            <p><em>Konigi</em> means to make known in Esperanto. Here's where I share my creative pursuits in design, art and music.<br/>
+            -Michael</p>
           </div>
         </article>
       </div>
@@ -60,7 +60,7 @@
         <div class="tile is-parent">
           <article class="tile is-child box instagram">
             <div class="entry">
-              <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/c0830f416feb59c794fa08e65027f99b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+              <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/c0830f416feb59c794fa08e65027f99b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
             </div>
           </article>
         </div>
