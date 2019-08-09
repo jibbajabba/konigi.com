@@ -5,6 +5,7 @@ tags = ["animation", "code libraries", "css", "html prototyping", "javascript", 
 date = "2014-09-05"
 categories = ["tools"]
 slug = "anijs-declarative-handling-library-css-animations"
+href = "http://anijs.github.io/"
 +++
 
 
@@ -12,6 +13,3 @@ slug = "anijs-declarative-handling-library-css-animations"
 <p>A simple example contains IF, ON, DO, and TO pairs and would look like this: </p>
 <pre>&lt;input id="name" type="text" data-anijs="if: focus, do: wobble, to: p"&gt;</pre><p>
 Really nice and an easy technique for prototyping. <a href="http://anijs.github.io/">Check it out</a>.</p>
-  
-<p><a href="http://anijs.github.io/">http://anijs.github.io/</a></p>
-      

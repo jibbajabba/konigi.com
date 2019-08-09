@@ -5,6 +5,7 @@ tags = ["design", "design critique", "collaboration", "slack"]
 date = "2015-06-26"
 categories = ["categories"]
 slug = "relay-io-design-sharing-via-slack"
+href="https://relay.io/"
 +++
 
 

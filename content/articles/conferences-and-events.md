@@ -170,7 +170,7 @@ slug = "conferences-and-events"
 <tr class="frow ux">
 <td><a href="http://mobx2012.blogspot.com/">MobX: Mobile Experience Design</a></td>
 <td>Berlin, Germant</td>
-<td><a href="http://www.youtube.com/user/MobXCon/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
+<td><a href="https://www.youtube.com/user/MobXCon/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
 </tr>
 <tr class="frow ux">
 <td><a href="http://iasummit.org/">IA Summit</a></td>
@@ -340,7 +340,7 @@ slug = "conferences-and-events"
 <tr class="frow design development">
 <td><a href="http://valiocon.com/">Valio Con</a></td>
 <td>San Diego, CA</td>
-<td><a href="http://www.youtube.com/user/drewwilsonn/search?query=valio+con"><i class="ss-icon ss-standard">monitor</i></a></td>
+<td><a href="https://www.youtube.com/user/drewwilsonn/search?query=valio+con"><i class="ss-icon ss-standard">monitor</i></a></td>
 </tr>
 <tr class="frow design development ux">
 <td><a href="http://www.webvisionsevent.com/">Web Visions</a></td>
@@ -350,12 +350,12 @@ slug = "conferences-and-events"
 <tr class="frow ux">
 <td><a href="http://worldiaday.org/">World IA Day</a></td>
 <td></td>
-<td><a href="http://www.youtube.com/user/WorldIADay/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
+<td><a href="https://www.youtube.com/user/WorldIADay/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
 </tr>
 <tr class="frow design">
 <td><a href="http://xoxofest.com/">XOXO</a></td>
 <td>Portland, OR</td>
-<td><a href="http://www.youtube.com/user/xoxofest/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
+<td><a href="https://www.youtube.com/user/xoxofest/videos"><i class="ss-icon ss-standard">monitor</i></a></td>
 </tr>
 </tbody>
 </table>

@@ -5,6 +5,7 @@ tags = ["static sites", "html"]
 date = "2015-04-01"
 categories = ["tools"]
 slug = "static-site-generator-directories"
+href="https://www.staticgen.com/"
 +++
 
 

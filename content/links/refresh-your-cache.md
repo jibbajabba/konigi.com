@@ -5,6 +5,7 @@ tags = ["technical support"]
 date = "2014-07-15"
 categories = ["tools"]
 slug = "refresh-your-cache"
+href = "http://www.refreshyourcache.com"
 +++
 
 
@@ -12,7 +13,3 @@ slug = "refresh-your-cache"
 wt53c55fb829ccb_custom.jpg"/></a></div><p>I used to do a lot of technical support, and still do some occasionally. <a href="http://www.refreshyourcache.com/">Refresh Your Cache</a> is a simple guide to clearing browser cache that you can send to your customers rather than sleuthing platform and browser, because Shift-Refresh doesn't work all the time for all browsers.</p>
 
 <p>Via <a href="http://bsn.io/">Ben</a> in a backchannel. ;)</p>
-
-  
-<p><a href="http://www.refreshyourcache.com/">http://www.refreshyourcache.com/</a></p>
-      

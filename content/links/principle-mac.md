@@ -3,6 +3,7 @@ categories = ["tools"]
 date = "2015-08-28T10:31:39-07:00"
 tags = ["animation", "mobile devices", "prototyping", "interaction design"]
 title = "Principle for Mac: Animation and Prototyping"
+href="http://principleformac.com"
 +++
 
 <div class="video"><iframe src="https://www.youtube.com/embed/vFrivX021-A?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>

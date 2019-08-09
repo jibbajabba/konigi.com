@@ -6,6 +6,7 @@ date = "2013-09-17"
 categories = ["tools"]
 slug = "frontify-design-review-documentation-and-specification-app"
 featuredimg = "//media.konigi.com/bluga/wt5238f10c9c93d_custom.jpg"
+href="http://frontify.com/"
 +++
 
 

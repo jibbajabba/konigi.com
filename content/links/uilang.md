@@ -5,6 +5,7 @@ tags = ["code libraries", "development", "front end development", "html prototyp
 date = "2014-09-04"
 categories = ["tools"]
 slug = "uilang"
+href = "http://uilang.com/"
 +++
 
 
@@ -12,6 +13,3 @@ slug = "uilang"
 <pre>&lt;code&gt;clicking on ".try-it" toggles class "hidden" on ".info-box"&lt;/code&gt;</pre><p>
 You still have to write your CSS to handle things like effects, but that's a plus if you don't want or need someone else's implementation of those things. <a href="http://uilang.com/">Check it out.</a></p>
 <p>/ht <a href="https://twitter.com/leonbarnard">Leon</a></p>
-  
-<p><a href="http://uilang.com/">http://uilang.com</a></p>
-      

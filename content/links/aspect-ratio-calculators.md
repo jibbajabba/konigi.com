@@ -3,6 +3,7 @@ categories = ["tools"]
 date = "2015-11-17T10:18:14-08:00"
 tags = ["mac", "software", "calculators"]
 title = "Aspect Ratio Calculators"
+href="http://andrew.hedges.name/experiments/aspect_ratio/"
 summary="Aspect Ratio Calculators for web designers."
 featuredimg = "//media.konigi.com/links/aspect-ratio-calculators.png"
 

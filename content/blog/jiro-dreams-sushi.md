@@ -9,7 +9,7 @@ slug = "jiro-dreams-sushi"
 
 
 
-  <div class="video"><iframe width="610" height="343" src="http://www.youtube.com/embed/I1UDS2kgqY8" frameborder="0" allowfullscreen></iframe></div>
+  <div class="video"><iframe width="610" height="343" src="https://www.youtube.com/embed/I1UDS2kgqY8" frameborder="0" allowfullscreen></iframe></div>
 <p>I got around to watching David Gelb's documentary, <a href="http://www.magpictures.com/jirodreamsofsushi/">Jiro Dreams of Sushi</a> after seeing it making the rounds on the web repeatedly. I've been on a documentary kick lately, and this has made it into the category of films I'd re-watch. </p>
 <p>The film looks at the life of celebrated sushi chef, Jiro Ono, whose small restaurant serves only sushi and requires a reservation 3 months in advance, and who is regarded as the most masterful sushi chef in Japan. After watching, I took a week to see what resonated with me, and there are a few topic that stick, related to the nurturing of one's craft. </p>
 <p>The themes I latched onto focussed on the conversations about Jiro's craft. He holds steadfast to a strong work ethic, and the notion that perfection can only be achieved through years of rigor, experience, and apprenticeship. </p>

@@ -4,6 +4,7 @@ description = ""
 tags = ["links", "documentation"]
 date = "2013-12-11"
 categories = ["tools"]
+href="http://explainshell.com"
 slug = "explainshell-unix-manual-pages-explained-visually"
 featuredimg = "//media.konigi.com/bluga/wt52a8cfea8b8ad_custom.jpg"
 +++
