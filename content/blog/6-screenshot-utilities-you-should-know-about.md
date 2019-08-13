@@ -9,7 +9,7 @@ slug = "6-screenshot-utilities-you-should-know-about"
 
 
 
-<p><a href="http://www.flickr.com/photos/jibbajabba/2452008412/" title="Screenshot Utilities You Should Know About by jibbajabba, on Flickr"><img src="http://farm3.static.flickr.com/2136/2452008412_20087047d9_b.jpg" class="notebook-image" alt="Screenshot Utilities You Should Know About" /></a></p>
+<p><a href="http://www.flickr.com/photos/jibbajabba/2452008412/" title="Screenshot Utilities You Should Know About by jibbajabba, on Flickr"><img src="//farm3.static.flickr.com/2136/2452008412_20087047d9_b.jpg" class="notebook-image" alt="Screenshot Utilities You Should Know About" /></a></p>
 <p>I use different screen capture utilities depending on the type of screen I'm trying to grab. Some are great for a quick and dirty capture of a page I want to send someone. Others are good for annotating an interface I want to post to a web page. And still others are best for archival screen capture or for interfaces with video. Below are the 6 screenshot utilities that Mac users should know about. Don't skip over the first one, because there's a tip in there you might not be aware of.</p>
 <ol>
 <li><strong><a href="http://www.apple.com/pro/tips/secretcapture.html">Apple Screen Capture (Mac)</a></strong><br />

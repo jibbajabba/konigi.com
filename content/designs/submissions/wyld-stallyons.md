@@ -11,7 +11,7 @@ slug = "wyld-stallyons"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://wyldstallyons.com/"><img id='bluga-thumbnail-1048' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://wyldstallyons.com/"><img id='bluga-thumbnail-1048' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f281d825e3f_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://wyldstallyons.com/">http://wyldstallyons.com</a></p>

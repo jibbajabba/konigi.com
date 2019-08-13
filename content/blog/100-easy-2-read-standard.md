@@ -9,6 +9,6 @@ slug = "100-easy-2-read-standard"
 
 
 
-  <div class="notebook-screenshot"><a href="http://informationarchitects.jp/100e2r/"><img src="http://media.konigi.com/bluga/wt49637eae0435a_0.jpg"/></a></div><p>I just stumbled onto <a href="http://informationarchitects.jp/100e2r/">ia.jp's web type manifesto</a> for the first time and whole heartedly agree. </p>
+  <div class="notebook-screenshot"><a href="http://informationarchitects.jp/100e2r/"><img src="//media.konigi.com/bluga/wt49637eae0435a_0.jpg"/></a></div><p>I just stumbled onto <a href="http://informationarchitects.jp/100e2r/">ia.jp's web type manifesto</a> for the first time and whole heartedly agree. </p>
     
   <a href="http://informationarchitects.jp/100e2r/">http://informationarchitects.jp/100e2r/</a>

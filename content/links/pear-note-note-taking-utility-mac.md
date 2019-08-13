@@ -8,7 +8,7 @@ slug = "pear-note-note-taking-utility-mac"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.usefulfruit.com/pearnote/"><img id="bluga-thumbnail-2736" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.usefulfruit.com/pearnote/"><img id="bluga-thumbnail-2736" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt52300510755a6_custom.jpg"/></a></div><p><a href="http://www.usefulfruit.com/pearnote/">Pear Note</a> from Useful Fruit Software is a powerful note-taking tool for Mac OS X. The application integrates text notes with audio and video you can record from interview sessions, meetings, etc.</p>
 
 <p>The notes are time-marked to the video and slides that are being viewed during the recording, so you can click text from your notes, and the app will jump to that time in the recording so you can watch the video or see the slide that went with the note. While you're playing back, text notes are highlighted as you follow along with audio/video.</p>

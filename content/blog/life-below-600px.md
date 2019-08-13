@@ -9,7 +9,7 @@ slug = "life-below-600px"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.iampaddy.com/lifebelow600/"><img src="http://media.konigi.com/bluga/wt4bb5f8925942a_large.jpg"/></a></div><p>Paddy Donnelly <a href="http://www.iampaddy.com/lifebelow600/">flips the bird at the fold</a>.</p>
+  <div class="notebook-screenshot"><a href="http://www.iampaddy.com/lifebelow600/"><img src="//media.konigi.com/bluga/wt4bb5f8925942a_large.jpg"/></a></div><p>Paddy Donnelly <a href="http://www.iampaddy.com/lifebelow600/">flips the bird at the fold</a>.</p>
 
 <p><blockquote>What I'm proposing is for you to think twice about these ‘rules’ which are preached so often around the web and aim to create something original. Don't live in the old world of pushing all your quality content on the visitor at once because they've only got 4 seconds before their attention drops (or whatever other statistic is doing the rounds at present).</p>
 

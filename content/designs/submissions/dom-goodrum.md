@@ -11,7 +11,7 @@ slug = "dom-goodrum"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.domgoodrum.com/"><img id='bluga-thumbnail-2299' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.domgoodrum.com/"><img id='bluga-thumbnail-2299' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4b73d7fdddf50_large.jpg'/></a></div>  
   </div>   
 <p>Portfolio showcasing the favourite projects of designer Dom Goodrum.</p>

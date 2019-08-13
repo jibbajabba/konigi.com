@@ -9,7 +9,7 @@ slug = "deconstructing-css-trick-display-form-data-tabular-data"
 
 
 
-  <div class="notebook-screenshot"><a href="http://cssglobe.com/articles/editable_fields/"><img src="http://media.konigi.com/bluga/wt4b30e6fa5e314_large.jpg"/></a></div><p>CSS and Javascript experiments are fun to play around with. I tend to talk about them here because of the questions they raise about whether a technique is worth implementing or if it does more harm than help. Straight forward and familiar are the safe route. Sometimes experiments lead to better ways of doing things, other times they seem like they're gratuitous.</p>
+  <div class="notebook-screenshot"><a href="http://cssglobe.com/articles/editable_fields/"><img src="//media.konigi.com/bluga/wt4b30e6fa5e314_large.jpg"/></a></div><p>CSS and Javascript experiments are fun to play around with. I tend to talk about them here because of the questions they raise about whether a technique is worth implementing or if it does more harm than help. Straight forward and familiar are the safe route. Sometimes experiments lead to better ways of doing things, other times they seem like they're gratuitous.</p>
 
 <p>I came across an <a href="http://cssglobe.com/post/6984/ux-trick-display-form-data-as-tabular-data">interesting, if problematic experiment</a> to convert form fields into editable fields that are masked table cells until each input is in focus. I don't think this would be particularly familiar to a user if they're editing a form for the first time. However, it does provide a nice problem to deconstruct and review.</p>
 

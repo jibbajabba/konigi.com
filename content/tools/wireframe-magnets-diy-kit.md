@@ -6,7 +6,7 @@ date = "2009-06-28"
 categories = ["tools"]
 slug = "wireframe-magnets-diy-kit"
 summary=""
-featuredimg = "http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms.png"
+featuredimg = "//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms.png"
 
 +++
 

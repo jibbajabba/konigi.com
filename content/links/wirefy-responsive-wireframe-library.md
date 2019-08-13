@@ -8,7 +8,7 @@ slug = "wirefy-responsive-wireframe-library"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://cjdsie.github.com/wirefy/"><img id="bluga-thumbnail-2776" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://cjdsie.github.com/wirefy/"><img id="bluga-thumbnail-2776" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt5230a9c13e1b7_custom_0.jpg"/></a></div><p><a href="http://cjdsie.github.com/wirefy/">Wirefy</a> is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.</p>
 
   

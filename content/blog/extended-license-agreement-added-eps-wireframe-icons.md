@@ -14,4 +14,4 @@ slug = "extended-license-agreement-added-eps-wireframe-icons"
 <p>The Extended Royalty Free (ERF) License permits use on commercial web apps and services. Purchase with this option for these uses.</p></blockquote>
 <p>See the <a href="http://shop.konigi.com/collections/icons/products/wireframe-icons?q=store/product/wireframe-icons-royalty-free-eps-and-png">full license agreements</a> for details.</p>
     
-  <a href="http://shop.konigi.com/collections/icons/products/wireframe-icons?q=store/product/wireframe-icons-royalty-free-eps-and-png">http://konigi.com/store/product/wireframe-icons-royalty-free-eps-and-png</a>
+  <a href="http://shop.konigi.com/collections/icons/products/wireframe-icons?q=store/product/wireframe-icons-royalty-free-eps-and-png">//konigi.com/store/product/wireframe-icons-royalty-free-eps-and-png</a>

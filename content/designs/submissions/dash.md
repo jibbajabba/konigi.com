@@ -11,7 +11,7 @@ slug = "dash"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://dash.net/index.php"><img id='bluga-thumbnail-766' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://dash.net/index.php"><img id='bluga-thumbnail-766' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f2757aa3172.jpg'/></a></div>  
   </div>   
 <p><a href="http://dash.net/index.php">http://dash.net/index.php</a></p>

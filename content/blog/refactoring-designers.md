@@ -9,7 +9,7 @@ slug = "refactoring-designers"
 
 
 
-  <div class="notebook-screenshot"><a href="http://37signals.com/svn/posts/2738-refactoring-for-designers"><img src="http://media.konigi.com/bluga/wt4d2f00c650db8_large.jpg"/></a></div><p>Ryan Singer at 37signals <a href="http://37signals.com/svn/posts/2738-refactoring-for-designers">explains code refactoring to designers</a> so that they can use it correctly in a design context.</p>
+  <div class="notebook-screenshot"><a href="http://37signals.com/svn/posts/2738-refactoring-for-designers"><img src="//media.konigi.com/bluga/wt4d2f00c650db8_large.jpg"/></a></div><p>Ryan Singer at 37signals <a href="http://37signals.com/svn/posts/2738-refactoring-for-designers">explains code refactoring to designers</a> so that they can use it correctly in a design context.</p>
 
 <p><blockquote>Designers sometimes use the word “refactor” in a loose way. I think they overhear the word from programmers without getting the precise meaning. This article will introduce the term to designers so they can gain the same advantages that programmers have from a clear understanding.</p>
 

@@ -11,7 +11,7 @@ slug = "pe-le-lemos"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.peelelemos.com/"><img id='bluga-thumbnail-1151' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.peelelemos.com/"><img id='bluga-thumbnail-1151' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f303e89e345_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.peelelemos.com/">http://www.peelelemos.com/</a></p>

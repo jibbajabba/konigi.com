@@ -11,7 +11,7 @@ slug = "ricardo-maximo"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.rmaxstudio.com/rmax/index.htm"><img id='bluga-thumbnail-820' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.rmaxstudio.com/rmax/index.htm"><img id='bluga-thumbnail-820' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f279029d35c_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.rmaxstudio.com/rmax/index.htm">http://www.rmaxstudio.com/rmax/index.htm</a></p>

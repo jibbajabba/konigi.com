@@ -9,7 +9,7 @@ slug = "aaron-koblin-artfully-visualizing-our-humanity"
 
 
 
-  <div class="screenshot"><img src="http://farm3.static.flickr.com/2635/5765079290_93a160eff7_z.jpg" /></div>
+  <div class="screenshot"><img src="//farm3.static.flickr.com/2635/5765079290_93a160eff7_z.jpg" /></div>
 <p>From <a href="http://www.ted.com/talks/aaron_koblin.html">Aaron Koblin's TED presentation</a>:</p>
 <p>"Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the "Wilderness Downtown" video that customizes for the user, his works brilliantly explore how modern technology can make us more human."</p>
 <div class="video">

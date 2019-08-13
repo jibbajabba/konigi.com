@@ -8,7 +8,7 @@ slug = "clue-5-second-test-service"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.clueapp.com/"><img id="bluga-thumbnail-2819" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.clueapp.com/"><img id="bluga-thumbnail-2819" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt5231ac733887a_custom.jpg"/></a></div><p>Zurb's <a href="http://www.clueapp.com/">Clue</a> is another great 5 second test service. They describe it as a fun and easy way to test what people remember on your website.</p>
 
 <p>To use, enter a URL for a page you'd like to test, they generate a screenshot, and provide you with URLs for the test and the test report. Here's an example using this site: <a href="http://www.clueapp.com/27951">test</a> and <a href="http://www.clueapp.com/27951+">report</a>. Feel free to mock my home page at will. ;)</p>

@@ -9,7 +9,7 @@ slug = "what-makes-them-click"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.whatmakesthemclick.net/"><img src="http://media.konigi.com/bluga/wt4d3d7d006cc4f_large.jpg"/></a></div><p>I just started reading <a href="http://www.whatmakesthemclick.net/">What Makes Them Click</a>, Susan Weinschenk's blog for people who want to learn how to apply psychology to understand how people think, work, and relate.</p>
+  <div class="notebook-screenshot"><a href="http://www.whatmakesthemclick.net/"><img src="//media.konigi.com/bluga/wt4d3d7d006cc4f_large.jpg"/></a></div><p>I just started reading <a href="http://www.whatmakesthemclick.net/">What Makes Them Click</a>, Susan Weinschenk's blog for people who want to learn how to apply psychology to understand how people think, work, and relate.</p>
 
 <p>&quot;The blog focuses especially on applying the latest research in psychology to make you more effective, be more successful at your work and in your career, and get to know better why you and the people around you do what you do.&quot;</p>
 

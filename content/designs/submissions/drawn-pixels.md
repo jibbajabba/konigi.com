@@ -11,7 +11,7 @@ slug = "drawn-pixels"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.drawn2pixels.co.uk/"><img id='bluga-thumbnail-1259' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.drawn2pixels.co.uk/"><img id='bluga-thumbnail-1259' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt483163fed44e9_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.drawn2pixels.co.uk/">http://www.drawn2pixels.co.uk/</a></p>

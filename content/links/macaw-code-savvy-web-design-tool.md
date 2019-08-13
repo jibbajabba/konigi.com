@@ -8,7 +8,7 @@ slug = "macaw-code-savvy-web-design-tool"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://macaw.co/"><img id="bluga-thumbnail-2660" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://macaw.co/"><img id="bluga-thumbnail-2660" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522e556ae08c0_custom.jpg"/></a></div><p><a href="http://macaw.co/">Macaw</a> is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.</p>
 
 <p>There are some great optimizations for nudging/pudging on a grid, and for setting properties that make sense for css—thinking of positioning and dimensions.</p>

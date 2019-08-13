@@ -9,7 +9,7 @@ slug = "apple-tv-2-0-review"
 
 
 
-<p><img src="http://farm3.static.flickr.com/2086/2264703573_4e633e4413_o.png" class="notebook-image" /></p>
+<p><img src="//farm3.static.flickr.com/2086/2264703573_4e633e4413_o.png" class="notebook-image" /></p>
 <p>Apple TV owners got a software update pushed to their boxes this week, and Gizmodo <a href="http://gizmodo.com/355843/apple-tv-20-review">has a review of the software</a> complete with screenshots and a description of the rental and purchase services now offered. </p>
 <p>I was a bit disappointed by the update at first, but like my 6 year old son said on the second day, "I'm getting used to it." Gone is the simple, single panel with left/right hierarchical navigation. That has been replaced by a 2 panel columnar navigation--left side for parent and right for it's children. Once you select the child in the right panel, that screen is taken over by a full screen interface, e.g. Movies > My Movies > Full screen movie list. Once you adjust to that change, the interface is quite intuitive actually, but I would have preferred the option to use the older UI if I prefer. </p>
 <p>The UI for navigating your media is much simpler than that for navigating available video rentals. They've taken to using the full screen to navigate movie rentals by the movie's poster image (with titles is smaller type) which is neat at first, but less eficient than quickly scrolling a list of titles. It might be simpler for young children, being able browse through images rather than skim titles, but it would have been nice to have the option of switching between the two. </p>

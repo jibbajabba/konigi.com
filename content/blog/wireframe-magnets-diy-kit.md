@@ -20,7 +20,7 @@ slug = "wireframe-magnets-diy-kit"
   </div>
   <div class="columns small-12 medium-4">
     <h3>Download</h3>
-    <p><strong><a href="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets.pdf.zip">Download Version 1.0 (6/28/09)</a></strong><br />
+    <p><strong><a href="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets.pdf.zip">Download Version 1.0 (6/28/09)</a></strong><br />
     <span class="t10">This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.</span></p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
     <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />
@@ -35,13 +35,13 @@ slug = "wireframe-magnets-diy-kit"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-    <a href="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms.png" class="group" rel="group"><img src="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms-thumb.png" alt="" class="img-responsive" /></a>
+    <a href="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms.png" class="group" rel="group"><img src="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-forms-thumb.png" alt="" class="img-responsive" /></a>
   </div>
   <div class="columns small-12 medium-4">
-    <a href="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-tabs-buttonbars.png" class="group" rel="group"><img src="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-tabs-buttonbars-thumb.png" alt="" class="img-responsive" /></a>
+    <a href="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-tabs-buttonbars.png" class="group" rel="group"><img src="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-tabs-buttonbars-thumb.png" alt="" class="img-responsive" /></a>
   </div>
   <div class="columns small-12 medium-4">
-    <a href="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-windows-dialogs.png" class="group" rel="group"><img src="http://media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-windows-dialogs-thumb.png" alt="" class="img-responsive" /></a>
+    <a href="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-windows-dialogs.png" class="group" rel="group"><img src="//media.konigi.com/tools/wireframe-magnets/konigi-wireframe-magnets-windows-dialogs-thumb.png" alt="" class="img-responsive" /></a>
   </div>
 </div>
 

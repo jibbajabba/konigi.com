@@ -8,7 +8,7 @@ slug = "bootstrap-twitter"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://twitter.github.com/bootstrap/"><img id="bluga-thumbnail-2722" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://twitter.github.com/bootstrap/"><img id="bluga-thumbnail-2722" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522fee73e56fb_custom.jpg"/></a></div><p><a href="http://twitter.github.com/bootstrap/">Bootstrap</a> is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.</p>
 
   

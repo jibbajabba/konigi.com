@@ -11,7 +11,7 @@ slug = "design-and-elastic-mind"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.moma.org/exhibitions/2008/elasticmind/"><img id='bluga-thumbnail-882' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.moma.org/exhibitions/2008/elasticmind/"><img id='bluga-thumbnail-882' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f27919418b3_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.moma.org/exhibitions/2008/elasticmind/">http://www.moma.org/exhibitions/2008/elasticmind/</a></p>

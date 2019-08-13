@@ -9,7 +9,7 @@ slug = "yahoo-newsglobe-vs-wii-news-channel"
 
 
 
-<p><img src="http://farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg" alt="" class="notebook-image" /></p>
+<p><img src="//farm3.static.flickr.com/2009/2265266114_f0c37243ae.jpg" alt="" class="notebook-image" /></p>
 <p><a href="http://next.yahoo.net/download/newsglobe/">Yahoo! launched the News Globe</a>, which shows the top news stories of the day using a rotatable globe for navigation. The stories are depicted as red blocks stacked over geographic regions of the globe, with taller stacks indicating more stories. By default the interface will autoplay through the top stories, spinning the globe to get from story to story. Clicking a link to a news article jetisons you out of this otherworldly view of earth, and into text land on a separate page. It's a jarring experience.</p>
 <p>This attempt at providing a way to visualize top published news activity is cute, but it's nowhere near as useful as the interface provided by the Wii. Check out the interaction with the Wii News Channel below:</p>
 <div class="center marbot1">

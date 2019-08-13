@@ -19,4 +19,4 @@ slug = "photoshop-and-illustrator-grid-templates"
 <li><a href="../tools/illustrator-template-blueprint-css-comps.html">Adobe Illlustrator template</a></li>
 </ul>
     
-  <a href="../tools/overview.html">http://konigi.com/tools/overview</a>
+  <a href="../tools/overview.html">//konigi.com/tools/overview</a>

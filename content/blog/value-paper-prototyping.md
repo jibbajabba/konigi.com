@@ -9,7 +9,7 @@ slug = "value-paper-prototyping"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.smileycat.com/miaow/archives/001561.php"><img src="http://media.konigi.com/bluga/wt4a096a771aec5.jpg"/></a></div><p>Christian Watson discusses <a href="http://www.smileycat.com/miaow/archives/001561.php">how he uses paper prototypes</a>, showing a photo of a recent project he worked on.</p>
+  <div class="notebook-screenshot"><a href="http://www.smileycat.com/miaow/archives/001561.php"><img src="//media.konigi.com/bluga/wt4a096a771aec5.jpg"/></a></div><p>Christian Watson discusses <a href="http://www.smileycat.com/miaow/archives/001561.php">how he uses paper prototypes</a>, showing a photo of a recent project he worked on.</p>
 <blockquote><p>Rather than sketch the whole page on a sheet of paper, I prefer to draw out the various components of the page, cut them out, and Blu-Tack them to the paper. This makes it easy to change different elements, switch them around, etc, without having to redraw the whole page each time.</p>
 <p>Sketching out and adding individual components in this way enabled me to quickly come up with a general template layout. I then went back to particular features about which I had more concrete ideas and drew them out in more detail.</p>
 <p>...</p>

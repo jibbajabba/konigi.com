@@ -8,7 +8,7 @@ slug = "placekitten"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://placekitten.com/"><img id="bluga-thumbnail-2779" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://placekitten.com/"><img id="bluga-thumbnail-2779" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt5230b236a1d9e_custom.jpg"/></a></div><p><a href="http://placekitten.com/">{placekitten}</a>. Kittens for placeholder images, inspired by placeholder.it. Use at your own risk.</p>
 
 <p>See also: <a href="http://placedog.com/"><a href="http://placedog.com/">http://placedog.com/</a></a> and <a href="http://placesheen.com/"><a href="http://placesheen.com/">http://placesheen.com/</a></a></p>

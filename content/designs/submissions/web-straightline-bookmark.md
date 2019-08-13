@@ -11,7 +11,7 @@ slug = "web-straightline-bookmark"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://bm.straightline.jp/"><img id='bluga-thumbnail-943' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://bm.straightline.jp/"><img id='bluga-thumbnail-943' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f279e3e1245_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://bm.straightline.jp/">http://bm.straightline.jp/</a></p>

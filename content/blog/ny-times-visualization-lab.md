@@ -9,6 +9,6 @@ slug = "ny-times-visualization-lab"
 
 
 
-  <div class="notebook-screenshot"><a href="http://vizlab.nytimes.com/"><img src="http://media.konigi.com/notebook/nyt-manyeyes-vizlab.jpg" class="notebook-image" /></a></div><p>The New York Times teams up with IBM's Many Eyes project to provide word visualizations of data in the <a href="http://vizlab.nytimes.com/">Vizlab</a>.</p>
+  <div class="notebook-screenshot"><a href="http://vizlab.nytimes.com/"><img src="//media.konigi.com/notebook/nyt-manyeyes-vizlab.jpg" class="notebook-image" /></a></div><p>The New York Times teams up with IBM's Many Eyes project to provide word visualizations of data in the <a href="http://vizlab.nytimes.com/">Vizlab</a>.</p>
     
   <a href="http://vizlab.nytimes.com/">http://vizlab.nytimes.com/</a>

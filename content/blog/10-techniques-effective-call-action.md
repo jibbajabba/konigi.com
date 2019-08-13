@@ -9,7 +9,7 @@ slug = "10-techniques-effective-call-action"
 
 
 
-  <div class="notebook-screenshot"><a href="http://boagworld.com/design/10_techniques_for_an_effective/"><img src="http://media.konigi.com/notebook/effective-call-to-action.jpg" class="notebook-image" /></a></div><p>Boagworld looks at 10 ways to design an effective call to action.</p>
+  <div class="notebook-screenshot"><a href="http://boagworld.com/design/10_techniques_for_an_effective/"><img src="//media.konigi.com/notebook/effective-call-to-action.jpg" class="notebook-image" /></a></div><p>Boagworld looks at 10 ways to design an effective call to action.</p>
 <blockquote><p>Having an effective call to action is an essential part of any website. A call to action is not just limited to ecommerce sites. Every website should have an objective it wants users to complete whether it is filling in a contact form, signup for a newsletter or volunteering their time.</p>
 <p>A call to action provides...</p>
 <p>Focus to your site<br />

@@ -11,7 +11,7 @@ slug = "gq"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://men.style.com/gq"><img id='bluga-thumbnail-832' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://men.style.com/gq"><img id='bluga-thumbnail-832' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f279072c68c_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://men.style.com/gq">http://men.style.com/gq</a></p>

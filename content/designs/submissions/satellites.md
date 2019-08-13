@@ -11,7 +11,7 @@ slug = "satellites"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://satellites.moreorlessmyself.com/"><img id='bluga-thumbnail-818' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://satellites.moreorlessmyself.com/"><img id='bluga-thumbnail-818' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f27901ed132_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://satellites.moreorlessmyself.com/">http://satellites.moreorlessmyself.com/</a></p>

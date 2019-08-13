@@ -11,7 +11,7 @@ slug = "beercamp"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://2011.beercamp.com/"><img id='bluga-thumbnail-2472' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://2011.beercamp.com/"><img id='bluga-thumbnail-2472' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4d49bd0d8f030_large.jpg'/></a></div>  
   </div>   
 <p>Best zoomable user interface evah.</p>

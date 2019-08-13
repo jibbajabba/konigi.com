@@ -167,7 +167,7 @@ featuredimg = "//media.konigi.com/tools/text-snippets/text-snippets.png"
 </div>
 <div class="column">
 <h5>Wireframe Symbols</h5>
-<a href="http://media.konigi.com/tools/text-snippets/text-snippets.png" class="group"><img src="http://media.konigi.com/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
+<a href="//media.konigi.com/tools/text-snippets/text-snippets.png" class="group"><img src="//media.konigi.com/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
 <p><a href="https://konigi.mybalsamiq.com/projects/tools/Text+Snippets.bmml">Download Balsamiq BMML file</a></p>
 </div>
 </div>

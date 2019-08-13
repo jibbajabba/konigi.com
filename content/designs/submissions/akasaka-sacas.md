@@ -11,7 +11,7 @@ slug = "akasaka-sacas"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://sacas.net/"><img id='bluga-thumbnail-762' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://sacas.net/"><img id='bluga-thumbnail-762' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f275787f4d8.jpg'/></a></div>  
   </div>   
 <p><a href="http://sacas.net/">http://sacas.net/</a></p>

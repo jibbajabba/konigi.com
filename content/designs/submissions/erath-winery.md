@@ -11,7 +11,7 @@ slug = "erath-winery"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.erath.com/"><img id='bluga-thumbnail-1766' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.erath.com/"><img id='bluga-thumbnail-1766' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4a3bfb62e2b1e_0.jpg'/></a></div>  
   </div>   
 <p>From out of Oregon's Dundee Hills rolls a new web presence for its founding winery, those consummate Pinot masters who combine the "Art of Pinot" with the winemaker's pharmacological science to trample out the vintage where The Grapes Of Erath are stored at <a href="http://www.erath.com/" title="http://www.erath.com">http://www.erath.com</a>.</p>

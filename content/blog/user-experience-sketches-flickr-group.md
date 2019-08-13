@@ -9,7 +9,7 @@ slug = "user-experience-sketches-flickr-group"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.flickr.com/groups/uxsketches/"><img src="http://media.konigi.com/bluga/wt4a0ab3bf6238e_0.jpg"/></a></div><p>New <a href="http://www.flickr.com/groups/uxsketches/">UX sketch group</a> on Flickr. </p>
+  <div class="notebook-screenshot"><a href="http://www.flickr.com/groups/uxsketches/"><img src="//media.konigi.com/bluga/wt4a0ab3bf6238e_0.jpg"/></a></div><p>New <a href="http://www.flickr.com/groups/uxsketches/">UX sketch group</a> on Flickr. </p>
 <blockquote><p>This group is a collection of user experience sketches from a variety of designers solving a various problems from all around the world.</p>
 <p>A sketch is<br />
 1. Unpreciousness : Sketches are not precious and can destroyed to make room for more ideas.<br />

@@ -9,7 +9,7 @@ slug = "iphone-versus-tphone"
 
 
 
-<p><img src="http://farm3.static.flickr.com/2095/2231211262_4c7b34792c.jpg" alt="" class="notebook-image" /></p>
+<p><img src="//farm3.static.flickr.com/2095/2231211262_4c7b34792c.jpg" alt="" class="notebook-image" /></p>
 <p>Edward Tufte posted <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00036T&amp;topic_id=1">an essay and video with commentary about the iPhone</a>. Tufte is complimentary, for the most part, about the interface being predominantly free of administrative debris, but makes suggestions for how the iPhone can make better use of its screen resolution. As expected, his argument calls for more data density when possible.</p>
 <p>He notes that the iPhone has elegantly removed administrative clutter in many places, using the information as the interface. In reference to the iPhone's design of the weather widget, he says the following.</p>
 <blockquote><p>To clarify, add detail. Clutter and overload are not an attribute of information, they are failures of design. If the information is in chaos, don't start throwing out information. Instead fix the design. And that is exactly what the iPhone has done.</p></blockquote>

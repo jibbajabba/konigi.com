@@ -20,4 +20,4 @@ slug = "50-every-dollar-you-spend-will-go-charity-december"
 <h3>Participate</h3>
 <p>Thanks for participating with me. <a href="http://shop.konigi.com/?q=store">When you buy one of the Konigi products in the store</a>, you are making a small contribution to these philanthropic organizations . I will be doing an update to the icons to help entice you to make your purchase. I feel fortunate to have something to trade for dollars in donations, and to have the help of my friends and readers.</p>
     
-  <a href="http://shop.konigi.com/?q=store">http://konigi.com/store</a>
+  <a href="http://shop.konigi.com/?q=store">//konigi.com/store</a>

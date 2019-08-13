@@ -9,7 +9,7 @@ slug = "future-apple-1960s-braun"
 
 
 
-  <div class="notebook-screenshot"><a href="http://gizmodo.com/343641/1960s-braun-products-hold-the-secrets-to-apples-future"><img src="http://media.konigi.com/bluga/wt486587c6345d1.jpg"/></a></div><p><a href="http://gizmodo.com/343641/1960s-braun-products-hold-the-secrets-to-apples-future">Gizmodo</a> puts Dieter Rams' designs at Braun next to Jonathan Ives' designs at Apple.</p>
+  <div class="notebook-screenshot"><a href="http://gizmodo.com/343641/1960s-braun-products-hold-the-secrets-to-apples-future"><img src="//media.konigi.com/bluga/wt486587c6345d1.jpg"/></a></div><p><a href="http://gizmodo.com/343641/1960s-braun-products-hold-the-secrets-to-apples-future">Gizmodo</a> puts Dieter Rams' designs at Braun next to Jonathan Ives' designs at Apple.</p>
 <p>10 principles of design according to Rams:</p>
 <ul>
 <li>Good design is innovative.</li>

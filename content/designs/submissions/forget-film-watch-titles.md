@@ -11,7 +11,7 @@ slug = "forget-film-watch-titles"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.submarinechannel.com/titlesequences/index.jsp"><img id='bluga-thumbnail-809' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.submarinechannel.com/titlesequences/index.jsp"><img id='bluga-thumbnail-809' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f278ff46501_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.submarinechannel.com/titlesequences/index.jsp">http://www.submarinechannel.com/titlesequences/index.jsp</a></p>

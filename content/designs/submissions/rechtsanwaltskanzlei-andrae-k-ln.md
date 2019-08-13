@@ -11,7 +11,7 @@ slug = "rechtsanwaltskanzlei-andrae-k-ln"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.kanzlei-andrae.de/"><img id='bluga-thumbnail-1062' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.kanzlei-andrae.de/"><img id='bluga-thumbnail-1062' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f281dc4c199_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.kanzlei-andrae.de/">http://www.kanzlei-andrae.de</a></p>

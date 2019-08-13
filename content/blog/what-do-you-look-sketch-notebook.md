@@ -9,7 +9,7 @@ slug = "what-do-you-look-sketch-notebook"
 
 
 
-  <div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/wirebinder.jpg" class="notebook-image" /></div><p>It's getting kind of old skool over here in the home office. I haven't yet gotten around to talking about why I'm spending time on notepads and notebooks, and just how I use these things. But I'm going to post an article describing just that. This photo is just a teaser to let you know that I'm still working away at this sketch paper stuff because it's an itch that just won't go away.</p>
+  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/wirebinder.jpg" class="notebook-image" /></div><p>It's getting kind of old skool over here in the home office. I haven't yet gotten around to talking about why I'm spending time on notepads and notebooks, and just how I use these things. But I'm going to post an article describing just that. This photo is just a teaser to let you know that I'm still working away at this sketch paper stuff because it's an itch that just won't go away.</p>
 <p>That big old looking machine you see is a wire ring binder. I've been going through various needs I have for notebooks. I can't live without my Moleskine or Rhodia. One of them goes with me everywhere. Lately it's a Moleskine softcover plain notebook for my sketches, and a small cahier for my todo lists. These are great, but I still want a better notebook just for sketching user interfaces and interaction.</p>
 <p>There are a few things I look for:</p>
 <p>1) It lays flat and cover can fold over<br />

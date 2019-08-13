@@ -11,7 +11,7 @@ slug = "tandem-film-production"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.tandemfilm.com/"><img id='bluga-thumbnail-1515' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.tandemfilm.com/"><img id='bluga-thumbnail-1515' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt49abae28bfcae.jpg'/></a></div>  
   </div>   
 <p>Tandem Film is an independent film production company like no other, which affords professional services for both Romanian and foreign companies.</p>

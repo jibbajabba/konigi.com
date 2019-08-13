@@ -9,7 +9,7 @@ slug = "read-mobile-design-development-free-online"
 
 
 
-  <div class="notebook-screenshot"><a href="http://mobiledesign.org/"><img src="http://media.konigi.com/bluga/wt4d94cc3eba141_large.jpg"/></a></div><p>Brian Fling's book,  <em>Mobile Design & Development</em>, published by O'Reilly in 2009, is available to read in its entirety online. Fling says he says 75-80% of the content of the book (which is some 68,000 words) is up to date and extremely relevant as of March 2011.</p>
+  <div class="notebook-screenshot"><a href="http://mobiledesign.org/"><img src="//media.konigi.com/bluga/wt4d94cc3eba141_large.jpg"/></a></div><p>Brian Fling's book,  <em>Mobile Design & Development</em>, published by O'Reilly in 2009, is available to read in its entirety online. Fling says he says 75-80% of the content of the book (which is some 68,000 words) is up to date and extremely relevant as of March 2011.</p>
 
 <p>More from the author:</p>
 

@@ -11,7 +11,7 @@ slug = "pixmac-royalty-free-pictures-illustrations-photos-stock-images"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.pixmac.com/"><img id='bluga-thumbnail-1582' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.pixmac.com/"><img id='bluga-thumbnail-1582' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt49f853085d722_0.jpg'/></a></div>  
   </div>   
 <p>Over <b>3 millions</b> of professional royalty-free photos of about anything are available online through the PIXMAC microstock photobank (<a href="http://www.pixmac.com/" title="www.pixmac.com">www.pixmac.com</a>). Press, graphic designers or bloggers can order photographs they need.</p>

@@ -9,7 +9,7 @@ slug = "asbury-agile-2012-conference"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.asburyagile.com/"><img src="http://media.konigi.com/notebook/asburyagile.jpg" class="notebook-image" /></a></div><p><a href="http://www.asburyagile.com/">Asbury Agile</a> has launched the site for their second conference, which takes place in Asbury Park, the <a href="bruce-springsteen-creativity.html">The Boss'</a> stomping grounds, on October 3, 2012. I'm honored to be one of the guest speakers, to give a talk on interface sketching. There'll be an awesome cast of speakers including Chris Ackermann, Matt Bango, Brad Frost, Sasha Laundy, Kenneth Reitz, Tomer Sharon, Rob Spectre, Srjdjan Strbanovic. Early bird tickets are now available (save $50).</p>
+  <div class="notebook-screenshot"><a href="http://www.asburyagile.com/"><img src="//media.konigi.com/notebook/asburyagile.jpg" class="notebook-image" /></a></div><p><a href="http://www.asburyagile.com/">Asbury Agile</a> has launched the site for their second conference, which takes place in Asbury Park, the <a href="bruce-springsteen-creativity.html">The Boss'</a> stomping grounds, on October 3, 2012. I'm honored to be one of the guest speakers, to give a talk on interface sketching. There'll be an awesome cast of speakers including Chris Ackermann, Matt Bango, Brad Frost, Sasha Laundy, Kenneth Reitz, Tomer Sharon, Rob Spectre, Srjdjan Strbanovic. Early bird tickets are now available (save $50).</p>
 
 <p>Asbury Agile is a friendly, single track conference for  web professionals and students to gather, share ideas, learn, and connect with their peeps. The event lakes place at Watermark, in Asbury Park, NJ. You can follow <a href="https://twitter.com/asburyagile">@asburyagile</a> for event updates.</p>
 

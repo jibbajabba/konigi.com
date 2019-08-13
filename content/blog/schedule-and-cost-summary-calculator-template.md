@@ -17,4 +17,4 @@ slug = "schedule-and-cost-summary-calculator-template"
 <p>I hope this is useful to someone out there. I know there are other tools to do this sort of thing, but it never hurts to see examples of how others' get things like this done.</p>
 <p>And no, I don't freelance anymore. I just hated to see this go to waste. </p>
     
-  <a href="../tools/schedule-and-cost-summary-calculator.html">http://konigi.com/tools/schedule-and-cost-summary-calculator</a>
+  <a href="../tools/schedule-and-cost-summary-calculator.html">//konigi.com/tools/schedule-and-cost-summary-calculator</a>

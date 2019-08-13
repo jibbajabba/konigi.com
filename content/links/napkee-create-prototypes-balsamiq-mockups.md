@@ -8,7 +8,7 @@ slug = "napkee-create-prototypes-balsamiq-mockups"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.napkee.com/"><img id="bluga-thumbnail-2714" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.napkee.com/"><img id="bluga-thumbnail-2714" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522fe990dd9c9_custom.jpg"/></a></div><p class="dek"><a href="http://www.napkee.com/">Napkee</a> is a very exciting tool that extends the quick and easy wireframing process in <a href="http://www.balsamiq.com/">Balsamiq Mockups</a> by importing your Balsamiq files and generating interactive prototypes in Flex or HTML version.</p>
 <p>To start off, you build your series of wireframes in Mockups, optionally creating links between pages. The screenshot below shows a wireframe of a fictional news site I created to try it out. I mocked up a site home page, and a login screen for my test.</p>
 <div class="screenshot"><img src="http://konigi.s3.amazonaws.com/tools/external/napkee/newsco.png" /></div>

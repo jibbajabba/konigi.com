@@ -16,4 +16,4 @@ slug = "travis-isaacs-demonstrates-keynote-wireframe-toolkit"
 </div>
 <p>You can <a href="http://shop.konigi.com/product/keynote-wireframe-toolkit?q=store/product/keynote-wireframe-toolkit">purchase Travis' Keynote Wireframe Toolkit</a> here on Konigi.</p>
     
-  <a href="http://shop.konigi.com/product/keynote-wireframe-toolkit?q=store/product/keynote-wireframe-toolkit">http://konigi.com/store/product/keynote-wireframe-toolkit</a>
+  <a href="http://shop.konigi.com/product/keynote-wireframe-toolkit?q=store/product/keynote-wireframe-toolkit">//konigi.com/store/product/keynote-wireframe-toolkit</a>

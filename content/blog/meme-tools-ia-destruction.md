@@ -9,7 +9,7 @@ slug = "meme-tools-ia-destruction"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.flickr.com/photos/digitalweb/2967550700/"><img src="http://media.konigi.com/notebook/toolsofiadestruction.jpg" class="notebook-image" /></a></div><p>Nick Finck picked up on my habit of taking pictures of my sketching tools and such and <a href="http://www.flickr.com/photos/digitalweb/2967550700/">memified it</a> with his Tools of IA Destruction desk shot. </p>
+  <div class="notebook-screenshot"><a href="http://www.flickr.com/photos/digitalweb/2967550700/"><img src="//media.konigi.com/notebook/toolsofiadestruction.jpg" class="notebook-image" /></a></div><p>Nick Finck picked up on my habit of taking pictures of my sketching tools and such and <a href="http://www.flickr.com/photos/digitalweb/2967550700/">memified it</a> with his Tools of IA Destruction desk shot. </p>
 <blockquote><p>MEME: Take a snap of your writing tools and pads/notebooks and upload it to Flickr, mark all of the tools you use, tag it with TOD and "toold of destruction", and share it with your friends.</p>
 <p>Note: You can switch out "IA" for "Design" or "Copywriting" or whatever it is you like to do! </p></blockquote>
 <p>Here's the one that started it. Check the <a href="http://www.flickr.com/photos/jibbajabba/2967339314/" title="Need a bigger pencil holder by jibbajabba, on Flickr">Flickr page</a> for notes.</p>

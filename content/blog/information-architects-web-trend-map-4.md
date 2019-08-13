@@ -9,6 +9,6 @@ slug = "information-architects-web-trend-map-4"
 
 
 
-  <div class="notebook-screenshot"><a href="http://informationarchitects.jp/web-trend-map-4-final-beta/"><img src="http://media.konigi.com/notebook/iajp-webtrendmap-4.jpg" class="notebook-image" /></a></div><p>Information Architects, Japan, post their 4th <a href="http://informationarchitects.jp/web-trend-map-4-final-beta/">Web Trends map</a>. They'll only be printing 1,000 copies.</p>
+  <div class="notebook-screenshot"><a href="http://informationarchitects.jp/web-trend-map-4-final-beta/"><img src="//media.konigi.com/notebook/iajp-webtrendmap-4.jpg" class="notebook-image" /></a></div><p>Information Architects, Japan, post their 4th <a href="http://informationarchitects.jp/web-trend-map-4-final-beta/">Web Trends map</a>. They'll only be printing 1,000 copies.</p>
     
   <a href="http://informationarchitects.jp/web-trend-map-4-final-beta/">http://informationarchitects.jp/web-trend-map-4-final-beta/</a>

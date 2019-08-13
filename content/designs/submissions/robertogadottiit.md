@@ -11,7 +11,7 @@ slug = "robertogadottiit"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.robertogadotti.it/"><img id='bluga-thumbnail-2255' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.robertogadotti.it/"><img id='bluga-thumbnail-2255' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4b41b122d7dca_large.jpg'/></a></div>  
   </div>   
 <p>a new vers ready for 2010<br />

@@ -8,7 +8,7 @@ slug = "random-user-generator"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://randomuser.me/"><img id="bluga-thumbnail-2657" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://randomuser.me/"><img id="bluga-thumbnail-2657" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522795038a56f_custom.jpg"/></a></div><p><a href="http://randomuser.me/">RandomUser</a> is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information.</p>
 
   

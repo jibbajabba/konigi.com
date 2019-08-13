@@ -11,7 +11,7 @@ slug = "analogue"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.analogue.ca/main.html"><img id='bluga-thumbnail-898' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.analogue.ca/main.html"><img id='bluga-thumbnail-898' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt47f279d2adb72_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.analogue.ca/main.html">http://www.analogue.ca/main.html</a></p>

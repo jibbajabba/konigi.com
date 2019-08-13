@@ -16,4 +16,4 @@ slug = "minor-omnigraffle-ux-template-update-grid-and-guide-fixes"
 <p><a href="../tools/omnigraffle-ux-template.html">Update your templates here</a>.</p>
 
     
-  <a href="../tools/omnigraffle-ux-template.html">http://konigi.com/tools/omnigraffle-ux-template</a>
+  <a href="../tools/omnigraffle-ux-template.html">//konigi.com/tools/omnigraffle-ux-template</a>

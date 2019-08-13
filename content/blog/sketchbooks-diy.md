@@ -32,7 +32,7 @@ slug = "sketchbooks-diy"
     <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" />
     </form><br />
     <a href="http://farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg" class="group left" rel="group"><img src="http://farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg"  class="img-responsive"></a>
-    <a href="http://media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="http://media.konigi.com/tools/sketchbooks-diy/wirebinding-thumb.jpg" class="img-responsive" /></a>
+    <a href="//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/wirebinding-thumb.jpg" class="img-responsive" /></a>
   </div>
 </div>
 
@@ -84,17 +84,17 @@ slug = "sketchbooks-diy"
 <div class="row">
   <div class="columns small-12 medium-4">
     <h4>1. Measure</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/1.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/1.jpg" class="img-responsive">
     <p>Measure stack of paper, front cover and back cover against the binder's coil guide. This will tell you what size coil to use. I typically create 50-60 page notebooks with a 3/4" 2:1 coil.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>2. Hang your coils</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/2.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/2.jpg" class="img-responsive">
     <p>Hang your coils on the coil holder on the front of the binder.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>3. Punch envelope</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/3.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/3.jpg" class="img-responsive">
     <p>Punch envelope first and place with front of envelope facing forward.</p>
   </div>
 </div>
@@ -102,17 +102,17 @@ slug = "sketchbooks-diy"
 <div class="row">
   <div class="columns small-12 medium-4">
     <h4>4. Punch paper</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/4.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/4.jpg" class="img-responsive">
     <p>Punch paper in sets and place on coils, repeat until all placed.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>5. Punch front cover</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/5.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/5.jpg" class="img-responsive">
     <p>Punch front cover and place on coils, with front of cover facing forward.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>6. Punch back cover</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/6.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/6.jpg" class="img-responsive">
     <p>Punch back cover and place on coils, with inside facing forward.</p>
   </div>
 </div>
@@ -120,17 +120,17 @@ slug = "sketchbooks-diy"
 <div class="row">
   <div class="columns small-12 medium-4">
     <h4>7. Cut coils</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/7.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/7.jpg" class="img-responsive">
     <p> Cut coils to end of book edge.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>8. Close coils</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/8.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/8.jpg" class="img-responsive">
     <p>Pull the stack off of the binder, and rest with open coil side down on the coil squeezer. Pull lever to close coils.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>9. Flip over & enjoy</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/9.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/9.jpg" class="img-responsive">
     <p>Flip over the back cover. You'll notice that because you hung the envelope and paper first, the inwardly-turned part of the coil should keep paper from sliding out of the rings.</p>
   </div>
 </div>
@@ -142,17 +142,17 @@ slug = "sketchbooks-diy"
 <div class="row tutorial">
   <div class="columns small-12 medium-4">
     <h4>1. Punch back cover</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/10.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/10.jpg" class="img-responsive">
     <p>Create a cardboard rig to place your eyelets evenly on the back and use a clamp or bulldog clips to hold the cover and jig together. Use your punch and mallet to punch two holes at the corners about 1" in from each side. The wooden mallet works well with a small anvil.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>2. Insert elastic & eyelet</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/11.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/11.jpg" class="img-responsive">
     <p>Cut 1/4" elastic bands. I measure to the length of the edge of book that will be wrapped and add 2-3 inches for the books above. Thread the elastic through your holes and leave 1/2" hanging on the inside. Push the eyelets through the holes, outside facing the back.</p>
   </div>
   <div class="columns small-12 medium-4">
     <h4>3. Close eyelets</h4>
-    <img src="http://media.konigi.com/tools/sketchbooks-diy/12.jpg" class="img-responsive">
+    <img src="//media.konigi.com/tools/sketchbooks-diy/12.jpg" class="img-responsive">
     <p>Use your eyelet crimping tool to snap closed the open end and fasten the elastic to the back cover. Make sure you're using the right end of the eyelet tool or else they won't close properly and cleanly. You can now cut that excess 1/2" of elastic from the inside back cover.</p>
   </div>
 </div>
@@ -175,7 +175,7 @@ slug = "sketchbooks-diy"
     <p><strong><a href="http://www.staples.com/sbd/cre/marketing/arc/">Staples Arc</a></strong><br>The big box retailer now sells it's own inexpensive disk system.</p>
   </div>
   <div class="columns small-12 medium-4">
-    <a href="http://media.konigi.com/tools/sketchbooks-diy/rollabinding.jpg" class="group" rel="group"><img src="http://media.konigi.com/tools/sketchbooks-diy/rollabinding-thumb.jpg" class="img-responsive"></a>
+    <a href="//media.konigi.com/tools/sketchbooks-diy/rollabinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/rollabinding-thumb.jpg" class="img-responsive"></a>
   </div>
 </div>
 

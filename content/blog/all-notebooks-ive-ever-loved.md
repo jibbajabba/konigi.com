@@ -9,7 +9,7 @@ slug = "all-notebooks-ive-ever-loved"
 
 
 
-  <div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/rhodias.jpg" class="notebook-image" /></div><p>I recently talked to someone about the graph/grid paper books I've acquired over the years which have become a central part of my process. This is a listing of those pads, and a telling of their virtues. </p>
+  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/rhodias.jpg" class="notebook-image" /></div><p>I recently talked to someone about the graph/grid paper books I've acquired over the years which have become a central part of my process. This is a listing of those pads, and a telling of their virtues. </p>
 <h2>Rhodia</h2>
 <p>This is my workhorse. At first I didn't get why so many designers carried these around, until I got my hands on one. To me the Rhodias are an all-around notepad for in office or outside use. They're well constructed and durable. They have the nicest covers of all the notepads, so portability/carry-ability is what this notepad is about. The cover is hefty and scored so you can fold it back and out of the way. I sometimes dislike the violet hue of the gridlines and paper.</p>
 <p>A5 is my basic sketch pad. I do thumbnail sketches on it before doing a detailed version on my letter-sized graph paper. It's reasonably priced considering the quality.</p>

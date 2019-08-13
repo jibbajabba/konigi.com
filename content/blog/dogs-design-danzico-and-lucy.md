@@ -9,7 +9,7 @@ slug = "dogs-design-danzico-and-lucy"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp"><img src="http://media.konigi.com/bluga/wt4c1a293c95c99_large.jpg"/></a></div><p>Core77's Sarah Cox wrote <a href="http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp">a lovely article</a> after talking with <a href="http://bobulate.com/">Liz Danzico</a> about her thoughts on interaction design, life with her dog Lucy and communicating simply and humanly. Below is her summary of what dogs can teach us about interaction design.</p>
+  <div class="notebook-screenshot"><a href="http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp"><img src="//media.konigi.com/bluga/wt4c1a293c95c99_large.jpg"/></a></div><p>Core77's Sarah Cox wrote <a href="http://www.core77.com/blog/featured_items/dogs_on_design_danzicos_obedient_vizsla__16733.asp">a lovely article</a> after talking with <a href="http://bobulate.com/">Liz Danzico</a> about her thoughts on interaction design, life with her dog Lucy and communicating simply and humanly. Below is her summary of what dogs can teach us about interaction design.</p>
 
 <p><strong>1. It's important to know who is in charge.</strong> Just like training a pet, a designer need to establish a rapport with clients that mixes trust and expertise.</p>
 

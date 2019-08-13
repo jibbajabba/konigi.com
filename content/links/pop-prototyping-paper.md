@@ -8,7 +8,7 @@ slug = "pop-prototyping-paper"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://popapp.in/"><img id="bluga-thumbnail-2690" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://popapp.in/"><img id="bluga-thumbnail-2690" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522fbc659f7f7_custom.jpg"/></a></div><p><a href="http://popapp.in/">POP</a> is an iPhone app that lets you take pictures of your sketches, and map areas on each screen to create simple click-through prototypes.</p>
 
   

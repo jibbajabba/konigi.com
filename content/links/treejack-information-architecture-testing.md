@@ -8,7 +8,7 @@ slug = "treejack-information-architecture-testing"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.optimalworkshop.com/treejack.htm"><img id="bluga-thumbnail-2732" class="bluga-thumbnail custom" src="http://media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.optimalworkshop.com/treejack.htm"><img id="bluga-thumbnail-2732" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
 wt522ffa93a86b5_custom.jpg"/></a></div><p><a href="http://www.optimalworkshop.com/treejack.htm">Treejack</a> is a tool to help you test the effectiveness of an information architecture.&nbsp; Use it to find out which categories are strong, which labels need tweaking and what tasks people are struggling with.&nbsp; Because you can upload an existing or proposed IA, and test with participants remotely, you get rapid feedback at a fraction of the cost of in-person testing.</p>
 <p>Often, usability testing only reveals flaws with the interaction and interface elements.&nbsp; Treejack is a way to effectively test the quality of an information architecture itself.</p>
 <p>Here is an example of a Treejack survey that a participant may complete:</p>

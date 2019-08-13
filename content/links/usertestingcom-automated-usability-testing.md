@@ -12,13 +12,13 @@ slug = "usertestingcom-automated-usability-testing"
 <p>You might think of this as a series of task-oriented usability test sessions where you only need enter a number of tasks for a test that will take approximately 15 minutes, enter the demographics (age, income) and technographics (computer experience) for the user you'd like to target. <a href="http://www.usertesting.com/">UserTesting</a> has a pool of paid testers who accept sessions, view your site with a floating layer that shows the tasks to complete while they record their voice, mouse clicks and movements, and page changes. Finally, the service asks the user to fill out a follow up survey. The cost is tiered by number of users per session. </p>
 <p><strong>Here's how it works:</strong></p>
 <p>1. You sign up for user testing, specifying the demographic profile of your target audience, how many users you want, and what tasks you want them to perform on your site. You can optionally enter more information about your user requirements, or enter names of specific UserTesting users you my have worked with in the past.</p>
-<div class="screenshot"><img src="http://media.konigi.com/tools/external/usertesting-1.png" alt="signup" /></div>
+<div class="screenshot"><img src="//media.konigi.com/tools/external/usertesting-1.png" alt="signup" /></div>
 <p>2. Usertesting notifies users. When users have accepted your test, the status change appears in your control panel. Completed tests can be viewed from this page or via an email notification.</p>
-<div class="screenshot"><img src="http://media.konigi.com/tools/external/usertesting-2.png" /></div>
+<div class="screenshot"><img src="//media.konigi.com/tools/external/usertesting-2.png" /></div>
 <p>3. Users record their screen and voice as they use your website, speaking their thoughts as they browse. You watch and listen to them use your site. Each user's session - mouse movements, clicks, keystrokes, and spoken comments - is saved as a Flash video for you to watch.</p>
-<div class="screenshot"><img src="http://media.konigi.com/tools/external/usertesting-4.png" /></div>
+<div class="screenshot"><img src="//media.konigi.com/tools/external/usertesting-4.png" /></div>
 <p>4. Finally you are able to read a summary the user enters at the end of hte session: What they liked, didn’t like, what would have caused them to leave your site.</p>
-<div class="screenshot"><img src="http://media.konigi.com/tools/external/usertesting-3.png" /></div>
+<div class="screenshot"><img src="//media.konigi.com/tools/external/usertesting-3.png" /></div>
 <p><strong>Observations</strong></p>
 <p>The product seems targeted at companies that don't have a person on staff with experience doing user testing, who don't want to invest in time for preparing and facilitating test sessions, or who don't want to hire a usability consultant. Seems promising on the surface, but I think it's not without challenges. </p>
 <p>A few things stand out from my brief demo. Without the physical presence at sessions, follow-up questions to specific tasks have to be scripted as part of the given script, and you cannot ask follow up questions while the test is in session. On the positive side, you can't lead tasks at all, but a facilitator with experience wouldn't be likely to fall into that trap. The forms make some good suggestions for typical tasks and follow up questions and how to word them.</p>

@@ -9,6 +9,6 @@ slug = "infographic-designs-overview-examples-and-best-practices"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/"><img src="http://media.konigi.com/bluga/wt4a366ba20a6c6_0.jpg"/></a></div><p>Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. <a href="http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/">View them all at Infoshift</a>.</p>
+  <div class="notebook-screenshot"><a href="http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/"><img src="//media.konigi.com/bluga/wt4a366ba20a6c6_0.jpg"/></a></div><p>Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. <a href="http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/">View them all at Infoshift</a>.</p>
     
   <a href="http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/">http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/</a>

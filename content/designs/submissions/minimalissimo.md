@@ -11,7 +11,7 @@ slug = "minimalissimo"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://minimalissimo.com/"><img id='bluga-thumbnail-1898' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://minimalissimo.com/"><img id='bluga-thumbnail-1898' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4aba024084325_0.jpg'/></a></div>  
   </div>   
 <p>Minimalissimo practices what they preach. They blog about all type of minimalist design, and their own design is really just that: minimalist.</p>

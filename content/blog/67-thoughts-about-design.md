@@ -9,7 +9,7 @@ slug = "67-thoughts-about-design"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.tompeters.com/entries.php?note=010419.php"><img src="http://media.konigi.com/bluga/wt4846cf497072e.jpg"/></a></div><p>Tom Peters does <a href="http://www.tompeters.com/entries.php?note=010419.php">a brain dump</a> of the main ideas he's discussed about design in the past 15 years. In his list, he drops some thoughts that simply reflect the era of the present and past 15 years, and in others he provides nuggets of wisdom. Here's a sampling.</p>
+  <div class="notebook-screenshot"><a href="http://www.tompeters.com/entries.php?note=010419.php"><img src="//media.konigi.com/bluga/wt4846cf497072e.jpg"/></a></div><p>Tom Peters does <a href="http://www.tompeters.com/entries.php?note=010419.php">a brain dump</a> of the main ideas he's discussed about design in the past 15 years. In his list, he drops some thoughts that simply reflect the era of the present and past 15 years, and in others he provides nuggets of wisdom. Here's a sampling.</p>
 <ul>
 <li>Everybody's doin' it</li>
 <li>Small things are often (usually?) more important than big things.<br />

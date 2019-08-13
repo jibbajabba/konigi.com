@@ -15,6 +15,6 @@ slug = "fourth-annual-blue-beanie-day"
 <p>Twitter - <a href="http://twitter.com/BlueBeanieDay" title="http://twitter.com/BlueBeanieDay">http://twitter.com/BlueBeanieDay</a> or search #bbd4<br />
 PlanCast - <a href="http://plancast.com/p/2kuh" title="http://plancast.com/p/2kuh">http://plancast.com/p/2kuh</a><br />
 Flickr - <a href="http://www.flickr.com/groups/bluebeanieday2010/" title="http://www.flickr.com/groups/bluebeanieday2010/">http://www.flickr.com/groups/bluebeanieday2010/</a></p>
-<p><small>You can have my <a href="http://media.konigi.com/notebook/bluebeanie-8bit.psd.zip">8 bit beanie PSD here/</a></p>
+<p><small>You can have my <a href="//media.konigi.com/notebook/bluebeanie-8bit.psd.zip">8 bit beanie PSD here/</a></p>
     
   <a href="http://www.facebook.com/event.php?eid=153180248051749">http://www.facebook.com/event.php?eid=153180248051749</a>

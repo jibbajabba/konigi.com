@@ -11,7 +11,7 @@ slug = "sugagloss"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.sugagloss.co.uk/"><img id='bluga-thumbnail-2335' class='bluga-thumbnail large' src='http://media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.sugagloss.co.uk/"><img id='bluga-thumbnail-2335' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
 wt4ba26d66e213e_large.jpg'/></a></div>  
   </div>   
 <p>Sugagloss, a top end retailer of exclusive adult accessories, underwear and gifts.</p>
