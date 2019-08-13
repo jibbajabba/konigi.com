@@ -13,7 +13,7 @@ slug = "heuristic-evaluation"
 <h2 id="toc0">Definition</h2>
 <p>Heuristic evaluation is a discount usability engineering method for quick, cheap, and easy evaluation of a user interface design.</p>
 
-<p>Heuristic evaluation is the most popular of the usability inspection methods. Heuristic evaluation is done as a systematic inspection of a user interface design for usability. The goal of heuristic evaluation is to find the usability problems in the design so that they can be attended to as part of an iterative design process. Heuristic evaluation involves having a small set of evaluators examine the interface and judge its compliance with recognized usability principles (the &quot;heuristics&quot;).</p>
+<p>The technique developed by Jakob Nielsen is a systematic inspection of a user interface against usability principles. Evaluation involves having a small set of evaluators examine the interface and judge its compliance with recognized usability principles (the "heuristics”) with the goal of find attending to problems as part of an iterative design process.</p>
 
 <p>Source: &quot;<a href="http://www.useit.com/papers/heuristic/">Heuristic Evaluation</a>.&quot; By Jakob Nielsen. <em>useit</em>.</p>
 
