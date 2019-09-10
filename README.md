@@ -8,6 +8,5 @@ HUGO
 kdev or 
 hugo server watch
 
-AWS
-kdeploy = add new content
-ksync = remove deletions
+DEPLOY
+Commit to Github and Netlify automatically deploys

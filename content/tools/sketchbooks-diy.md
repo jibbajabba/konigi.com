@@ -26,7 +26,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
 <div class="column">
 <p> It was a great experience, and a lot of people put up with the progressive quality improvements in each phase.</p>
 <p>After a few years making and selling my sketchbooks, I stopped. I've had many requests to stock them again, but in the end the time and effort to devote to this business of designing and selling atoms, and improving the product costs more to me than I have to give. I've decided to just tell you how I make mine and give you the printable sheets, links to resources, and the steps to make your own.</p>
-<p>The easiest method for binding your own sketchbooks would be to take paper (either plain white, or <a href="graph-paper.html">printable graphpaper</a>) to your local copy shop and have them wirebind your pages together. The suggestions below might help if you want to invest in a binding machine and do it yourself like I do.</p>
+<p>The easiest method for binding your own sketchbooks would be to take paper (either plain white, or <a href="/tools/graph-paper/">printable graphpaper</a>) to your local copy shop and have them wirebind your pages together. The suggestions below might help if you want to invest in a binding machine and do it yourself like I do.</p>
 </div>
 <div class="column">
 <p><strong>This project was fueled by coffee.</strong><br />Your donation keeps me wired and makin' stuff.</p>
@@ -49,8 +49,8 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   <div class="column">
 <h3>Equipment</h3>
 <p>I use a wire binding machine to do all of my own personal sketchbooks, using the double-ring style binding closure, also called wire-o or twin-loop. I prefer this style of binding because it lays flat, and the cover can be folded back on itself to make it easy to keep a small book on your lap or desk.</p>
-<p>The machine in the pictures on the top right of this page is the <a href="//akiles.com/product_select.php?&amp;category_id=1">Akiles Wiremac Duo</a>. It's not inexpensive, but it gave me the most flexibility when it came to binding both large and small books. It's a heavy machine with a 16" x 17" footprint, but it's made to work hard and last a long time. I've bound hundreds of books with this one and it still works like new.</p>
-<p>At the lowest end is a  an inexpensive little craft product called the <a href="//binditall.com/Products.html">Bind it All</a> that makes mini-wirebound books, but you can also shift the paper along the binder to bind bigger books. Seems like a time consuming chore, but people like it for little craft projects, so I assume it might work for smaller wire bound books too.</p>
+<p>The machine in the pictures on the top right of this page is the <a href="https://akiles.com/product-category/binding/">Akiles Wiremac Duo</a>. It's not inexpensive, but it gave me the most flexibility when it came to binding both large and small books. It's a heavy machine with a 16" x 17" footprint, but it's made to work hard and last a long time. I've bound hundreds of books with this one and it still works like new.</p>
+<p>At the lowest end is a  an inexpensive little craft product called the <a href="https://www.google.com/search?q=zutter+bind+it+all">Bind it All</a>, a mini-wirebound books, but you can also shift the paper along the binder to bind bigger books. Seems like a time consuming chore, but people like it for little craft projects, so I assume it might work for smaller wire bound books too.</p>
   </div>
   <!-- col2 -->
   <div class="column">
@@ -70,7 +70,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
 <p>Shop around. There may be more affordable sources out there than what I've used.</p>
 <ul>
 <li>Heavy stock/chipboard for front and back cover. MyBinding sells them in <a href="//www.mybinding.com/.sc/ms/dd/ee/51376/8.5-x-11-Letter-Size-24pt-Chipboard-Covers-25pk">letter size</a>.</li>
-<li>Paper (blank, <a href="graph-paper.html">graphpaper</a>, whatever)</li>
+<li>Paper (blank, <a href="/tools/graph-paper/">graphpaper</a>, whatever)</li>
 <li>Wire-O coils</li>
 <li>Envelope or Pocket stock (optional)</li>
 <li>1/4" elastic, eyelets, eyelet puncher, wooden mallet, anvil, eyelet closing tool  (optional)</li>
@@ -201,9 +201,8 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   </div>
   <!-- col2 -->
   <div class="column">
-<p><strong><a href="//www.rollabind.com/">Rollabind</a></strong><br />Makes personal and office-sized punches, and sells paper and covers for their system. This is the same system as Circa.</p>
-<p><strong><a href=//www.levenger.com/PAGETEMPLATES/NAVIGATION/PRDPREVIEW.ASP?Params=category=326-328|level=2-3%22>Levenger</a></strong><br />Sells personal punches and paper for the Rollabind system, rebranded under the Circa name.</p>
-<p><strong><a href="//www.atoma.be/en/atoma-notebooks.php">Atoma</a></strong><br />A disk-binding system made and fulfilled by a company in Europe. I don't have experience with this one, but it looks about the same as Rolla.</p>
+<p><strong><a href=//www.levenger.om/">Levenger</a></strong><br />Sells personal punches and paper products for the Circa system.</p>
+<p><strong><a href="//www.atoma.be/">Atoma</a></strong><br />A disk-binding system made and fulfilled by a company in Europe. I don't have experience with this one, but it looks about the same as Rollabind and Circa.</p>
   </div>
   <!-- col3 -->
   <div class="column">
@@ -224,7 +223,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   </div>
   <!-- col2 -->
   <div class="column">
-<p>Tim Liston pointed me to an inexpensive wooden binder called the <a href="//www.paddingpressmagic.com/">Pad Magic Paper Padding Press</a> that looks decent for DIYers doing small runs. The free <a href="graph-paper.html">printable graphpaper</a> sheets on this site are perfect for this.
+<p>Tim Liston pointed me to an inexpensive wooden binder called the <a href="//www.paddingpressmagic.com/">Pad Magic Paper Padding Press</a> that looks decent for DIYers doing small runs. The free <a href="/tools/graph-paper/">printable graphpaper</a> sheets on this site are perfect for this.
   </div>
   <!-- col3 -->
   <div class="column">
