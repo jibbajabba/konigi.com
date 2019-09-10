@@ -24,9 +24,15 @@ For more on this topic, refer to the articles below.
 * ["Unmoderated Remote Usability Testing (URUT) - Every Step You Take, We Won’t Be Watching You,"](https://www.interaction-design.org/literature/article/unmoderated-remote-usability-testing-urut-every-step-you-take-we-won-t-be-watching-you) Interaction Design Foundation.
 
 ## Services
+* [Helio](https://helio.app/) 
 * [IntelliZoom](https://www.intellizoom.com/)
+* [Lookback.io](https://lookback.io/)
 * [Loop11](https://www.loop11.com/)
+* [Optimal Workshop Chalkmark](https://www.optimalworkshop.com/chalkmark)
+* [Testapic](https://www.testapic.com/en/)
 * [Try My UI](https://www.trymyui.com/)
-* [Userlytics](https://www.userlytics.com/)
+* [Usability Hub](https://usabilityhub.com/)
 * [User Testing](https://www.usertesting.com/)
 * [User Zoom](https://www.userzoom.com/)
+* [Userlytics](https://www.userlytics.com/)
+* [Validately](https://validately.com/)
