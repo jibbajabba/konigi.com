@@ -6,7 +6,7 @@ title = "Unmoderated Remote Usability Testing"
 slug = "unmoderated-remote-usability-testing"
 href= ""
 summary="Performing remote usability tests without a human moderator."
-featuredimg = ""
+featuredimg = "//media.konigi.com/art/046.png"
 
 +++
 
