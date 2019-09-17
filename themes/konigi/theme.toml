@@ -1,11 +1,12 @@
+title = "Konigi"
 name = "Konigi"
 license = "MIT"
 licenselink = "https://github.com/.../.../LICENSE.md"
+baseURL = "https://konigi.com/"
+homepage = "https://konigi.com/"
 description = ""
-homepage = "http://konigi.com/"
 tags = ["konigi", "blog"]
 features = ["sections", "pages", "summaries", "href", "featuredimg"]
 
 [author]
   name = "Michael Angeles"
-  homepage = "http://konigi.com"
