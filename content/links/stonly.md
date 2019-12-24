@@ -2,7 +2,7 @@
 date = 2019-08-09T10:26:55-07:00
 categories = ["links"]
 tags = ["links", "support", "onboarding", "guides"]
-title = "Stonly"
+title = "Stonly: Step by step guides"
 slug = "stonly"
 href= "https://stonly.com/"
 summary="A widget for creating guides and explainers."
