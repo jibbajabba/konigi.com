@@ -1,8 +1,8 @@
+baseURL = "https://konigi.com/"
 title = "Konigi"
 name = "Konigi"
 license = "MIT"
 licenselink = "https://github.com/.../.../LICENSE.md"
-baseURL = "https://konigi.com/"
 homepage = "https://konigi.com/"
 description = ""
 tags = ["konigi", "blog"]
