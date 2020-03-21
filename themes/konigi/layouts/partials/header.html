@@ -10,6 +10,7 @@
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
+  <script src="https://kit.fontawesome.com/4f920426c1.js" crossorigin="anonymous"></script>
 </head>
 <body class="{{ if eq .Section "tags" }}taxonomy{{ else}}{{ .Section }}{{ end }}">
 

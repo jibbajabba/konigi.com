@@ -1,0 +1,13 @@
++++
+date = 2020-03-20T23:15:09-07:00
+categories = ["kidstuff"]
+tags = ["art", "animals", "earth", "science", "socialstudies"]
+title = "Scholastic Learn at Home"
+slug = "scholastic"
+href= "https://classroommagazines.scholastic.com/support/learnathome.html"
+summary="Day by day projects to keep kids learning at home."
+featuredimg = "//media.konigi.com/kidstuff/scholastic.jpg"
+
++++
+
+<img src="//media.konigi.com/kidstuff/scholastic.jpg" />

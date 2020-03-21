@@ -1,0 +1,56 @@
+{{ partial "header.html" . }}
+
+<section class="hero rainbow-box">
+  <div class="hero-body">
+    <div class="container is-paddingless is-borderless">
+      <h1 class="title rainbow-text has-text-centered is-size-1">Fun Stuff for Kids to Learn, Play and Do!</h1>
+    </div>
+  </div>
+</section>
+
+<section>
+<!-- Control buttons -->
+<div id="myBtnContainer" class="container has-text-centered">
+  <button class="btn active is-size-6" onclick="filterSelection('all')"><i class="fas fa-th-large"></i> All</button>
+  <button class="btn is-size-6" onclick="filterSelection('artcraft')"><i class="fas fa-paint-brush"></i> Art</button>
+  <button class="btn is-size-6" onclick="filterSelection('animals')"><i class="fas fa-dog"></i> Animals</button>
+  <button class="btn is-size-6" onclick="filterSelection('books')"><i class="fas fa-book-open"></i> Books</button>
+  <button class="btn is-size-6" onclick="filterSelection('earth')"><i class="fas fa-globe-africa"></i> Earth</button>
+  <button class="btn is-size-6" onclick="filterSelection('games')"><i class="fas fa-gamepad"></i> Games</button>
+  <button class="btn is-size-6" onclick="filterSelection('socialstudies')"><i class="fas fa-user-friends"></i> Social Studies</button>
+  <button class="btn is-size-6" onclick="filterSelection('science')"><i class="fas fa-microscope"></i> Science</button>
+  <button class="btn is-size-6" onclick="filterSelection('sports')"><i class="fas fa-futbol"></i> Sports</button>
+</div>
+</section>
+
+<!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
+
+<section class="boxgrid rounded">
+  <div class="container">
+    <div class="columns entries is-multiline">
+{{ range .Paginator.Pages.ByTitle }}
+  {{ .Render "kidstuff-list"}}
+{{ end }}
+    </div>
+  </div>
+</section>
+
+<hr class="rainbow-box" style="margin-top: 2em;" />
+
+<section>
+  <div class="container has-text-centered is-size-6">
+    <p>Kid Stuff was created for all the kiddos learning from home by <a href="https://konigi.com">Michael Angeles</a>. Have a suggestion? <a href="https://konigi.com/contact/">Email me</a>.</p>
+  </div>
+</section>
+
+<style>
+  h1.title {
+    text-shadow: 1px 1px rgba(0,0,0,.02);
+    line-height: 1.5em;
+  }
+  section {
+    padding: 0 10px;
+  }
+</style>
+
+{{ partial "footer-minimal.html" . }}

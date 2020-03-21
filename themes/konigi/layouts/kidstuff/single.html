@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+<div class="rainbow-box">
+{{ partial "hero-rainbow.html" . }}
+
+<section class="section">
+  <div class="container content">
+    {{ .Content }}
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="content has-text-centered is-size-6">
+      <p>Created for remote schooling kiddos by <a href="/contact/">Konigi</a>. Have a suggestion? <a href="/contact/">Email me!</a>.</p>
+    </div>
+  </div>
+</section>
+
+</div>
+{{ partial "footer-minimal.html" . }}
