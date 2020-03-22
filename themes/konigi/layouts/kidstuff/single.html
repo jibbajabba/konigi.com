@@ -1,20 +1,32 @@
 {{ partial "header.html" . }}
-<div class="rainbow-box">
+
 {{ partial "hero-rainbow.html" . }}
 
 <section class="section">
-  <div class="container content">
+  <div class="container content has-text-centered">
+    <a href="{{ if .Params.href }}{{ .Params.href }}{{ end }}">
     {{ .Content }}
+    </a>
+    <p class="summary">{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}</p>
   </div>
 </section>
+
+<div class="rainbow-box is-paddingless" style="margin-top: 2em;"></div>
 
 <section>
-  <div class="container">
-    <div class="content has-text-centered is-size-6">
-      <p>Created for remote schooling kiddos by <a href="/contact/">Konigi</a>. Have a suggestion? <a href="/contact/">Email me!</a>.</p>
-    </div>
+  <div class="container has-text-centered is-size-6" style="padding: 10px;">
+    <p>Kid Stuff was created for all the kiddos learning from home by <a href="https://konigi.com">Michael Angeles</a>. Have a suggestion? <a href="https://konigi.com/contact/">Email me</a>.</p>
   </div>
 </section>
 
-</div>
+<style>
+  h1.title {
+    text-shadow: 1px 1px rgba(0,0,0,.02);
+    line-height: 1.5em;
+  }
+  section {
+    padding: 0 10px;
+  }
+</style>
+
 {{ partial "footer-minimal.html" . }}
