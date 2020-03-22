@@ -1,7 +1,7 @@
 +++
 date = 2020-03-20T23:15:09-07:00
 categories = ["kidstuff"]
-tags = ["art", "animals", "earth", "science", "socialstudies"]
+tags = ["arts", "animals", "earth", "science", "socialstudies"]
 title = "Scholastic Learn at Home"
 slug = "scholastic"
 href= "https://classroommagazines.scholastic.com/support/learnathome.html"

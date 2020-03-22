@@ -1,7 +1,7 @@
 +++
 date = 2020-03-20T15:32:26-07:00
 categories = ["kidstuff"]
-tags = ["animals", "artcraft", "earth", "science"]
+tags = ["animals", "arts", "earth", "science"]
 title = "Virtual Field Trips"
 slug = "adventures-in-familyhood-virtual-field-trips"
 href= "https://adventuresinfamilyhood.com/20-virtual-field-trips-to-take-with-your-kids.html"

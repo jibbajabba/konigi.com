@@ -1,7 +1,7 @@
 +++
 date = 2020-03-20T15:47:59-07:00
 categories = ["kidstuff"]
-tags = ["artcraft", "animals", "earth", "science"]
+tags = ["arts", "animals", "earth", "science"]
 title = "Netflix Educational Shows"
 slug = "netflix"
 href= "https://homeschoolhideout.com/educational-shows-on-netflix/"

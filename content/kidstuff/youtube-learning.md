@@ -1,7 +1,7 @@
 +++
 date = 2020-03-20T23:23:31-07:00
 categories = ["kidstuff"]
-tags = ["artcraft", "animals", "earth", "science", "socialstudies"]
+tags = ["arts", "animals", "earth", "science", "socialstudies"]
 title = "YouTube Learning"
 slug = "youtube-learning"
 href= "https://learnathome.withyoutube.com/"
