@@ -2,12 +2,23 @@
 
 {{ partial "hero-rainbow.html" . }}
 
-<section class="section">
+<section class="section is-paddingless">
   <div class="container content has-text-centered">
-    <a href="{{ if .Params.href }}{{ .Params.href }}{{ end }}">
-    {{ .Content }}
-    </a>
-    <p class="summary">{{ if .Params.summary }}{{ .Params.summary }}{{ else }}{{ .Summary }}{{ end }}</p>
+    {{ if .Params.href }}
+      <a href="{{ .Params.href }}">
+      {{ .Content }}
+      </a>
+    {{else}}
+      {{ .Content }}
+    {{ end }}
+    {{ if .Params.summary }}<p class="summary">{{ .Params.summary }}{{ else }}{{ .Summary }}</p>{{ end }}
+    {{ if .Params.href }}
+    <p>
+      <a href="{{ .Params.href }}">
+        {{ .Params.href }}
+      </a>
+    </p>
+    {{ end }}
   </div>
 </section>
 
@@ -15,7 +26,7 @@
 
 <section>
   <div class="container has-text-centered is-size-6" style="padding: 10px;">
-    <p>Kid Stuff was created for all the kiddos learning from home by <a href="https://konigi.com">Michael Angeles</a>. Have a suggestion? <a href="https://konigi.com/contact/">Email me</a>.</p>
+    <p><a href="https://konigi.com/kidstuff/">Kid Stuff</a> was created for all the kiddos learning from home by <a href="https://konigi.com">Michael Angeles</a>. Have a suggestion? <a href="https://konigi.com/contact/">Email me</a>.</p>
   </div>
 </section>
 
