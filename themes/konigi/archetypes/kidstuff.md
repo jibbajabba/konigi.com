@@ -1,7 +1,7 @@
 +++
 date = {{ .Date }}
 categories = ["kidstuff"]
-tags = ["art"]
+tags = ["arts", "animals", "earth", "math", "social studies", "science"]
 title = "{{ .Name }}"
 slug = "{{ .Name }}"
 href= ""

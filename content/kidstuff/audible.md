@@ -2,7 +2,7 @@
 date = 2020-03-20T23:36:41-07:00
 categories = ["kidstuff"]
 tags = ["books"]
-title = "Audible Stories"
+title = "Audio Stories on Audible"
 slug = "audible"
 href= "https://stories.audible.com/discoveryv"
 summary="Free audio stories for kids."

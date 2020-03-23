@@ -2,7 +2,7 @@
 date = 2020-03-20T23:15:09-07:00
 categories = ["kidstuff"]
 tags = ["arts", "animals", "earth", "science", "socialstudies"]
-title = "Scholastic Learn at Home"
+title = "Learn at Home on Scholastic"
 slug = "scholastic"
 href= "https://classroommagazines.scholastic.com/support/learnathome.html"
 summary="Day by day projects to keep kids learning at home."
