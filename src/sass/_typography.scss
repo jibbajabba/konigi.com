@@ -338,3 +338,16 @@ section.pagination {
   -webkit-text-fill-color: transparent;
   display: inline-block;
 }
+
+// ========================================
+// KIDSTUFF
+.kidstuff {
+  h1.title {
+    text-shadow: 1px 1px rgba(0,0,0,.02);
+    line-height: 1.5em;
+    @include fontsize(36,42);
+  }
+  h2.title {
+    @include fontsize(28,28);
+  }
+}
