@@ -41,6 +41,9 @@ section.article-list {
   min-height: 320px;
   transition: all 0.7s ease;
 }
+.boxgrid.squarebox .entryinner {
+  min-height: 320px;
+}
 .boxgrid .entry:hover .entryinner,
 .boxgrid .entry:focus .entryinner {
   transform: scale(1.2);
@@ -74,13 +77,13 @@ section.article-list {
   background: linear-gradient(180deg, rgba(0,0,0,.1) 55%, rgba(0,0,0,.4) 75%, rgba(0,0,0,.5) 90%);
 }
 
-.boxgrid.rounded .entryinner,
-.boxgrid.rounded .entryinner:before {
+.boxgrid.roundedcorner .entryinner,
+.boxgrid.roundedcorner .entryinner:before {
   border-radius: 12px;
 }
 
-.boxgrid.rounded .entry:hover .entryinner,
-.boxgrid.rounded .entry:focus .entryinner {
+.boxgrid.roundedcorner .entry:hover .entryinner,
+.boxgrid.roundedcorner .entry:focus .entryinner {
   transform: scale(1);
 }
 
