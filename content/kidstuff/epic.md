@@ -4,7 +4,7 @@ categories = ["kidstuff"]
 tags = ["books"]
 title = "Epic! Digital Library"
 slug = "epic"
-href= "https://www.getepic.com/"
+href= "https://www.getepic.com/students/"
 summary="Digital Library for kids 12 & under. Free access through your school."
 featuredimg = "//media.konigi.com/kidstuff/epic.jpg"
 
