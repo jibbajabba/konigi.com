@@ -1,7 +1,7 @@
 +++
 date = 2020-03-21T22:15:15-07:00
 categories = ["kidstuff"]
-tags = ["arts", "animals", "earth", "math", "social studies", "science"]
+tags = ["arts", "animals", "earth", "math", "social studies", "science", "star"]
 title = "BrainPOP"
 slug = "brainpop"
 href= "https://www.brainpop.com/"

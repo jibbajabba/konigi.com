@@ -1,7 +1,7 @@
 +++
 date = 2020-03-21T22:09:10-07:00
 categories = ["kidstuff"]
-tags = ["books"]
+tags = ["books", "star"]
 title = "Epic! Digital Library"
 slug = "epic"
 href= "https://www.getepic.com/students/"
