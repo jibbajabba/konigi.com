@@ -5,7 +5,7 @@ tags = ["star"]
 title = "Keyboarding Without Tears"
 slug = "keyboarding-without-tears"
 href= "https://program.kwtears.com/login"
-summary="Keyboard practice."
+summary="Keyboarding practice app for elementary school kids."
 featuredimg = "//media.konigi.com/kidstuff/keyboarding-without-tears.jpg"
 
 +++
