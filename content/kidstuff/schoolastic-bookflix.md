@@ -1,7 +1,7 @@
 +++
 date = 2020-03-22T21:56:49-07:00
 categories = ["kidstuff"]
-tags = ["books"]
+tags = ["books", "star"]
 title = "Bookflix on Schoolastic"
 slug = "schoolastic-bookflix"
 href= "https://digital.scholastic.com/resources/slp/#/login?productCode=bkflix"
