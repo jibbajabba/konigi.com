@@ -2,7 +2,7 @@
 date = 2020-03-20T23:23:31-07:00
 categories = ["kidstuff"]
 tags = ["arts", "animals", "earth", "science", "socialstudies"]
-title = "YouTube Learning"
+title = "Learn@Home on YouTube"
 slug = "youtube-learning"
 href= "https://learnathome.withyoutube.com/"
 summary="YouTube, Khan Academy and other learning creators partner to bring together resources and activities to make days as educational and fun as possible."
