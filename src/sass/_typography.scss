@@ -346,6 +346,7 @@ section.pagination {
     text-shadow: 1px 1px rgba(0,0,0,.02);
     line-height: 1.5em;
     @include fontsize(36,42);
+    text-transform: uppercase;
   }
   h2.title {
     @include fontsize(28,28);
