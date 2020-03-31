@@ -4,7 +4,7 @@ categories = ["kidstuff"]
 tags = ["arts", "animals", "earth", "math", "social studies", "science", "star"]
 title = "BrainPOP"
 slug = "brainpop"
-href= "https://www.brainpop.com/"
+href= "https://jr.brainpop.com/"
 summary="BrainPOP is an excellent learning resource for teaching resource for kids K - 8th grade and offers free access during school closures."
 featuredimg = "//media.konigi.com/kidstuff/brainpop.jpg"
 
