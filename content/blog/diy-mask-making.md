@@ -2,7 +2,7 @@
 date = 2020-04-02T12:56:07-07:00
 categories = ["blog"]
 tags = ["diy", "sewing"]
-title = "Diy Mask Making"
+title = "DIY Mask Making"
 slug = "diy-mask-making"
 href= ""
 summary="DIY tutorials for creating masks during the Corona Virus Pandemic"
@@ -22,7 +22,8 @@ I’ve seen a few people note in comments that it’s important if you’re maki
 - [Instructional video for sewing the Olson mask (COVID-19) by UnityPoint Health Cedar Rapids](https://youtu.be/ZnVk12sFRkY)
 - [How To Make the DIY face mask, and what to use if you can’t find supplies by The Fabric Patch]( http://www.fabricpatch.net/face-masks-for-covid-19-relief.htm)
 - [RagMask’s conical mask tutorial that uses square cuts only and requires no pinning or pressing.](https://ragmask.com/)
-- [Simple face mask sewing tutorial with filter insert slot and wire or twisty tie by Creative Tien]( https://youtu.be/FiuSS0eENPs)
+- [How to Make a Facemask with Fabric Ties and Filter Pocket by Lorrie Nunemaker](https://youtu.be/p4USPU1Trz4)
+- [Simple face mask sewing tutorial with filter insert slot and wire or twisty tie by Creative Tien](https://youtu.be/FiuSS0eENPs)
 
 ## Sewing a Mask Without a Filter
 - [DIY Face Masks for All Ages by The DIY Designer](https://youtu.be/JpNmJGClKKI)
