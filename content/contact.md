@@ -8,13 +8,13 @@ slug = "contact"
 +++
 
 <div class="columns is-centered">
-  <div class="column is-half is-size-4">
+<div class="column is-half is-size-4">
 
-    <p>Want to get in touch? Our unicorn couriers are ready to deliver your message.</p>
+<p>Want to get in touch? Our unicorn couriers are ready to deliver your message.</p>
 
-    <p><a href="mailto:hi@konigi.com">Contact me by email</a> or send a message via Twitter to <a href="https://twitter.com/#!/konigi">@konigi</a>.</p>
+<p><a href="mailto:hi@konigi.com">Contact me by email</a> or send a message via Twitter to <a href="https://twitter.com/#!/konigi">@konigi</a>.</p>
 
-    </div>
+</div>
 </div>
 
 <style type="text/css">
