@@ -7,6 +7,9 @@ pluralizeListTitles = false
 Paginate = "30"
 PageSize = "30"
 
+[markup.goldmark.renderer] 
+  unsafe= true
+
 [taxonomies]
   tag = "tags"
   category = "categories"
