@@ -45,12 +45,12 @@
         {{/* articles row 3 */}}
         <div class="tile">
           <div class="tile is-parent entries">
-            {{ range first 1 (where site.RegularPages "Section"  "sunchasing") }}
+            {{ range first 1 (where site.RegularPages "Section"  "interfaces") }}
             {{ .Render "blocks"}}
             {{ end }}
           </div>
           <div class="tile is-parent entries">
-            {{ range first 1 (after  1 (where site.RegularPages "Section"  "sunchasing")) }}
+            {{ range first 1 (where site.RegularPages "Section"  "links") }}
             {{ .Render "blocks"}}
             {{ end }}
           </div>
