@@ -14,9 +14,6 @@
 
       <div class="navbar-menu" id="navMenu">
         <div id="navbarGlobal" class="navbar-end">
-          <a class="navbar-item{{ if eq .Section "blog" }} is-active{{ end }}" href="/blog/">
-            Blog
-          </a>
 
           <a class="navbar-item{{ if eq .Section "art" }} is-active{{ end }}" href="/art/">
             Art
@@ -26,13 +23,13 @@
             Articles
           </a>
 
-          <a class="navbar-item{{ if eq .Section "interfaces" }} is-active{{ end }}" href="/interfaces/">
+          {{/*<a class="navbar-item{{ if eq .Section "interfaces" }} is-active{{ end }}" href="/interfaces/">
             Interfaces
           </a>
 
           <a class="navbar-item{{ if eq .Section "links" }} is-active{{ end }}" href="/links/">
             Links
-          </a>
+          </a>*/}}
 
           <a class="navbar-item{{ if eq .Section "music" }} is-active{{ end }}" href="/music/">
             Music
@@ -45,6 +42,10 @@
           <a class="navbar-item{{ if eq .Section "tools" }} is-active{{ end }}" href="/tools/">
             Tools
           </a>
+
+          <a class="navbar-item{{ if eq .Section "blog" }} is-active{{ end }}" href="/blog/">
+            Blog
+          </a>          
 
         </div>
       </div>
