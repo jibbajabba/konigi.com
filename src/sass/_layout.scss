@@ -161,10 +161,13 @@ ul.pagination {
   padding-bottom: 2em;
   border-bottom: 1px solid $black;
 }
+.article-body.content {
+  padding-bottom: 2em;
+}
 
 // ARTICLE METADATA
 .pub-date, .tags {
-  margin: 1em 0;
+  margin: 2em 0;
 }
 
 // IMAGE
