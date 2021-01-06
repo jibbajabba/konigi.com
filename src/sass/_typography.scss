@@ -208,10 +208,10 @@ body.music li#gnav-music a,
 // FOOTER
 footer {
   text-align: center;
-  p {
-    @include fontsize(12,12);
-  }
   color: $graymed;
+  p {
+    @include fontsize(16, 18);
+  }
   p.top a {
     color: $graymed !important;
   }

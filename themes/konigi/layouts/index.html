@@ -1,90 +1,21 @@
 {{ partial "header.html" . }}
 {{ partial "gnav.html" . }}
 
-<section class="section boxgrid">
+<section class="section">
   <div class="container">
-
-    {{/* row 1 */}}
-    <div class="tile is-ancestor">
-      <div class="tile is-parent entries">
-        {{ range first 1 (where site.RegularPages "Section"  "art") }}
-        {{ .Render "blocks"}}
+    <div class="columns">
+      <div class="column is-full index">
+        {{ range (.Paginator 5).Pages }}
+          {{ .Render "list-node"}}
         {{ end }}
-      </div>
-      <div class="tile is-parent entries">
-        {{ range first 1 (where site.RegularPages "Section"  "music") }}
-        {{ .Render "blocks"}}
-        {{ end }}
-      </div>
-      <div class="tile is-parent">
-        <article class="tile is-child about" style="background: rgba(0,0,0,.9);color:#fff">
-          <div class="content">
-            <span class="title" style="color:#fff;">Hi! You found me.</span>
-            <p><em>Konigi</em> means to make known in Esperanto. Here's where I share my creative pursuits in design, art and music.<br/>
-            -Michael</p>
-          </div>
-        </article>
-      </div>
-    </div>
-
-    <div class="tile is-ancestor">
-      <div class="tile is-vertical is-8">
-        {{/* articles row 2 */}}
-        <div class="tile">
-          <div class="tile is-parent entries">
-            {{ range first 1 (where site.RegularPages "Section"  "sunchasing") }}
-            {{ .Render "blocks"}}
-            {{ end }}
-          </div>
-          <div class="tile is-parent entries">
-            {{ range first 1 (after  1 (where site.RegularPages "Section"  "sunchasing")) }}
-            {{ .Render "blocks"}}
-            {{ end }}
-          </div>
-
-        </div>
-        {{/* articles row 3 */}}
-        <div class="tile">
-          <div class="tile is-parent entries">
-            {{ range first 1 (where site.RegularPages "Section" "blog") }}
-              {{ .Render "blocks" }}
-            {{ end }}
-          </div>
-          <div class="tile is-parent entries">
-            {{ range first 1 (where site.RegularPages "Section" "articles") }}
-              {{ .Render "blocks" }}
-            {{ end }}
-          </div>
-        </div>
-
-        {{/* Instagram - https://lightwidget.com/ */}}
-        <div class="tile is-parent">
-          <article class="tile is-child box instagram">
-            <div class="entry">
-              <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/c0830f416feb59c794fa08e65027f99b.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-            </div>
-          </article>
-        </div>
-
-      </div>
-      <div class="tile is-parent">
-        <article class="tile is-child box">
-          <div class="content">
-            <p><strong>Check out my campervan site!</strong></p>
-            <p><a href="https://1van2go.com"><img src="//1van2go.com/images/1van2go-metadata.png" alt="1van2go"/></a></p>
-            <hr/>
-            <h4>Looking for something else?</h4>
-              <p>Dig deeper into the <strong><a href="/blog">Blog</a></strong> and <strong><a href="/links">Links</a></strong> for my latest findings first.</p>
-              <p>You might be interested in my <strong><a href="/tools/graph-paper">Printable Graph Paper</a></strong> and <strong><a href="/tools/sketchbooks-diy">DIY Sketchbook Tutorial</a></strong>.</p>
-              <p>The <strong><a href="/articles">Articles</a></strong> section is the place to find design resources and <strong><a href="/articles/sketch-book">"The Sketch Book"</a></strong>, my presentation on UI sketching. I once kept visual design and <a href="/interfaces">interfaces</a>, but no longer maintain those sections. Browse this site further <a href="/tags">by tag</a>.</p>
-              <p>You won't find me on social media, but I share my work and life as a designer, maker and father on the gram as <strong><a href="//www.instagram.com/konigi/">@konigi</a></strong>.</p>
-          </div>
-        </article>
-      </div>
-    </div>
-
-
+      </div>{{/* /column */}}
+    </div>{{/* /columns */}}
   </div>{{/* /container */}}
+</section>
+<section class="section pagination">
+  <div class="container">
+    <nav>{{ template "_internal/pagination.html" . }}</nav>
+  </div>
 </section>
 
 {{ partial "footer.html" . }}
