@@ -10,6 +10,10 @@ featuredimg = "//media.konigi.com/music/{{ .Name }}.png"
 
 +++
 
+<div class="video"><div class="embed" >
+
+</div></div>
+
 <div class="mix"><div class="embed" >
 
 </div></div>
