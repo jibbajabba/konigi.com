@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>desktop computers on Konigi</title>
-    <link>http://konigi.com/tags/desktop-computers/</link>
-    <description>Recent content in desktop computers on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/desktop-computers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Buxton Collection</title>
-      <link>http://konigi.com/links/buxton-collection/</link>
-      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/buxton-collection/</guid>
-      <description>Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.
-The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>desktop computers on Konigi</title><link>http://konigi.com/tags/desktop-computers/</link><description>Recent content in desktop computers on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/desktop-computers/index.xml" rel="self" type="application/rss+xml"/><item><title>Buxton Collection</title><link>http://konigi.com/links/buxton-collection/</link><pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/buxton-collection/</guid><description>Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.
+The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata.</description></item></channel></rss>

@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>toggles on Konigi</title>
-    <link>http://konigi.com/tags/toggles/</link>
-    <description>Recent content in toggles on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/toggles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>QuickSnapper Toggle Control</title>
-      <link>http://konigi.com/interfaces/quicksnapper-toggle-control/</link>
-      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/quicksnapper-toggle-control/</guid>
-      <description>The toggle control in QuickSnapper&#39;s account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.
- http://www.quicksnapper.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>toggles on Konigi</title><link>http://konigi.com/tags/toggles/</link><description>Recent content in toggles on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/toggles/index.xml" rel="self" type="application/rss+xml"/><item><title>QuickSnapper Toggle Control</title><link>http://konigi.com/interfaces/quicksnapper-toggle-control/</link><pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/quicksnapper-toggle-control/</guid><description>The toggle control in QuickSnapper's account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.
+http://www.quicksnapper.com/</description></item></channel></rss>

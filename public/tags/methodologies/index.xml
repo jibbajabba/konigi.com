@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>methodologies on Konigi</title>
-    <link>http://konigi.com/tags/methodologies/</link>
-    <description>Recent content in methodologies on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/methodologies/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>User Research for Personas and Other Audience Models</title>
-      <link>http://konigi.com/blog/user-research-personas-and-other-audience-models/</link>
-      <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/user-research-personas-and-other-audience-models/</guid>
-      <description>In UX Matters, Steve Baty describes the user research methodologies we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.
-http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>methodologies on Konigi</title><link>http://konigi.com/tags/methodologies/</link><description>Recent content in methodologies on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/methodologies/index.xml" rel="self" type="application/rss+xml"/><item><title>User Research for Personas and Other Audience Models</title><link>http://konigi.com/blog/user-research-personas-and-other-audience-models/</link><pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/user-research-personas-and-other-audience-models/</guid><description>In UX Matters, Steve Baty describes the user research methodologies we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.
+http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php</description></item></channel></rss>

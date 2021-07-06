@@ -1,170 +1,21 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>quotes on Konigi</title>
-    <link>http://konigi.com/tags/quotes/</link>
-    <description>Recent content in quotes on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 04 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Quotes</title>
-      <link>http://konigi.com/articles/quotes/</link>
-      <pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/quotes/</guid>
-      <description>These are some of the quotes I&#39;ve collected from artists and designers that have some relevance to doing business in web and software product design.
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>quotes on Konigi</title><link>http://konigi.com/tags/quotes/</link><description>Recent content in quotes on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/quotes/index.xml" rel="self" type="application/rss+xml"/><item><title>Quotes</title><link>http://konigi.com/design/quotes/</link><pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/design/quotes/</guid><description>These are some of the quotes I've collected from artists and designers that have some relevance to doing business in web and software product design.
 Art and Design Movie Quotes
-I&#39;ve made it a habit to try and find documentaries about an art/craft to watch whenever I fly, so it made sense to take notes as I would in my journal and put them up here for inspiration. You&#39;ll find quotes from the following movies here:</description>
-    </item>
-    
-    <item>
-      <title>Wisdom from a dog</title>
-      <link>http://konigi.com/blog/wisdom-dog/</link>
-      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wisdom-dog/</guid>
-      <description>This is a good bit of advice for kids and adults alike from Jake the Dog. Adventure Time is my son&#39;s favorite show, and one of mine as well. I made the print for his birthday, and will put it on of our walls. I like having the reminder every time I feel discouraged when starting something new. You can see the extended version on YouTube and purchase a print at Society6.</description>
-    </item>
-    
-    <item>
-      <title>The tragedy of the design commons</title>
-      <link>http://konigi.com/blog/tragedy-design-commons/</link>
-      <pubDate>Mon, 27 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/tragedy-design-commons/</guid>
-      <description>Designers prune. Left to its own devices, the mob will augment, accessorize, spam, degrade and noisify whatever they have access to, until it loses beauty and function and becomes something else. It seems democratic and non-elitist to set it and forget it and let the users take over. But the tools we use (Wikipedia) and the brands we covet (Nike or Ducati) resolutely refuse to become democracies.
- -Seth Godin</description>
-    </item>
-    
-    <item>
-      <title>Jack White on Constraints</title>
-      <link>http://konigi.com/blog/jack-white-constraints/</link>
-      <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/jack-white-constraints/</guid>
-      <description>Telling yourself, “Oh, you have all the time in the world, you have all the money in the world, you have all the colors in the palette you want, anything you want,” I mean, that just kills creativity.
+I've made it a habit to try and find documentaries about an art/craft to watch whenever I fly, so it made sense to take notes as I would in my journal and put them up here for inspiration. You'll find quotes from the following movies here:</description></item><item><title>Wisdom from a dog</title><link>http://konigi.com/blog/wisdom-dog/</link><pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/wisdom-dog/</guid><description>This is a good bit of advice for kids and adults alike from Jake the Dog. Adventure Time is my son's favorite show, and one of mine as well. I made the print for his birthday, and will put it on of our walls. I like having the reminder every time I feel discouraged when starting something new. You can see the extended version on YouTube and purchase a print at Society6.</description></item><item><title>The tragedy of the design commons</title><link>http://konigi.com/blog/tragedy-design-commons/</link><pubDate>Mon, 27 Aug 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/tragedy-design-commons/</guid><description>Designers prune. Left to its own devices, the mob will augment, accessorize, spam, degrade and noisify whatever they have access to, until it loses beauty and function and becomes something else. It seems democratic and non-elitist to set it and forget it and let the users take over. But the tools we use (Wikipedia) and the brands we covet (Nike or Ducati) resolutely refuse to become democracies.
+-Seth Godin</description></item><item><title>Jack White on Constraints</title><link>http://konigi.com/blog/jack-white-constraints/</link><pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/jack-white-constraints/</guid><description>Telling yourself, “Oh, you have all the time in the world, you have all the money in the world, you have all the colors in the palette you want, anything you want,” I mean, that just kills creativity.
 &amp;#8212;Jack White
-I was going through the parts I had highlighted in my Kindle version of Austin Kleon&#39;s book, Steal Like An Artist, and I keep thinking of how much I like this quote from musician Jack White, talking about using constraints to stay creative.</description>
-    </item>
-    
-    <item>
-      <title>Your app is a collection of tiny details</title>
-      <link>http://konigi.com/blog/your-app-collection-tiny-details/</link>
-      <pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid>
-      <description>&#34;Getting the details right is the difference between something that delights, and something customers tolerate.&#34;
+I was going through the parts I had highlighted in my Kindle version of Austin Kleon's book, Steal Like An Artist, and I keep thinking of how much I like this quote from musician Jack White, talking about using constraints to stay creative.</description></item><item><title>Your app is a collection of tiny details</title><link>http://konigi.com/blog/your-app-collection-tiny-details/</link><pubDate>Tue, 08 May 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/your-app-collection-tiny-details/</guid><description>"Getting the details right is the difference between something that delights, and something customers tolerate."
 &amp;#8212;Jeff Atwood
-I didn&#39;t read Jeff Atwood&#39;s article about cat feeders right away, because it really is 90% about a cat product. It&#39;s also a terrific demonstration of what he&#39;s saying above. The first version of the product, a cat feeder, served a core need well enough for him to satisfice with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it.</description>
-    </item>
-    
-    <item>
-      <title>Bruce Springsteen on Creativity</title>
-      <link>http://konigi.com/blog/bruce-springsteen-creativity/</link>
-      <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bruce-springsteen-creativity/</guid>
-      <description>I&#39;d like to talk about the one thing that&#39;s been consistent over the years—the genesis and power of creativity. ... It’s all about how you’re putting what you do together. The elements you’re using don’t matter. Purity of human expression and experience is not confined to guitars, to tubes, to turntables, to microchips. There’s no right way, no pure way of doing it—there’s just doing it.
-From Bruce Springsteen&#39;s inspiring 2012 SXSW Keynote Speech.</description>
-    </item>
-    
-    <item>
-      <title>Teddy on haters</title>
-      <link>http://konigi.com/blog/teddy-on-haters/</link>
-      <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/teddy-on-haters/</guid>
-      <description>It&#39;s the doers who do. 
-I&#39;ve never read Theodore Roosevelt&#39;s &#34;Citizenship in a Republic/Man in the Arena&#34; speech before hearing it in this BoS2011 recap video. &#34;It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</description>
-    </item>
-    
-    <item>
-      <title>Design is the fundamental soul of a human-made creation</title>
-      <link>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</link>
-      <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</guid>
-      <description>Adam Pritzker deftly combined this image of an Apple I and this Steve Jobs quote on design from an interview in 2000 that appeared in Fortune.
-“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.</description>
-    </item>
-    
-    <item>
-      <title>Seth Godin on the Importance of Domain Knowledge</title>
-      <link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link>
-      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid>
-      <description>Seth Godin&#39;s blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
-It&#39;s not enough to be aware of the domain you&#39;re working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description>
-    </item>
-    
-    <item>
-      <title>Steve Jobs on Saying No</title>
-      <link>http://konigi.com/blog/steve-jobs-saying-no/</link>
-      <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/steve-jobs-saying-no/</guid>
-      <description>“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
-&amp;#8212;Steve Jobs on product development, from &#34;</description>
-    </item>
-    
-    <item>
-      <title>Why Invest in Sketching?</title>
-      <link>http://konigi.com/blog/why-invest-sketching/</link>
-      <pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/why-invest-sketching/</guid>
-      <description>Jumping in and immediately starting to build the product, even if it does get completed and ship, is almost guaranteed to produce a mediocre product in which there is little innovation or market differentiation. When you have only one kick at the can, the behaviour of the entire team and process is as predictable as it will be pedestrian.
+I didn't read Jeff Atwood's article about cat feeders right away, because it really is 90% about a cat product. It's also a terrific demonstration of what he's saying above. The first version of the product, a cat feeder, served a core need well enough for him to satisfice with its shortcomings because the net return in time savings and improved quality of life, for him anyway, was absolutely worth it.</description></item><item><title>Bruce Springsteen on Creativity</title><link>http://konigi.com/blog/bruce-springsteen-creativity/</link><pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/bruce-springsteen-creativity/</guid><description>I'd like to talk about the one thing that's been consistent over the years—the genesis and power of creativity. ... It’s all about how you’re putting what you do together. The elements you’re using don’t matter. Purity of human expression and experience is not confined to guitars, to tubes, to turntables, to microchips. There’s no right way, no pure way of doing it—there’s just doing it.
+From Bruce Springsteen's inspiring 2012 SXSW Keynote Speech.</description></item><item><title>Teddy on haters</title><link>http://konigi.com/blog/teddy-on-haters/</link><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/teddy-on-haters/</guid><description>It's the doers who do.
+I've never read Theodore Roosevelt's "Citizenship in a Republic/Man in the Arena" speech before hearing it in this BoS2011 recap video. "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</description></item><item><title>Design is the fundamental soul of a human-made creation</title><link>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</link><pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/design-fundamental-soul-human-made-creation/</guid><description>Adam Pritzker deftly combined this image of an Apple I and this Steve Jobs quote on design from an interview in 2000 that appeared in Fortune.
+“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.</description></item><item><title>Seth Godin on the Importance of Domain Knowledge</title><link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link><pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid><description>Seth Godin's blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
+It's not enough to be aware of the domain you're working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description></item><item><title>Steve Jobs on Saying No</title><link>http://konigi.com/blog/steve-jobs-saying-no/</link><pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/steve-jobs-saying-no/</guid><description>“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
+&amp;#8212;Steve Jobs on product development, from "</description></item><item><title>Why Invest in Sketching?</title><link>http://konigi.com/blog/why-invest-sketching/</link><pubDate>Tue, 24 May 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/why-invest-sketching/</guid><description>Jumping in and immediately starting to build the product, even if it does get completed and ship, is almost guaranteed to produce a mediocre product in which there is little innovation or market differentiation. When you have only one kick at the can, the behaviour of the entire team and process is as predictable as it will be pedestrian.
 &amp;#8212;Bill Buxton in Sketching the User Experience
-Buxton writes in this passage on the impact of iterative sketching on risk, exploration and innovation.</description>
-    </item>
-    
-    <item>
-      <title>The more you know, the less you need.</title>
-      <link>http://konigi.com/blog/more-you-know-less-you-need/</link>
-      <pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/more-you-know-less-you-need/</guid>
-      <description>“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau&#39;s advice: &#39;I say beware of all enterprises that require new clothes...&#39;&#34;
+Buxton writes in this passage on the impact of iterative sketching on risk, exploration and innovation.</description></item><item><title>The more you know, the less you need.</title><link>http://konigi.com/blog/more-you-know-less-you-need/</link><pubDate>Mon, 16 May 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/more-you-know-less-you-need/</guid><description>“The more you know, the less you need. The experienced fly fisherman with only one rod, one type of fly, and one type of line will always outfish the duffer with an entire quiver of gear and flies. I never forget Thoreau's advice: 'I say beware of all enterprises that require new clothes...'"
 &amp;#8212;Yvon Chouinard in Let My People Go Surfing.
-Chouinard is a mountain climber, environmentalist, and founder of Patagonia.</description>
-    </item>
-    
-    <item>
-      <title>Debussy on White Space</title>
-      <link>http://konigi.com/blog/debussy-white-space/</link>
-      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/debussy-white-space/</guid>
-      <description>&#34;Music is the space between the notes.&#34;
-&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey</description>
-    </item>
-    
-    <item>
-      <title>Ed Parker on Competition</title>
-      <link>http://konigi.com/blog/ed-parker-competition/</link>
-      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ed-parker-competition/</guid>
-      <description>&#34;It is always better to improve and strengthen your own line or knowledge than to try and cut your opponent&#39;s line.&#34;
-&amp;#8212;Ed Parker, Martial Arts Instructor and Author</description>
-    </item>
-    
-    <item>
-      <title>Sensible Defaults</title>
-      <link>http://konigi.com/blog/sensible-defaults/</link>
-      <pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sensible-defaults/</guid>
-      <description>&#34;Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind.&#34;
+Chouinard is a mountain climber, environmentalist, and founder of Patagonia.</description></item><item><title>Debussy on White Space</title><link>http://konigi.com/blog/debussy-white-space/</link><pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/debussy-white-space/</guid><description>"Music is the space between the notes."
+&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey</description></item><item><title>Ed Parker on Competition</title><link>http://konigi.com/blog/ed-parker-competition/</link><pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ed-parker-competition/</guid><description>"It is always better to improve and strengthen your own line or knowledge than to try and cut your opponent's line."
+&amp;#8212;Ed Parker, Martial Arts Instructor and Author</description></item><item><title>Sensible Defaults</title><link>http://konigi.com/blog/sensible-defaults/</link><pubDate>Fri, 18 Feb 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sensible-defaults/</guid><description>"Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind."
 &amp;#8212;Patrick Rhone
-http://patrickrhone.com/2010/11/08/sensible-defaults/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://patrickrhone.com/2010/11/08/sensible-defaults/</description></item></channel></rss>

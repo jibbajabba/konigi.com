@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>list browsing on Konigi</title>
-    <link>http://konigi.com/tags/list-browsing/</link>
-    <description>Recent content in list browsing on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/list-browsing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Fever Progressive Disclosure</title>
-      <link>http://konigi.com/interfaces/fever-progressive-disclosure/</link>
-      <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/fever-progressive-disclosure/</guid>
-      <description>The Fever RSS news reader provides some useful progressive disclosure/enhancement behaviors that hide features until they are needed. Many of the primary features are also provided as keyboard shortcuts. The resulting experience provides a subtle and minimalist aesthetic without compromising features.
-1. The initial view of the app shows groups of items and the pages linking to them. The main navigator is shown in left sidebar.2. Selecting a category (&amp;quot;UX&amp;quot; in this example) displays a second column for browsing feeds in that category.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>list browsing on Konigi</title><link>http://konigi.com/tags/list-browsing/</link><description>Recent content in list browsing on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 22 Jul 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/list-browsing/index.xml" rel="self" type="application/rss+xml"/><item><title>Fever Progressive Disclosure</title><link>http://konigi.com/interfaces/fever-progressive-disclosure/</link><pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/fever-progressive-disclosure/</guid><description>The Fever RSS news reader provides some useful progressive disclosure/enhancement behaviors that hide features until they are needed. Many of the primary features are also provided as keyboard shortcuts. The resulting experience provides a subtle and minimalist aesthetic without compromising features.
+1. The initial view of the app shows groups of items and the pages linking to them. The main navigator is shown in left sidebar.2. Selecting a category (&amp;quot;UX&amp;quot; in this example) displays a second column for browsing feeds in that category.</description></item></channel></rss>

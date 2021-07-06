@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>competitive analysis on Konigi</title>
-    <link>http://konigi.com/tags/competitive-analysis/</link>
-    <description>Recent content in competitive analysis on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/competitive-analysis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>What are your favorite customer support sites and why?</title>
-      <link>http://konigi.com/blog/what-are-your-favorite-customer-support-sites-and-why/</link>
-      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/what-are-your-favorite-customer-support-sites-and-why/</guid>
-      <description>What I&#39;m doing
-I&#39;m doing a review of customer support sites, looking mostly for software (desktop and web) and services-related sites that provide a customer support site for getting answers to questions, and viewing documentation and tutorials. Why I&#39;m doing it
-Some sites have better search capabilities for questions than others. Other sites do well at presenting documentation. I&#39;m finding that there&#39;s sometimes a difference in how companies handle giving answers to the most granular questions as opposed to presenting a unified view of a product via a manual-like experience.</description>
-    </item>
-    
-    <item>
-      <title>Seth Godin on the Importance of Domain Knowledge</title>
-      <link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link>
-      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid>
-      <description>Seth Godin&#39;s blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
-It&#39;s not enough to be aware of the domain you&#39;re working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description>
-    </item>
-    
-    <item>
-      <title>AlternativeTo: App comparison site may be useful for competitive research</title>
-      <link>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</link>
-      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</guid>
-      <description>AlternativeTo might be an interesting tool when doing competitive research. The new site describes itself as a a way to find better Windows, Mac, Linux and online applications by submitting the app you want to replace. It&#39;s a community site that relies on user submissions, so the number of alternatives is limited in some areas. Having a look at the Basecamp alternatives, for instance, only shows MS Project and the RedMine web app when I looked.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>competitive analysis on Konigi</title><link>http://konigi.com/tags/competitive-analysis/</link><description>Recent content in competitive analysis on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 09 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/competitive-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>What are your favorite customer support sites and why?</title><link>http://konigi.com/blog/what-are-your-favorite-customer-support-sites-and-why/</link><pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/what-are-your-favorite-customer-support-sites-and-why/</guid><description>What I'm doing
+I'm doing a review of customer support sites, looking mostly for software (desktop and web) and services-related sites that provide a customer support site for getting answers to questions, and viewing documentation and tutorials. Why I'm doing it
+Some sites have better search capabilities for questions than others. Other sites do well at presenting documentation. I'm finding that there's sometimes a difference in how companies handle giving answers to the most granular questions as opposed to presenting a unified view of a product via a manual-like experience.</description></item><item><title>Seth Godin on the Importance of Domain Knowledge</title><link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link><pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid><description>Seth Godin's blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
+It's not enough to be aware of the domain you're working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description></item><item><title>AlternativeTo: App comparison site may be useful for competitive research</title><link>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</link><pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/alternativeto-app-comparison-site-may-be-useful-competitive-research/</guid><description>AlternativeTo might be an interesting tool when doing competitive research. The new site describes itself as a a way to find better Windows, Mac, Linux and online applications by submitting the app you want to replace. It's a community site that relies on user submissions, so the number of alternatives is limited in some areas. Having a look at the Basecamp alternatives, for instance, only shows MS Project and the RedMine web app when I looked.</description></item></channel></rss>

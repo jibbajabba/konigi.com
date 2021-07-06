@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>google docs on Konigi</title>
-    <link>http://konigi.com/tags/google-docs/</link>
-    <description>Recent content in google docs on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/google-docs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A wireframe kit for Google Drawings</title>
-      <link>http://konigi.com/links/wireframe-kit-google-drawings/</link>
-      <pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/wireframe-kit-google-drawings/</guid>
-      <description>Morten Just created wireframe templates using the new drawing tools available for Google Docs. The illustration tools in Docs gives you basic shapes you need to create UI elements that can be combined and grouped to create components. The biggest advantage is that since it&#39;s document authoring in the Docs cloud, you can do collaborative editing.
-For what it&#39;s worth, I don&#39;t think this is ideal, but it is interesting because of the online collaboration.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>google docs on Konigi</title><link>http://konigi.com/tags/google-docs/</link><description>Recent content in google docs on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/google-docs/index.xml" rel="self" type="application/rss+xml"/><item><title>A wireframe kit for Google Drawings</title><link>http://konigi.com/links/wireframe-kit-google-drawings/</link><pubDate>Thu, 22 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/wireframe-kit-google-drawings/</guid><description>Morten Just created wireframe templates using the new drawing tools available for Google Docs. The illustration tools in Docs gives you basic shapes you need to create UI elements that can be combined and grouped to create components. The biggest advantage is that since it's document authoring in the Docs cloud, you can do collaborative editing.
+For what it's worth, I don't think this is ideal, but it is interesting because of the online collaboration.</description></item></channel></rss>

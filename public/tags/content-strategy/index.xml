@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>content strategy on Konigi</title>
-    <link>http://konigi.com/tags/content-strategy/</link>
-    <description>Recent content in content strategy on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 May 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/content-strategy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Don&amp;acirc;��t Simplify the UX. Curate.</title>
-      <link>http://konigi.com/blog/don%e2%80%99t-simplify-ux-curate/</link>
-      <pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/don%e2%80%99t-simplify-ux-curate/</guid>
-      <description>Jason Toth of Viget discusses the danger of blind devotion to simplification in design, and writes about the role of UX designers as curators of content. He offers useful suggestions for how to play that role so we don&#39;t come off as content hackers.
-I think the argument for facilitating curation is as apt for feature selection and design as it is for content. I view the role of someone doing content strategy as being able to take in the glut of information for analysis and providing direction for how to deliver the message with greater efficiency and maybe at times, poetry.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>content strategy on Konigi</title><link>http://konigi.com/tags/content-strategy/</link><description>Recent content in content strategy on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 May 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/content-strategy/index.xml" rel="self" type="application/rss+xml"/><item><title>Don&amp;acirc;��t Simplify the UX. Curate.</title><link>http://konigi.com/blog/don%e2%80%99t-simplify-ux-curate/</link><pubDate>Wed, 25 May 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/don%e2%80%99t-simplify-ux-curate/</guid><description>Jason Toth of Viget discusses the danger of blind devotion to simplification in design, and writes about the role of UX designers as curators of content. He offers useful suggestions for how to play that role so we don't come off as content hackers.
+I think the argument for facilitating curation is as apt for feature selection and design as it is for content. I view the role of someone doing content strategy as being able to take in the glut of information for analysis and providing direction for how to deliver the message with greater efficiency and maybe at times, poetry.</description></item></channel></rss>

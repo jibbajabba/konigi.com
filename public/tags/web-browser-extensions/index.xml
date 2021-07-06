@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>web browser extensions on Konigi</title>
-    <link>http://konigi.com/tags/web-browser-extensions/</link>
-    <description>Recent content in web browser extensions on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/web-browser-extensions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>GridFox - The Grid Layout Firefox Extension</title>
-      <link>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</link>
-      <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</guid>
-      <description>GridFox is a Firefox extension that overlays a grid on any website. If you can open it in Firefox, you can put a grid on top of it. It’s easy to customize, allowing you to create the exact grid you designed your layout around.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>web browser extensions on Konigi</title><link>http://konigi.com/tags/web-browser-extensions/</link><description>Recent content in web browser extensions on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/web-browser-extensions/index.xml" rel="self" type="application/rss+xml"/><item><title>GridFox - The Grid Layout Firefox Extension</title><link>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</link><pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/links/gridfox-grid-layout-firefox-extension/</guid><description>GridFox is a Firefox extension that overlays a grid on any website. If you can open it in Firefox, you can put a grid on top of it. It’s easy to customize, allowing you to create the exact grid you designed your layout around.
 Via DigitalWeb
-http://www.puidokas.com/portfolio/gridfox/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.puidokas.com/portfolio/gridfox/</description></item></channel></rss>

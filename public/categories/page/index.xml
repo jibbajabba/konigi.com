@@ -1,55 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>page on Konigi</title>
-    <link>http://konigi.com/categories/page/</link>
-    <description>Recent content in page on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/categories/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Contact</title>
-      <link>http://konigi.com/contact/</link>
-      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/contact/</guid>
-      <description>Want to get in touch? Our unicorn couriers are ready to deliver your message.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>page on Konigi</title><link>http://konigi.com/categories/page/</link><description>Recent content in page on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/categories/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>http://konigi.com/contact/</link><pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/contact/</guid><description>Want to get in touch? Our unicorn couriers are ready to deliver your message.
 Contact me by email or send a message via Twitter to @konigi.
-  .ascii-art { font-family: &#34;Courier New&#34;, mono-space; font-size:10px; white-space: pre; }  </description>
-    </item>
-    
-    <item>
-      <title>404 Error</title>
-      <link>http://konigi.com/error/</link>
-      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/error/</guid>
-      <description>   header, footer, h2 {display: none} </description>
-    </item>
-    
-    <item>
-      <title>About This Site</title>
-      <link>http://konigi.com/about/</link>
-      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/about/</guid>
-      <description>This is a blog in search of a purpose.
-In life I’m exploring the question, “what matters now?” and this blog will jibe with each change in the journey.
+.ascii-art { font-family: "Courier New", mono-space; font-size:10px; white-space: pre; }</description></item><item><title>404 Error</title><link>http://konigi.com/error/</link><pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate><guid>http://konigi.com/error/</guid><description> header, footer, h2 {display: none}</description></item><item><title>About This Site</title><link>http://konigi.com/about/</link><pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate><guid>http://konigi.com/about/</guid><description>Hi, from Michael! I'm a dad, life partner, dj and designer living in Northern California. In life I’m exploring the question, “what matters now?” and this blog jibes with each change in the journey.
 I’ve been starting with a manifesto for myself, based on exploring what matters to me. On a trail run these words came to me. I’m considering them my manifesto for the moment.
-I move because if I’m standing still, I’m dying. I create, as my soul knows no better way to be free.</description>
-    </item>
-    
-    <item>
-      <title>Kid Stuff!</title>
-      <link>http://konigi.com/test/</link>
-      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/test/</guid>
-      <description>  Show All  Arts &amp; Crafts  Animals  Earth  Games  Science  Sports     </description>
-    </item>
-    
-  </channel>
-</rss>
+I move because if I’m standing still, I’m dying.</description></item><item><title>Kid Stuff!</title><link>http://konigi.com/test/</link><pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate><guid>http://konigi.com/test/</guid><description> Show All Arts &amp; Crafts Animals Earth Games Science Sports</description></item></channel></rss>

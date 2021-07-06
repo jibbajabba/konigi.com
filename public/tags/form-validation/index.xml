@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>form validation on Konigi</title>
-    <link>http://konigi.com/tags/form-validation/</link>
-    <description>Recent content in form validation on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/form-validation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Basecamp Form Focus</title>
-      <link>http://konigi.com/interfaces/basecamp-form-focus/</link>
-      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/basecamp-form-focus/</guid>
-      <description>This is a cute interaction for the input focus and data validation on Basecamp&#39;s registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.
-The illustrations on the site do a great job of making you feel like this isn&#39;t &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp.</description>
-    </item>
-    
-    <item>
-      <title>Coolspotters User Registration</title>
-      <link>http://konigi.com/interfaces/coolspotters-user-registration/</link>
-      <pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/coolspotters-user-registration/</guid>
-      <description>Coolspotters user registration form does input validation and shows an icon in the right side of the input for valid or invalid values, and displays error message text to the right of the input. Simple.
-1. Checking user name and displaying error.2. Validated input. http://coolspotters.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>form validation on Konigi</title><link>http://konigi.com/tags/form-validation/</link><description>Recent content in form validation on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/form-validation/index.xml" rel="self" type="application/rss+xml"/><item><title>Basecamp Form Focus</title><link>http://konigi.com/interfaces/basecamp-form-focus/</link><pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/basecamp-form-focus/</guid><description>This is a cute interaction for the input focus and data validation on Basecamp's registration form. The smiling character illustration on the left points out which steps are in focus. When an invalid value is entered, the character makes a concerned face and the pointing hand stays fixed on the highlighted input.
+The illustrations on the site do a great job of making you feel like this isn't &amp;quot;business as usual,&amp;quot; which is the reason for switching to Basecamp.</description></item><item><title>Coolspotters User Registration</title><link>http://konigi.com/interfaces/coolspotters-user-registration/</link><pubDate>Mon, 08 Sep 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/coolspotters-user-registration/</guid><description>Coolspotters user registration form does input validation and shows an icon in the right side of the input for valid or invalid values, and displays error message text to the right of the input. Simple.
+1. Checking user name and displaying error.2. Validated input. http://coolspotters.com/</description></item></channel></rss>

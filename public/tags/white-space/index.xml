@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>white space on Konigi</title>
-    <link>http://konigi.com/tags/white-space/</link>
-    <description>Recent content in white space on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Apr 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/white-space/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Debussy on White Space</title>
-      <link>http://konigi.com/blog/debussy-white-space/</link>
-      <pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/debussy-white-space/</guid>
-      <description>&#34;Music is the space between the notes.&#34;
-&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>white space on Konigi</title><link>http://konigi.com/tags/white-space/</link><description>Recent content in white space on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/white-space/index.xml" rel="self" type="application/rss+xml"/><item><title>Debussy on White Space</title><link>http://konigi.com/blog/debussy-white-space/</link><pubDate>Thu, 28 Apr 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/debussy-white-space/</guid><description>"Music is the space between the notes."
+&amp;#8212;Claude Debussy, as quoted in Turning Numbers into Knowledge (2001) by Johnathan G. Koomey</description></item></channel></rss>

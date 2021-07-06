@@ -1,166 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>single page on Konigi</title>
-    <link>http://konigi.com/tags/single-page/</link>
-    <description>Recent content in single page on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/single-page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>NihongoUp</title>
-      <link>http://konigi.com/designs/submissions/nihongoup/</link>
-      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/nihongoup/</guid>
-      <description>NihongoUp is a Japanese educational game &amp;amp; reviewing tool.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>single page on Konigi</title><link>http://konigi.com/tags/single-page/</link><description>Recent content in single page on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/single-page/index.xml" rel="self" type="application/rss+xml"/><item><title>NihongoUp</title><link>http://konigi.com/designs/submissions/nihongoup/</link><pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/nihongoup/</guid><description>NihongoUp is a Japanese educational game &amp;amp; reviewing tool.
 ※ Learn hiragana and katakana in two weeks
 ※ Improve your kana IME reading speed
 ※ Review JLPT kanji and vocabulary in context
 ※ Learn to correctly use particles and counters
-http://nihongoup.com/</description>
-    </item>
-    
-    <item>
-      <title>Andy Shaw</title>
-      <link>http://konigi.com/designs/submissions/andy-shaw/</link>
-      <pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/andy-shaw/</guid>
-      <description>Taking a portfolio site to the bare essentials. Links to the latest work &amp;amp; contact options.
-http://andyshaw.me</description>
-    </item>
-    
-    <item>
-      <title>Skototron</title>
-      <link>http://konigi.com/designs/submissions/skototron/</link>
-      <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/skototron/</guid>
-      <description>Is a small Car Quest team from lviv
-http://www.skototron.org.ua/</description>
-    </item>
-    
-    <item>
-      <title>Orange Label Design Studio</title>
-      <link>http://konigi.com/designs/orange-label-design-studio/</link>
-      <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/orange-label-design-studio/</guid>
-      <description>Very nice single-page portfolio from this web design studio. Reload the page a few times to change the large header graphic. The rip-off tabs for the downloadable questionnaires and company profile are a nice touch, as are the individually laid out work samples. Would be nice to see some jump navigation between categories of the beautiful work here.
-http://www.orangelabel.com/</description>
-    </item>
-    
-    <item>
-      <title>HANDCRAFTED CSS</title>
-      <link>http://konigi.com/designs/submissions/handcrafted-css/</link>
-      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/handcrafted-css/</guid>
-      <description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte&#39;s &#34;HANDCRAFTED CSS.&#34;
-http://handcraftedcss.com/</description>
-    </item>
-    
-    <item>
-      <title>Fever</title>
-      <link>http://konigi.com/designs/submissions/fever/</link>
-      <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/fever/</guid>
-      <description>Fever is a feed reading server product. The product site features a single-page design, with well-organized and clear product information at the top, and navigation anchors that scroll the page down. All of the features you need from the service&amp;#8212;purchasing info, account info, customer support&amp;#8212;are included dynamically in the single page, so once you&#39;ve purchased the product, for instance, your customer info is populated into the account area.</description>
-    </item>
-    
-    <item>
-      <title>inezborges</title>
-      <link>http://konigi.com/designs/submissions/inezborges/</link>
-      <pubDate>Fri, 08 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/inezborges/</guid>
-      <description>inezborges, is a graphic and designer web working on Oporto. Specializing in Web and Print Design, she creates clean, engaging, and functional websites.
+http://nihongoup.com/</description></item><item><title>Andy Shaw</title><link>http://konigi.com/designs/submissions/andy-shaw/</link><pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/andy-shaw/</guid><description>Taking a portfolio site to the bare essentials. Links to the latest work &amp;amp; contact options.
+http://andyshaw.me</description></item><item><title>Skototron</title><link>http://konigi.com/designs/submissions/skototron/</link><pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/skototron/</guid><description>Is a small Car Quest team from lviv
+http://www.skototron.org.ua/</description></item><item><title>Orange Label Design Studio</title><link>http://konigi.com/designs/orange-label-design-studio/</link><pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/orange-label-design-studio/</guid><description>Very nice single-page portfolio from this web design studio. Reload the page a few times to change the large header graphic. The rip-off tabs for the downloadable questionnaires and company profile are a nice touch, as are the individually laid out work samples. Would be nice to see some jump navigation between categories of the beautiful work here.
+http://www.orangelabel.com/</description></item><item><title>HANDCRAFTED CSS</title><link>http://konigi.com/designs/submissions/handcrafted-css/</link><pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/handcrafted-css/</guid><description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte's "HANDCRAFTED CSS."
+http://handcraftedcss.com/</description></item><item><title>Fever</title><link>http://konigi.com/designs/submissions/fever/</link><pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/fever/</guid><description>Fever is a feed reading server product. The product site features a single-page design, with well-organized and clear product information at the top, and navigation anchors that scroll the page down. All of the features you need from the service&amp;#8212;purchasing info, account info, customer support&amp;#8212;are included dynamically in the single page, so once you've purchased the product, for instance, your customer info is populated into the account area.</description></item><item><title>inezborges</title><link>http://konigi.com/designs/submissions/inezborges/</link><pubDate>Fri, 08 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/inezborges/</guid><description>inezborges, is a graphic and designer web working on Oporto. Specializing in Web and Print Design, she creates clean, engaging, and functional websites.
 Nowadays, she spends most of her free time in researching web design technologies. She´s working in the internet industry, focusing on web design as well as user interface design, web 2.0.
-http://www.inezborges.com</description>
-    </item>
-    
-    <item>
-      <title>Jason Reed Web Design</title>
-      <link>http://konigi.com/designs/submissions/jason-reed-web-design/</link>
-      <pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/jason-reed-web-design/</guid>
-      <description>I like this simple, one-page portfolio. Uses accordions to switch between sections and tabs within accordion panels to navigate sub-sections. The hand-drawn arrows are a nice touch.
-http://www.jasonreedwebdesign.com/</description>
-    </item>
-    
-    <item>
-      <title>LittleSnapper for iPhone</title>
-      <link>http://konigi.com/designs/submissions/littlesnapper-iphone/</link>
-      <pubDate>Thu, 23 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/littlesnapper-iphone/</guid>
-      <description>Simple single page product site for LittleSnapper iPhone, an app that lets you snap, tag, and share photos. I love the how the screenshots and videos slide into the iphone image on the page when you click the buttons on the right. Brilliant idea.
-http://www.realmacsoftware.com/littlesnapper/iphone/</description>
-    </item>
-    
-    <item>
-      <title>Sprocket House</title>
-      <link>http://konigi.com/designs/submissions/sprocket-house/</link>
-      <pubDate>Tue, 24 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/sprocket-house/</guid>
-      <description>Design for Web &amp;amp; Print
-http://sprockethouse.com/</description>
-    </item>
-    
-    <item>
-      <title>Web DynamiX</title>
-      <link>http://konigi.com/designs/submissions/web-dynamix/</link>
-      <pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/web-dynamix/</guid>
-      <description>http://www.webdynamix.biz</description>
-    </item>
-    
-    <item>
-      <title>Five Simple Steps</title>
-      <link>http://konigi.com/designs/submissions/five-simple-steps/</link>
-      <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/five-simple-steps/</guid>
-      <description>Lovely single page design for Mark Boulton&#39;s upcoming eBook.
-http://www.fivesimplesteps.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Mediocore - David Arazim Graphic Designer</title>
-      <link>http://konigi.com/designs/submissions/mediocore-david-arazim-graphic-designer/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/mediocore-david-arazim-graphic-designer/</guid>
-      <description>Beautiful single page portfolio of illustrator David Arazim&#39;s work. http://mediocore.cz/</description>
-    </item>
-    
-    <item>
-      <title>Visualbox</title>
-      <link>http://konigi.com/designs/submissions/visualbox/</link>
-      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/visualbox/</guid>
-      <description>Visualbox is an agency in Buenos Aires, Argentina. Their portfolio is a single page scrolling site with project images laid out on a slate gray tile background. Love the huge heading and the gorgeous, crisp images.
-http://www.visualboxsite.com/</description>
-    </item>
-    
-    <item>
-      <title>RGB</title>
-      <link>http://konigi.com/designs/submissions/rgb/</link>
-      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/rgb/</guid>
-      <description>Single page portfolio of designer Rob Brearly. Large photos and screenshots in a simple grid make this portfolio a pleasure to scroll through.
-http://www.rgbstudio.co.uk/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.inezborges.com</description></item><item><title>Jason Reed Web Design</title><link>http://konigi.com/designs/submissions/jason-reed-web-design/</link><pubDate>Fri, 24 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/jason-reed-web-design/</guid><description>I like this simple, one-page portfolio. Uses accordions to switch between sections and tabs within accordion panels to navigate sub-sections. The hand-drawn arrows are a nice touch.
+http://www.jasonreedwebdesign.com/</description></item><item><title>LittleSnapper for iPhone</title><link>http://konigi.com/designs/submissions/littlesnapper-iphone/</link><pubDate>Thu, 23 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/littlesnapper-iphone/</guid><description>Simple single page product site for LittleSnapper iPhone, an app that lets you snap, tag, and share photos. I love the how the screenshots and videos slide into the iphone image on the page when you click the buttons on the right. Brilliant idea.
+http://www.realmacsoftware.com/littlesnapper/iphone/</description></item><item><title>Sprocket House</title><link>http://konigi.com/designs/submissions/sprocket-house/</link><pubDate>Tue, 24 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/sprocket-house/</guid><description>Design for Web &amp;amp; Print
+http://sprockethouse.com/</description></item><item><title>Web DynamiX</title><link>http://konigi.com/designs/submissions/web-dynamix/</link><pubDate>Sun, 15 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/web-dynamix/</guid><description>http://www.webdynamix.biz</description></item><item><title>Five Simple Steps</title><link>http://konigi.com/designs/submissions/five-simple-steps/</link><pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/five-simple-steps/</guid><description>Lovely single page design for Mark Boulton's upcoming eBook.
+http://www.fivesimplesteps.co.uk/</description></item><item><title>Mediocore - David Arazim Graphic Designer</title><link>http://konigi.com/designs/submissions/mediocore-david-arazim-graphic-designer/</link><pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/mediocore-david-arazim-graphic-designer/</guid><description>Beautiful single page portfolio of illustrator David Arazim's work. http://mediocore.cz/</description></item><item><title>Visualbox</title><link>http://konigi.com/designs/submissions/visualbox/</link><pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/visualbox/</guid><description>Visualbox is an agency in Buenos Aires, Argentina. Their portfolio is a single page scrolling site with project images laid out on a slate gray tile background. Love the huge heading and the gorgeous, crisp images.
+http://www.visualboxsite.com/</description></item><item><title>RGB</title><link>http://konigi.com/designs/submissions/rgb/</link><pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/rgb/</guid><description>Single page portfolio of designer Rob Brearly. Large photos and screenshots in a simple grid make this portfolio a pleasure to scroll through.
+http://www.rgbstudio.co.uk/</description></item></channel></rss>

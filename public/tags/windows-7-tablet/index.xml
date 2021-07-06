@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Windows 7 Tablet on Konigi</title>
-    <link>http://konigi.com/tags/windows-7-tablet/</link>
-    <description>Recent content in Windows 7 Tablet on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/windows-7-tablet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Windows 7 Tablet vs. iPad</title>
-      <link>http://konigi.com/blog/windows-7-tablet-vs-ipad/</link>
-      <pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/windows-7-tablet-vs-ipad/</guid>
-      <description>This is a pretty fun comparison of a Windows 7 Hanvon tablet and the iPad. Mute the music and Steve Jobs voice over unless your into that kind of cacophony.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Windows 7 Tablet on Konigi</title><link>http://konigi.com/tags/windows-7-tablet/</link><description>Recent content in Windows 7 Tablet on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/windows-7-tablet/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows 7 Tablet vs. iPad</title><link>http://konigi.com/blog/windows-7-tablet-vs-ipad/</link><pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/windows-7-tablet-vs-ipad/</guid><description>This is a pretty fun comparison of a Windows 7 Hanvon tablet and the iPad. Mute the music and Steve Jobs voice over unless your into that kind of cacophony.
 Found via 52 Tiger.
-http://52tiger.net/windows-7-tablet-vs-ipad/?utm_source=feedburner</description>
-    </item>
-    
-  </channel>
-</rss>
+http://52tiger.net/windows-7-tablet-vs-ipad/?utm_source=feedburner</description></item></channel></rss>

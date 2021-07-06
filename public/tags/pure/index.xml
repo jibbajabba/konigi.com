@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>pure on Konigi</title>
-    <link>http://konigi.com/tags/pure/</link>
-    <description>Recent content in pure on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/pure/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Minimalissimo</title>
-      <link>http://konigi.com/designs/submissions/minimalissimo/</link>
-      <pubDate>Tue, 22 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/minimalissimo/</guid>
-      <description>Minimalissimo practices what they preach. They blog about all type of minimalist design, and their own design is really just that: minimalist.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pure on Konigi</title><link>http://konigi.com/tags/pure/</link><description>Recent content in pure on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/pure/index.xml" rel="self" type="application/rss+xml"/><item><title>Minimalissimo</title><link>http://konigi.com/designs/submissions/minimalissimo/</link><pubDate>Tue, 22 Sep 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/minimalissimo/</guid><description>Minimalissimo practices what they preach. They blog about all type of minimalist design, and their own design is really just that: minimalist.
 Their pagination design is also pretty sweet.
-http://minimalissimo.com</description>
-    </item>
-    
-  </channel>
-</rss>
+http://minimalissimo.com</description></item></channel></rss>

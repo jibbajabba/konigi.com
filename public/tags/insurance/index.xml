@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>insurance on Konigi</title>
-    <link>http://konigi.com/tags/insurance/</link>
-    <description>Recent content in insurance on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/insurance/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Freelancers Union Insurance: 2010 summary of costs</title>
-      <link>http://konigi.com/blog/freelancers-union-insurance-2010-summary-costs/</link>
-      <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/freelancers-union-insurance-2010-summary-costs/</guid>
-      <description>Freelancers should check out Munawar Ahmed&#39;s summary of health insurance, life insurance, and long-term disability rates for 2010 through the Freelancer&#39;s Union.
-http://www.munawarahmed.com/incorporation/freelancers-union-insurance/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>insurance on Konigi</title><link>http://konigi.com/tags/insurance/</link><description>Recent content in insurance on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/insurance/index.xml" rel="self" type="application/rss+xml"/><item><title>Freelancers Union Insurance: 2010 summary of costs</title><link>http://konigi.com/blog/freelancers-union-insurance-2010-summary-costs/</link><pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/freelancers-union-insurance-2010-summary-costs/</guid><description>Freelancers should check out Munawar Ahmed's summary of health insurance, life insurance, and long-term disability rates for 2010 through the Freelancer's Union.
+http://www.munawarahmed.com/incorporation/freelancers-union-insurance/</description></item></channel></rss>

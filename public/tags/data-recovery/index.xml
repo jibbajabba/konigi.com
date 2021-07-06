@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>data recovery on Konigi</title>
-    <link>http://konigi.com/tags/data-recovery/</link>
-    <description>Recent content in data recovery on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/data-recovery/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Facebook Loses Users&#39; Email Notification Settings</title>
-      <link>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</link>
-      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</guid>
-      <description>I got this in my email from Facebook. Unfortunately, the settings that control which email notifications get sent to you were lost. We&#39;re sorry for the inconvenience.
- Wow. Really? I agree with what M. David Peterson had to say about the issue. Sounds like they&#39;ve got some inexperienced engineers running the show. If this had been a web service with critical data that wasn&#39;t backed up, people would be pretty pissed.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>data recovery on Konigi</title><link>http://konigi.com/tags/data-recovery/</link><description>Recent content in data recovery on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 29 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/data-recovery/index.xml" rel="self" type="application/rss+xml"/><item><title>Facebook Loses Users' Email Notification Settings</title><link>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</link><pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/facebook-loses-users-email-notification-settings/</guid><description>I got this in my email from Facebook. Unfortunately, the settings that control which email notifications get sent to you were lost. We're sorry for the inconvenience.
+Wow. Really? I agree with what M. David Peterson had to say about the issue. Sounds like they've got some inexperienced engineers running the show. If this had been a web service with critical data that wasn't backed up, people would be pretty pissed.</description></item></channel></rss>

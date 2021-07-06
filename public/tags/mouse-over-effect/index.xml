@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>mouse over effect on Konigi</title>
-    <link>http://konigi.com/tags/mouse-over-effect/</link>
-    <description>Recent content in mouse over effect on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/mouse-over-effect/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Atomic Floyd - The New State of Sound</title>
-      <link>http://konigi.com/designs/submissions/atomic-floyd-new-state-sound/</link>
-      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/atomic-floyd-new-state-sound/</guid>
-      <description>Online presence and shop for high end head phone manufactorer Atomic Floyd. Special attention was put into the html focus defocus of the navigation. By Story Worldwide.
-http://www.atomicfloyd.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mouse over effect on Konigi</title><link>http://konigi.com/tags/mouse-over-effect/</link><description>Recent content in mouse over effect on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/mouse-over-effect/index.xml" rel="self" type="application/rss+xml"/><item><title>Atomic Floyd - The New State of Sound</title><link>http://konigi.com/designs/submissions/atomic-floyd-new-state-sound/</link><pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/atomic-floyd-new-state-sound/</guid><description>Online presence and shop for high end head phone manufactorer Atomic Floyd. Special attention was put into the html focus defocus of the navigation. By Story Worldwide.
+http://www.atomicfloyd.com/</description></item></channel></rss>

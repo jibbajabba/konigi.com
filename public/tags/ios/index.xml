@@ -1,96 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>iOS on Konigi</title>
-    <link>http://konigi.com/tags/ios/</link>
-    <description>Recent content in iOS on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Origami: Design prototyping with Quartz Composer</title>
-      <link>http://konigi.com/links/origami-design-prototyping-quartz-composer/</link>
-      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/origami-design-prototyping-quartz-composer/</guid>
-      <description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that&#39;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&#39;s UI allows you connect patches with wires (or tubes, if you&#39;re familiar with that metaphor) to perform tasks or set behaviors and properties.
-Jay Thrash&#39;s video explains how to use it.</description>
-    </item>
-    
-    <item>
-      <title>Starters Guide to iOS Design</title>
-      <link>http://konigi.com/links/starters-guide-ios-design/</link>
-      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
-http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
-    </item>
-    
-    <item>
-      <title>Tapotype Transition Library</title>
-      <link>http://konigi.com/links/tapotype-transition-library/</link>
-      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/tapotype-transition-library/</guid>
-      <description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
-http://tapotype.com/</description>
-    </item>
-    
-    <item>
-      <title>AirServer: Airplay receiver for iOS devices</title>
-      <link>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</link>
-      <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid>
-      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&#39;s face and hands.</description>
-    </item>
-    
-    <item>
-      <title>Reflector.app: iOS AirPlay mirroring to computer</title>
-      <link>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</guid>
-      <description>Reflector lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iOS on Konigi</title><link>http://konigi.com/tags/ios/</link><description>Recent content in iOS on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/ios/index.xml" rel="self" type="application/rss+xml"/><item><title>Origami: Design prototyping with Quartz Composer</title><link>http://konigi.com/links/origami-design-prototyping-quartz-composer/</link><pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/links/origami-design-prototyping-quartz-composer/</guid><description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that's available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer's UI allows you connect patches with wires (or tubes, if you're familiar with that metaphor) to perform tasks or set behaviors and properties.
+Jay Thrash's video explains how to use it.</description></item><item><title>Starters Guide to iOS Design</title><link>http://konigi.com/links/starters-guide-ios-design/</link><pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/starters-guide-ios-design/</guid><description>Ben Taylor's Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you'll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+http://taybenlor.com/2013/05/21/designing-for-ios.html</description></item><item><title>Tapotype Transition Library</title><link>http://konigi.com/links/tapotype-transition-library/</link><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/tapotype-transition-library/</guid><description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
+http://tapotype.com/</description></item><item><title>AirServer: Airplay receiver for iOS devices</title><link>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</link><pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid><description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user's face and hands.</description></item><item><title>Reflector.app: iOS AirPlay mirroring to computer</title><link>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</link><pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/reflectorapp-ios-airplay-mirroring-computer/</guid><description>Reflector lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.
 @dakotareese tipped me that some users report problems using apps that hack into Airplay. More info here.
 Via 90poe
-https://www.reflectorapp.com/</description>
-    </item>
-    
-    <item>
-      <title>Mac OS X and iOS Icon Templates from Cohdoo</title>
-      <link>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</guid>
-      <description>Cohdoo have created downloadable iOS and OS X icon templates for Photoshop that lay out all the different sizes of assets for a given platform and state where they were to be used.
+https://www.reflectorapp.com/</description></item><item><title>Mac OS X and iOS Icon Templates from Cohdoo</title><link>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</link><pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/mac-os-x-and-ios-icon-templates-cohdoo/</guid><description>Cohdoo have created downloadable iOS and OS X icon templates for Photoshop that lay out all the different sizes of assets for a given platform and state where they were to be used.
 Download the PSD templates here.
-http://blog.cohdoo.com/post/9293679992/icon-grids</description>
-    </item>
-    
-    <item>
-      <title>iOS Stencils for OmniGraffle</title>
-      <link>http://konigi.com/links/ios-stencils-omnigraffle/</link>
-      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/ios-stencils-omnigraffle/</guid>
-      <description>I&#39;ve been asked several times in the past to add iOS stencils to the wireframe stencil set I make. These are some that I know of, and have been recommended to me by @OmniGraffle and @jmk.
- iA&#39;s OmniGraffle port of the Teehan+Lax iPad Stencils David Morford&#39;s iOS Design Stencils iPad and iPhone Design  I prefer to link to these than to throw together something myself until I actually work on an iOS project.</description>
-    </item>
-    
-    <item>
-      <title>LiveView for iPhone &amp; iPad</title>
-      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
-      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
-Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
-    </item>
-    
-  </channel>
-</rss>
+http://blog.cohdoo.com/post/9293679992/icon-grids</description></item><item><title>iOS Stencils for OmniGraffle</title><link>http://konigi.com/links/ios-stencils-omnigraffle/</link><pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/ios-stencils-omnigraffle/</guid><description>I've been asked several times in the past to add iOS stencils to the wireframe stencil set I make. These are some that I know of, and have been recommended to me by @OmniGraffle and @jmk.
+iA's OmniGraffle port of the Teehan+Lax iPad Stencils David Morford's iOS Design Stencils iPad and iPhone Design I prefer to link to these than to throw together something myself until I actually work on an iOS project.</description></item><item><title>LiveView for iPhone &amp; iPad</title><link>http://konigi.com/links/liveview-iphone-ipad/</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/liveview-iphone-ipad/</guid><description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description></item></channel></rss>

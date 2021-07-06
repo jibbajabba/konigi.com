@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>lol on Konigi</title>
-    <link>http://konigi.com/tags/lol/</link>
-    <description>Recent content in lol on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/lol/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>If Instagram was made for cats...</title>
-      <link>http://konigi.com/blog/if-instagram-was-made-cats/</link>
-      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/if-instagram-was-made-cats/</guid>
-      <description>the number of cats on Popular would be about the same. (for @angelpixels and @joshuakaufman)
-http://www.flickr.com/photos/jibbajabba/5425668904/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>lol on Konigi</title><link>http://konigi.com/tags/lol/</link><description>Recent content in lol on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/lol/index.xml" rel="self" type="application/rss+xml"/><item><title>If Instagram was made for cats...</title><link>http://konigi.com/blog/if-instagram-was-made-cats/</link><pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/if-instagram-was-made-cats/</guid><description>the number of cats on Popular would be about the same. (for @angelpixels and @joshuakaufman)
+http://www.flickr.com/photos/jibbajabba/5425668904/</description></item></channel></rss>

@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>agile software development on Konigi</title>
-    <link>http://konigi.com/tags/agile-software-development/</link>
-    <description>Recent content in agile software development on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pivot Mac for PivotalTracker</title>
-      <link>http://konigi.com/links/pivot-mac-pivotaltracker/</link>
-      <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/pivot-mac-pivotaltracker/</guid>
-      <description>I was looking for a way to add stories to Pivotal Tracker without having to load their UI in the web browser. I wanted something as fast as using Alfred, and found Jelle Vandebeeck&#39;s Pivot App for the Mac.
-Pivot puts an icon in your menubar, and drops down a form to file chores, features, bugs, and releases with auto-completion for projects, owners, and tags. Simple. Only thing I could want more from this is a clipboard link to the story, or an optional description field, but is otherwise near perfect.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>agile software development on Konigi</title><link>http://konigi.com/tags/agile-software-development/</link><description>Recent content in agile software development on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/agile-software-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Pivot Mac for PivotalTracker</title><link>http://konigi.com/links/pivot-mac-pivotaltracker/</link><pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/pivot-mac-pivotaltracker/</guid><description>I was looking for a way to add stories to Pivotal Tracker without having to load their UI in the web browser. I wanted something as fast as using Alfred, and found Jelle Vandebeeck's Pivot App for the Mac.
+Pivot puts an icon in your menubar, and drops down a form to file chores, features, bugs, and releases with auto-completion for projects, owners, and tags. Simple. Only thing I could want more from this is a clipboard link to the story, or an optional description field, but is otherwise near perfect.</description></item></channel></rss>

@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>book covers on Konigi</title>
-    <link>http://konigi.com/tags/book-covers/</link>
-    <description>Recent content in book covers on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Aug 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/book-covers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>100 Design Book Covers</title>
-      <link>http://konigi.com/blog/100-design-book-covers/</link>
-      <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/100-design-book-covers/</guid>
-      <description>visual evation posts pictures from 100 design books.
-http://www.evasion.cc/blog/comments/100-design-books-covers/</description>
-    </item>
-    
-    <item>
-      <title>Penguin Design Award</title>
-      <link>http://konigi.com/blog/penguin-design-award/</link>
-      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/penguin-design-award/</guid>
-      <description>Penguin Books has announced the winners and shortlist for the 2008 Penguin Design Award.
-http://www.penguin.co.uk/static/cs/uk/0/minisites/penguindesignaward/2008winners.php</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>book covers on Konigi</title><link>http://konigi.com/tags/book-covers/</link><description>Recent content in book covers on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/book-covers/index.xml" rel="self" type="application/rss+xml"/><item><title>100 Design Book Covers</title><link>http://konigi.com/blog/100-design-book-covers/</link><pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/100-design-book-covers/</guid><description>visual evation posts pictures from 100 design books.
+http://www.evasion.cc/blog/comments/100-design-books-covers/</description></item><item><title>Penguin Design Award</title><link>http://konigi.com/blog/penguin-design-award/</link><pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/penguin-design-award/</guid><description>Penguin Books has announced the winners and shortlist for the 2008 Penguin Design Award.
+http://www.penguin.co.uk/static/cs/uk/0/minisites/penguindesignaward/2008winners.php</description></item></channel></rss>

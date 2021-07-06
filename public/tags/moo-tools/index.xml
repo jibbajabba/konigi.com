@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>moo tools on Konigi</title>
-    <link>http://konigi.com/tags/moo-tools/</link>
-    <description>Recent content in moo tools on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 03 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/moo-tools/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Highcharts: Interactive JavaScript charts</title>
-      <link>http://konigi.com/links/highcharts-interactive-javascript-charts/</link>
-      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/highcharts-interactive-javascript-charts/</guid>
-      <description>Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.
-http://highcharts.com/</description>
-    </item>
-    
-    <item>
-      <title>Growl-Like Alerts in Web Pages</title>
-      <link>http://konigi.com/blog/growl-alerts-web-pages/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/growl-alerts-web-pages/</guid>
-      <description>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. Growl is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.
-These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>moo tools on Konigi</title><link>http://konigi.com/tags/moo-tools/</link><description>Recent content in moo tools on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/moo-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Highcharts: Interactive JavaScript charts</title><link>http://konigi.com/links/highcharts-interactive-javascript-charts/</link><pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/highcharts-interactive-javascript-charts/</guid><description>Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.
+http://highcharts.com/</description></item><item><title>Growl-Like Alerts in Web Pages</title><link>http://konigi.com/blog/growl-alerts-web-pages/</link><pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/growl-alerts-web-pages/</guid><description>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. Growl is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.
+These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.</description></item></channel></rss>

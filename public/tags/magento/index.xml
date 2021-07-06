@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>magento on Konigi</title>
-    <link>http://konigi.com/tags/magento/</link>
-    <description>Recent content in magento on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/magento/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Sugagloss</title>
-      <link>http://konigi.com/designs/submissions/sugagloss/</link>
-      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/sugagloss/</guid>
-      <description>Sugagloss, a top end retailer of exclusive adult accessories, underwear and gifts.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>magento on Konigi</title><link>http://konigi.com/tags/magento/</link><description>Recent content in magento on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/magento/index.xml" rel="self" type="application/rss+xml"/><item><title>Sugagloss</title><link>http://konigi.com/designs/submissions/sugagloss/</link><pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/sugagloss/</guid><description>Sugagloss, a top end retailer of exclusive adult accessories, underwear and gifts.
 Built completely in Flash around a massively enhanced Magento backend, it behaves like a designer shoppers dream – and yet with it’s HTML progressive build methodology it ticks all SEO best practice requirements – whilst never for a moment compromising it’s user centric, highly engaging environment.
-http://www.sugagloss.co.uk</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.sugagloss.co.uk</description></item></channel></rss>

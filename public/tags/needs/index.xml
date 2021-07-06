@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>needs on Konigi</title>
-    <link>http://konigi.com/tags/needs/</link>
-    <description>Recent content in needs on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/needs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pace</title>
-      <link>http://konigi.com/blog/pace/</link>
-      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/pace/</guid>
-      <description>Hannah Donovan&#39;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
-I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>needs on Konigi</title><link>http://konigi.com/tags/needs/</link><description>Recent content in needs on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/needs/index.xml" rel="self" type="application/rss+xml"/><item><title>Pace</title><link>http://konigi.com/blog/pace/</link><pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/pace/</guid><description>Hannah Donovan's essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+I've been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description></item></channel></rss>

@@ -1,23 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>articles on Konigi</title>
-    <link>http://konigi.com/categories/articles/</link>
-    <description>Recent content in articles on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 12:13:24 -0700</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/categories/articles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Unmoderated Remote Usability Testing</title>
-      <link>http://konigi.com/articles/unmoderated-remote-usability-testing/</link>
-      <pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate>
-      
-      <guid>http://konigi.com/articles/unmoderated-remote-usability-testing/</guid>
-      <description>Performing remote usability tests without a human moderator.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Konigi</title><link>http://konigi.com/categories/articles/</link><description>Recent content in articles on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 12:13:24 -0700</lastBuildDate><atom:link href="http://konigi.com/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Unmoderated Remote Usability Testing</title><link>http://konigi.com/design/unmoderated-remote-usability-testing/</link><pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate><guid>http://konigi.com/design/unmoderated-remote-usability-testing/</guid><description>Performing remote usability tests without a human moderator.</description></item><item><title>Analog Tools</title><link>http://konigi.com/design/analog-tools/</link><pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/design/analog-tools/</guid><description>My analog tools don't change much. I've bought many, but in reality I use only a handful. These are the ones I now stick with.
+Sketching Pens and Markers PIlot Hi-Tec-C 0.4mm (black)
+This is the black gel pen I carry in my pocket. Always with me, and unforgivingly hard and fine. It's my preferred tool for small thumbnail sketching in my pocket sketchbook and on my 8-up sheets, where I work in small areas on mostly abstract boxes and arrows.</description></item><item><title>Accessibility</title><link>http://konigi.com/design/accessibility/</link><pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/design/accessibility/</guid><description>About Web accessibility Web accessibility refers to the practice of making websites usable by people of all abilities and disabilities. When sites are correctly designed, developed and edited, all users can have equal access to information and functionality. For example, when a site is coded with semantically meaningful HTML, with textual equivalents provided for images and with links named meaningfully, this helps blind users using text-to-speech software and/or text-to-Braille hardware. When text and images are large and/or enlargable, it is easier for users with poor sight to read and understand the content.</description></item><item><title>Agile Process</title><link>http://konigi.com/design/agile-process/</link><pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/design/agile-process/</guid><description>About User Experience Design in the Agile Software Development method and Agile Process.
+Agile Method Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The term was coined in the year 2001 when the Agile Manifesto was formulated.
+Agile methods generally promote a project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices that allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals.</description></item></channel></rss>

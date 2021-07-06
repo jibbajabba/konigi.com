@@ -1,64 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>professional development on Konigi</title>
-    <link>http://konigi.com/tags/professional-development/</link>
-    <description>Recent content in professional development on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/professional-development/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Give it five minutes</title>
-      <link>http://konigi.com/blog/give-it-five-minutes/</link>
-      <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/give-it-five-minutes/</guid>
-      <description>I&#39;m certainly no stranger to being opinionated and argumentative. I&#39;ve put my foot in my mouth a few times by pushing back on others&#39; ideas, and am well aware that being quick to react can be detrimental. The older I get, the more I realize how little I know and how much more time I need to spend thinking after listening, before I open my mouth or start to type to respond.</description>
-    </item>
-    
-    <item>
-      <title>Seth Godin on the Importance of Domain Knowledge</title>
-      <link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link>
-      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid>
-      <description>Seth Godin&#39;s blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
-It&#39;s not enough to be aware of the domain you&#39;re working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description>
-    </item>
-    
-    <item>
-      <title>Why The Valley Wants Designers That Can Code</title>
-      <link>http://konigi.com/blog/why-valley-wants-designers-can-code/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/why-valley-wants-designers-can-code/</guid>
-      <description>Jared Spool talks about why designers who code are popular in Silicon Valley right now, and for the most part, it boils down to this. Small software and web startups value and are able to use a broader range of skillsets, because one of the highest priorities, especially for bootstrapped startups, is to ship while lean on resources.
-Jared notes that those who don&#39;t think designers should know how to code say this dilutes the designer&#39;s value.</description>
-    </item>
-    
-    <item>
-      <title>Nine Essential Characteristics of Good UX Designers</title>
-      <link>http://konigi.com/blog/nine-essential-characteristics-good-ux-designers/</link>
-      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/nine-essential-characteristics-good-ux-designers/</guid>
-      <description>Fred Beecher wrote what he thinks are the nine essential characteristics you must possess to make a good software user experience designer, in reaction to a comment made about skills an IA should possess. It&#39;s an excellent read for those listing qualifications and evaluating UX Designers for hire, and a great list of qualities for job-seekers to demonstrate during interviews.
- A Deep Understanding of Human Psychology &amp;amp; Research Methods Competence in the Basics of Graphic Design An Awareness of and Interest in Technology Verbal &amp;amp; Visual Communication Skills Moderate Familiarity with Business, Deep Familiarity with Your Business The Ability to Quickly Learn a Subject Matter Area Mediation, Facilitation, &amp;amp; Translation Skills Creativity &amp;amp; Vision Passion  Elizabeth Buie also added a familiarity with HCI literature, and undboubtedly with HCI history, which I think should be there as well.</description>
-    </item>
-    
-    <item>
-      <title>So you&#39;re thinking about becoming a designer?</title>
-      <link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link>
-      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid>
-      <description>Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>professional development on Konigi</title><link>http://konigi.com/tags/professional-development/</link><description>Recent content in professional development on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/professional-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Give it five minutes</title><link>http://konigi.com/blog/give-it-five-minutes/</link><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/give-it-five-minutes/</guid><description>I'm certainly no stranger to being opinionated and argumentative. I've put my foot in my mouth a few times by pushing back on others' ideas, and am well aware that being quick to react can be detrimental. The older I get, the more I realize how little I know and how much more time I need to spend thinking after listening, before I open my mouth or start to type to respond.</description></item><item><title>Seth Godin on the Importance of Domain Knowledge</title><link>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</link><pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/seth-godin-importance-domain-knowledge/</guid><description>Seth Godin's blog often talks about where successful ideas come from, and in this post talks about bypassing the need to make huge leaps in innovation by synthesizing what we know and have learned from history, using Palm as the cautionary tale.
+It's not enough to be aware of the domain you're working in, you need to understand it. Noticing things and being curious about how they work is the single most common trait I see in creative people.</description></item><item><title>Why The Valley Wants Designers That Can Code</title><link>http://konigi.com/blog/why-valley-wants-designers-can-code/</link><pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/why-valley-wants-designers-can-code/</guid><description>Jared Spool talks about why designers who code are popular in Silicon Valley right now, and for the most part, it boils down to this. Small software and web startups value and are able to use a broader range of skillsets, because one of the highest priorities, especially for bootstrapped startups, is to ship while lean on resources.
+Jared notes that those who don't think designers should know how to code say this dilutes the designer's value.</description></item><item><title>Nine Essential Characteristics of Good UX Designers</title><link>http://konigi.com/blog/nine-essential-characteristics-good-ux-designers/</link><pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/nine-essential-characteristics-good-ux-designers/</guid><description>Fred Beecher wrote what he thinks are the nine essential characteristics you must possess to make a good software user experience designer, in reaction to a comment made about skills an IA should possess. It's an excellent read for those listing qualifications and evaluating UX Designers for hire, and a great list of qualities for job-seekers to demonstrate during interviews.
+A Deep Understanding of Human Psychology &amp;amp; Research Methods Competence in the Basics of Graphic Design An Awareness of and Interest in Technology Verbal &amp;amp; Visual Communication Skills Moderate Familiarity with Business, Deep Familiarity with Your Business The Ability to Quickly Learn a Subject Matter Area Mediation, Facilitation, &amp;amp; Translation Skills Creativity &amp;amp; Vision Passion Elizabeth Buie also added a familiarity with HCI literature, and undboubtedly with HCI history, which I think should be there as well.</description></item><item><title>So you're thinking about becoming a designer?</title><link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link><pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid><description>Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:
 So you’re thinking about becoming a designer? If I could tell you only one thing about going into the field, my advice would be ___________ .
- The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. Focus on empathy and understanding problems  Being empathetic helps designers create things that move people.</description>
-    </item>
-    
-  </channel>
-</rss>
+The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. Focus on empathy and understanding problems Being empathetic helps designers create things that move people.</description></item></channel></rss>

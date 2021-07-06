@@ -1,28 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>japanese on Konigi</title>
-    <link>http://konigi.com/tags/japanese/</link>
-    <description>Recent content in japanese on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/japanese/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>NihongoUp</title>
-      <link>http://konigi.com/designs/submissions/nihongoup/</link>
-      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/nihongoup/</guid>
-      <description>NihongoUp is a Japanese educational game &amp;amp; reviewing tool.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>japanese on Konigi</title><link>http://konigi.com/tags/japanese/</link><description>Recent content in japanese on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Oct 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/japanese/index.xml" rel="self" type="application/rss+xml"/><item><title>NihongoUp</title><link>http://konigi.com/designs/submissions/nihongoup/</link><pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/nihongoup/</guid><description>NihongoUp is a Japanese educational game &amp;amp; reviewing tool.
 ※ Learn hiragana and katakana in two weeks
 ※ Improve your kana IME reading speed
 ※ Review JLPT kanji and vocabulary in context
 ※ Learn to correctly use particles and counters
-http://nihongoup.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://nihongoup.com/</description></item></channel></rss>

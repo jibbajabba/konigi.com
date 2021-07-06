@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>vision on Konigi</title>
-    <link>http://konigi.com/tags/vision/</link>
-    <description>Recent content in vision on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 30 Sep 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/vision/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Lighthouse International - Making Text Legible</title>
-      <link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link>
-      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid>
-      <description>Lighthouse provides 10 basic guidelines for designing for people with partial sight. &#34;Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading.&#34;
-http://www.lighthouse.org/accessibility/legible/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vision on Konigi</title><link>http://konigi.com/tags/vision/</link><description>Recent content in vision on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 30 Sep 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/vision/index.xml" rel="self" type="application/rss+xml"/><item><title>Lighthouse International - Making Text Legible</title><link>http://konigi.com/blog/lighthouse-international-making-text-legible/</link><pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/lighthouse-international-making-text-legible/</guid><description>Lighthouse provides 10 basic guidelines for designing for people with partial sight. "Impaired vision often makes reading difficult by: Reducing the amount of light that enters the eye, Blurring the retinal image, Damaging the central portion of the retina best suited to reading."
+http://www.lighthouse.org/accessibility/legible/</description></item></channel></rss>

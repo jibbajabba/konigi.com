@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>info graphics on Konigi</title>
-    <link>http://konigi.com/tags/info-graphics/</link>
-    <description>Recent content in info graphics on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/info-graphics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Tableau Public: Visualization Service</title>
-      <link>http://konigi.com/links/tableau-public-visualization-service/</link>
-      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/tableau-public-visualization-service/</guid>
-      <description>Tableau Public is a free service that lets anyone publish interactive data to the web. Once on the web, anyone can interact with the data, download it, or create their own visualizations of it. No programming skills are required. Windows is required for the desktop application.
-The free version of Tableau Public is for writers, bloggers, students, professors, hobbyists, journeymen, critics, citizens and more. It’s also meant for organizations, but only as an introductory service, and for continued use requires commercial licensing.</description>
-    </item>
-    
-    <item>
-      <title>Highcharts: Interactive JavaScript charts</title>
-      <link>http://konigi.com/links/highcharts-interactive-javascript-charts/</link>
-      <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/highcharts-interactive-javascript-charts/</guid>
-      <description>Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.
-http://highcharts.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>info graphics on Konigi</title><link>http://konigi.com/tags/info-graphics/</link><description>Recent content in info graphics on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/info-graphics/index.xml" rel="self" type="application/rss+xml"/><item><title>Tableau Public: Visualization Service</title><link>http://konigi.com/links/tableau-public-visualization-service/</link><pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/tableau-public-visualization-service/</guid><description>Tableau Public is a free service that lets anyone publish interactive data to the web. Once on the web, anyone can interact with the data, download it, or create their own visualizations of it. No programming skills are required. Windows is required for the desktop application.
+The free version of Tableau Public is for writers, bloggers, students, professors, hobbyists, journeymen, critics, citizens and more. It’s also meant for organizations, but only as an introductory service, and for continued use requires commercial licensing.</description></item><item><title>Highcharts: Interactive JavaScript charts</title><link>http://konigi.com/links/highcharts-interactive-javascript-charts/</link><pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/highcharts-interactive-javascript-charts/</guid><description>Highcharts is a charting library written in pure JavaScript, offering an easy way of adding interactive charts to your web site or web application. Highcharts currently supports line, spline, area, areaspline, column, bar, pie and scatter chart types. It works with either the jQuery or Moo Tools javascript frameworks and is free for non-commercial use. Commercial licenses are offered as well.
+http://highcharts.com/</description></item></channel></rss>

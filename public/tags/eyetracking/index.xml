@@ -1,36 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>eyetracking on Konigi</title>
-    <link>http://konigi.com/tags/eyetracking/</link>
-    <description>Recent content in eyetracking on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jun 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/eyetracking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Eye Tracking Research on Reading on iPad vs. Newspaper</title>
-      <link>http://konigi.com/blog/eye-tracking-research-reading-ipad-vs-newspaper/</link>
-      <pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/eye-tracking-research-reading-ipad-vs-newspaper/</guid>
-      <description>Miratech observed the difference between reading an article in a newspaper and on an iPad in an eye tracking study. They concluded that readers are more likely to skim over articles on an iPad than in a newspaper.
-
-The type of medium doesn&#39;t influence reading time when the text is short (like an article).
-It is easier to assimilate and retain information read in a newspaper than on an iPad.</description>
-    </item>
-    
-    <item>
-      <title>23 Actionable Lessons from Eye-Tracking Studies</title>
-      <link>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</link>
-      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</guid>
-      <description>Christina Laun summarizes the top lessons to take away from eyetracking studies.
- Text attracts attention before graphics. Initial eye movement focuses on the upper left corner of the page. Users initially look at the top left and upper portion of the page before moving down and to the right. Readers ignore banners. Fancy formatting and fonts are ignored. Show numbers as numerals. Type size influences viewing behavior. Users only look at a sub headline if it interests them.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>eyetracking on Konigi</title><link>http://konigi.com/tags/eyetracking/</link><description>Recent content in eyetracking on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/eyetracking/index.xml" rel="self" type="application/rss+xml"/><item><title>Eye Tracking Research on Reading on iPad vs. Newspaper</title><link>http://konigi.com/blog/eye-tracking-research-reading-ipad-vs-newspaper/</link><pubDate>Thu, 16 Jun 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/eye-tracking-research-reading-ipad-vs-newspaper/</guid><description>Miratech observed the difference between reading an article in a newspaper and on an iPad in an eye tracking study. They concluded that readers are more likely to skim over articles on an iPad than in a newspaper.
+The type of medium doesn't influence reading time when the text is short (like an article).
+It is easier to assimilate and retain information read in a newspaper than on an iPad.</description></item><item><title>23 Actionable Lessons from Eye-Tracking Studies</title><link>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</link><pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</guid><description>Christina Laun summarizes the top lessons to take away from eyetracking studies.
+Text attracts attention before graphics. Initial eye movement focuses on the upper left corner of the page. Users initially look at the top left and upper portion of the page before moving down and to the right. Readers ignore banners. Fancy formatting and fonts are ignored. Show numbers as numerals. Type size influences viewing behavior. Users only look at a sub headline if it interests them.</description></item></channel></rss>

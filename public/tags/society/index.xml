@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>society on Konigi</title>
-    <link>http://konigi.com/tags/society/</link>
-    <description>Recent content in society on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/society/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Letting Go</title>
-      <link>http://konigi.com/blog/letting-go/</link>
-      <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/letting-go/</guid>
-      <description>Two great slides from Yiibu&#39;s presentation, Letting Go, a talk about design in an time of increasing disruption.
- &#34;Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don&#39;t necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve.&#34;
-&amp;#8212; Martin Thomas in &#34;Loose: The Future of Business is Letting Go&#34;</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>society on Konigi</title><link>http://konigi.com/tags/society/</link><description>Recent content in society on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Sep 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/society/index.xml" rel="self" type="application/rss+xml"/><item><title>Letting Go</title><link>http://konigi.com/blog/letting-go/</link><pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/letting-go/</guid><description>Two great slides from Yiibu's presentation, Letting Go, a talk about design in an time of increasing disruption.
+"Issuing your customers with something that is rough, incomplete, and possibly even substandard seems counterintuitive but there is growing evidence that people don't necessarily want the perfect product. They prefer to deal with something ragged around the edges that they can adapt or improve."
+&amp;#8212; Martin Thomas in "Loose: The Future of Business is Letting Go"</description></item></channel></rss>

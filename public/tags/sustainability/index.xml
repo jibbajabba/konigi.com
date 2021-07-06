@@ -1,36 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>sustainability on Konigi</title>
-    <link>http://konigi.com/tags/sustainability/</link>
-    <description>Recent content in sustainability on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Re-nourish: Design Sustainably</title>
-      <link>http://konigi.com/blog/re-nourish-design-sustainably/</link>
-      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/re-nourish-design-sustainably/</guid>
-      <description>Re-nourish.com is an independent online toolkit for sustainable graphic design.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sustainability on Konigi</title><link>http://konigi.com/tags/sustainability/</link><description>Recent content in sustainability on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/sustainability/index.xml" rel="self" type="application/rss+xml"/><item><title>Re-nourish: Design Sustainably</title><link>http://konigi.com/blog/re-nourish-design-sustainably/</link><pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/re-nourish-design-sustainably/</guid><description>Re-nourish.com is an independent online toolkit for sustainable graphic design.
 By providing reliable, accessible sustainability tools untethered to commercial interests, we empower graphic designers to implement sustainable decision making in their day-to-day work. Our mission is nothing short of changing the industry, helping truly sustainable graphic design become what design is, not merely what it &amp;quot;could be.&amp;quot;
-Check it out and learn how to change your business&#39; impact on the earth.</description>
-    </item>
-    
-    <item>
-      <title>iYo YoYo Charger for iPhone</title>
-      <link>http://konigi.com/blog/iyo-yoyo-charger-iphone/</link>
-      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iyo-yoyo-charger-iphone/</guid>
-      <description>Peter Thuvander&#39;s concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I&#39;m a big fan of efforts to provide clever alternative energy sources from human-powered generators.
+Check it out and learn how to change your business' impact on the earth.</description></item><item><title>iYo YoYo Charger for iPhone</title><link>http://konigi.com/blog/iyo-yoyo-charger-iphone/</link><pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/iyo-yoyo-charger-iphone/</guid><description>Peter Thuvander's concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I'm a big fan of efforts to provide clever alternative energy sources from human-powered generators.
 Via Core77, yo.
-http://www.peterthuvander.se/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.peterthuvander.se/</description></item></channel></rss>

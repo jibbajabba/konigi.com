@@ -1,168 +1,20 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>interaction design on Konigi</title>
-    <link>http://konigi.com/tags/interaction-design/</link>
-    <description>Recent content in interaction design on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2015 10:31:39 -0700</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/interaction-design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Principle for Mac: Animation and Prototyping</title>
-      <link>http://konigi.com/links/principle-mac/</link>
-      <pubDate>Fri, 28 Aug 2015 10:31:39 -0700</pubDate>
-      
-      <guid>http://konigi.com/links/principle-mac/</guid>
-      <description>Principle for Mac ($99) is a tool for designing animation, primarily for mobile devices. It provides an easy to use interface for prototyping interaction, transitions, or other animated elements in your interface.
-You can design with text, rectangles (which can modified with border radius to make circles), or graphics created with other tools, and then hook up animations for actions like taps, scrolling, and drag, and use the drivers UI to connect those actions to drive other properties.</description>
-    </item>
-    
-    <item>
-      <title>SIX UX: Transition and animation gallery</title>
-      <link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link>
-      <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid>
-      <description>SIX UX is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. Check it.
-http://sixux.com/</description>
-    </item>
-    
-    <item>
-      <title>Meaningful Transitions: A collection of transition patterns</title>
-      <link>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</link>
-      <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</guid>
-      <description>Meaningful Transitions is the thesis project of Johannes Tonollo, an interface design student at the FH Potsdam, Germany. Johannes wrote his Thesis on &amp;quot;Transitions in the User Interface,&amp;quot; in which he analyzed how motion in the user interface can be a helpful extension to static elements to enhance the user experience.
-The collection of transitions is clustered into 6 different categories: Orientation, Spatial Extension, Awaking Controls (Awakening?), Highlight, Feedback, and Feedforward.</description>
-    </item>
-    
-    <item>
-      <title>MiniAjax: Rich UI Showcase</title>
-      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
-      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
-      <description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
-http://miniajax.com/</description>
-    </item>
-    
-    <item>
-      <title>Android Interaction Design Patterns</title>
-      <link>http://konigi.com/links/android-interaction-design-patterns/</link>
-      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/android-interaction-design-patterns/</guid>
-      <description>Android Patterns is a community-contributed site with interaction patterns for Android app design. The site is created by the folks at Dutch interaction design firm, UNITiD, who also provide an mobile wireframe templates for Android and Blackberry devices.
-http://www.androidpatterns.com/wiki</description>
-    </item>
-    
-    <item>
-      <title>Phonedoo: Dry erase iPhone sketching</title>
-      <link>http://konigi.com/links/phonedoo-dry-erase-iphone-sketching/</link>
-      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/phonedoo-dry-erase-iphone-sketching/</guid>
-      <description>Cohdoo makes a nice iPhone UI sketching product called Phone Doos. They are 6.8&amp;quot; by 3.5&amp;quot; dry erase iPhone surfaces with faint grid lines and magnetic backing. A pack contains 10 Phone Doos.
-I like that these gives you a surface to work on that can be re-arranged easily on a table and presented on a metallic wall. They have some good screenshots using them arranged on a whiteboard with flow arrows pointing between them, which is another thing that&#39;s probably much easier with these as opposed to using paper.</description>
-    </item>
-    
-    <item>
-      <title>1st Interaction Design Contest | Building the Internet of Things</title>
-      <link>http://konigi.com/blog/1st-interaction-design-contest-building-internet-things/</link>
-      <pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/1st-interaction-design-contest-building-internet-things/</guid>
-      <description>IDAT, the Institute of Design, Art and Technology of Barcelona is holding its 1st Interaction Design Competition based on the theme of designing applications for the next generation Internet of Things.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>interaction design on Konigi</title><link>http://konigi.com/tags/interaction-design/</link><description>Recent content in interaction design on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2015 10:31:39 -0700</lastBuildDate><atom:link href="http://konigi.com/tags/interaction-design/index.xml" rel="self" type="application/rss+xml"/><item><title>Principle for Mac: Animation and Prototyping</title><link>http://konigi.com/links/principle-mac/</link><pubDate>Fri, 28 Aug 2015 10:31:39 -0700</pubDate><guid>http://konigi.com/links/principle-mac/</guid><description>Principle for Mac ($99) is a tool for designing animation, primarily for mobile devices. It provides an easy to use interface for prototyping interaction, transitions, or other animated elements in your interface.
+You can design with text, rectangles (which can modified with border radius to make circles), or graphics created with other tools, and then hook up animations for actions like taps, scrolling, and drag, and use the drivers UI to connect those actions to drive other properties.</description></item><item><title>SIX UX: Transition and animation gallery</title><link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link><pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid><description>SIX UX is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. Check it.
+http://sixux.com/</description></item><item><title>Meaningful Transitions: A collection of transition patterns</title><link>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</link><pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/meaningful-transitions-collection-transition-patterns/</guid><description>Meaningful Transitions is the thesis project of Johannes Tonollo, an interface design student at the FH Potsdam, Germany. Johannes wrote his Thesis on &amp;quot;Transitions in the User Interface,&amp;quot; in which he analyzed how motion in the user interface can be a helpful extension to static elements to enhance the user experience.
+The collection of transitions is clustered into 6 different categories: Orientation, Spatial Extension, Awaking Controls (Awakening?), Highlight, Feedback, and Feedforward.</description></item><item><title>MiniAjax: Rich UI Showcase</title><link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link><pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid><description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
+http://miniajax.com/</description></item><item><title>Android Interaction Design Patterns</title><link>http://konigi.com/links/android-interaction-design-patterns/</link><pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/android-interaction-design-patterns/</guid><description>Android Patterns is a community-contributed site with interaction patterns for Android app design. The site is created by the folks at Dutch interaction design firm, UNITiD, who also provide an mobile wireframe templates for Android and Blackberry devices.
+http://www.androidpatterns.com/wiki</description></item><item><title>Phonedoo: Dry erase iPhone sketching</title><link>http://konigi.com/links/phonedoo-dry-erase-iphone-sketching/</link><pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/phonedoo-dry-erase-iphone-sketching/</guid><description>Cohdoo makes a nice iPhone UI sketching product called Phone Doos. They are 6.8&amp;quot; by 3.5&amp;quot; dry erase iPhone surfaces with faint grid lines and magnetic backing. A pack contains 10 Phone Doos.
+I like that these gives you a surface to work on that can be re-arranged easily on a table and presented on a metallic wall. They have some good screenshots using them arranged on a whiteboard with flow arrows pointing between them, which is another thing that's probably much easier with these as opposed to using paper.</description></item><item><title>1st Interaction Design Contest | Building the Internet of Things</title><link>http://konigi.com/blog/1st-interaction-design-contest-building-internet-things/</link><pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/1st-interaction-design-contest-building-internet-things/</guid><description>IDAT, the Institute of Design, Art and Technology of Barcelona is holding its 1st Interaction Design Competition based on the theme of designing applications for the next generation Internet of Things.
 The competition calls for ideas of interfaces, interactions, and applications that can be designed with technologies such as embedded Radio Frequency Identification (RFID), short-range wireless communication, ubiquitous data networks, mobile devices, hardware prototyping tools and digital fabrication.
-The deadline to submit projects is December 15, 2010, and the award is 16.</description>
-    </item>
-    
-    <item>
-      <title>LiveView for iPhone &amp; iPad</title>
-      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
-      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
-Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
-    </item>
-    
-    <item>
-      <title>ForeUI: Create Skinnable &amp; Interactive Prototype</title>
-      <link>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</link>
-      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</guid>
-      <description>ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and
+The deadline to submit projects is December 15, 2010, and the award is 16.</description></item><item><title>LiveView for iPhone &amp; iPad</title><link>http://konigi.com/links/liveview-iphone-ipad/</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/liveview-iphone-ipad/</guid><description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description></item><item><title>ForeUI: Create Skinnable &amp; Interactive Prototype</title><link>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</link><pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/foreui-create-skinnable-interactive-prototype/</guid><description>ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and
 clickable UI prototype for your website or software, and run the interactive
 simulation in your web browser.
 ForeUI provides a set of predefined elements for creating mockup, you can drag
 them into the editing area and tweak them. You can also create your own elements
 and libraries.
-ForeUI makes prototype skinnable, by changing the UI theme, all elements in</description>
-    </item>
-    
-    <item>
-      <title>Is Interaction Design a dead-end job?</title>
-      <link>http://konigi.com/blog/interaction-design-dead-end-job/</link>
-      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/interaction-design-dead-end-job/</guid>
-      <description>In the Cooper Journal, Tim McCoy responds to Bill Moggridge&#39;s comment after a screening of Objectified. He paraphrases Moggridge as saying interaction design has become pervasive, that anyone and everyone can be an interaction designer, and so the role of professional interaction designer is (or is becoming) unnecessary.
-McCoy asks if interaction design is really dead. He goes on to point out a few factors that have allowed developers to build better interfaces without interaction designers.</description>
-    </item>
-    
-    <item>
-      <title>The Language We Use</title>
-      <link>http://konigi.com/blog/language-we-use/</link>
-      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/language-we-use/</guid>
-      <description>In &#34;The language we use,&#34; David Malouf discusses how ideas about user interaction can become so ingrained in what we are familiar with, that our language begins to reflect that familiarity. That can lead to a natural tendency to explain away interaction without thought to what it means to the design of a thing. In this case a student describes the change of context in a sketch presentation by using the word &#34;</description>
-    </item>
-    
-    <item>
-      <title>Designing Web Interfaces: 12 Standard Screen Patterns</title>
-      <link>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</link>
-      <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</guid>
-      <description>Bill Scott and Theresa Neil&#39;s new O’Reilly book, “Designing Web Interfaces: Principles and Patterns for Rich Interactions,” presents more than 75 design patterns for building web interfaces that provide rich interaction. They&#39;ve shared the full set of principles and patterns they use for RIA design in this article.
-http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns</description>
-    </item>
-    
-    <item>
-      <title>patternBrowser</title>
-      <link>http://konigi.com/blog/patternbrowser/</link>
-      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/patternbrowser/</guid>
-      <description>patternBrowser is an amazing design pattern library produced by the Interface Design Team of the University of Applied Sciences Potsdam. I&#39;ve spent a little time looking through the interaction design category, and there&#39;s a lot of great examples there, and most importantly they&#39;ve done the work of organizing and describing each problem/solution thoroughly. Check it out.
-http://www.patternbrowser.org/</description>
-    </item>
-    
-    <item>
-      <title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title>
-      <link>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link>
-      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid>
-      <description>Tog&#39;s comparison and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn&#39;t only about the design.
-I don&#39;t use a Kindle daily, so I can&#39;t comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it.</description>
-    </item>
-    
-    <item>
-      <title>Wireframing Experiences and Applications with Flash Catalyst</title>
-      <link>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</link>
-      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</guid>
-      <description>Peter Flynn gives a demo of wireframing in Adobe Flash Catalyst, aka Thermo. Every online demo I&#39;ve seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release.</description>
-    </item>
-    
-  </channel>
-</rss>
+ForeUI makes prototype skinnable, by changing the UI theme, all elements in</description></item><item><title>Is Interaction Design a dead-end job?</title><link>http://konigi.com/blog/interaction-design-dead-end-job/</link><pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/interaction-design-dead-end-job/</guid><description>In the Cooper Journal, Tim McCoy responds to Bill Moggridge's comment after a screening of Objectified. He paraphrases Moggridge as saying interaction design has become pervasive, that anyone and everyone can be an interaction designer, and so the role of professional interaction designer is (or is becoming) unnecessary.
+McCoy asks if interaction design is really dead. He goes on to point out a few factors that have allowed developers to build better interfaces without interaction designers.</description></item><item><title>The Language We Use</title><link>http://konigi.com/blog/language-we-use/</link><pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/language-we-use/</guid><description>In "The language we use," David Malouf discusses how ideas about user interaction can become so ingrained in what we are familiar with, that our language begins to reflect that familiarity. That can lead to a natural tendency to explain away interaction without thought to what it means to the design of a thing. In this case a student describes the change of context in a sketch presentation by using the word "</description></item><item><title>Designing Web Interfaces: 12 Standard Screen Patterns</title><link>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</link><pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</guid><description>Bill Scott and Theresa Neil's new O’Reilly book, “Designing Web Interfaces: Principles and Patterns for Rich Interactions,” presents more than 75 design patterns for building web interfaces that provide rich interaction. They've shared the full set of principles and patterns they use for RIA design in this article.
+http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns</description></item><item><title>patternBrowser</title><link>http://konigi.com/blog/patternbrowser/</link><pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/patternbrowser/</guid><description>patternBrowser is an amazing design pattern library produced by the Interface Design Team of the University of Applied Sciences Potsdam. I've spent a little time looking through the interaction design category, and there's a lot of great examples there, and most importantly they've done the work of organizing and describing each problem/solution thoroughly. Check it out.
+http://www.patternbrowser.org/</description></item><item><title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title><link>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link><pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid><description>Tog's comparison and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn't only about the design.
+I don't use a Kindle daily, so I can't comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it.</description></item><item><title>Wireframing Experiences and Applications with Flash Catalyst</title><link>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</link><pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</guid><description>Peter Flynn gives a demo of wireframing in Adobe Flash Catalyst, aka Thermo. Every online demo I've seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release.</description></item></channel></rss>

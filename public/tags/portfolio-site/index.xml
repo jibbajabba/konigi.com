@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>portfolio site on Konigi</title>
-    <link>http://konigi.com/tags/portfolio-site/</link>
-    <description>Recent content in portfolio site on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 28 Jan 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/portfolio-site/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Flower Press Creative Studio</title>
-      <link>http://konigi.com/designs/submissions/flower-press-creative-studio/</link>
-      <pubDate>Thu, 28 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/flower-press-creative-studio/</guid>
-      <description>The redesign of the Flower Press Creative Studio website is fresh, approachable and showcases client work in a case study format. The site uses standards compliant CSS throughout. Since 2001 our full-service creative studio has provided comprehensive services in the areas of brand identity, user experience, development and print.
-http://www.theflowerpress.net</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>portfolio site on Konigi</title><link>http://konigi.com/tags/portfolio-site/</link><description>Recent content in portfolio site on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/portfolio-site/index.xml" rel="self" type="application/rss+xml"/><item><title>Flower Press Creative Studio</title><link>http://konigi.com/designs/submissions/flower-press-creative-studio/</link><pubDate>Thu, 28 Jan 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/flower-press-creative-studio/</guid><description>The redesign of the Flower Press Creative Studio website is fresh, approachable and showcases client work in a case study format. The site uses standards compliant CSS throughout. Since 2001 our full-service creative studio has provided comprehensive services in the areas of brand identity, user experience, development and print.
+http://www.theflowerpress.net</description></item></channel></rss>

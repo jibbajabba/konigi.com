@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>examples on Konigi</title>
-    <link>http://konigi.com/tags/examples/</link>
-    <description>Recent content in examples on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/examples/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Handbook of Usability Testing: Templates and Forms</title>
-      <link>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</guid>
-      <description>The Handbook of Usability Testing, by Jeffrey Rubin and Dana Chisnell, describes how to plan, design, and conduct effective tests. The books site includes a downloads page with templates and examples of usability test plans, questionairres, test scripts, and consent forms.
-http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html</description>
-    </item>
-    
-    <item>
-      <title>Usability.gov Templates &amp; Examples</title>
-      <link>http://konigi.com/links/usabilitygov-templates-examples/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/usabilitygov-templates-examples/</guid>
-      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&#39;s usability needs. All of these are in the public domain and can be freely downloaded.
-Among the most useful of the files you&#39;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>examples on Konigi</title><link>http://konigi.com/tags/examples/</link><description>Recent content in examples on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/examples/index.xml" rel="self" type="application/rss+xml"/><item><title>Handbook of Usability Testing: Templates and Forms</title><link>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</link><pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/handbook-usability-testing-templates-and-forms/</guid><description>The Handbook of Usability Testing, by Jeffrey Rubin and Dana Chisnell, describes how to plan, design, and conduct effective tests. The books site includes a downloads page with templates and examples of usability test plans, questionairres, test scripts, and consent forms.
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.html</description></item><item><title>Usability.gov Templates &amp; Examples</title><link>http://konigi.com/links/usabilitygov-templates-examples/</link><pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/usabilitygov-templates-examples/</guid><description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization's usability needs. All of these are in the public domain and can be freely downloaded.
+Among the most useful of the files you'll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description></item></channel></rss>

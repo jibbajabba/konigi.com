@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>alerts on Konigi</title>
-    <link>http://konigi.com/tags/alerts/</link>
-    <description>Recent content in alerts on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/alerts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>thesixtyone alerts</title>
-      <link>http://konigi.com/interfaces/thesixtyone-alerts/</link>
-      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/thesixtyone-alerts/</guid>
-      <description>Music community site thesixtyone uses unobtrusive growl-like panels in the bottom right corner of the page for system alerts and messaging. Like growl or iminlikewithyou, these messages appear briefly and fade out. The effect is subtle and might be easily missed, but the addition of an ambient &#34;pop&#34; earcon (alert sound) tells you to look for the message. Nicely done.
-1. System alerts appear in the bottom right corner, with accompanying alert sounds.</description>
-    </item>
-    
-    <item>
-      <title>Growl-Like Alerts in Web Pages</title>
-      <link>http://konigi.com/blog/growl-alerts-web-pages/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/growl-alerts-web-pages/</guid>
-      <description>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. Growl is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.
-These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>alerts on Konigi</title><link>http://konigi.com/tags/alerts/</link><description>Recent content in alerts on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/alerts/index.xml" rel="self" type="application/rss+xml"/><item><title>thesixtyone alerts</title><link>http://konigi.com/interfaces/thesixtyone-alerts/</link><pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/thesixtyone-alerts/</guid><description>Music community site thesixtyone uses unobtrusive growl-like panels in the bottom right corner of the page for system alerts and messaging. Like growl or iminlikewithyou, these messages appear briefly and fade out. The effect is subtle and might be easily missed, but the addition of an ambient "pop" earcon (alert sound) tells you to look for the message. Nicely done.
+1. System alerts appear in the bottom right corner, with accompanying alert sounds.</description></item><item><title>Growl-Like Alerts in Web Pages</title><link>http://konigi.com/blog/growl-alerts-web-pages/</link><pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/growl-alerts-web-pages/</guid><description>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. Growl is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.
+These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.</description></item></channel></rss>

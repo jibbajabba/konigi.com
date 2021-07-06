@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>principles on Konigi</title>
-    <link>http://konigi.com/tags/principles/</link>
-    <description>Recent content in principles on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/principles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The Ten Commandments Of User Experience</title>
-      <link>http://konigi.com/blog/ten-commandments-user-experience/</link>
-      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ten-commandments-user-experience/</guid>
-      <description>View more presentations from Nick Finck.   Nick Finck and Raina Van Cleave&#39;s presentation slides from the SXSWi talk are up. Here&#39;s a summary:
-User experiences are your everyday experiences—anything from operating a car, to making a pot of coffee, to ordering a pair of shoes online. User experience is the result of your interactions with a product or service, specifically how it’s delivered and its related artifacts according to the design.</description>
-    </item>
-    
-    <item>
-      <title>Google Design Principles</title>
-      <link>http://konigi.com/blog/google-design-principles/</link>
-      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/google-design-principles/</guid>
-      <description>Luke Wroblewski summarizes the fundamental principles that guide Google in designing user experiences, as told by John Wiley in a WritersUA presentation.
- Useful: focus on people -their lives, their work, their dreams. Fast: every millisecond counts Simple: simplicity is powerful. Engaging: engage beginners and attract experts. Innovative: dare to be innovative. Universal: design for the world. Profitable: plan for today&#39;s and tomorrow&#39;s business. Beautiful: delight the eye without distracting the mind.</description>
-    </item>
-    
-    <item>
-      <title>Shneiderman&#39;s Eight Golden Rules of Interface Design</title>
-      <link>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</link>
-      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</guid>
-      <description>Ben Shneiderman&#39;s Eight Golden Rules of Interface Design are user interface design rules described in Designing the User Interface: Strategies for Effective Human-Computer Interaction. Shneiderman proposed this collection of principles that are derived heuristically from experience and applicable in most interactive systems after being properly refined, extended, and interpreted.
-To improve the usability of an application it is important to have a well designed interface and these &#34;Eight Golden Rules of Interface Design&#34;</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>principles on Konigi</title><link>http://konigi.com/tags/principles/</link><description>Recent content in principles on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/principles/index.xml" rel="self" type="application/rss+xml"/><item><title>The Ten Commandments Of User Experience</title><link>http://konigi.com/blog/ten-commandments-user-experience/</link><pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ten-commandments-user-experience/</guid><description>View more presentations from Nick Finck. Nick Finck and Raina Van Cleave's presentation slides from the SXSWi talk are up. Here's a summary:
+User experiences are your everyday experiences—anything from operating a car, to making a pot of coffee, to ordering a pair of shoes online. User experience is the result of your interactions with a product or service, specifically how it’s delivered and its related artifacts according to the design.</description></item><item><title>Google Design Principles</title><link>http://konigi.com/blog/google-design-principles/</link><pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/google-design-principles/</guid><description>Luke Wroblewski summarizes the fundamental principles that guide Google in designing user experiences, as told by John Wiley in a WritersUA presentation.
+Useful: focus on people -their lives, their work, their dreams. Fast: every millisecond counts Simple: simplicity is powerful. Engaging: engage beginners and attract experts. Innovative: dare to be innovative. Universal: design for the world. Profitable: plan for today's and tomorrow's business. Beautiful: delight the eye without distracting the mind.</description></item><item><title>Shneiderman's Eight Golden Rules of Interface Design</title><link>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</link><pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</guid><description>Ben Shneiderman's Eight Golden Rules of Interface Design are user interface design rules described in Designing the User Interface: Strategies for Effective Human-Computer Interaction. Shneiderman proposed this collection of principles that are derived heuristically from experience and applicable in most interactive systems after being properly refined, extended, and interpreted.
+To improve the usability of an application it is important to have a well designed interface and these "Eight Golden Rules of Interface Design"</description></item></channel></rss>

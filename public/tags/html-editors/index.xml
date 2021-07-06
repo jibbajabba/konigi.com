@@ -1,35 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>html editors on Konigi</title>
-    <link>http://konigi.com/tags/html-editors/</link>
-    <description>Recent content in html editors on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jul 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/html-editors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Macaw: Code-savvy web design tool</title>
-      <link>http://konigi.com/links/macaw-code-savvy-web-design-tool/</link>
-      <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/macaw-code-savvy-web-design-tool/</guid>
-      <description>Macaw is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>html editors on Konigi</title><link>http://konigi.com/tags/html-editors/</link><description>Recent content in html editors on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Jul 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/html-editors/index.xml" rel="self" type="application/rss+xml"/><item><title>Macaw: Code-savvy web design tool</title><link>http://konigi.com/links/macaw-code-savvy-web-design-tool/</link><pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/macaw-code-savvy-web-design-tool/</guid><description>Macaw is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.
 There are some great optimizations for nudging/pudging on a grid, and for setting properties that make sense for css—thinking of positioning and dimensions.
-The outline view is a nice way to browse through all the groups in the document and adding container tags and/or classes for semantic html publishing.</description>
-    </item>
-    
-    <item>
-      <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
-      <link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
-      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
-      <description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
- Via se on the htmlprototyping group</description>
-    </item>
-    
-  </channel>
-</rss>
+The outline view is a nice way to browse through all the groups in the document and adding container tags and/or classes for semantic html publishing.</description></item><item><title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title><link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link><pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid><description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
+Via se on the htmlprototyping group</description></item></channel></rss>

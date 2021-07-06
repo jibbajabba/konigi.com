@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>operating systems on Konigi</title>
-    <link>http://konigi.com/tags/operating-systems/</link>
-    <description>Recent content in operating systems on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Windows 7 Revealed</title>
-      <link>http://konigi.com/blog/windows-7-revealed/</link>
-      <pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/windows-7-revealed/</guid>
-      <description>InformationWeek previews Windows 7, the successor to Vista, with 24 screenshots from a demo given by Julie Larson Green, Microsoft&#39;s vice president for Windows experience. Read more about Windows 7 in the InformationWeek article.
-http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;amp;imageID=1&amp;amp;articleID=211601289</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>operating systems on Konigi</title><link>http://konigi.com/tags/operating-systems/</link><description>Recent content in operating systems on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 30 Oct 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/operating-systems/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows 7 Revealed</title><link>http://konigi.com/blog/windows-7-revealed/</link><pubDate>Thu, 30 Oct 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/windows-7-revealed/</guid><description>InformationWeek previews Windows 7, the successor to Vista, with 24 screenshots from a demo given by Julie Larson Green, Microsoft's vice president for Windows experience. Read more about Windows 7 in the InformationWeek article.
+http://www.informationweek.com/galleries/showImage.jhtml?galleryID=268&amp;amp;imageID=1&amp;amp;articleID=211601289</description></item></channel></rss>

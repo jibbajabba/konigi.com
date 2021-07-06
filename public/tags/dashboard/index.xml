@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dashboard on Konigi</title>
-    <link>http://konigi.com/tags/dashboard/</link>
-    <description>Recent content in dashboard on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 09 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Arrivals, Cultured Code Development Status</title>
-      <link>http://konigi.com/interfaces/arrivals-cultured-code-development-status/</link>
-      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/arrivals-cultured-code-development-status/</guid>
-      <description>I love this idea. Cultured Code shows the development status on their projects as a flight arrivals display.
- http://culturedcode.com/status/</description>
-    </item>
-    
-    <item>
-      <title>The Panic Status Board</title>
-      <link>http://konigi.com/blog/panic-status-board/</link>
-      <pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/panic-status-board/</guid>
-      <description>Panic got inspiration from Cultured Code&#39;s Development Status Board and crafted their own dashboard/status board, displayed in a flat screen TV. Via @balsamiqMarco
-http://www.panic.com/blog/2010/03/the-panic-status-board/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dashboard on Konigi</title><link>http://konigi.com/tags/dashboard/</link><description>Recent content in dashboard on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/dashboard/index.xml" rel="self" type="application/rss+xml"/><item><title>Arrivals, Cultured Code Development Status</title><link>http://konigi.com/interfaces/arrivals-cultured-code-development-status/</link><pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/arrivals-cultured-code-development-status/</guid><description>I love this idea. Cultured Code shows the development status on their projects as a flight arrivals display.
+http://culturedcode.com/status/</description></item><item><title>The Panic Status Board</title><link>http://konigi.com/blog/panic-status-board/</link><pubDate>Tue, 09 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/panic-status-board/</guid><description>Panic got inspiration from Cultured Code's Development Status Board and crafted their own dashboard/status board, displayed in a flat screen TV. Via @balsamiqMarco
+http://www.panic.com/blog/2010/03/the-panic-status-board/</description></item></channel></rss>

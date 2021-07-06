@@ -1,26 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>web analytics on Konigi</title>
-    <link>http://konigi.com/tags/web-analytics/</link>
-    <description>Recent content in web analytics on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/web-analytics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Should Design Be Held Back by a Tyranny of Data</title>
-      <link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link>
-      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid>
-      <description>The NYTimes interviewed Doug Bowman to talk about his departure from Google, which Bowman wrote about on his blog in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>web analytics on Konigi</title><link>http://konigi.com/tags/web-analytics/</link><description>Recent content in web analytics on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 11 May 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/web-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Should Design Be Held Back by a Tyranny of Data</title><link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link><pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid><description>The NYTimes interviewed Doug Bowman to talk about his departure from Google, which Bowman wrote about on his blog in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:
 Bowman on Google:
 “Data eventually becomes a crutch for every decision, paralyzing the company and preventing it from making any daring design decisions,”
- Bowman on Twitter, where he is now Creative Director:</description>
-    </item>
-    
-  </channel>
-</rss>
+Bowman on Twitter, where he is now Creative Director:</description></item></channel></rss>

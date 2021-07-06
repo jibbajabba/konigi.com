@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>logos on Konigi</title>
-    <link>http://konigi.com/tags/logos/</link>
-    <description>Recent content in logos on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 May 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/logos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Log&amp;Atilde;&amp;sup3;logos</title>
-      <link>http://konigi.com/blog/log-logos/</link>
-      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/log-logos/</guid>
-      <description>Yes, clearly, that&#39;s what they must have been thinking about when they made that logo. Logólogos proposes even more of the equations that describe popular logo design concepts.
-http://logologos.blogspot.com/</description>
-    </item>
-    
-    <item>
-      <title>USA Political Election Logos</title>
-      <link>http://konigi.com/blog/usa-political-election-logos/</link>
-      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/usa-political-election-logos/</guid>
-      <description>Logoblink has compiled logos from U.S. political campaigns for presidential election from 1960 to 2008.
-http://logoblink.com/2008/03/23/usa-polit-logos-2008-1960/</description>
-    </item>
-    
-    <item>
-      <title>Vintage Logos</title>
-      <link>http://konigi.com/blog/vintage-logos/</link>
-      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/vintage-logos/</guid>
-      <description>&#34;A collection of vintage logos from a mid-70&#39;s edition of the book World of Logotypes&#34; Check the logo set on flickr.
-http://www.flickr.com/photos/mr_carl/sets/72157604144345854/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>logos on Konigi</title><link>http://konigi.com/tags/logos/</link><description>Recent content in logos on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/logos/index.xml" rel="self" type="application/rss+xml"/><item><title>Log&amp;Atilde;&amp;sup3;logos</title><link>http://konigi.com/blog/log-logos/</link><pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/log-logos/</guid><description>Yes, clearly, that's what they must have been thinking about when they made that logo. Logólogos proposes even more of the equations that describe popular logo design concepts.
+http://logologos.blogspot.com/</description></item><item><title>USA Political Election Logos</title><link>http://konigi.com/blog/usa-political-election-logos/</link><pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/usa-political-election-logos/</guid><description>Logoblink has compiled logos from U.S. political campaigns for presidential election from 1960 to 2008.
+http://logoblink.com/2008/03/23/usa-polit-logos-2008-1960/</description></item><item><title>Vintage Logos</title><link>http://konigi.com/blog/vintage-logos/</link><pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/vintage-logos/</guid><description>"A collection of vintage logos from a mid-70's edition of the book World of Logotypes" Check the logo set on flickr.
+http://www.flickr.com/photos/mr_carl/sets/72157604144345854/</description></item></channel></rss>

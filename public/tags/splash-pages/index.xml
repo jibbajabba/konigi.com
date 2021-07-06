@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>splash pages on Konigi</title>
-    <link>http://konigi.com/tags/splash-pages/</link>
-    <description>Recent content in splash pages on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/splash-pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Index Ventures</title>
-      <link>http://konigi.com/designs/submissions/index-ventures/</link>
-      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/index-ventures/</guid>
-      <description>I love the isometric illustration for this little cityscape on this venture capital firm&#39;s splash page, which feels light and loaded quickly. I wish they found a way to fit a little bit more about what the company does into the design, e.g. in that scrolling ticker.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>splash pages on Konigi</title><link>http://konigi.com/tags/splash-pages/</link><description>Recent content in splash pages on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Jan 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/splash-pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Index Ventures</title><link>http://konigi.com/designs/submissions/index-ventures/</link><pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/index-ventures/</guid><description>I love the isometric illustration for this little cityscape on this venture capital firm's splash page, which feels light and loaded quickly. I wish they found a way to fit a little bit more about what the company does into the design, e.g. in that scrolling ticker.
 Via Andrew
-http://www.indexventures.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.indexventures.com/</description></item></channel></rss>

@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>help on Konigi</title>
-    <link>http://konigi.com/tags/help/</link>
-    <description>Recent content in help on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/help/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>iTunes First Time User Welcome Messages</title>
-      <link>http://konigi.com/interfaces/itunes-first-time-user-welcome-messages/</link>
-      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/itunes-first-time-user-welcome-messages/</guid>
-      <description>First time users of iTunes are presented with instruction screens for adding media to their library. The simple instruction panels provide links to buy media or to watch video tutorials showing how to purchase, import, and use the software.
-1. First time user panel for Music with links to download or import media, and watch tutorials.2. First time user panel for TV Shows.3. Tutorial video from Help app that appears when user clicks the &amp;quot;Watch the tutorial&amp;quot; links in first time user panels.</description>
-    </item>
-    
-    <item>
-      <title>Sling Welcome Message</title>
-      <link>http://konigi.com/interfaces/sling-welcome-message/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/sling-welcome-message/</guid>
-      <description>Sling.com&#39;s welcome message position&#39;s a 3 column intro to the site for first time users, which it positions between the main promo marquee and the body of the page. Dismiss the message as a logged in user and it shouldn&#39;t come back again.
- http://beta.sling.com/</description>
-    </item>
-    
-    <item>
-      <title>Pattern Tap Guided Tour</title>
-      <link>http://konigi.com/interfaces/pattern-tap-guided-tour/</link>
-      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/pattern-tap-guided-tour/</guid>
-      <description>Pattern Tap positions some instructional copy at the top of their site for first time visitors. It displays information about what is on the page and how to use it. A right arrow navigation button allows the user to take a guided tour of the site. The user may dismiss the messages when they&#39;re done with the tour.
- http://patterntap.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>help on Konigi</title><link>http://konigi.com/tags/help/</link><description>Recent content in help on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/help/index.xml" rel="self" type="application/rss+xml"/><item><title>iTunes First Time User Welcome Messages</title><link>http://konigi.com/interfaces/itunes-first-time-user-welcome-messages/</link><pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/itunes-first-time-user-welcome-messages/</guid><description>First time users of iTunes are presented with instruction screens for adding media to their library. The simple instruction panels provide links to buy media or to watch video tutorials showing how to purchase, import, and use the software.
+1. First time user panel for Music with links to download or import media, and watch tutorials.2. First time user panel for TV Shows.3. Tutorial video from Help app that appears when user clicks the &amp;quot;Watch the tutorial&amp;quot; links in first time user panels.</description></item><item><title>Sling Welcome Message</title><link>http://konigi.com/interfaces/sling-welcome-message/</link><pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/sling-welcome-message/</guid><description>Sling.com's welcome message position's a 3 column intro to the site for first time users, which it positions between the main promo marquee and the body of the page. Dismiss the message as a logged in user and it shouldn't come back again.
+http://beta.sling.com/</description></item><item><title>Pattern Tap Guided Tour</title><link>http://konigi.com/interfaces/pattern-tap-guided-tour/</link><pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/pattern-tap-guided-tour/</guid><description>Pattern Tap positions some instructional copy at the top of their site for first time visitors. It displays information about what is on the page and how to use it. A right arrow navigation button allows the user to take a guided tour of the site. The user may dismiss the messages when they're done with the tour.
+http://patterntap.com/</description></item></channel></rss>

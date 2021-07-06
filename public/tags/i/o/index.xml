@@ -1,23 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>i/o on Konigi</title>
-    <link>http://konigi.com/tags/i/o/</link>
-    <description>Recent content in i/o on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-        <atom:link href="http://konigi.com/tags/i/o/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>BiDi Screen</title>
-      <link>http://konigi.com/blog/bidi-screen/</link>
-      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bidi-screen/</guid>
-      <description>BiDi Screen was demonstrated at SIGGRAPH Asia this year. It is a thin, depth-sensing LCD for 3D interaction using light fields.
-The BiDi Screen is an example of a new type of I/O device that possesses the ability to both capture images and display them. This thin, bidirectional screen extends the latest trend in LCD devices, which has seen the incorporation of photo-diodes into every display pixel. Using a novel optical masking technique developed at the Media Lab, the BiDi Screen can capture lightfield-like quantities, unlocking a wide array of applications from 3-D gesture interaction with CE devices, to seamless video communication.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>i/o on Konigi</title><link>http://konigi.com/tags/i/o/</link><description>Recent content in i/o on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://konigi.com/tags/i/o/index.xml" rel="self" type="application/rss+xml"/><item><title>BiDi Screen</title><link>http://konigi.com/blog/bidi-screen/</link><pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/bidi-screen/</guid><description>BiDi Screen was demonstrated at SIGGRAPH Asia this year. It is a thin, depth-sensing LCD for 3D interaction using light fields.
+The BiDi Screen is an example of a new type of I/O device that possesses the ability to both capture images and display them. This thin, bidirectional screen extends the latest trend in LCD devices, which has seen the incorporation of photo-diodes into every display pixel. Using a novel optical masking technique developed at the Media Lab, the BiDi Screen can capture lightfield-like quantities, unlocking a wide array of applications from 3-D gesture interaction with CE devices, to seamless video communication.</description></item></channel></rss>

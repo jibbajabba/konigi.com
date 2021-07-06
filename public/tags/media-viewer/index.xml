@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>media viewer on Konigi</title>
-    <link>http://konigi.com/tags/media-viewer/</link>
-    <description>Recent content in media viewer on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/media-viewer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>DestroyFlickr</title>
-      <link>http://konigi.com/blog/destroyflickr/</link>
-      <pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/destroyflickr/</guid>
-      <description>Tina pointed to DestroyFlickr, an excellent AIR application for viewing Flickr photos.
-DestroyFlickr explores alternative methods for viewing and sharing Flickr content. Its user interface provides an environment that benefits photos rather than hindering them. With the ability to look at a photo on a dark, neutral background, you can view it without the interference of a brighter surrounding. By using workspaces and canvases, DestroyFlickr is able to retain a constant history of where you have navigated, offering the ability to revisit an area without the need to reload the entire page.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>media viewer on Konigi</title><link>http://konigi.com/tags/media-viewer/</link><description>Recent content in media viewer on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/media-viewer/index.xml" rel="self" type="application/rss+xml"/><item><title>DestroyFlickr</title><link>http://konigi.com/blog/destroyflickr/</link><pubDate>Tue, 10 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/destroyflickr/</guid><description>Tina pointed to DestroyFlickr, an excellent AIR application for viewing Flickr photos.
+DestroyFlickr explores alternative methods for viewing and sharing Flickr content. Its user interface provides an environment that benefits photos rather than hindering them. With the ability to look at a photo on a dark, neutral background, you can view it without the interference of a brighter surrounding. By using workspaces and canvases, DestroyFlickr is able to retain a constant history of where you have navigated, offering the ability to revisit an area without the need to reload the entire page.</description></item></channel></rss>

@@ -1,54 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>augmented reality on Konigi</title>
-    <link>http://konigi.com/tags/augmented-reality/</link>
-    <description>Recent content in augmented reality on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 17 Dec 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Word Lens: Translation using Augmented Reality</title>
-      <link>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</link>
-      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid>
-      <description>This is one of the most practical uses of augmented reality I&#39;ve seen. Word Lens translates text you capture from an iPhone&#39;s camera to another language. I think it&#39;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&#39;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
-    </item>
-    
-    <item>
-      <title>CEO Yelp is amazed by results of Monocle</title>
-      <link>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</link>
-      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</guid>
-      <description>Yelp CEO Jeremy Stoppelman talks about the company’s launch of Monocle, which started as an easter egg coded by an intern.  Via @lukewdesign
-http://www.augmentedrealityblog.eu/2010/04/02/ceo-yelp-is-amazed-by-results-of-monocle/</description>
-    </item>
-    
-    <item>
-      <title>Bing Maps</title>
-      <link>http://konigi.com/blog/bing-maps/</link>
-      <pubDate>Wed, 17 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bing-maps/</guid>
-      <description>Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.
-&#34;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&#34; says Bing Maps&#39; Blaise Aguera y Arcas. &#34;Maps, directions are really just one of them.&#34;
-https://www.youtube.com/watch?v=tQzimblL3g8</description>
-    </item>
-    
-    <item>
-      <title>Layar: Mobile Augmented Reality browser</title>
-      <link>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</link>
-      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</guid>
-      <description>Layar is an augmented reality application for Android phones which uses location information and the phones camera to show what is around the user by displaying real time digital information on top of reality. The video shows the browser being used to scan buildings and overlay real estate information to find out which houses are for sale.
-Screencast / Video http://layar.eu/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>augmented reality on Konigi</title><link>http://konigi.com/tags/augmented-reality/</link><description>Recent content in augmented reality on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Dec 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml"/><item><title>Word Lens: Translation using Augmented Reality</title><link>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</link><pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid><description>This is one of the most practical uses of augmented reality I've seen. Word Lens translates text you capture from an iPhone's camera to another language. I think it's only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you're skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description></item><item><title>CEO Yelp is amazed by results of Monocle</title><link>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</link><pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ceo-yelp-amazed-results-monocle/</guid><description>Yelp CEO Jeremy Stoppelman talks about the company’s launch of Monocle, which started as an easter egg coded by an intern. Via @lukewdesign
+http://www.augmentedrealityblog.eu/2010/04/02/ceo-yelp-is-amazed-by-results-of-monocle/</description></item><item><title>Bing Maps</title><link>http://konigi.com/blog/bing-maps/</link><pubDate>Wed, 17 Feb 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/bing-maps/</guid><description>Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.
+"We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out," says Bing Maps' Blaise Aguera y Arcas. "Maps, directions are really just one of them."
+https://www.youtube.com/watch?v=tQzimblL3g8</description></item><item><title>Layar: Mobile Augmented Reality browser</title><link>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</link><pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/layar-mobile-augmented-reality-browser/</guid><description>Layar is an augmented reality application for Android phones which uses location information and the phones camera to show what is around the user by displaying real time digital information on top of reality. The video shows the browser being used to scan buildings and overlay real estate information to find out which houses are for sale.
+Screencast / Video http://layar.eu/</description></item></channel></rss>

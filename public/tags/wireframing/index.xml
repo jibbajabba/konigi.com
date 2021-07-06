@@ -1,167 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>wireframing on Konigi</title>
-    <link>http://konigi.com/tags/wireframing/</link>
-    <description>Recent content in wireframing on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2015 11:17:22 -0800</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/wireframing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Skillshare Course on Rapid Wireframing</title>
-      <link>http://konigi.com/blog/skillshare-rapid-wireframing-course/</link>
-      <pubDate>Tue, 10 Nov 2015 11:17:22 -0800</pubDate>
-      
-      <guid>http://konigi.com/blog/skillshare-rapid-wireframing-course/</guid>
-      <description>I published a free course for Balsamiq users on Skillshare. The course, Rapid Wireframing: Finding the Right Product Design, is designed for those new to Balsamiq, but also features some demonstration of new features like Quick Draw (using the mouse to block out wireframe zones) and Alternates (creating alternate versions of screens). If you&amp;rsquo;re a veteran user, you may be interested in checking that out, and updating to the latest version to take advantage of these useful new ways of working on projects.</description>
-    </item>
-    
-    <item>
-      <title>Creating Polished Wireframes in Balsamiq</title>
-      <link>http://konigi.com/blog/creating-polished-wireframes-balsamiq/</link>
-      <pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/creating-polished-wireframes-balsamiq/</guid>
-      <description>For Balsamiq users or anyone that bemoans handwritten fonts and sketchy wireframes, I wrote an article to show how to create polished wireframes in Balsamiq on our UX blog. It shows how to use the wireframe skin with a few base controls, and techniques to achieve a minimalist aesthetic. It&amp;rsquo;s meant for those who need to create client-ready deliverables, or for when the sketchy-skin gets in the way of communicating your ideas.</description>
-    </item>
-    
-    <item>
-      <title>Balsamiq UX Template</title>
-      <link>http://konigi.com/blog/balsamiq-ux-template/</link>
-      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/balsamiq-ux-template/</guid>
-      <description>Made for UX designers This template is made for UI designers using Balsamiq Mockups that want to create polished, client-ready presentation decks. It includes a few example pages for basic UX document needs (journey maps, personas, wireframe pages), a Symbol Library for controls crafted in Konigi-style, and grid Symbols to keep your layout tight.
- Download for free 1. Download the template.
-2. Duplicate it whenever you start a new project.</description>
-    </item>
-    
-    <item>
-      <title>Experimenting with the IPEVO Interactive Whiteboard</title>
-      <link>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</link>
-      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</guid>
-      <description>I got an IPEVO Interactive Whiteboard System ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here&#39;s a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.
- While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it&#39;s pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you&#39;re so inclined.</description>
-    </item>
-    
-    <item>
-      <title>User Inter Faces: Avatars for mockups</title>
-      <link>http://konigi.com/links/user-inter-faces-avatars-mockups/</link>
-      <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/user-inter-faces-avatars-mockups/</guid>
-      <description>UI Faces is a useful little tool by Caleb Ogden for generating a grid of avatars that you can use in your designs.
-http://uifaces.com/</description>
-    </item>
-    
-    <item>
-      <title>Redacted Font</title>
-      <link>http://konigi.com/links/redacted-font/</link>
-      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/redacted-font/</guid>
-      <description>Christian Naths&#39; Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&#39;t end up wider than your normal font setting.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>wireframing on Konigi</title><link>http://konigi.com/tags/wireframing/</link><description>Recent content in wireframing on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Nov 2015 11:17:22 -0800</lastBuildDate><atom:link href="http://konigi.com/tags/wireframing/index.xml" rel="self" type="application/rss+xml"/><item><title>Skillshare Course on Rapid Wireframing</title><link>http://konigi.com/blog/skillshare-rapid-wireframing-course/</link><pubDate>Tue, 10 Nov 2015 11:17:22 -0800</pubDate><guid>http://konigi.com/blog/skillshare-rapid-wireframing-course/</guid><description>I published a free course for Balsamiq users on Skillshare. The course, Rapid Wireframing: Finding the Right Product Design, is designed for those new to Balsamiq, but also features some demonstration of new features like Quick Draw (using the mouse to block out wireframe zones) and Alternates (creating alternate versions of screens). If you&amp;rsquo;re a veteran user, you may be interested in checking that out, and updating to the latest version to take advantage of these useful new ways of working on projects.</description></item><item><title>Creating Polished Wireframes in Balsamiq</title><link>http://konigi.com/blog/creating-polished-wireframes-balsamiq/</link><pubDate>Thu, 18 Jun 2015 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/creating-polished-wireframes-balsamiq/</guid><description>For Balsamiq users or anyone that bemoans handwritten fonts and sketchy wireframes, I wrote an article to show how to create polished wireframes in Balsamiq on our UX blog. It shows how to use the wireframe skin with a few base controls, and techniques to achieve a minimalist aesthetic. It&amp;rsquo;s meant for those who need to create client-ready deliverables, or for when the sketchy-skin gets in the way of communicating your ideas.</description></item><item><title>Experimenting with the IPEVO Interactive Whiteboard</title><link>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</link><pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/experimenting-ipevo-interactive-whiteboard/</guid><description>I got an IPEVO Interactive Whiteboard System ($149 retail price) to demo and did a first little experiment. The product consists of a video sensor and interactive pen. You have to have a projector as well. Here's a super rough demo I made for my team at Balsamiq to show how it would work using Balsamiq Mockups.
+While the demo is pretty rough given the 15 minutes I gave myself to set up and record with my phone, it's pretty interesting to consider the possibilities for whiteboarding with wireframing software, if you're so inclined.</description></item><item><title>User Inter Faces: Avatars for mockups</title><link>http://konigi.com/links/user-inter-faces-avatars-mockups/</link><pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/user-inter-faces-avatars-mockups/</guid><description>UI Faces is a useful little tool by Caleb Ogden for generating a grid of avatars that you can use in your designs.
+http://uifaces.com/</description></item><item><title>Redacted Font</title><link>http://konigi.com/links/redacted-font/</link><pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/redacted-font/</guid><description>Christian Naths' Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won't end up wider than your normal font setting.
 Git it for free.
-https://github.com/christiannaths/Redacted-Font/blob/master/README.md</description>
-    </item>
-    
-    <item>
-      <title>BLOKK font</title>
-      <link>http://konigi.com/links/blokk-font/</link>
-      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/blokk-font/</guid>
-      <description>BLOKK is a font for quick mock-ups and wireframing for clients who do not understand lorem ipsum. Awesome.
-http://www.blokkfont.com/</description>
-    </item>
-    
-    <item>
-      <title>Text Snippets</title>
-      <link>http://konigi.com/blog/text-snippets/</link>
-      <pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/text-snippets/</guid>
-      <description>About This is a work in progress. I&#39;m copying over my commonly used text snippets and wireframes as I go.
-People&#39;s Names, Sorted 10, First Name  Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun   10, Last Name  Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun   Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun    20, First Name  Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun   20, Last Name  Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun   Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun      Wireframe Symbols  Download Balsamiq BMML file</description>
-    </item>
-    
-    <item>
-      <title>The Printed Word and The Written Words fonts from LettError</title>
-      <link>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</link>
-      <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</guid>
-      <description>2 different fonts to turn text to obscure your copy in design documents so they don&#39;t distract the audience. It&#39;s an alternative to using real text or lorem ipsum. Download for free.
+https://github.com/christiannaths/Redacted-Font/blob/master/README.md</description></item><item><title>BLOKK font</title><link>http://konigi.com/links/blokk-font/</link><pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/blokk-font/</guid><description>BLOKK is a font for quick mock-ups and wireframing for clients who do not understand lorem ipsum. Awesome.
+http://www.blokkfont.com/</description></item><item><title>Text Snippets</title><link>http://konigi.com/blog/text-snippets/</link><pubDate>Tue, 05 Feb 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/text-snippets/</guid><description>About This is a work in progress. I'm copying over my commonly used text snippets and wireframes as I go.
+People's Names, Sorted 10, First Name Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun Andrew Lincoln Chandler Riggs Danai Gurira Jon Bernthal Lauren Cohan Laurie Holden Michael Rooker Norman Reedus Sarah Callies Steven Yeun 10, Last Name Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun Jon Bernthal Sarah Callies Lauren Cohan Danai Gurira Laurie Holden Andrew Lincoln Norman Reedus Chandler Riggs Michael Rooker Steven Yeun 20, First Name Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun Adam Minarovich Andrew Lincoln Andrew Rothenberg Chandler Riggs Danai Gurira David Morrissey Emma Bell Irone Singleton Jeffrey DeMunn Jeryl Prescott-Sales Jon Bernthal Lauren Cohan Laurie Holden Madison Lintz Melissa McBride Michael Rooker Norman Reedus Sarah Callies Steven Yeun 20, Last Name Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun Emma Bell Jon Bernthal Sarah Callies Lauren Cohan Jeffrey DeMunn Danai Gurira Laurie Holden Andrew Lincoln Madison Lintz Melissa McBride Adam Minarovich David Morrissey Jeryl Prescott-Sales Norman Reedus Chandler Riggs Michael Rooker Andrew Rothenberg Irone Singleton Steven Yeun Wireframe Symbols Download Balsamiq BMML file</description></item><item><title>The Printed Word and The Written Words fonts from LettError</title><link>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</link><pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</guid><description>2 different fonts to turn text to obscure your copy in design documents so they don't distract the audience. It's an alternative to using real text or lorem ipsum. Download for free.
 Thanks to Ryan Schroeder (@rschroed) for pointing me to this.
-http://www.letterror.com/foundry/goodies/index.html</description>
-    </item>
-    
-    <item>
-      <title>Wirefy: Responsive Wireframe Library</title>
-      <link>http://konigi.com/links/wirefy-responsive-wireframe-library/</link>
-      <pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/wirefy-responsive-wireframe-library/</guid>
-      <description>Wirefy is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.
-http://cjdsie.github.com/wirefy/</description>
-    </item>
-    
-    <item>
-      <title>protomoto: Prototyping and Wireframing Tool Finder</title>
-      <link>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</link>
-      <pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid>
-      <description>protomoto is an excellent showcase of prototyping or wireframing tools created to helps designers find a tool that&#39;s suited to the specific devices or platforms they are designing for. The site, developed by Paper &amp;amp; Equator, will be adding more filters in the future as they continue to evolve the resource, so that you can browse the tools based on features. Very cool.
+http://www.letterror.com/foundry/goodies/index.html</description></item><item><title>Wirefy: Responsive Wireframe Library</title><link>http://konigi.com/links/wirefy-responsive-wireframe-library/</link><pubDate>Mon, 06 Aug 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/wirefy-responsive-wireframe-library/</guid><description>Wirefy is a collection of CSS and JS files for creating responsive HTML wireframes. It builds on tools including the Frameless grid system and Boostrap, and has CSS media queries for adapting to different device resolutions.
+http://cjdsie.github.com/wirefy/</description></item><item><title>protomoto: Prototyping and Wireframing Tool Finder</title><link>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</link><pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/protomoto-prototyping-and-wireframing-tool-finder/</guid><description>protomoto is an excellent showcase of prototyping or wireframing tools created to helps designers find a tool that's suited to the specific devices or platforms they are designing for. The site, developed by Paper &amp;amp; Equator, will be adding more filters in the future as they continue to evolve the resource, so that you can browse the tools based on features. Very cool.
 Check out protomoto.
-http://protomoto.com/</description>
-    </item>
-    
-    <item>
-      <title>You can now post Mockups to UX.StackExchange.com</title>
-      <link>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</link>
-      <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</guid>
-      <description>I&#39;m pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange. You can now post Mockups wireframes with questions and answers to UX.StackExchange.com using the free integrated Mockups editor. I&#39;m really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I&#39;ve wanted to use for a long time--a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals.</description>
-    </item>
-    
-    <item>
-      <title>Steedicons</title>
-      <link>http://konigi.com/links/steedicons/</link>
-      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/steedicons/</guid>
-      <description>The Steedicons set by Kyle Steed contains 300+ hand drawn icons available as a font or in vector format (.ai, .eps, .csh) for Illustrator, Photoshop, or the wireframing tool of your choice. The bold, sketchy icons would would work perfectly in Balsamiq Mockups or alongside the Konigi Sketch stencils.
-Here&#39;s a small sample of the icons available in this set.  Buy them here.
-http://steedicons.com/</description>
-    </item>
-    
-    <item>
-      <title>Vector Doodlekit Icons</title>
-      <link>http://konigi.com/links/vector-doodlekit-icons/</link>
-      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/vector-doodlekit-icons/</guid>
-      <description>The Doodlekit Icons set contains 700+ hand-drawn icons for use in sketch-style wireframes. You can buy them in vector format to use in the design tool of your choice, or download the free set of 32 x 32 px PNGs. Here&#39;s a screenshot of the icons in the new custom icon feature that&#39;s available in the pre-release version of Mockups.  More info here.
-http://doodlekit.imagiag.com</description>
-    </item>
-    
-    <item>
-      <title>Form design guidelines crib sheet</title>
-      <link>http://konigi.com/links/form-design-guidelines-crib-sheet/</link>
-      <pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/form-design-guidelines-crib-sheet/</guid>
-      <description>These form design crib sheets provide examples for laying out forms to get users through the process efficiently. Created by Joe Leech at cxpartners, and available for OmniGraffle, Photoshop, or in PDF vector format.
+http://protomoto.com/</description></item><item><title>You can now post Mockups to UX.StackExchange.com</title><link>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</link><pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</guid><description>I'm pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange. You can now post Mockups wireframes with questions and answers to UX.StackExchange.com using the free integrated Mockups editor. I'm really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I've wanted to use for a long time--a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals.</description></item><item><title>Steedicons</title><link>http://konigi.com/links/steedicons/</link><pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/steedicons/</guid><description>The Steedicons set by Kyle Steed contains 300+ hand drawn icons available as a font or in vector format (.ai, .eps, .csh) for Illustrator, Photoshop, or the wireframing tool of your choice. The bold, sketchy icons would would work perfectly in Balsamiq Mockups or alongside the Konigi Sketch stencils.
+Here's a small sample of the icons available in this set. Buy them here.
+http://steedicons.com/</description></item><item><title>Vector Doodlekit Icons</title><link>http://konigi.com/links/vector-doodlekit-icons/</link><pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/vector-doodlekit-icons/</guid><description>The Doodlekit Icons set contains 700+ hand-drawn icons for use in sketch-style wireframes. You can buy them in vector format to use in the design tool of your choice, or download the free set of 32 x 32 px PNGs. Here's a screenshot of the icons in the new custom icon feature that's available in the pre-release version of Mockups. More info here.
+http://doodlekit.imagiag.com</description></item><item><title>Form design guidelines crib sheet</title><link>http://konigi.com/links/form-design-guidelines-crib-sheet/</link><pubDate>Mon, 03 Oct 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/links/form-design-guidelines-crib-sheet/</guid><description>These form design crib sheets provide examples for laying out forms to get users through the process efficiently. Created by Joe Leech at cxpartners, and available for OmniGraffle, Photoshop, or in PDF vector format.
 Via @theresaneil
-http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm</description>
-    </item>
-    
-  </channel>
-</rss>
+http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.htm</description></item><item><title>10 Omnigraffle tips you might not know</title><link>http://konigi.com/blog/10-omnigraffle-tips-you-might-not-know/</link><pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/10-omnigraffle-tips-you-might-not-know/</guid><description>All the OmniGraffle users out there will want to check out Todd Moy's list of tips and tricks that all OG power users need to know. The character replacement one in particular will save you time. Although I tend to just clone an entire object's style the style brush with W and OPT+W, you should definitely learn about cloning discrete styles with chicklets. You'll wonder you never did.
+Check them all out on Viget Advance and level up your OG skills.</description></item></channel></rss>

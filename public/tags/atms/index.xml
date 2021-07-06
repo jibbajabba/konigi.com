@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>atms on Konigi</title>
-    <link>http://konigi.com/tags/atms/</link>
-    <description>Recent content in atms on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/atms/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>That design is money! Pentagram redesigns an ATM UI</title>
-      <link>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</link>
-      <pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</guid>
-      <description>Holger Struppek has written an article describing the design and prototyping process for the redesign of the Wells Fargo ATM user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.
-The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>atms on Konigi</title><link>http://konigi.com/tags/atms/</link><description>Recent content in atms on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/atms/index.xml" rel="self" type="application/rss+xml"/><item><title>That design is money! Pentagram redesigns an ATM UI</title><link>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</link><pubDate>Mon, 27 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/design-money-pentagram-redesigns-atm-ui/</guid><description>Holger Struppek has written an article describing the design and prototyping process for the redesign of the Wells Fargo ATM user interface by Pentagram. This is a rare, in-depth look at the prototyping process for an interface that we come into contact regularly.
+The agency was contracted to abandon the prior touch screen/solid state UI, and transform the software to work with touch screen interfaces only and improve flow and visual design.</description></item></channel></rss>

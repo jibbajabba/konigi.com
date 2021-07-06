@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dakissa on Konigi</title>
-    <link>http://konigi.com/tags/dakissa/</link>
-    <description>Recent content in dakissa on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/dakissa/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>DAKISSA - Podcasting Interface Design</title>
-      <link>http://konigi.com/blog/dakissa-podcasting-interface-design/</link>
-      <pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/dakissa-podcasting-interface-design/</guid>
-      <description>Victor Lombardi of Smart Experience and I begin DAKISSA, a podcast that looks at innovations in interface design. You can view the podcast on Konigi or at dakissa.blip.tv where you can subscribe via your RSS reader or iTunes.
-http://dakissa.blip.tv/#986656</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>dakissa on Konigi</title><link>http://konigi.com/tags/dakissa/</link><description>Recent content in dakissa on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/dakissa/index.xml" rel="self" type="application/rss+xml"/><item><title>DAKISSA - Podcasting Interface Design</title><link>http://konigi.com/blog/dakissa-podcasting-interface-design/</link><pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/dakissa-podcasting-interface-design/</guid><description>Victor Lombardi of Smart Experience and I begin DAKISSA, a podcast that looks at innovations in interface design. You can view the podcast on Konigi or at dakissa.blip.tv where you can subscribe via your RSS reader or iTunes.
+http://dakissa.blip.tv/#986656</description></item></channel></rss>

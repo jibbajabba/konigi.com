@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>shopping carts on Konigi</title>
-    <link>http://konigi.com/tags/shopping-carts/</link>
-    <description>Recent content in shopping carts on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/shopping-carts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cotton Bureau Off-Canvas Checkout</title>
-      <link>http://konigi.com/interfaces/cotton-bureau-canvas-checkout/</link>
-      <pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/cotton-bureau-canvas-checkout/</guid>
-      <description>Cotton Bureau uses the off-canvas pattern to slide steps of the checkout flow into the screen from the right, as the product page and previous steps slide off screen to the left.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shopping carts on Konigi</title><link>http://konigi.com/tags/shopping-carts/</link><description>Recent content in shopping carts on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/shopping-carts/index.xml" rel="self" type="application/rss+xml"/><item><title>Cotton Bureau Off-Canvas Checkout</title><link>http://konigi.com/interfaces/cotton-bureau-canvas-checkout/</link><pubDate>Wed, 07 May 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/cotton-bureau-canvas-checkout/</guid><description>Cotton Bureau uses the off-canvas pattern to slide steps of the checkout flow into the screen from the right, as the product page and previous steps slide off screen to the left.
 I like how this implies the forward movement through the checkout process a bit better than the cart workflows that use vertically arranged collapsing panels.
-1. Product page.2. After adding product to cart, the cart panel slides in from right, and product panel slides off canvas to left.</description>
-    </item>
-    
-    <item>
-      <title>Panic Shopping Cart</title>
-      <link>http://konigi.com/interfaces/panic-shopping-cart/</link>
-      <pubDate>Fri, 25 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/panic-shopping-cart/</guid>
-      <description>Panic, the Mac software company that makes Coda and Transmit, has an apparel store with fun shopping cart behaviors that mimic the Mac&#39;s dock. The apparel store shows t-shirt listings, and a little cart dock at the bottom of the page that invites visitors to drag t-shirts down into it to add to cart. Clicking and dragging shows the ghosted t-shirt moving with the cursor until it snaps into the dock.</description>
-    </item>
-    
-  </channel>
-</rss>
+1. Product page.2. After adding product to cart, the cart panel slides in from right, and product panel slides off canvas to left.</description></item><item><title>Panic Shopping Cart</title><link>http://konigi.com/interfaces/panic-shopping-cart/</link><pubDate>Fri, 25 Sep 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/panic-shopping-cart/</guid><description>Panic, the Mac software company that makes Coda and Transmit, has an apparel store with fun shopping cart behaviors that mimic the Mac's dock. The apparel store shows t-shirt listings, and a little cart dock at the bottom of the page that invites visitors to drag t-shirts down into it to add to cart. Clicking and dragging shows the ghosted t-shirt moving with the cursor until it snaps into the dock.</description></item></channel></rss>

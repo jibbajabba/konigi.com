@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>internet on Konigi</title>
-    <link>http://konigi.com/tags/internet/</link>
-    <description>Recent content in internet on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>BBC News: The top 100 sites on the internet</title>
-      <link>http://konigi.com/blog/bbc-news-top-100-sites-internet/</link>
-      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bbc-news-top-100-sites-internet/</guid>
-      <description>The BBC charts the top 100 Internet sites in terms of traffic (unique visits) using January 2010 data from Nielsen. Data covers the UK, France, Germany, Italy, Spain, Switzerland, Brazil, US and Australia.
-The categories - such as retail, social networks, search/portal - were defined by the BBC. The maps were produced using the Prefuse Flare software, developed by the University of California Berkeley. You can mouse over the squares to see site names.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>internet on Konigi</title><link>http://konigi.com/tags/internet/</link><description>Recent content in internet on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/internet/index.xml" rel="self" type="application/rss+xml"/><item><title>BBC News: The top 100 sites on the internet</title><link>http://konigi.com/blog/bbc-news-top-100-sites-internet/</link><pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/bbc-news-top-100-sites-internet/</guid><description>The BBC charts the top 100 Internet sites in terms of traffic (unique visits) using January 2010 data from Nielsen. Data covers the UK, France, Germany, Italy, Spain, Switzerland, Brazil, US and Australia.
+The categories - such as retail, social networks, search/portal - were defined by the BBC. The maps were produced using the Prefuse Flare software, developed by the University of California Berkeley. You can mouse over the squares to see site names.</description></item></channel></rss>

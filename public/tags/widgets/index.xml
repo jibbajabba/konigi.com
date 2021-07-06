@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>widgets on Konigi</title>
-    <link>http://konigi.com/tags/widgets/</link>
-    <description>Recent content in widgets on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Nov 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/widgets/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Sprint Now Widgets</title>
-      <link>http://konigi.com/blog/sprint-now-widgets/</link>
-      <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sprint-now-widgets/</guid>
-      <description>Sprint&#39;s widgetopia is a clever Flash site advertising their mobile broadband card.
-http://now.sprint.com/widget/</description>
-    </item>
-    
-    <item>
-      <title>Last.fm Top Content Charts Module</title>
-      <link>http://konigi.com/interfaces/last-fm-top-content-charts-module/</link>
-      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/last-fm-top-content-charts-module/</guid>
-      <description>Last.fm&#39;s top artists and top songs content module appears on user profiles. The module shows a list of top content, with options in tabs to change time slice. The content module also provides options to modify settings and embed the content on an external blog or social network site.
-1. Default tab, showing last 7 days of top artists with Last.fm&#39;s signature bar chart for number of plays. 2. Last 6 months tab.</description>
-    </item>
-    
-    <item>
-      <title>Apple Dashcode</title>
-      <link>http://konigi.com/blog/apple-dashcode/</link>
-      <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apple-dashcode/</guid>
-      <description>Apple&#39;s Dashcode widget builder provides a nice library interface for viewing the parts you can include in your widget, and a code library to view snippets.
-http://developer.apple.com/tools/dashcode/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>widgets on Konigi</title><link>http://konigi.com/tags/widgets/</link><description>Recent content in widgets on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/widgets/index.xml" rel="self" type="application/rss+xml"/><item><title>Sprint Now Widgets</title><link>http://konigi.com/blog/sprint-now-widgets/</link><pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sprint-now-widgets/</guid><description>Sprint's widgetopia is a clever Flash site advertising their mobile broadband card.
+http://now.sprint.com/widget/</description></item><item><title>Last.fm Top Content Charts Module</title><link>http://konigi.com/interfaces/last-fm-top-content-charts-module/</link><pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/last-fm-top-content-charts-module/</guid><description>Last.fm's top artists and top songs content module appears on user profiles. The module shows a list of top content, with options in tabs to change time slice. The content module also provides options to modify settings and embed the content on an external blog or social network site.
+1. Default tab, showing last 7 days of top artists with Last.fm's signature bar chart for number of plays. 2. Last 6 months tab.</description></item><item><title>Apple Dashcode</title><link>http://konigi.com/blog/apple-dashcode/</link><pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/apple-dashcode/</guid><description>Apple's Dashcode widget builder provides a nice library interface for viewing the parts you can include in your widget, and a code library to view snippets.
+http://developer.apple.com/tools/dashcode/</description></item></channel></rss>

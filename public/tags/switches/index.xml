@@ -1,44 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>switches on Konigi</title>
-    <link>http://konigi.com/tags/switches/</link>
-    <description>Recent content in switches on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/switches/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pinterest Switches</title>
-      <link>http://konigi.com/interfaces/pinterest-switches/</link>
-      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/pinterest-switches/</guid>
-      <description>Sure you can use a checkbox to enter binary values in a form, but Pinterest goes the hi-fi route and instead uses sexy switches, a la iOS controls, in their email settings form.
- http://pinterest.com/</description>
-    </item>
-    
-    <item>
-      <title>Heroku Price Estimator</title>
-      <link>http://konigi.com/interfaces/heroku-price-estimator/</link>
-      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/heroku-price-estimator/</guid>
-      <description>The price estimator for web application hosting provider Heroku uses sliders and switches to generate a price for your plan. Select the number of process and database options and the cost estimate updates dynamically.
- http://www.heroku.com/pricing</description>
-    </item>
-    
-    <item>
-      <title>QuickSnapper Toggle Control</title>
-      <link>http://konigi.com/interfaces/quicksnapper-toggle-control/</link>
-      <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/quicksnapper-toggle-control/</guid>
-      <description>The toggle control in QuickSnapper&#39;s account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.
- http://www.quicksnapper.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>switches on Konigi</title><link>http://konigi.com/tags/switches/</link><description>Recent content in switches on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/switches/index.xml" rel="self" type="application/rss+xml"/><item><title>Pinterest Switches</title><link>http://konigi.com/interfaces/pinterest-switches/</link><pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/pinterest-switches/</guid><description>Sure you can use a checkbox to enter binary values in a form, but Pinterest goes the hi-fi route and instead uses sexy switches, a la iOS controls, in their email settings form.
+http://pinterest.com/</description></item><item><title>Heroku Price Estimator</title><link>http://konigi.com/interfaces/heroku-price-estimator/</link><pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/heroku-price-estimator/</guid><description>The price estimator for web application hosting provider Heroku uses sliders and switches to generate a price for your plan. Select the number of process and database options and the cost estimate updates dynamically.
+http://www.heroku.com/pricing</description></item><item><title>QuickSnapper Toggle Control</title><link>http://konigi.com/interfaces/quicksnapper-toggle-control/</link><pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/interfaces/quicksnapper-toggle-control/</guid><description>The toggle control in QuickSnapper's account settings panel allows users to toggle a setting on or off. Toggles like this that mimick the appearance of a physical switch make it obvious what the current state is. Clicking the control slides it into the alternate state.
+http://www.quicksnapper.com/</description></item></channel></rss>

@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ruby on Konigi</title>
-    <link>http://konigi.com/tags/ruby/</link>
-    <description>Recent content in ruby on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>StaticMatic: Static HTML building framework</title>
-      <link>http://konigi.com/links/staticmatic-static-html-building-framework/</link>
-      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/staticmatic-static-html-building-framework/</guid>
-      <description>StaticMatic is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ruby on Konigi</title><link>http://konigi.com/tags/ruby/</link><description>Recent content in ruby on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/ruby/index.xml" rel="self" type="application/rss+xml"/><item><title>StaticMatic: Static HTML building framework</title><link>http://konigi.com/links/staticmatic-static-html-building-framework/</link><pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/staticmatic-static-html-building-framework/</guid><description>StaticMatic is a Ruby-powered framework for building static HTML prototypes. It builds your directory structure and files, uses templates for common page elements, uses Haml (HTML abstraction markup language) to generate markup, and Sass to create your CSS.
 Via Jérôme Gravel-Niquet on the htmlprototyping group
-http://staticmatic.rubyforge.org/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://staticmatic.rubyforge.org/</description></item></channel></rss>

@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>design principles on Konigi</title>
-    <link>http://konigi.com/tags/design-principles/</link>
-    <description>Recent content in design principles on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/design-principles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Design Principles FTW</title>
-      <link>http://konigi.com/blog/design-principles-ftw/</link>
-      <pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-principles-ftw/</guid>
-      <description>Nice collection of design principles, and new to me. Design Principles FTW collects both universal and specific design principles and is curated by Gabriel Svennerberg at Meetod, Sweden.
-http://designprinciplesftw.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>design principles on Konigi</title><link>http://konigi.com/tags/design-principles/</link><description>Recent content in design principles on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/design-principles/index.xml" rel="self" type="application/rss+xml"/><item><title>Design Principles FTW</title><link>http://konigi.com/blog/design-principles-ftw/</link><pubDate>Tue, 29 Oct 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/design-principles-ftw/</guid><description>Nice collection of design principles, and new to me. Design Principles FTW collects both universal and specific design principles and is curated by Gabriel Svennerberg at Meetod, Sweden.
+http://designprinciplesftw.com/</description></item></channel></rss>

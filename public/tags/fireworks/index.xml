@@ -1,54 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>fireworks on Konigi</title>
-    <link>http://konigi.com/tags/fireworks/</link>
-    <description>Recent content in fireworks on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 25 Feb 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/fireworks/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Tapotype Transition Library</title>
-      <link>http://konigi.com/links/tapotype-transition-library/</link>
-      <pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/tapotype-transition-library/</guid>
-      <description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
-http://tapotype.com/</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap Fireworks</title>
-      <link>http://konigi.com/links/bootstrap-fireworks/</link>
-      <pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/bootstrap-fireworks/</guid>
-      <description>Bootstrap Fireworks a UI Toolkit created Grady Kelly for Twitter Bootstrap, the HTML/CSS/JS framework. The entire UI recreated as vector images for Adobe Fireworks. (Fw PNG)
-http://www.extendingfireworks.com/?p=133</description>
-    </item>
-    
-    <item>
-      <title>Fireworks Script for iPhone App Prototypes</title>
-      <link>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</link>
-      <pubDate>Wed, 05 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</guid>
-      <description>The iPhone extension helps create a mockup of an iPhone application in Fireworks. It automatically adds the iPhone wrapper when you preview the mockup, or package it for distribution as an AIR application. The slide-in, slide-out effects that are charecteristic of iPhone can be generated using this extension.Updated resolution to 480X320.
-http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&amp;extid=1786031</description>
-    </item>
-    
-    <item>
-      <title>Tutorial: Creating a Site in Fireworks</title>
-      <link>http://konigi.com/blog/tutorial-creating-site-fireworks/</link>
-      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/tutorial-creating-site-fireworks/</guid>
-      <description>Brazilian web designer Fabio Sasso provides a tutorial describing how he creates a site in Fireworks. I&#39;m not a Fireworks user, but this blog entry caught my eye because of how instructive and thoroughly illustrated it is. I&#39;m a loyal Photoshop user and don&#39;t intend to drop dollars for another graphics program, but the examples here make Fireworks look pretty darned nice.
-http://abduzeedo.com/classy-personal-portfolio-fireworks</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>fireworks on Konigi</title><link>http://konigi.com/tags/fireworks/</link><description>Recent content in fireworks on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 25 Feb 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/fireworks/index.xml" rel="self" type="application/rss+xml"/><item><title>Tapotype Transition Library</title><link>http://konigi.com/links/tapotype-transition-library/</link><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/tapotype-transition-library/</guid><description>Tapotype is a reference library of transitions for mobile prototypes created by Gene Lu using Fireworks and the TAP platform, a framework for iOS prototyping developed by UNITiD. Gene provides tutorials on building prototypes with Tapotype and TAP, and shows how to integrate InDesign and its documenting capabilities into your Fireworks/Tap prototyping workflow.
+http://tapotype.com/</description></item><item><title>Bootstrap Fireworks</title><link>http://konigi.com/links/bootstrap-fireworks/</link><pubDate>Wed, 22 Feb 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/bootstrap-fireworks/</guid><description>Bootstrap Fireworks a UI Toolkit created Grady Kelly for Twitter Bootstrap, the HTML/CSS/JS framework. The entire UI recreated as vector images for Adobe Fireworks. (Fw PNG)
+http://www.extendingfireworks.com/?p=133</description></item><item><title>Fireworks Script for iPhone App Prototypes</title><link>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</link><pubDate>Wed, 05 Aug 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</guid><description>The iPhone extension helps create a mockup of an iPhone application in Fireworks. It automatically adds the iPhone wrapper when you preview the mockup, or package it for distribution as an AIR application. The slide-in, slide-out effects that are charecteristic of iPhone can be generated using this extension.Updated resolution to 480X320.
+http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&amp;extid=1786031</description></item><item><title>Tutorial: Creating a Site in Fireworks</title><link>http://konigi.com/blog/tutorial-creating-site-fireworks/</link><pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/tutorial-creating-site-fireworks/</guid><description>Brazilian web designer Fabio Sasso provides a tutorial describing how he creates a site in Fireworks. I'm not a Fireworks user, but this blog entry caught my eye because of how instructive and thoroughly illustrated it is. I'm a loyal Photoshop user and don't intend to drop dollars for another graphics program, but the examples here make Fireworks look pretty darned nice.
+http://abduzeedo.com/classy-personal-portfolio-fireworks</description></item></channel></rss>

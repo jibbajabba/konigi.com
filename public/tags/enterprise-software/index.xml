@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>enterprise software on Konigi</title>
-    <link>http://konigi.com/tags/enterprise-software/</link>
-    <description>Recent content in enterprise software on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/enterprise-software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Appopedia, Business App Reviews</title>
-      <link>http://konigi.com/blog/appopedia-business-app-reviews/</link>
-      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid>
-      <description>The AppGap releases the Appopedia, a directory and review site for &#34;2.0 apps&#34; for work.
-http://www.theappgap.com/reviews</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>enterprise software on Konigi</title><link>http://konigi.com/tags/enterprise-software/</link><description>Recent content in enterprise software on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/enterprise-software/index.xml" rel="self" type="application/rss+xml"/><item><title>Appopedia, Business App Reviews</title><link>http://konigi.com/blog/appopedia-business-app-reviews/</link><pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid><description>The AppGap releases the Appopedia, a directory and review site for "2.0 apps" for work.
+http://www.theappgap.com/reviews</description></item></channel></rss>

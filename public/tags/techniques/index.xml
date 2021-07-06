@@ -1,79 +1,10 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>techniques on Konigi</title>
-    <link>http://konigi.com/tags/techniques/</link>
-    <description>Recent content in techniques on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/techniques/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>All the Right Way to Wireframe Videos</title>
-      <link>http://konigi.com/blog/all-right-way-wireframe-videos/</link>
-      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid>
-      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&#39; approaches. The right way? There isn&#39;t one right way. That&#39;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
-   Todd Zaki Warfel
-
- Russ Unger
- Fred Beecher
- </description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum, wireframes, personas, etc are just tactics...</title>
-      <link>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</link>
-      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</guid>
-      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&#39;t so bad&amp;quot; discussions I&#39;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>techniques on Konigi</title><link>http://konigi.com/tags/techniques/</link><description>Recent content in techniques on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/techniques/index.xml" rel="self" type="application/rss+xml"/><item><title>All the Right Way to Wireframe Videos</title><link>http://konigi.com/blog/all-right-way-wireframe-videos/</link><pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid><description>I wanted to capture all of the slides and videos into one entry to compare each of the guys' approaches. The right way? There isn't one right way. That's the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
+Todd Zaki Warfel
+Russ Unger
+Fred Beecher</description></item><item><title>Lorem Ipsum, wireframes, personas, etc are just tactics...</title><link>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</link><pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</guid><description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain't so bad&amp;quot; discussions I'll just echo what Joshua Porter (@bokardo) has to say on the matter:
 Lorem Ipsum, wireframes, personas, etc are just tactics. The only thing that matters is: Do people love what you built?
-Amen, brother. Here&#39;s 1 cent... I agree with Karen about Lorem Ipsum.
+Amen, brother. Here's 1 cent... I agree with Karen about Lorem Ipsum.
 Via Inspire UX
-http://twitter.com/bokardo/status/7912221516</description>
-    </item>
-    
-    <item>
-      <title>Annotating Specs With Tracing Paper</title>
-      <link>http://konigi.com/blog/annotating-specs-tracing-paper/</link>
-      <pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/annotating-specs-tracing-paper/</guid>
-      <description>Donna Lichaw posted a photo showing a nice method for annotating specs using tracing paper or vellum.
-http://www.flickr.com/photos/dlichaw/4053897862/</description>
-    </item>
-    
-    <item>
-      <title>Managing UI Complexity</title>
-      <link>http://konigi.com/blog/managing-ui-complexity/</link>
-      <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/managing-ui-complexity/</guid>
-      <description>Brandon Walkin&#39;s article &#34;Managing UI Complexity&#34; offers some excellent pointers or reminders of concepts and techniques that help reduce complexity in an interface, including progressive diclosure, contextual actions, aligment and hierarchy. There&#39;s an abundance of examples with screenshots and deconstruction of interfaces to demonstrate the techniques in practice.
-http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/</description>
-    </item>
-    
-    <item>
-      <title>Hunkering: Putting Disorientation into the Design Process</title>
-      <link>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</link>
-      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</guid>
-      <description>Jared Spool talks about &#34;visual disorientation,&#34; a designer&#39;s technique for evaluating your design work in the middle of a process. It&#39;s certainly common to see designer&#39;s tack up pieces of paper around their project space, e.g. schematics, pictures with references to other objects that provide inspiration, etc. Hunkering, however, is more of a technique to create disorientation and change in one&#39;s perspective momentarily, to assess what you&#39;ve done. Visual disorientation is a fast way to identify the places where things don&#39;t quite match up.</description>
-    </item>
-    
-    <item>
-      <title>UX Vision: The design superpower also known as The Squint Test</title>
-      <link>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</link>
-      <pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</guid>
-      <description>UX Hero points out a technique that you may not be using, but should consider. Stepping back and squinting to evaluate your work is something I was told to do repeatedly when I was first learning to paint, and is something I still do today as an interface designer. It helps you see the whole of your screen and look for anything that stands out, and see what needs to draw more attention, depending on the priority and hierarchy of your page elements.</description>
-    </item>
-    
-  </channel>
-</rss>
+http://twitter.com/bokardo/status/7912221516</description></item><item><title>Annotating Specs With Tracing Paper</title><link>http://konigi.com/blog/annotating-specs-tracing-paper/</link><pubDate>Thu, 29 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/annotating-specs-tracing-paper/</guid><description>Donna Lichaw posted a photo showing a nice method for annotating specs using tracing paper or vellum.
+http://www.flickr.com/photos/dlichaw/4053897862/</description></item><item><title>Managing UI Complexity</title><link>http://konigi.com/blog/managing-ui-complexity/</link><pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/managing-ui-complexity/</guid><description>Brandon Walkin's article "Managing UI Complexity" offers some excellent pointers or reminders of concepts and techniques that help reduce complexity in an interface, including progressive diclosure, contextual actions, aligment and hierarchy. There's an abundance of examples with screenshots and deconstruction of interfaces to demonstrate the techniques in practice.
+http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/</description></item><item><title>Hunkering: Putting Disorientation into the Design Process</title><link>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</link><pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/hunkering-putting-disorientation-design-process/</guid><description>Jared Spool talks about "visual disorientation," a designer's technique for evaluating your design work in the middle of a process. It's certainly common to see designer's tack up pieces of paper around their project space, e.g. schematics, pictures with references to other objects that provide inspiration, etc. Hunkering, however, is more of a technique to create disorientation and change in one's perspective momentarily, to assess what you've done. Visual disorientation is a fast way to identify the places where things don't quite match up.</description></item><item><title>UX Vision: The design superpower also known as The Squint Test</title><link>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</link><pubDate>Fri, 10 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ux-vision-design-superpower-also-known-squint-test/</guid><description>UX Hero points out a technique that you may not be using, but should consider. Stepping back and squinting to evaluate your work is something I was told to do repeatedly when I was first learning to paint, and is something I still do today as an interface designer. It helps you see the whole of your screen and look for anything that stands out, and see what needs to draw more attention, depending on the priority and hierarchy of your page elements.</description></item></channel></rss>

@@ -1,166 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>iPad on Konigi</title>
-    <link>http://konigi.com/tags/ipad/</link>
-    <description>Recent content in iPad on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Starters Guide to iOS Design</title>
-      <link>http://konigi.com/links/starters-guide-ios-design/</link>
-      <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
-http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template 2.5: Updated with iPad Pages</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</link>
-      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</guid>
-      <description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn&#39;t been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
-Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared layers to modify the headers and other templates.</description>
-    </item>
-    
-    <item>
-      <title>MORE/REAL Stylus Cap</title>
-      <link>http://konigi.com/blog/morereal-stylus-cap/</link>
-      <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/morereal-stylus-cap/</guid>
-      <description>Don Lehman&#39;s MORE/REAL Stylus Cap is a cool iPad stylus project looking for funding via Kickstarter. The idea is to create a cap with a conductive tip that will fit over a Sharpie, Bic, or Fineliner pen. Lehman&#39;s introductory video below shows the stylus cap at work.
- Looks fantastic and simple, and you&#39;ll have one fewer thing to carry with you because it acts as pen and stylus. Sweet.</description>
-    </item>
-    
-    <item>
-      <title>iPad Dry Erase Board</title>
-      <link>http://konigi.com/blog/ipad-dry-erase-board/</link>
-      <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-dry-erase-board/</guid>
-      <description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They&#39;ve created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
-Update: 
-Mine arrived and I have to say that this is the nicest dry erase board I have now. It&#39;s made on hard particle board, similar to what you&#39;d find on a clipboard, so it feels great in the hands.</description>
-    </item>
-    
-    <item>
-      <title>iPad Stylus Roundup: And the winner is...</title>
-      <link>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</link>
-      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</guid>
-      <description>[Update: This review was updated after getting the latest version of the Stylus Socks.]
-My search for the perfect stylus for sketching on the iPad is over. I&#39;ve tried ever stylus I could get my hands on. The three finalists that earned a space on my desk or pocket in the past year have been the iClooly, the Stylus Socks, and the Griffin Stylus for iPad.
-Starting off on the wrong foot</description>
-    </item>
-    
-    <item>
-      <title>Hacking an iClooly iPad Stylus</title>
-      <link>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</link>
-      <pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</guid>
-      <description>The iClooly is the pen I&#39;ve been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I&#39;m making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn&#39;t merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
-Verbose version: Remove the clicky end and the spring inside, making sure the brush is pressed down and the bristles exposed.</description>
-    </item>
-    
-    <item>
-      <title>Sarah Sampsel on Designing The Washington Post for iPad</title>
-      <link>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</link>
-      <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</guid>
-      <description>Sarah Sampsel wrote about designing the Washington Post iPad app, in 2 entries describing a little bit about the process. The first entry describes the types of interaction, visual design, and brand issues she had to consider when designing for the device. The second shows a few wireframes of the evolution of the home screen design.
-Would have been lovely to also see some of the sketches, but it&#39;s awesome that Sarah shared not just final wireframes, but a series of wireframes showing the iterations.</description>
-    </item>
-    
-    <item>
-      <title>Windows 7 Tablet vs. iPad</title>
-      <link>http://konigi.com/blog/windows-7-tablet-vs-ipad/</link>
-      <pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/windows-7-tablet-vs-ipad/</guid>
-      <description>This is a pretty fun comparison of a Windows 7 Hanvon tablet and the iPad. Mute the music and Steve Jobs voice over unless your into that kind of cacophony.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iPad on Konigi</title><link>http://konigi.com/tags/ipad/</link><description>Recent content in iPad on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/ipad/index.xml" rel="self" type="application/rss+xml"/><item><title>Starters Guide to iOS Design</title><link>http://konigi.com/links/starters-guide-ios-design/</link><pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/starters-guide-ios-design/</guid><description>Ben Taylor's Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you'll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+http://taybenlor.com/2013/05/21/designing-for-ios.html</description></item><item><title>OmniGraffle UX Template 2.5: Updated with iPad Pages</title><link>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</link><pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</guid><description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn't been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
+Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared layers to modify the headers and other templates.</description></item><item><title>MORE/REAL Stylus Cap</title><link>http://konigi.com/blog/morereal-stylus-cap/</link><pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/morereal-stylus-cap/</guid><description>Don Lehman's MORE/REAL Stylus Cap is a cool iPad stylus project looking for funding via Kickstarter. The idea is to create a cap with a conductive tip that will fit over a Sharpie, Bic, or Fineliner pen. Lehman's introductory video below shows the stylus cap at work.
+Looks fantastic and simple, and you'll have one fewer thing to carry with you because it acts as pen and stylus. Sweet.</description></item><item><title>iPad Dry Erase Board</title><link>http://konigi.com/blog/ipad-dry-erase-board/</link><pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-dry-erase-board/</guid><description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They've created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
+Update:
+Mine arrived and I have to say that this is the nicest dry erase board I have now. It's made on hard particle board, similar to what you'd find on a clipboard, so it feels great in the hands.</description></item><item><title>iPad Stylus Roundup: And the winner is...</title><link>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</link><pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</guid><description>[Update: This review was updated after getting the latest version of the Stylus Socks.]
+My search for the perfect stylus for sketching on the iPad is over. I've tried ever stylus I could get my hands on. The three finalists that earned a space on my desk or pocket in the past year have been the iClooly, the Stylus Socks, and the Griffin Stylus for iPad.
+Starting off on the wrong foot</description></item><item><title>Hacking an iClooly iPad Stylus</title><link>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</link><pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</guid><description>The iClooly is the pen I've been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I'm making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn't merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
+Verbose version: Remove the clicky end and the spring inside, making sure the brush is pressed down and the bristles exposed.</description></item><item><title>Sarah Sampsel on Designing The Washington Post for iPad</title><link>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</link><pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sarah-sampsel-designing-washington-post-ipad/</guid><description>Sarah Sampsel wrote about designing the Washington Post iPad app, in 2 entries describing a little bit about the process. The first entry describes the types of interaction, visual design, and brand issues she had to consider when designing for the device. The second shows a few wireframes of the evolution of the home screen design.
+Would have been lovely to also see some of the sketches, but it's awesome that Sarah shared not just final wireframes, but a series of wireframes showing the iterations.</description></item><item><title>Windows 7 Tablet vs. iPad</title><link>http://konigi.com/blog/windows-7-tablet-vs-ipad/</link><pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/windows-7-tablet-vs-ipad/</guid><description>This is a pretty fun comparison of a Windows 7 Hanvon tablet and the iPad. Mute the music and Steve Jobs voice over unless your into that kind of cacophony.
 Found via 52 Tiger.
-http://52tiger.net/windows-7-tablet-vs-ipad/?utm_source=feedburner</description>
-    </item>
-    
-    <item>
-      <title>LiveView for iPhone &amp; iPad</title>
-      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
-      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
-Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
-    </item>
-    
-    <item>
-      <title>Sketching with the iClooly Stylus</title>
-      <link>http://konigi.com/blog/sketching-iclooly-stylus/</link>
-      <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid>
-      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&#39;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&#39;d try it out of curiosity.
-I had low expectations, but was surprised by how well it works for iPad sketching.</description>
-    </item>
-    
-    <item>
-      <title>Hacking a Pogo Stylus for Smoother iPad Sketching</title>
-      <link>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</link>
-      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</guid>
-      <description>I blogged about what I thought could possibly make a better stylus recently and thought I&#39;d sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description>
-    </item>
-    
-    <item>
-      <title>iPad Sketching</title>
-      <link>http://konigi.com/blog/ipad-sketching/</link>
-      <pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-sketching/</guid>
-      <description>Pen and paper are still superior, but iPad sketching is good enough to leave those behind.
-The topic of UI sketching on the iPad is coming up pretty regularly for UI designers. People want to know how it feels and if it&#39;s going to replace pen/pencil and paper. After a few months using as many drawing apps as I can get my hands on, I find that it&#39;s more than adequate for UI sketching needs.</description>
-    </item>
-    
-    <item>
-      <title>iPad Sketch Group on Flickr</title>
-      <link>http://konigi.com/blog/ipad-sketch-group-flickr/</link>
-      <pubDate>Wed, 28 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-sketch-group-flickr/</guid>
-      <description>Because of @fred_beecher I setup this iPad Sketch Group on Flickr so we can share our UI sketches. I&#39;m going to slowly post what I work on there.
-Freehand design sketching on the iPad is for UX designers. Any app that lets you do freehand user interface sketches, either using finger tips or a capacitive stylus like the Pogo Sketch is what we&#39;re sharing here. If you drop non-iPad sketches, they will be booted.</description>
-    </item>
-    
-    <item>
-      <title>fueledbycoffee iPad Sketch Blog</title>
-      <link>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</link>
-      <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid>
-      <description>I&#39;ve been telling people how much I dig Adobe&#39;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&#39;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
-I&#39;m really loving it. The adjustment is taking time, and it&#39;s not as quick as pen and paper, but it&#39;s slightly more natural using a Pogo Sketch Stylus.</description>
-    </item>
-    
-    <item>
-      <title>iPad Application Sketch Template</title>
-      <link>http://konigi.com/blog/ipad-application-sketch-template/</link>
-      <pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-application-sketch-template/</guid>
-      <description>Oliver Waters released an iPad graph paper sketch template. 10px squared, with tick marks to indicate indicate the heights of the Status Bar, Navigation Bar, Split View (Landscape Only), Keyboard and Tab Bar. See also his iPhone sketch template.
-http://www.flickr.com/photos/owaters/4501918517/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://52tiger.net/windows-7-tablet-vs-ipad/?utm_source=feedburner</description></item><item><title>LiveView for iPhone &amp; iPad</title><link>http://konigi.com/links/liveview-iphone-ipad/</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/liveview-iphone-ipad/</guid><description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description></item><item><title>Sketching with the iClooly Stylus</title><link>http://konigi.com/blog/sketching-iclooly-stylus/</link><pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid><description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad's capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I'd try it out of curiosity.
+I had low expectations, but was surprised by how well it works for iPad sketching.</description></item><item><title>Hacking a Pogo Stylus for Smoother iPad Sketching</title><link>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</link><pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</guid><description>I blogged about what I thought could possibly make a better stylus recently and thought I'd sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description></item><item><title>iPad Sketching</title><link>http://konigi.com/blog/ipad-sketching/</link><pubDate>Mon, 17 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-sketching/</guid><description>Pen and paper are still superior, but iPad sketching is good enough to leave those behind.
+The topic of UI sketching on the iPad is coming up pretty regularly for UI designers. People want to know how it feels and if it's going to replace pen/pencil and paper. After a few months using as many drawing apps as I can get my hands on, I find that it's more than adequate for UI sketching needs.</description></item><item><title>iPad Sketch Group on Flickr</title><link>http://konigi.com/blog/ipad-sketch-group-flickr/</link><pubDate>Wed, 28 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-sketch-group-flickr/</guid><description>Because of @fred_beecher I setup this iPad Sketch Group on Flickr so we can share our UI sketches. I'm going to slowly post what I work on there.
+Freehand design sketching on the iPad is for UX designers. Any app that lets you do freehand user interface sketches, either using finger tips or a capacitive stylus like the Pogo Sketch is what we're sharing here. If you drop non-iPad sketches, they will be booted.</description></item><item><title>fueledbycoffee iPad Sketch Blog</title><link>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</link><pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid><description>I've been telling people how much I dig Adobe's free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman's Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
+I'm really loving it. The adjustment is taking time, and it's not as quick as pen and paper, but it's slightly more natural using a Pogo Sketch Stylus.</description></item><item><title>iPad Application Sketch Template</title><link>http://konigi.com/blog/ipad-application-sketch-template/</link><pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-application-sketch-template/</guid><description>Oliver Waters released an iPad graph paper sketch template. 10px squared, with tick marks to indicate indicate the heights of the Status Bar, Navigation Bar, Split View (Landscape Only), Keyboard and Tab Bar. See also his iPhone sketch template.
+http://www.flickr.com/photos/owaters/4501918517/</description></item></channel></rss>

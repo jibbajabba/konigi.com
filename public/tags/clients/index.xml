@@ -1,22 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>clients on Konigi</title>
-    <link>http://konigi.com/tags/clients/</link>
-    <description>Recent content in clients on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Dec 2007 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/clients/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>10 Ways To Get Design Approval</title>
-      <link>http://konigi.com/blog/10-ways-get-design-approval/</link>
-      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/10-ways-get-design-approval/</guid>
-      <description>On 24 Ways, Paul Boag offers suggestions for getting design approval.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>clients on Konigi</title><link>http://konigi.com/tags/clients/</link><description>Recent content in clients on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2007 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/clients/index.xml" rel="self" type="application/rss+xml"/><item><title>10 Ways To Get Design Approval</title><link>http://konigi.com/blog/10-ways-get-design-approval/</link><pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/10-ways-get-design-approval/</guid><description>On 24 Ways, Paul Boag offers suggestions for getting design approval.
 1. Define the role of the client and designer
 2. Understand the business
 3. Understand the users
@@ -27,8 +9,4 @@
 8. Present your designs
 9. Provide written supporting material
 10. Control the feedback
-Read more at 24 Ways...</description>
-    </item>
-    
-  </channel>
-</rss>
+Read more at 24 Ways...</description></item></channel></rss>

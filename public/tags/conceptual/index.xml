@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>conceptual on Konigi</title>
-    <link>http://konigi.com/tags/conceptual/</link>
-    <description>Recent content in conceptual on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Aug 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/conceptual/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Adaptive Path Aurora Concept Video, Part 1</title>
-      <link>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</link>
-      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</guid>
-      <description>Adaptive Path, as part of Mozilla Lab&#39;s concept video series, provides some suggestions for the possible future of the web experience with Aurora. This forward looking concept focuses on 4 high priority elements: context awareness, natural interaction, continuity, and multi-user applications.
-Aurora (Part 1) from Adaptive Path on Vimeo. The scenario laid out is one in which one user starts an audio chat and screen sharing sesion with another user and we begin to see how users can find information from their history and share it and remix it with others in the session.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>conceptual on Konigi</title><link>http://konigi.com/tags/conceptual/</link><description>Recent content in conceptual on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/conceptual/index.xml" rel="self" type="application/rss+xml"/><item><title>Adaptive Path Aurora Concept Video, Part 1</title><link>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</link><pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/adaptive-path-aurora-concept-video-part-1/</guid><description>Adaptive Path, as part of Mozilla Lab's concept video series, provides some suggestions for the possible future of the web experience with Aurora. This forward looking concept focuses on 4 high priority elements: context awareness, natural interaction, continuity, and multi-user applications.
+Aurora (Part 1) from Adaptive Path on Vimeo. The scenario laid out is one in which one user starts an audio chat and screen sharing sesion with another user and we begin to see how users can find information from their history and share it and remix it with others in the session.</description></item></channel></rss>

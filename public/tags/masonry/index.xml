@@ -1,25 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>masonry on Konigi</title>
-    <link>http://konigi.com/tags/masonry/</link>
-    <description>Recent content in masonry on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 May 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/masonry/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>citizenMag</title>
-      <link>http://konigi.com/designs/submissions/citizenmag/</link>
-      <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/citizenmag/</guid>
-      <description>citizenMag pulls off the bento-box style with their nice use of the jQuery Masonry plugin with this dark and bold take on the online magazine.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>masonry on Konigi</title><link>http://konigi.com/tags/masonry/</link><description>Recent content in masonry on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/masonry/index.xml" rel="self" type="application/rss+xml"/><item><title>citizenMag</title><link>http://konigi.com/designs/submissions/citizenmag/</link><pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/citizenmag/</guid><description>citizenMag pulls off the bento-box style with their nice use of the jQuery Masonry plugin with this dark and bold take on the online magazine.
 Via @swissmiss
-http://citizenmag.citizenm.com</description>
-    </item>
-    
-  </channel>
-</rss>
+http://citizenmag.citizenm.com</description></item></channel></rss>

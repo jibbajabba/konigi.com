@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>narrative on Konigi</title>
-    <link>http://konigi.com/tags/narrative/</link>
-    <description>Recent content in narrative on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/narrative/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Cooper Shows How to Do Low Fi Concept Demos</title>
-      <link>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</link>
-      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</guid>
-      <description>The Drawing Board: Commuter Buddy from Cooper Journal on Vimeo. Cooper Interactive&#39;s Commuter Buddy concept video is another great find via Dave Malouf&#39;s Engage blog. You might have already seen this one, but as Dave points out, it is a great example of using personas, narrative, and really low fidelity sketches to demonstrate a concept.
-The video above uses still photography, super-imposed photos of whiteboard drawings, and voice over narrative to describe the idea for a mobile phone application that helps a commuter to get to his ride on time, and even to remember to get off if he becomes engrossed in an article, for instance.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>narrative on Konigi</title><link>http://konigi.com/tags/narrative/</link><description>Recent content in narrative on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 26 Feb 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/narrative/index.xml" rel="self" type="application/rss+xml"/><item><title>Cooper Shows How to Do Low Fi Concept Demos</title><link>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</link><pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</guid><description>The Drawing Board: Commuter Buddy from Cooper Journal on Vimeo. Cooper Interactive's Commuter Buddy concept video is another great find via Dave Malouf's Engage blog. You might have already seen this one, but as Dave points out, it is a great example of using personas, narrative, and really low fidelity sketches to demonstrate a concept.
+The video above uses still photography, super-imposed photos of whiteboard drawings, and voice over narrative to describe the idea for a mobile phone application that helps a commuter to get to his ride on time, and even to remember to get off if he becomes engrossed in an article, for instance.</description></item></channel></rss>

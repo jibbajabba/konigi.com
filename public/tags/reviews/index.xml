@@ -1,96 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>reviews on Konigi</title>
-    <link>http://konigi.com/tags/reviews/</link>
-    <description>Recent content in reviews on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>New sketch gear at JetPens: Maruman sketchbooks</title>
-      <link>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</link>
-      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</guid>
-      <description>People still occasionally ask me if I make the small bound Wireframe Sketchbooks, but I stopped selling them after a few years, and instead just posted instructions for how to make your own. I know that few people have the time or interest to do that, so I&#39;ve been looking at alternatives for them.
-A month ago, Brad from JetPens contacted me to tell me that he started supplying a sketchbook from Maruman that I might like.</description>
-    </item>
-    
-    <item>
-      <title>Sketching with the iClooly Stylus</title>
-      <link>http://konigi.com/blog/sketching-iclooly-stylus/</link>
-      <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid>
-      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&#39;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&#39;d try it out of curiosity.
-I had low expectations, but was surprised by how well it works for iPad sketching.</description>
-    </item>
-    
-    <item>
-      <title>Appopedia, Business App Reviews</title>
-      <link>http://konigi.com/blog/appopedia-business-app-reviews/</link>
-      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid>
-      <description>The AppGap releases the Appopedia, a directory and review site for &#34;2.0 apps&#34; for work.
-http://www.theappgap.com/reviews</description>
-    </item>
-    
-    <item>
-      <title>The Designer&#39;s Review of Books</title>
-      <link>http://konigi.com/blog/designers-review-books/</link>
-      <pubDate>Tue, 25 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designers-review-books/</guid>
-      <description>Andy Polaine&#39;s review of books for designers.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>reviews on Konigi</title><link>http://konigi.com/tags/reviews/</link><description>Recent content in reviews on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/reviews/index.xml" rel="self" type="application/rss+xml"/><item><title>New sketch gear at JetPens: Maruman sketchbooks</title><link>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</link><pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/new-sketch-gear-jetpens-maruman-sketchbooks/</guid><description>People still occasionally ask me if I make the small bound Wireframe Sketchbooks, but I stopped selling them after a few years, and instead just posted instructions for how to make your own. I know that few people have the time or interest to do that, so I've been looking at alternatives for them.
+A month ago, Brad from JetPens contacted me to tell me that he started supplying a sketchbook from Maruman that I might like.</description></item><item><title>Sketching with the iClooly Stylus</title><link>http://konigi.com/blog/sketching-iclooly-stylus/</link><pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid><description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad's capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I'd try it out of curiosity.
+I had low expectations, but was surprised by how well it works for iPad sketching.</description></item><item><title>Appopedia, Business App Reviews</title><link>http://konigi.com/blog/appopedia-business-app-reviews/</link><pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid><description>The AppGap releases the Appopedia, a directory and review site for "2.0 apps" for work.
+http://www.theappgap.com/reviews</description></item><item><title>The Designer's Review of Books</title><link>http://konigi.com/blog/designers-review-books/</link><pubDate>Tue, 25 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/designers-review-books/</guid><description>Andy Polaine's review of books for designers.
 Although there are several good design websites that occasionally have book reviews, there didn’t seem to be a single place online where you could get constant updates and reviews of new (and sometimes old) design books.
-Design books are often expensive and contrary – sometimes the book is worth having for the physical production values alone, sometimes for the images, sometimes for the words and, occasionally, for all three.</description>
-    </item>
-    
-    <item>
-      <title>16 User Interface Prototyping Tools</title>
-      <link>http://konigi.com/blog/16-user-interface-prototyping-tools/</link>
-      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/16-user-interface-prototyping-tools/</guid>
-      <description>Russel Wilson of Dexo Design has done an excellent review of available UI Prototyping tools and provided tables comparing attributes including how fun they are to use, time to ramp up, and support for interactivity. His final assessment is below:
+Design books are often expensive and contrary – sometimes the book is worth having for the physical production values alone, sometimes for the images, sometimes for the words and, occasionally, for all three.</description></item><item><title>16 User Interface Prototyping Tools</title><link>http://konigi.com/blog/16-user-interface-prototyping-tools/</link><pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/16-user-interface-prototyping-tools/</guid><description>Russel Wilson of Dexo Design has done an excellent review of available UI Prototyping tools and provided tables comparing attributes including how fun they are to use, time to ramp up, and support for interactivity. His final assessment is below:
 1) Low fidelity mockups for idea exploration and communication: Balsamiq
 2) Interactive prototypes to test and communicate interactions: Adobe Flex (Thermo may change my mind)
-3) High fidelity drawing tool: Adobe Illustrator or OmniGraffle</description>
-    </item>
-    
-    <item>
-      <title>BusinessWeek Best and Worst of the Web</title>
-      <link>http://konigi.com/blog/businessweek-best-and-worst-web/</link>
-      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/businessweek-best-and-worst-web/</guid>
-      <description>BusinessWeek selects a jury to pick the best and worst designed web sites.
-BusinessWeek canvassed the Web&#39;s best and brightest designers—from Khoi Vinh of The New York Times&#39; Web site to Don Norman, Silicon Valley&#39;s chief usability guru—to find out which site designs they rate — and which ones they hate.
- http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm</description>
-    </item>
-    
-    <item>
-      <title>Wunderbloc</title>
-      <link>http://konigi.com/designs/submissions/wunderbloc/</link>
-      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/wunderbloc/</guid>
-      <description>http://www.wunderbloc.com/</description>
-    </item>
-    
-    <item>
-      <title>Restaurantica</title>
-      <link>http://konigi.com/designs/submissions/restaurantica/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/restaurantica/</guid>
-      <description>http://www.restaurantica.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+3) High fidelity drawing tool: Adobe Illustrator or OmniGraffle</description></item><item><title>BusinessWeek Best and Worst of the Web</title><link>http://konigi.com/blog/businessweek-best-and-worst-web/</link><pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/businessweek-best-and-worst-web/</guid><description>BusinessWeek selects a jury to pick the best and worst designed web sites.
+BusinessWeek canvassed the Web's best and brightest designers—from Khoi Vinh of The New York Times' Web site to Don Norman, Silicon Valley's chief usability guru—to find out which site designs they rate — and which ones they hate.
+http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm</description></item><item><title>Wunderbloc</title><link>http://konigi.com/designs/submissions/wunderbloc/</link><pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/wunderbloc/</guid><description>http://www.wunderbloc.com/</description></item><item><title>Restaurantica</title><link>http://konigi.com/designs/submissions/restaurantica/</link><pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/restaurantica/</guid><description>http://www.restaurantica.com/</description></item></channel></rss>

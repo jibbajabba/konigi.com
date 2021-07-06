@@ -1,35 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>critique on Konigi</title>
-    <link>http://konigi.com/tags/critique/</link>
-    <description>Recent content in critique on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/critique/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Draftboard: Design Review Tool</title>
-      <link>http://konigi.com/links/draftboard-design-review-tool/</link>
-      <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/draftboard-design-review-tool/</guid>
-      <description>Draftboard is a wireframe and visual design review web app for capturing design reviews of your work.
-http://www.draftboardapp.com</description>
-    </item>
-    
-    <item>
-      <title>Bounce: Screenshot annotation service</title>
-      <link>http://konigi.com/links/bounce-screenshot-annotation-service/</link>
-      <pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/bounce-screenshot-annotation-service/</guid>
-      <description>Bounce is a new screen capture service from Zurb that lets you invite other collaborators to annotate screenshots.
-Here&#39;s a test page of Konigi for you to defile, er, test.
-http://www.bounceapp.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>critique on Konigi</title><link>http://konigi.com/tags/critique/</link><description>Recent content in critique on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/critique/index.xml" rel="self" type="application/rss+xml"/><item><title>Draftboard: Design Review Tool</title><link>http://konigi.com/links/draftboard-design-review-tool/</link><pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/draftboard-design-review-tool/</guid><description>Draftboard is a wireframe and visual design review web app for capturing design reviews of your work.
+http://www.draftboardapp.com</description></item><item><title>Bounce: Screenshot annotation service</title><link>http://konigi.com/links/bounce-screenshot-annotation-service/</link><pubDate>Mon, 05 Jul 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/bounce-screenshot-annotation-service/</guid><description>Bounce is a new screen capture service from Zurb that lets you invite other collaborators to annotate screenshots.
+Here's a test page of Konigi for you to defile, er, test.
+http://www.bounceapp.com/</description></item></channel></rss>

@@ -1,35 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>business models on Konigi</title>
-    <link>http://konigi.com/tags/business-models/</link>
-    <description>Recent content in business models on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/business-models/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Aral Balkan: I, Simulation</title>
-      <link>http://konigi.com/blog/aral-balkan-i-simulation/</link>
-      <pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/aral-balkan-i-simulation/</guid>
-      <description>Aral Balkan’s “I, Simulation” talk about the current state of privacy and freedom in software and services is one the best presentations I’ve watched this year. Balkan talks about business models that focus on user data, and what that can mean to your &#34;privacy.&#34; Watch the talk below, given at Open Exchange in Munich, Germany.  The information you hand over using service providers like Facebook (think also Messenger, Whatsapp, Instagram) and Google (think also Gmail, Hangouts, Android Devices, Drive, Nest, Dropcam, and Fiber) is already being used to create simulations of you, and he likens this use to spyware.</description>
-    </item>
-    
-    <item>
-      <title>Why Business Models Matter</title>
-      <link>http://konigi.com/blog/why-business-models-matter/</link>
-      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/why-business-models-matter/</guid>
-      <description>Alex Osterwalder put together a breezy, easy to read deck on why business models matter.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>business models on Konigi</title><link>http://konigi.com/tags/business-models/</link><description>Recent content in business models on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/business-models/index.xml" rel="self" type="application/rss+xml"/><item><title>Aral Balkan: I, Simulation</title><link>http://konigi.com/blog/aral-balkan-i-simulation/</link><pubDate>Mon, 29 Sep 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/aral-balkan-i-simulation/</guid><description>Aral Balkan’s “I, Simulation” talk about the current state of privacy and freedom in software and services is one the best presentations I’ve watched this year. Balkan talks about business models that focus on user data, and what that can mean to your "privacy." Watch the talk below, given at Open Exchange in Munich, Germany. The information you hand over using service providers like Facebook (think also Messenger, Whatsapp, Instagram) and Google (think also Gmail, Hangouts, Android Devices, Drive, Nest, Dropcam, and Fiber) is already being used to create simulations of you, and he likens this use to spyware.</description></item><item><title>Why Business Models Matter</title><link>http://konigi.com/blog/why-business-models-matter/</link><pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/why-business-models-matter/</guid><description>Alex Osterwalder put together a breezy, easy to read deck on why business models matter.
 Business Model Innovation Matters
-View SlideShare presentation (tags: osterwalder alex alexander telco)   Hat tip to Victor for the link.
-http://business-model-design.blogspot.com/2008/08/slideshare-contest-why-business-models.html</description>
-    </item>
-    
-  </channel>
-</rss>
+View SlideShare presentation (tags: osterwalder alex alexander telco) Hat tip to Victor for the link.
+http://business-model-design.blogspot.com/2008/08/slideshare-contest-why-business-models.html</description></item></channel></rss>

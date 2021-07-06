@@ -1,34 +1,3 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>collections on Konigi</title>
-    <link>http://konigi.com/tags/collections/</link>
-    <description>Recent content in collections on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/collections/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Buxton Collection</title>
-      <link>http://konigi.com/links/buxton-collection/</link>
-      <pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/buxton-collection/</guid>
-      <description>Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.
-The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata.</description>
-    </item>
-    
-    <item>
-      <title>50 Beautiful Icon Sets</title>
-      <link>http://konigi.com/blog/50-beautiful-icon-sets/</link>
-      <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/50-beautiful-icon-sets/</guid>
-      <description>Noupe rounds up their &#34;50 most beautiful icon sets of 2008.&#34;.
-http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>collections on Konigi</title><link>http://konigi.com/tags/collections/</link><description>Recent content in collections on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/collections/index.xml" rel="self" type="application/rss+xml"/><item><title>Buxton Collection</title><link>http://konigi.com/links/buxton-collection/</link><pubDate>Wed, 25 Apr 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/buxton-collection/</guid><description>Bill Buxton has been collecting input and interactive devices whose design struck him as interesting, useful, or important. In the process, he has assembled a great collection spanning over 30 years of the history of pen computing, pointing devices, touch technologies, as well as an illustration of the nature of how new technologies emerge.
+The collection can be browsed in HTML or via the PivotViewer Silverlight interface. PivotViewer provides a richer experience with faceted filtering, search, and hypertext links for metadata.</description></item><item><title>50 Beautiful Icon Sets</title><link>http://konigi.com/blog/50-beautiful-icon-sets/</link><pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/50-beautiful-icon-sets/</guid><description>Noupe rounds up their "50 most beautiful icon sets of 2008.".
+http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</description></item></channel></rss>

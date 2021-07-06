@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>plugins on Konigi</title>
-    <link>http://konigi.com/tags/plugins/</link>
-    <description>Recent content in plugins on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/plugins/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title>
-      <link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link>
-      <pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid>
-      <description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
- Via se on the htmlprototyping group</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>plugins on Konigi</title><link>http://konigi.com/tags/plugins/</link><description>Recent content in plugins on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/plugins/index.xml" rel="self" type="application/rss+xml"/><item><title>Zen Coding: Plugins for HTML and CSS hi-speed coding</title><link>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</link><pubDate>Wed, 16 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/zen-coding-plugins-html-and-css-hi-speed-coding/</guid><description>Zen Coding is plugin for HTML editors that allows you to use shorthand to generate HTML. I twas created and supported by Sergey Chikuyonok for Aptana, TextMate, Coda and Espresso. It is based on JavaScript (for Aptana) or Python (the rest of all) script and using more advanced Zen HTML Selectors logic for building HTML. The demo video below shows Zen Coding in action.
+Via se on the htmlprototyping group</description></item></channel></rss>

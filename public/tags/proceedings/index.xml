@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>proceedings on Konigi</title>
-    <link>http://konigi.com/tags/proceedings/</link>
-    <description>Recent content in proceedings on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/proceedings/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>mobileHCI 2009 Proceedings</title>
-      <link>http://konigi.com/blog/mobilehci-2009-proceedings/</link>
-      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/mobilehci-2009-proceedings/</guid>
-      <description>The full text of the proceedings of MobileHCI09, the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services is available online. The event, which covers mobile and wearable computing devices and services took place September, 2009 at the University of Bonn in Germany.
-http://mobilehci.uni-siegen.de/mhci2009.html</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>proceedings on Konigi</title><link>http://konigi.com/tags/proceedings/</link><description>Recent content in proceedings on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/proceedings/index.xml" rel="self" type="application/rss+xml"/><item><title>mobileHCI 2009 Proceedings</title><link>http://konigi.com/blog/mobilehci-2009-proceedings/</link><pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/mobilehci-2009-proceedings/</guid><description>The full text of the proceedings of MobileHCI09, the 11th International Conference on Human-Computer Interaction with Mobile Devices and Services is available online. The event, which covers mobile and wearable computing devices and services took place September, 2009 at the University of Bonn in Germany.
+http://mobilehci.uni-siegen.de/mhci2009.html</description></item></channel></rss>

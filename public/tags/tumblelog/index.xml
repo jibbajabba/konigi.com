@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tumblelog on Konigi</title>
-    <link>http://konigi.com/tags/tumblelog/</link>
-    <description>Recent content in tumblelog on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/tumblelog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Bill C. English</title>
-      <link>http://konigi.com/designs/submissions/bill-c-english/</link>
-      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/bill-c-english/</guid>
-      <description>Online portfolio and journal of UI and web designer Bill C. English.
-http://billcenglish.com</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tumblelog on Konigi</title><link>http://konigi.com/tags/tumblelog/</link><description>Recent content in tumblelog on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/tumblelog/index.xml" rel="self" type="application/rss+xml"/><item><title>Bill C. English</title><link>http://konigi.com/designs/submissions/bill-c-english/</link><pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/submissions/bill-c-english/</guid><description>Online portfolio and journal of UI and web designer Bill C. English.
+http://billcenglish.com</description></item></channel></rss>

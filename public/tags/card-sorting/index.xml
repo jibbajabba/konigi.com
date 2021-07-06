@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>card sorting on Konigi</title>
-    <link>http://konigi.com/tags/card-sorting/</link>
-    <description>Recent content in card sorting on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/card-sorting/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>xSort: Free card sorting application for Mac OS</title>
-      <link>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</link>
-      <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</guid>
-      <description>xSort is a card sorting application for researchers and information architects that want to get a better idea of their users&#39; mental models for any given application or task. The software is free and works on Mac OS X.
-http://www.xsortapp.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>card sorting on Konigi</title><link>http://konigi.com/tags/card-sorting/</link><description>Recent content in card sorting on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Jan 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/card-sorting/index.xml" rel="self" type="application/rss+xml"/><item><title>xSort: Free card sorting application for Mac OS</title><link>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</link><pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</guid><description>xSort is a card sorting application for researchers and information architects that want to get a better idea of their users' mental models for any given application or task. The software is free and works on Mac OS X.
+http://www.xsortapp.com/</description></item></channel></rss>

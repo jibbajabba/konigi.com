@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>design with intent on Konigi</title>
-    <link>http://konigi.com/tags/design-with-intent/</link>
-    <description>Recent content in design with intent on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/design-with-intent/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>A Dialogue on Design With Intent</title>
-      <link>http://konigi.com/blog/dialogue-design-intent/</link>
-      <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/dialogue-design-intent/</guid>
-      <description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&#39;s desire to influence. The first is Robert Fabricant&#39;s article on &#34;Design with Intent: how designers can influence behavior&#34;, and the follow up is Dan Lockton&#39;s &#34;frog design on Design with Intent&#34;.
-User centered design focuses primarily on user needs and research and decision making must support these needs.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>design with intent on Konigi</title><link>http://konigi.com/tags/design-with-intent/</link><description>Recent content in design with intent on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/design-with-intent/index.xml" rel="self" type="application/rss+xml"/><item><title>A Dialogue on Design With Intent</title><link>http://konigi.com/blog/dialogue-design-intent/</link><pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/dialogue-design-intent/</guid><description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer's desire to influence. The first is Robert Fabricant's article on "Design with Intent: how designers can influence behavior", and the follow up is Dan Lockton's "frog design on Design with Intent".
+User centered design focuses primarily on user needs and research and decision making must support these needs.</description></item></channel></rss>

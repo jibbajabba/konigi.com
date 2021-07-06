@@ -1,165 +1,17 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>showcase on Konigi</title>
-    <link>http://konigi.com/tags/showcase/</link>
-    <description>Recent content in showcase on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>UYI User Interface library</title>
-      <link>http://konigi.com/blog/uyi-user-interface-library/</link>
-      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/uyi-user-interface-library/</guid>
-      <description>Use Your Interface (UYI) is a showcase of interface and interaction transition design curated by Josh Davey.
-http://useyourinterface.com/</description>
-    </item>
-    
-    <item>
-      <title>SIX UX: Transition and animation gallery</title>
-      <link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link>
-      <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid>
-      <description>SIX UX is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. Check it.
-http://sixux.com/</description>
-    </item>
-    
-    <item>
-      <title>MiniAjax: Rich UI Showcase</title>
-      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
-      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
-      <description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
-http://miniajax.com/</description>
-    </item>
-    
-    <item>
-      <title>MOObileFrames</title>
-      <link>http://konigi.com/blog/moobileframes/</link>
-      <pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/moobileframes/</guid>
-      <description>MOObileFrames is a collection of mobile sketches and wireframes curated by Hannah Milan.
-http://moobileframes.tumblr.com/page/1</description>
-    </item>
-    
-    <item>
-      <title>Wireframe Showcase</title>
-      <link>http://konigi.com/blog/wireframe-showcase/</link>
-      <pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wireframe-showcase/</guid>
-      <description>Mike Lohrman&#39;s Wireframe Showcase is a user-contributed wireframe and UI sketch gallery. I&#39;m hoping, since there is some space on the individual pages for content, that we&#39;ll see a little more discussion about process and design thinking here rather than mere visuals of design artifacts. It&#39;s always good to see more people showing how they explore ideas with sketches and wireframes.
-http://www.wireframeshowcase.com/</description>
-    </item>
-    
-    <item>
-      <title>Sketchnote Army</title>
-      <link>http://konigi.com/blog/sketchnote-army/</link>
-      <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sketchnote-army/</guid>
-      <description>Just discovered Mike Rohde&#39;s Sketchnote Army.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>showcase on Konigi</title><link>http://konigi.com/tags/showcase/</link><description>Recent content in showcase on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/showcase/index.xml" rel="self" type="application/rss+xml"/><item><title>UYI User Interface library</title><link>http://konigi.com/blog/uyi-user-interface-library/</link><pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/uyi-user-interface-library/</guid><description>Use Your Interface (UYI) is a showcase of interface and interaction transition design curated by Josh Davey.
+http://useyourinterface.com/</description></item><item><title>SIX UX: Transition and animation gallery</title><link>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</link><pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/six-ux-transition-and-animation-gallery/</guid><description>SIX UX is a gallery of transitions and animations shown as 6 second videos. Andreas Popp combined Vine app videos with tumblr to showcase otherwise ephemeral movements found around the web. Low fi and awesome. Check it.
+http://sixux.com/</description></item><item><title>MiniAjax: Rich UI Showcase</title><link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link><pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid><description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
+http://miniajax.com/</description></item><item><title>MOObileFrames</title><link>http://konigi.com/blog/moobileframes/</link><pubDate>Mon, 15 Nov 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/moobileframes/</guid><description>MOObileFrames is a collection of mobile sketches and wireframes curated by Hannah Milan.
+http://moobileframes.tumblr.com/page/1</description></item><item><title>Wireframe Showcase</title><link>http://konigi.com/blog/wireframe-showcase/</link><pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/wireframe-showcase/</guid><description>Mike Lohrman's Wireframe Showcase is a user-contributed wireframe and UI sketch gallery. I'm hoping, since there is some space on the individual pages for content, that we'll see a little more discussion about process and design thinking here rather than mere visuals of design artifacts. It's always good to see more people showing how they explore ideas with sketches and wireframes.
+http://www.wireframeshowcase.com/</description></item><item><title>Sketchnote Army</title><link>http://konigi.com/blog/sketchnote-army/</link><pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sketchnote-army/</guid><description>Just discovered Mike Rohde's Sketchnote Army.
 Sketchnote Army is dedicated to finding and showcasing sketchnotes and sketchnoters from around the world, from events, conferences, workshops or wherever sketchnotes are captured or created. If you sketchnote, send your sketchnotes URL to Mike Rohde to have them featured there.
 Via @katerutter
-http://sketchnotearmy.com/</description>
-    </item>
-    
-    <item>
-      <title>Design GalleRIA</title>
-      <link>http://konigi.com/blog/design-galleria/</link>
-      <pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-galleria/</guid>
-      <description>Theresa Neil has started a Tumblog design gallery and showcase of Rich Internet Applications.
-http://designgalleria.tumblr.com/</description>
-    </item>
-    
-    <item>
-      <title>Showcase of Web Design in Russia</title>
-      <link>http://konigi.com/blog/showcase-web-design-russia/</link>
-      <pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/showcase-web-design-russia/</guid>
-      <description>As part of Smashing Mag&#39;s Global Web Design series, they&#39;ve created a showcase of Russian Web Design with Designcollector&#39;s Arseny Vesnin providing the commentary.
-http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</description>
-    </item>
-    
-    <item>
-      <title>Beautiful Minimal Websites</title>
-      <link>http://konigi.com/blog/beautiful-minimal-websites/</link>
-      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/beautiful-minimal-websites/</guid>
-      <description>I&#39;m enjoying the 6 part collection of minimalist designs posted by Vandelay Design. Some sites are more minimalist than others. I tend to use that term loosely at times as well. But the predominant theme seems to be type as interface, minimal use of graphics (aside from a logo and the body content), few if any graphic treatments of navigation, and little to no use of texture and graphic effects, and liberal use of white space.</description>
-    </item>
-    
-    <item>
-      <title>A Collection of Inspirational Website Collections</title>
-      <link>http://konigi.com/blog/collection-inspirational-website-collections/</link>
-      <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/collection-inspirational-website-collections/</guid>
-      <description>The Design Cubicle collects the design inspiration collections. More single page collections of links and screenshots than you&#39;ll ever have time to look at, and each title starting with a number, so you can add it all up.
-http://www.thedesigncubicle.com/2009/06/motherload-collection-of-inspirational-website-collections/</description>
-    </item>
-    
-    <item>
-      <title>InfoGraphic Designs: Overview, Examples and Best Practices</title>
-      <link>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</link>
-      <pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</guid>
-      <description>Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. View them all at Infoshift.
-http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/</description>
-    </item>
-    
-    <item>
-      <title>Chrome Experiments</title>
-      <link>http://konigi.com/blog/chrome-experiments/</link>
-      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/chrome-experiments/</guid>
-      <description>Google&#39;s Chrome Experiments lab showcases some interesting uses of Javascript. We think JavaScript is awesome. We also think browsers are awesome. Indeed, when we talk about them, we say they are the cat&#39;s meow – which is an American expression meaning AWESOME.
+http://sketchnotearmy.com/</description></item><item><title>Design GalleRIA</title><link>http://konigi.com/blog/design-galleria/</link><pubDate>Tue, 20 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/design-galleria/</guid><description>Theresa Neil has started a Tumblog design gallery and showcase of Rich Internet Applications.
+http://designgalleria.tumblr.com/</description></item><item><title>Showcase of Web Design in Russia</title><link>http://konigi.com/blog/showcase-web-design-russia/</link><pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/showcase-web-design-russia/</guid><description>As part of Smashing Mag's Global Web Design series, they've created a showcase of Russian Web Design with Designcollector's Arseny Vesnin providing the commentary.
+http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</description></item><item><title>Beautiful Minimal Websites</title><link>http://konigi.com/blog/beautiful-minimal-websites/</link><pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/beautiful-minimal-websites/</guid><description>I'm enjoying the 6 part collection of minimalist designs posted by Vandelay Design. Some sites are more minimalist than others. I tend to use that term loosely at times as well. But the predominant theme seems to be type as interface, minimal use of graphics (aside from a logo and the body content), few if any graphic treatments of navigation, and little to no use of texture and graphic effects, and liberal use of white space.</description></item><item><title>A Collection of Inspirational Website Collections</title><link>http://konigi.com/blog/collection-inspirational-website-collections/</link><pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/collection-inspirational-website-collections/</guid><description>The Design Cubicle collects the design inspiration collections. More single page collections of links and screenshots than you'll ever have time to look at, and each title starting with a number, so you can add it all up.
+http://www.thedesigncubicle.com/2009/06/motherload-collection-of-inspirational-website-collections/</description></item><item><title>InfoGraphic Designs: Overview, Examples and Best Practices</title><link>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</link><pubDate>Mon, 15 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/infographic-designs-overview-examples-and-best-practices/</guid><description>Anders Ross provides a definition, brief history, and best practices for designing infographics followed by a huge number of example screenshots. View them all at Infoshift.
+http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and-best-practices/</description></item><item><title>Chrome Experiments</title><link>http://konigi.com/blog/chrome-experiments/</link><pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/chrome-experiments/</guid><description>Google's Chrome Experiments lab showcases some interesting uses of Javascript. We think JavaScript is awesome. We also think browsers are awesome. Indeed, when we talk about them, we say they are the cat's meow – which is an American expression meaning AWESOME.
 In light of these deeply held beliefs, we created this site to showcase cool experiments for both JavaScript and web browsers.
-These experiments were created by designers and programmers from around the world.</description>
-    </item>
-    
-    <item>
-      <title>SingleFunction</title>
-      <link>http://konigi.com/blog/singlefunction/</link>
-      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/singlefunction/</guid>
-      <description>A showcase of single-serving or single-function sites.
+These experiments were created by designers and programmers from around the world.</description></item><item><title>SingleFunction</title><link>http://konigi.com/blog/singlefunction/</link><pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/singlefunction/</guid><description>A showcase of single-serving or single-function sites.
 Via ehub
-http://singlefunction.com/showcase/</description>
-    </item>
-    
-    <item>
-      <title>PicoCool</title>
-      <link>http://konigi.com/blog/picocool/</link>
-      <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/picocool/</guid>
-      <description>I&#39;m a regular reader of Emily Chang&#39;s eHub, one of my sources for learning about interesting web app and services. Emily recently launced a new showcase of interesting finds with PicoCool. A global community dedicated to uncovering the cool, whether in art, design, environment, culture, architecture, fashion, travel or technology. Our community finds and shares tiny bytes and unique content from the world of peer media, social networks and subcultures.</description>
-    </item>
-    
-    <item>
-      <title>CSSiPhone</title>
-      <link>http://konigi.com/blog/cssiphone/</link>
-      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cssiphone/</guid>
-      <description>How cool is this? A CSS Design gallery showing sites as viewed through the iPhone. http://cssiphone.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://singlefunction.com/showcase/</description></item><item><title>PicoCool</title><link>http://konigi.com/blog/picocool/</link><pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/picocool/</guid><description>I'm a regular reader of Emily Chang's eHub, one of my sources for learning about interesting web app and services. Emily recently launced a new showcase of interesting finds with PicoCool. A global community dedicated to uncovering the cool, whether in art, design, environment, culture, architecture, fashion, travel or technology. Our community finds and shares tiny bytes and unique content from the world of peer media, social networks and subcultures.</description></item><item><title>CSSiPhone</title><link>http://konigi.com/blog/cssiphone/</link><pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/cssiphone/</guid><description>How cool is this? A CSS Design gallery showing sites as viewed through the iPhone. http://cssiphone.com/</description></item></channel></rss>

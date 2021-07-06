@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ebook readers on Konigi</title>
-    <link>http://konigi.com/tags/ebook-readers/</link>
-    <description>Recent content in ebook readers on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jan 2009 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/ebook-readers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title>
-      <link>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link>
-      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid>
-      <description>Tog&#39;s comparison and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn&#39;t only about the design.
-I don&#39;t use a Kindle daily, so I can&#39;t comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it.</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ebook readers on Konigi</title><link>http://konigi.com/tags/ebook-readers/</link><description>Recent content in ebook readers on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2009 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/ebook-readers/index.xml" rel="self" type="application/rss+xml"/><item><title>Kindle vs. iPhone/iPod Touch: Human/Machine Interaction &amp; User Experience</title><link>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</link><pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/kindle-vs-iphoneipod-touch-humanmachine-interaction-user-experience/</guid><description>Tog's comparison and analysis of the human computer interaction versus the user experience with both the Amazon Kindle and the iPhone/iPod Touch is excellent. The separation of HCI/UX in his analysis really drives the point home that good interaction and industrial design can make the experience, and a good experience isn't only about the design.
+I don't use a Kindle daily, so I can't comment personally on it, but the industrial design was a showstopper for me and kept me from wanting it.</description></item></channel></rss>

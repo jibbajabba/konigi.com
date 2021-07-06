@@ -1,145 +1,15 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>visual design on Konigi</title>
-    <link>http://konigi.com/tags/visual-design/</link>
-    <description>Recent content in visual design on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jan 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>GluePrint: Floating guides for your mockups</title>
-      <link>http://konigi.com/links/glueprint-floating-guides-your-mockups/</link>
-      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/glueprint-floating-guides-your-mockups/</guid>
-      <description>I like the simple idea behind GluePrint. Drop your mockup or visual design comp onto the app and it provides a semi-opaque window of the design. I can see it being useful for overlaying on top of your browser, like an onionskin, while you&#39;re working on front end implementation. And even in other reverse scenarios, like for creating new designs based on an existing version of your product.
-http://glueprintapp.com/</description>
-    </item>
-    
-    <item>
-      <title>Macaw: Code-savvy web design tool</title>
-      <link>http://konigi.com/links/macaw-code-savvy-web-design-tool/</link>
-      <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/macaw-code-savvy-web-design-tool/</guid>
-      <description>Macaw is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>visual design on Konigi</title><link>http://konigi.com/tags/visual-design/</link><description>Recent content in visual design on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/visual-design/index.xml" rel="self" type="application/rss+xml"/><item><title>GluePrint: Floating guides for your mockups</title><link>http://konigi.com/links/glueprint-floating-guides-your-mockups/</link><pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/links/glueprint-floating-guides-your-mockups/</guid><description>I like the simple idea behind GluePrint. Drop your mockup or visual design comp onto the app and it provides a semi-opaque window of the design. I can see it being useful for overlaying on top of your browser, like an onionskin, while you're working on front end implementation. And even in other reverse scenarios, like for creating new designs based on an existing version of your product.
+http://glueprintapp.com/</description></item><item><title>Macaw: Code-savvy web design tool</title><link>http://konigi.com/links/macaw-code-savvy-web-design-tool/</link><pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/macaw-code-savvy-web-design-tool/</guid><description>Macaw is a forthcoming Mac application for designing pages for web browsers that are ready to use as web-native code. The app runs natively in html and css, and provides excellent export to clean html and css.
 There are some great optimizations for nudging/pudging on a grid, and for setting properties that make sense for css—thinking of positioning and dimensions.
-The outline view is a nice way to browse through all the groups in the document and adding container tags and/or classes for semantic html publishing.</description>
-    </item>
-    
-    <item>
-      <title>User Inter Faces: Avatars for mockups</title>
-      <link>http://konigi.com/links/user-inter-faces-avatars-mockups/</link>
-      <pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/user-inter-faces-avatars-mockups/</guid>
-      <description>UI Faces is a useful little tool by Caleb Ogden for generating a grid of avatars that you can use in your designs.
-http://uifaces.com/</description>
-    </item>
-    
-    <item>
-      <title>SketchMine: Sketch app templates</title>
-      <link>http://konigi.com/links/sketchmine-sketch-app-templates/</link>
-      <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/sketchmine-sketch-app-templates/</guid>
-      <description>Sketchmine provides .sketch files for use in Bohemian Coding&#39;s Sketch app for Mac. The files are free to download and are contributed by the Sketch community.
-http://sketchmine.co/</description>
-    </item>
-    
-    <item>
-      <title>Usabilla Discover</title>
-      <link>http://konigi.com/links/usabilla-discover/</link>
-      <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/usabilla-discover/</guid>
-      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&#39;s a social LittleSnapper. Whatever the pitch, it&#39;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
+The outline view is a nice way to browse through all the groups in the document and adding container tags and/or classes for semantic html publishing.</description></item><item><title>User Inter Faces: Avatars for mockups</title><link>http://konigi.com/links/user-inter-faces-avatars-mockups/</link><pubDate>Fri, 14 Jun 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/user-inter-faces-avatars-mockups/</guid><description>UI Faces is a useful little tool by Caleb Ogden for generating a grid of avatars that you can use in your designs.
+http://uifaces.com/</description></item><item><title>SketchMine: Sketch app templates</title><link>http://konigi.com/links/sketchmine-sketch-app-templates/</link><pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate><guid>http://konigi.com/links/sketchmine-sketch-app-templates/</guid><description>Sketchmine provides .sketch files for use in Bohemian Coding's Sketch app for Mac. The files are free to download and are contributed by the Sketch community.
+http://sketchmine.co/</description></item><item><title>Usabilla Discover</title><link>http://konigi.com/links/usabilla-discover/</link><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/links/usabilla-discover/</guid><description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it's a social LittleSnapper. Whatever the pitch, it's pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
 Note: To get in during the beta, sign up here with code &amp;quot;KONIGI&amp;quot;, good for the first 200 who use the code.
-http://discover.usabilla.com/</description>
-    </item>
-    
-    <item>
-      <title>Photoshop Android GUI Set</title>
-      <link>http://konigi.com/links/photoshop-android-gui-set/</link>
-      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/photoshop-android-gui-set/</guid>
-      <description>Webdesignshock produced a set of high fidelity Photoshop assets for creating Android designs. Available for free.
-http://www.webdesignshock.com/freebies/free-photoshop-android-interface-gui/</description>
-    </item>
-    
-    <item>
-      <title>LiveView for iPhone &amp; iPad</title>
-      <link>http://konigi.com/links/liveview-iphone-ipad/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/liveview-iphone-ipad/</guid>
-      <description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
-Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description>
-    </item>
-    
-    <item>
-      <title>Marian Bantjes: Intricate beauty by design on TED</title>
-      <link>http://konigi.com/blog/marian-bantjes-intricate-beauty-design-ted/</link>
-      <pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/marian-bantjes-intricate-beauty-design-ted/</guid>
-      <description>Marian Bantjes gives a fantastic TED talk, where she discusses her work as a graphic artist living outside the mainstream of design thinking, thinking about ethereal qualities like bringing joy, invoking wonder, and inciting curiosity. This bit excited me:
-The more I deal with the work as something of my own, as something that is personal, the more successful it is as something that is compelling, interesting, and sustaining.</description>
-    </item>
-    
-    <item>
-      <title>Vyoopoint Design Presentations Tool - A Must-Have for Every Creative Professional</title>
-      <link>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</link>
-      <pubDate>Sun, 02 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</guid>
-      <description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more... Check its features!
-http://vyoopoint.com/about/why/why_vyoopoint/index.html</description>
-    </item>
-    
-    <item>
-      <title>The Drop Shadow Talks, Berlin</title>
-      <link>http://konigi.com/blog/drop-shadow-talks-berlin/</link>
-      <pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/drop-shadow-talks-berlin/</guid>
-      <description>This is interesting. This season, Berliner Technische Kunsthochschule Hochschule für Gestaltung (FH) is putting on a series of lectures in Berlin centering on topics related to the drop shadow and 3D visual elements in graphic design.
-The Drop Shadow Talks reply to current developments on the visually enriched layer for machine interaction. In the shades of evening lectures the Drop Shadow Talks will present art and projects inﬂuenced and inspired by the baroque graphical user interface.</description>
-    </item>
-    
-    <item>
-      <title>Web Browser Templates (Photoshop)</title>
-      <link>http://konigi.com/links/web-browser-templates-photoshop/</link>
-      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/web-browser-templates-photoshop/</guid>
-      <description>An Adobe Photoshop .PSD template with Internet Explorer, Firefox for Mac, and Firefox for Windows browser chrome. Provides a layered PSD of browser windows at the following resolutions: 800×600 pixels, 1024×768 pixels, and 1280×1024 pixels.
-http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/</description>
-    </item>
-    
-    <item>
-      <title>Photoshop Custom Comping Elements</title>
-      <link>http://konigi.com/links/photoshop-custom-comping-elements/</link>
-      <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/photoshop-custom-comping-elements/</guid>
-      <description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It&#39;s like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description>
-    </item>
-    
-    <item>
-      <title>iPhone GUI PSD</title>
-      <link>http://konigi.com/links/iphone-gui-psd/</link>
-      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/iphone-gui-psd/</guid>
-      <description>The iPhone GUI PSD by teehan+lax is an editable layered Photoshop file with graphic elements including the iPhone, buttons and controls, form inputs, and application chrome. Thanks to Designnotes for the tip.
-http://www.teehanlax.com/blog/?p=447</description>
-    </item>
-    
-  </channel>
-</rss>
+http://discover.usabilla.com/</description></item><item><title>Photoshop Android GUI Set</title><link>http://konigi.com/links/photoshop-android-gui-set/</link><pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/photoshop-android-gui-set/</guid><description>Webdesignshock produced a set of high fidelity Photoshop assets for creating Android designs. Available for free.
+http://www.webdesignshock.com/freebies/free-photoshop-android-interface-gui/</description></item><item><title>LiveView for iPhone &amp; iPad</title><link>http://konigi.com/links/liveview-iphone-ipad/</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/liveview-iphone-ipad/</guid><description>LiveView is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.
+Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</description></item><item><title>Marian Bantjes: Intricate beauty by design on TED</title><link>http://konigi.com/blog/marian-bantjes-intricate-beauty-design-ted/</link><pubDate>Tue, 22 Jun 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/marian-bantjes-intricate-beauty-design-ted/</guid><description>Marian Bantjes gives a fantastic TED talk, where she discusses her work as a graphic artist living outside the mainstream of design thinking, thinking about ethereal qualities like bringing joy, invoking wonder, and inciting curiosity. This bit excited me:
+The more I deal with the work as something of my own, as something that is personal, the more successful it is as something that is compelling, interesting, and sustaining.</description></item><item><title>Vyoopoint Design Presentations Tool - A Must-Have for Every Creative Professional</title><link>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</link><pubDate>Sun, 02 May 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</guid><description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more... Check its features!
+http://vyoopoint.com/about/why/why_vyoopoint/index.html</description></item><item><title>The Drop Shadow Talks, Berlin</title><link>http://konigi.com/blog/drop-shadow-talks-berlin/</link><pubDate>Fri, 23 Oct 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/drop-shadow-talks-berlin/</guid><description>This is interesting. This season, Berliner Technische Kunsthochschule Hochschule für Gestaltung (FH) is putting on a series of lectures in Berlin centering on topics related to the drop shadow and 3D visual elements in graphic design.
+The Drop Shadow Talks reply to current developments on the visually enriched layer for machine interaction. In the shades of evening lectures the Drop Shadow Talks will present art and projects inﬂuenced and inspired by the baroque graphical user interface.</description></item><item><title>Web Browser Templates (Photoshop)</title><link>http://konigi.com/links/web-browser-templates-photoshop/</link><pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/web-browser-templates-photoshop/</guid><description>An Adobe Photoshop .PSD template with Internet Explorer, Firefox for Mac, and Firefox for Windows browser chrome. Provides a layered PSD of browser windows at the following resolutions: 800×600 pixels, 1024×768 pixels, and 1280×1024 pixels.
+http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/</description></item><item><title>Photoshop Custom Comping Elements</title><link>http://konigi.com/links/photoshop-custom-comping-elements/</link><pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/links/photoshop-custom-comping-elements/</guid><description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It's like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description></item><item><title>iPhone GUI PSD</title><link>http://konigi.com/links/iphone-gui-psd/</link><pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/links/iphone-gui-psd/</guid><description>The iPhone GUI PSD by teehan+lax is an editable layered Photoshop file with graphic elements including the iPhone, buttons and controls, form inputs, and application chrome. Thanks to Designnotes for the tip.
+http://www.teehanlax.com/blog/?p=447</description></item></channel></rss>

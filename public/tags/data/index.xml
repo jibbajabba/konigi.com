@@ -1,74 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>data on Konigi</title>
-    <link>http://konigi.com/tags/data/</link>
-    <description>Recent content in data on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/data/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Pace</title>
-      <link>http://konigi.com/blog/pace/</link>
-      <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/pace/</guid>
-      <description>Hannah Donovan&#39;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
-I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
-    </item>
-    
-    <item>
-      <title>Aaron Koblin: Artfully visualizing our humanity</title>
-      <link>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</link>
-      <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
-      <description>From Aaron Koblin&#39;s TED presentation:
-&#34;Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &#34;Wilderness Downtown&#34; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description>
-    </item>
-    
-    <item>
-      <title>visualizing.org</title>
-      <link>http://konigi.com/blog/visualizingorg/</link>
-      <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/visualizingorg/</guid>
-      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:
-It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
-    </item>
-    
-    <item>
-      <title>Should Design Be Held Back by a Tyranny of Data</title>
-      <link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link>
-      <pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid>
-      <description>The NYTimes interviewed Doug Bowman to talk about his departure from Google, which Bowman wrote about on his blog in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>data on Konigi</title><link>http://konigi.com/tags/data/</link><description>Recent content in data on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/data/index.xml" rel="self" type="application/rss+xml"/><item><title>Pace</title><link>http://konigi.com/blog/pace/</link><pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/pace/</guid><description>Hannah Donovan's essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+I've been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description></item><item><title>Aaron Koblin: Artfully visualizing our humanity</title><link>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</link><pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid><description>From Aaron Koblin's TED presentation:
+"Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the "Wilderness Downtown" video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description></item><item><title>visualizing.org</title><link>http://konigi.com/blog/visualizingorg/</link><pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/visualizingorg/</guid><description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:
+It's a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description></item><item><title>Should Design Be Held Back by a Tyranny of Data</title><link>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</link><pubDate>Mon, 11 May 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/should-design-be-held-back-tyranny-data/</guid><description>The NYTimes interviewed Doug Bowman to talk about his departure from Google, which Bowman wrote about on his blog in March. Bowman came onto Google as their first Visual Designer 3 years ago, and left in March. Some quotes from the article:
 Bowman on Google:
 “Data eventually becomes a crutch for every decision, paralyzing the company and preventing it from making any daring design decisions,”
- Bowman on Twitter, where he is now Creative Director:</description>
-    </item>
-    
-    <item>
-      <title>DAYTUM</title>
-      <link>http://konigi.com/designs/daytum/</link>
-      <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/daytum/</guid>
-      <description>Daytum comes to us from the data obsessed minds of visual designers, Nick Felton and Ryan Case. Felton is the creator of the Feltron personal annual report that we Tufte/stats junkies love and Case is the creative director working on the social media experience at Sling Media. DAYTUM is a wonderful evolution of the personal annual report, bringing obsessive loggers a place to count whatever comes to mind and visualize that data beautifully in the personal and community space.</description>
-    </item>
-    
-    <item>
-      <title>UNIQLO TRY</title>
-      <link>http://konigi.com/designs/uniqlo-try/</link>
-      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/uniqlo-try/</guid>
-      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&#39;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&#39;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&#39;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
-    </item>
-    
-  </channel>
-</rss>
+Bowman on Twitter, where he is now Creative Director:</description></item><item><title>DAYTUM</title><link>http://konigi.com/designs/daytum/</link><pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/daytum/</guid><description>Daytum comes to us from the data obsessed minds of visual designers, Nick Felton and Ryan Case. Felton is the creator of the Feltron personal annual report that we Tufte/stats junkies love and Case is the creative director working on the social media experience at Sling Media. DAYTUM is a wonderful evolution of the personal annual report, bringing obsessive loggers a place to count whatever comes to mind and visualize that data beautifully in the personal and community space.</description></item><item><title>UNIQLO TRY</title><link>http://konigi.com/designs/uniqlo-try/</link><pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/uniqlo-try/</guid><description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women's bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women's headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women's age, height, and bra size, or use the pop up menus to filter the set down.</description></item></channel></rss>

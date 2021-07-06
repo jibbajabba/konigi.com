@@ -1,87 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>sketch notes on Konigi</title>
-    <link>http://konigi.com/tags/sketch-notes/</link>
-    <description>Recent content in sketch notes on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/sketch-notes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Sketchnotes 2009 &amp; 2010: A book by Eva-Lotta Lamm</title>
-      <link>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</link>
-      <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</guid>
-      <description>This is pretty incredible. Eva-Lotta Lamm&#39;s self-published book contains 2 years&#39; worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sketch notes on Konigi</title><link>http://konigi.com/tags/sketch-notes/</link><description>Recent content in sketch notes on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/sketch-notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Sketchnotes 2009 &amp; 2010: A book by Eva-Lotta Lamm</title><link>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</link><pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</guid><description>This is pretty incredible. Eva-Lotta Lamm's self-published book contains 2 years' worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.
 Some of the events covered in the book are UXweek 2009, d.construct 2010, Flash on the Beach 2010, UXcamp Europe 2010, offf 2010, UXcamp London, Internet Week Europe 2010, various London IA events and RSA talks.
-The book contains notes from talks by Edward Tufte, Scott McCloud, Jesse James Garrett, Ryan Singer, Tim Berners-Lee, Stephen Fry, Dave Gray, Whitney Hess, Stephen Anderson, Andy Budd, Richard Rutter, Eric Reiss, Giles Colborne, Mr.</description>
-    </item>
-    
-    <item>
-      <title>iPad Sketch Group on Flickr</title>
-      <link>http://konigi.com/blog/ipad-sketch-group-flickr/</link>
-      <pubDate>Wed, 28 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-sketch-group-flickr/</guid>
-      <description>Because of @fred_beecher I setup this iPad Sketch Group on Flickr so we can share our UI sketches. I&#39;m going to slowly post what I work on there.
-Freehand design sketching on the iPad is for UX designers. Any app that lets you do freehand user interface sketches, either using finger tips or a capacitive stylus like the Pogo Sketch is what we&#39;re sharing here. If you drop non-iPad sketches, they will be booted.</description>
-    </item>
-    
-    <item>
-      <title>fueledbycoffee iPad Sketch Blog</title>
-      <link>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</link>
-      <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid>
-      <description>I&#39;ve been telling people how much I dig Adobe&#39;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&#39;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
-I&#39;m really loving it. The adjustment is taking time, and it&#39;s not as quick as pen and paper, but it&#39;s slightly more natural using a Pogo Sketch Stylus.</description>
-    </item>
-    
-    <item>
-      <title>Sarah Mitchell&#39;s Thoughts from Interaction &#39;10</title>
-      <link>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</link>
-      <pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</guid>
-      <description>LA UX designer Sarah Mitchell has posted an excellent set of sketch notes from Interaction 10. Go to her blog entry to read the accompanying written notes.
-http://www.sgmitch.com/blog/2010/02/interaction-10/</description>
-    </item>
-    
-    <item>
-      <title>Sketchnote Army</title>
-      <link>http://konigi.com/blog/sketchnote-army/</link>
-      <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sketchnote-army/</guid>
-      <description>Just discovered Mike Rohde&#39;s Sketchnote Army.
+The book contains notes from talks by Edward Tufte, Scott McCloud, Jesse James Garrett, Ryan Singer, Tim Berners-Lee, Stephen Fry, Dave Gray, Whitney Hess, Stephen Anderson, Andy Budd, Richard Rutter, Eric Reiss, Giles Colborne, Mr.</description></item><item><title>iPad Sketch Group on Flickr</title><link>http://konigi.com/blog/ipad-sketch-group-flickr/</link><pubDate>Wed, 28 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-sketch-group-flickr/</guid><description>Because of @fred_beecher I setup this iPad Sketch Group on Flickr so we can share our UI sketches. I'm going to slowly post what I work on there.
+Freehand design sketching on the iPad is for UX designers. Any app that lets you do freehand user interface sketches, either using finger tips or a capacitive stylus like the Pogo Sketch is what we're sharing here. If you drop non-iPad sketches, they will be booted.</description></item><item><title>fueledbycoffee iPad Sketch Blog</title><link>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</link><pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid><description>I've been telling people how much I dig Adobe's free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman's Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
+I'm really loving it. The adjustment is taking time, and it's not as quick as pen and paper, but it's slightly more natural using a Pogo Sketch Stylus.</description></item><item><title>Sarah Mitchell's Thoughts from Interaction '10</title><link>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</link><pubDate>Mon, 22 Feb 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sarah-mitchells-thoughts-interaction-10/</guid><description>LA UX designer Sarah Mitchell has posted an excellent set of sketch notes from Interaction 10. Go to her blog entry to read the accompanying written notes.
+http://www.sgmitch.com/blog/2010/02/interaction-10/</description></item><item><title>Sketchnote Army</title><link>http://konigi.com/blog/sketchnote-army/</link><pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sketchnote-army/</guid><description>Just discovered Mike Rohde's Sketchnote Army.
 Sketchnote Army is dedicated to finding and showcasing sketchnotes and sketchnoters from around the world, from events, conferences, workshops or wherever sketchnotes are captured or created. If you sketchnote, send your sketchnotes URL to Mike Rohde to have them featured there.
 Via @katerutter
-http://sketchnotearmy.com/</description>
-    </item>
-    
-    <item>
-      <title>SXSW Interactive 2009 Sketchnotes</title>
-      <link>http://konigi.com/blog/sxsw-interactive-2009-sketchnotes/</link>
-      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sxsw-interactive-2009-sketchnotes/</guid>
-      <description>Mike Rohde has posted his sketchnotes from SXSWi.
-http://www.rohdesign.com/weblog/archives/003039.html</description>
-    </item>
-    
-    <item>
-      <title>Dave Gray&#39;s Sketches</title>
-      <link>http://konigi.com/blog/dave-grays-sketches/</link>
-      <pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/dave-grays-sketches/</guid>
-      <description>Great sketch and sketch note collection in Dave Gray&#39;s flickr.
-http://www.flickr.com/photos/davegray/sets/1672209/</description>
-    </item>
-    
-  </channel>
-</rss>
+http://sketchnotearmy.com/</description></item><item><title>SXSW Interactive 2009 Sketchnotes</title><link>http://konigi.com/blog/sxsw-interactive-2009-sketchnotes/</link><pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/sxsw-interactive-2009-sketchnotes/</guid><description>Mike Rohde has posted his sketchnotes from SXSWi.
+http://www.rohdesign.com/weblog/archives/003039.html</description></item><item><title>Dave Gray's Sketches</title><link>http://konigi.com/blog/dave-grays-sketches/</link><pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/dave-grays-sketches/</guid><description>Great sketch and sketch note collection in Dave Gray's flickr.
+http://www.flickr.com/photos/davegray/sets/1672209/</description></item></channel></rss>

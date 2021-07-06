@@ -1,22 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>news events on Konigi</title>
-    <link>http://konigi.com/tags/news-events/</link>
-    <description>Recent content in news events on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2008 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/news-events/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Obama Election in the News (International Sources)</title>
-      <link>http://konigi.com/designs/obama-election-news-international-sources/</link>
-      <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/obama-election-news-international-sources/</guid>
-      <description>This is just a small sampling of news coverage of the US Presidential Election from non-U.S. sources that included substantial news pieces on their front pages.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>news events on Konigi</title><link>http://konigi.com/tags/news-events/</link><description>Recent content in news events on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 05 Nov 2008 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/news-events/index.xml" rel="self" type="application/rss+xml"/><item><title>Obama Election in the News (International Sources)</title><link>http://konigi.com/designs/obama-election-news-international-sources/</link><pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/obama-election-news-international-sources/</guid><description>This is just a small sampling of news coverage of the US Presidential Election from non-U.S. sources that included substantial news pieces on their front pages.
 Sources:
 1. http://bbc.co.uk
 2. http://www.guardian.co.uk/
@@ -37,16 +19,7 @@ Sources:
 17. http://english.pravda.ru/
 18. http://www.thestar.com/
 See also:
-Front pages from US Sources</description>
-    </item>
-    
-    <item>
-      <title>Obama Election in the News (U.S. Sources)</title>
-      <link>http://konigi.com/designs/obama-election-news-us-sources/</link>
-      <pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/obama-election-news-us-sources/</guid>
-      <description>Newspaper and online news headlines and front page screens on the day after the 2008 US Presidential Election.
+Front pages from US Sources</description></item><item><title>Obama Election in the News (U.S. Sources)</title><link>http://konigi.com/designs/obama-election-news-us-sources/</link><pubDate>Wed, 05 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/designs/obama-election-news-us-sources/</guid><description>Newspaper and online news headlines and front page screens on the day after the 2008 US Presidential Election.
 Sources:
 1. http://nytimes.com
 2. http://washingtonpost.com
@@ -67,8 +40,4 @@ Sources:
 17. http://npr.org
 18. http://reuters.com
 See also:
-Front pages from International Sources</description>
-    </item>
-    
-  </channel>
-</rss>
+Front pages from International Sources</description></item></channel></rss>

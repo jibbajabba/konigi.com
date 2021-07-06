@@ -1,166 +1,18 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>tools on Konigi</title>
-    <link>http://konigi.com/tags/tools/</link>
-    <description>Recent content in tools on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Balsamiq UX Template</title>
-      <link>http://konigi.com/tools/balsamiq-ux-template/</link>
-      <pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/balsamiq-ux-template/</guid>
-      <description>Made for UX designers This template is made for UI designers using Balsamiq Mockups that want to create polished, client-ready presentation decks. It includes a few example pages for basic UX document needs (journey maps, personas, wireframe pages), a Symbol Library for controls crafted in Konigi-style, and grid Symbols to keep your layout tight.
- Download for free 1. Download the template.
-2. Duplicate it whenever you start a new project.</description>
-    </item>
-    
-    <item>
-      <title>Sketchbooks: DIY Instructions</title>
-      <link>http://konigi.com/tools/sketchbooks-diy/</link>
-      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/sketchbooks-diy/</guid>
-      <description>This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.
-I started making my own sketchbooks and pads a few years ago. At the time there weren&#39;t many options for interface sketching and storyboarding.</description>
-    </item>
-    
-    <item>
-      <title>Nick Finck&#39;s Gifts for User Experience Geeks 2011</title>
-      <link>http://konigi.com/blog/nick-fincks-gifts-user-experience-geeks-2011/</link>
-      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/nick-fincks-gifts-user-experience-geeks-2011/</guid>
-      <description>If you&#39;re looking for gifts for your team, Nick Finck has once again rounded up a massive list of gear for UX geeks. Thanks, Nick.
-http://www.nickfinck.com/blog/entry/gifts_for_user_experience_geeks_2011/</description>
-    </item>
-    
-    <item>
-      <title>Have a nice day</title>
-      <link>http://konigi.com/blog/have-nice-day/</link>
-      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/have-nice-day/</guid>
-      <description>Don&#39;t let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
-Occasionally I&#39;m asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
-I enjoy pointing people towards good resources, or helping them with a problem using a tool that I&#39;m familiar with.</description>
-    </item>
-    
-    <item>
-      <title>iPad Stylus Roundup: And the winner is...</title>
-      <link>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</link>
-      <pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</guid>
-      <description>[Update: This review was updated after getting the latest version of the Stylus Socks.]
-My search for the perfect stylus for sketching on the iPad is over. I&#39;ve tried ever stylus I could get my hands on. The three finalists that earned a space on my desk or pocket in the past year have been the iClooly, the Stylus Socks, and the Griffin Stylus for iPad.
-Starting off on the wrong foot</description>
-    </item>
-    
-    <item>
-      <title>Protokit [Archived]</title>
-      <link>http://konigi.com/tools/protokit/</link>
-      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/protokit/</guid>
-      <description>NOTE: Protokit is no longer being developed, but is still available for you to poke fun at.
-Protokit was an experimental project to develop a toolkit for creating HTML prototypes. It uses the following open source libraries and plugins: Blueprint, jQuery, jQuery UI, jQuery Templates, and iXEdit. More information about the included libraries and their licensing agreements can be found in theREADME file.
-Version 0.1 was the preliminary version and is very rough.</description>
-    </item>
-    
-    <item>
-      <title>Wireframe Magnets (DIY Kit)</title>
-      <link>http://konigi.com/tools/wireframe-magnets-diy-kit/</link>
-      <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/wireframe-magnets-diy-kit/</guid>
-      <description>About This DIY magnet template is based on the Konigi wireframe stencils and includes 3 sheets of elements that might be useful in whiteboard prototyping. Simply download and print the PDFs onto magnet sheets, optionally laminate them if you intend to use with dry-erase markers, and finally cut them out.
- Printing These sheets are made to print on magnetic sheets, and were designed and tested for use with Avery 3270 Printable Magnet Sheets for Inkjet Printers.</description>
-    </item>
-    
-    <item>
-      <title>Touchscreen Stencils</title>
-      <link>http://konigi.com/links/touchscreen-stencils/</link>
-      <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
-http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template Updated (v. 2.2)</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</link>
-      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</guid>
-      <description>The UX Template has been updated (Vers. 2.2) with some minor fixes. The iPhone template was recreated using OmniGraffle drawing tools rather than imported PNGs to shrink file size. Template was converted to flat XML format rather than bundle. Guides cleaned up on all pages.
-//konigi.com/tools/omnigraffle-ux-template</description>
-    </item>
-    
-    <item>
-      <title>Schedule and Cost Summary Calculator</title>
-      <link>http://konigi.com/tools/schedule-and-cost-summary-calculator/</link>
-      <pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/schedule-and-cost-summary-calculator/</guid>
-      <description>About this template This Cost Estimate and Scheduling spreadsheet provides a lightweight method for learning to estimate time to complete a web design project, and calculating cost for completion. The intended audience is individual freelancers or contractors who need to prepare proposals for potential clients. This may not be an ideal format for the calculation of project team estimates. The purpose of the document is to teach you to get acquainted with spreadsheets as tools for cost estimation, with the hopes that you will learn to use and modify it to suit your needs.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Wireframe Stencils [Archived]</title>
-      <link>http://konigi.com/tools/omnigraffle-wireframe-stencils/</link>
-      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
- Download Download Version 3.</description>
-    </item>
-    
-    <item>
-      <title>The Konigi OG Toolset is Coming</title>
-      <link>http://konigi.com/blog/konigi-og-toolset-coming/</link>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/konigi-og-toolset-coming/</guid>
-      <description>That&#39;s OmniGraffle, not Original Gangster. It&#39;s been over a year since the last update to my OmniGraffle Wireframe Stencils. I&#39;m due for a new version after some cleanup and organization into separate stencils to make use of OG5&#39;s nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I&#39;ve worked on in the past 2 years at Sling and at Traction.</description>
-    </item>
-    
-    <item>
-      <title>GUI Prototyping Tools</title>
-      <link>http://konigi.com/blog/gui-prototyping-tools/</link>
-      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/gui-prototyping-tools/</guid>
-      <description>Cunningham &amp;amp; Cunningham have a wiki page listing a great collection of prototyping tools.
-http://c2.com/cgi/wiki?GuiPrototypingTools</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template [Archived]</title>
-      <link>http://konigi.com/tools/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
- Installation 1.</description>
-    </item>
-    
-    <item>
-      <title>Corporate Ipsum Widget</title>
-      <link>http://konigi.com/blog/corporate-ipsum-widget/</link>
-      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/corporate-ipsum-widget/</guid>
-      <description>If you ever get tired of writing sample copy in your design documents, at least be semi-lazy rather than completely lazy. Use Corporate Ipsum.
-http://www.doubleforte.net/widgets/corporate/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tools on Konigi</title><link>http://konigi.com/tags/tools/</link><description>Recent content in tools on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/tools/index.xml" rel="self" type="application/rss+xml"/><item><title>Balsamiq UX Template</title><link>http://konigi.com/tools/balsamiq-ux-template/</link><pubDate>Wed, 30 Jul 2014 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/balsamiq-ux-template/</guid><description>Made for UX designers This template is made for UI designers using Balsamiq Mockups that want to create polished, client-ready presentation decks. It includes a few example pages for basic UX document needs (journey maps, personas, wireframe pages), a Symbol Library for controls crafted in Konigi-style, and grid Symbols to keep your layout tight.
+Download for free 1. Download the template.
+2. Duplicate it whenever you start a new project.</description></item><item><title>Sketchbooks: DIY Instructions</title><link>http://konigi.com/tools/sketchbooks-diy/</link><pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/sketchbooks-diy/</guid><description>This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.
+Enjoy! -Michael
+I started making my own sketchbooks and pads a few years ago. At the time there weren't many options for interface sketching and storyboarding.</description></item><item><title>Nick Finck's Gifts for User Experience Geeks 2011</title><link>http://konigi.com/blog/nick-fincks-gifts-user-experience-geeks-2011/</link><pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/nick-fincks-gifts-user-experience-geeks-2011/</guid><description>If you're looking for gifts for your team, Nick Finck has once again rounded up a massive list of gear for UX geeks. Thanks, Nick.
+http://www.nickfinck.com/blog/entry/gifts_for_user_experience_geeks_2011/</description></item><item><title>Have a nice day</title><link>http://konigi.com/blog/have-nice-day/</link><pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/have-nice-day/</guid><description>Don't let anyone tell you that the tools you choose are wrong or inappropriate. Find the right design and keep winning.
+Occasionally I'm asked to provide an opinion about a topic that people think I should have some authority to comment on for some reason. That topic, as you might guess, is wireframing.
+I enjoy pointing people towards good resources, or helping them with a problem using a tool that I'm familiar with.</description></item><item><title>iPad Stylus Roundup: And the winner is...</title><link>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</link><pubDate>Mon, 20 Dec 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/ipad-stylus-roundup-and-winner/</guid><description>[Update: This review was updated after getting the latest version of the Stylus Socks.]
+My search for the perfect stylus for sketching on the iPad is over. I've tried ever stylus I could get my hands on. The three finalists that earned a space on my desk or pocket in the past year have been the iClooly, the Stylus Socks, and the Griffin Stylus for iPad.
+Starting off on the wrong foot</description></item><item><title>Wireframe Magnets (DIY Kit)</title><link>http://konigi.com/tools/wireframe-magnets-diy-kit/</link><pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/wireframe-magnets-diy-kit/</guid><description>About This DIY magnet template is based on the Konigi wireframe stencils and includes 3 sheets of elements that might be useful in whiteboard prototyping. Simply download and print the PDFs onto magnet sheets, optionally laminate them if you intend to use with dry-erase markers, and finally cut them out.
+Printing These sheets are made to print on magnetic sheets, and were designed and tested for use with Avery 3270 Printable Magnet Sheets for Inkjet Printers.</description></item><item><title>Touchscreen Stencils</title><link>http://konigi.com/links/touchscreen-stencils/</link><pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/links/touchscreen-stencils/</guid><description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer's book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description></item><item><title>OmniGraffle UX Template Updated (v. 2.2)</title><link>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</link><pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</guid><description>The UX Template has been updated (Vers. 2.2) with some minor fixes. The iPhone template was recreated using OmniGraffle drawing tools rather than imported PNGs to shrink file size. Template was converted to flat XML format rather than bundle. Guides cleaned up on all pages.
+//konigi.com/tools/omnigraffle-ux-template</description></item><item><title>Schedule and Cost Summary Calculator</title><link>http://konigi.com/tools/schedule-and-cost-summary-calculator/</link><pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/schedule-and-cost-summary-calculator/</guid><description>About this template This Cost Estimate and Scheduling spreadsheet provides a lightweight method for learning to estimate time to complete a web design project, and calculating cost for completion. The intended audience is individual freelancers or contractors who need to prepare proposals for potential clients. This may not be an ideal format for the calculation of project team estimates. The purpose of the document is to teach you to get acquainted with spreadsheets as tools for cost estimation, with the hopes that you will learn to use and modify it to suit your needs.</description></item><item><title>OmniGraffle Wireframe Stencils [Archived]</title><link>http://konigi.com/tools/omnigraffle-wireframe-stencils/</link><pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid><description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you'll need to create user interface specifications. No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
+Download Download Version 3.</description></item><item><title>The Konigi OG Toolset is Coming</title><link>http://konigi.com/blog/konigi-og-toolset-coming/</link><pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/konigi-og-toolset-coming/</guid><description>That's OmniGraffle, not Original Gangster. It's been over a year since the last update to my OmniGraffle Wireframe Stencils. I'm due for a new version after some cleanup and organization into separate stencils to make use of OG5's nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I've worked on in the past 2 years at Sling and at Traction.</description></item><item><title>GUI Prototyping Tools</title><link>http://konigi.com/blog/gui-prototyping-tools/</link><pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/gui-prototyping-tools/</guid><description>Cunningham &amp;amp; Cunningham have a wiki page listing a great collection of prototyping tools.
+http://c2.com/cgi/wiki?GuiPrototypingTools</description></item><item><title>OmniGraffle UX Template [Archived]</title><link>http://konigi.com/tools/omnigraffle-ux-template/</link><pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/tools/omnigraffle-ux-template/</guid><description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you'll be showing true pixel dimensions.
+Installation 1.</description></item><item><title>Corporate Ipsum Widget</title><link>http://konigi.com/blog/corporate-ipsum-widget/</link><pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/corporate-ipsum-widget/</guid><description>If you ever get tired of writing sample copy in your design documents, at least be semi-lazy rather than completely lazy. Use Corporate Ipsum.
+http://www.doubleforte.net/widgets/corporate/</description></item><item><title>Silverback: Usability Testing Software for the Mac</title><link>http://konigi.com/blog/silverback-usability-testing-software-mac/</link><pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate><guid>http://konigi.com/blog/silverback-usability-testing-software-mac/</guid><description>Silverback launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won't have to ever touch another Windows box if you don't want to. (I'm kidding. I'm sure you will at some point in your life.)
+Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won't find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</description></item></channel></rss>

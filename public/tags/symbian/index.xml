@@ -1,24 +1,2 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Symbian on Konigi</title>
-    <link>http://konigi.com/tags/symbian/</link>
-    <description>Recent content in Symbian on Konigi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2010 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="http://konigi.com/tags/symbian/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>PhoneGap | Cross platform mobile framework</title>
-      <link>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</link>
-      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</guid>
-      <description>PhoneGap is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.
-http://phonegap.com/</description>
-    </item>
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Symbian on Konigi</title><link>http://konigi.com/tags/symbian/</link><description>Recent content in Symbian on Konigi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="http://konigi.com/tags/symbian/index.xml" rel="self" type="application/rss+xml"/><item><title>PhoneGap | Cross platform mobile framework</title><link>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</link><pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate><guid>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</guid><description>PhoneGap is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.
+http://phonegap.com/</description></item></channel></rss>
