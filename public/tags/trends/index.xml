@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trends on Konigi</title>
+    <title>trends on Konigi</title>
     <link>http://konigi.com/tags/trends/</link>
-    <description>Recent content in Trends on Konigi</description>
+    <description>Recent content in trends on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/trends/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/trends/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/information-architects-web-trend-map-4/</guid>
-      <description>Information Architects, Japan, post their 4th Web Trends map. They&amp;rsquo;ll only be printing 1,000 copies.
+      <description>Information Architects, Japan, post their 4th Web Trends map. They&#39;ll only be printing 1,000 copies.
 http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
       <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/web-design-trends-2009/</guid>
-      <description>Smashing Mag curates their top web design trends, and gives us the first of a multi-part set with these 10 great examples. It&amp;rsquo;s a well picked, high quality collection of screenshots as is typical of these guys. They never disappoint. Here&amp;rsquo;s a snippet describing the list:
+      <description>Smashing Mag curates their top web design trends, and gives us the first of a multi-part set with these 10 great examples. It&#39;s a well picked, high quality collection of screenshots as is typical of these guys. They never disappoint. Here&#39;s a snippet describing the list:
 Web design trends for 2009: recent developments, new design elements and new graphic approaches. We also discuss situations in which these trends can be used and present some beautiful examples.</description>
     </item>
     
@@ -37,7 +36,7 @@ Web design trends for 2009: recent developments, new design elements and new gra
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/9-experiences-2009/</guid>
-      <description>Brandon Schauer gives us 9 ideas for experiences whose time has come&amp;ndash;the idea being that these are things we can do to create or extend the experience with our businesses because the timing is right. With luck, execution of any of these ideas can turn into real value for businesses and their customers.
+      <description>Brandon Schauer gives us 9 ideas for experiences whose time has come--the idea being that these are things we can do to create or extend the experience with our businesses because the timing is right. With luck, execution of any of these ideas can turn into real value for businesses and their customers.
 http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/</description>
     </item>
     
@@ -48,7 +47,7 @@ http://www.adaptivepath.com/blog/2009/01/05/9-experiences-for-2009/</description
       
       <guid>http://konigi.com/blog/2008-web-design-trends/</guid>
       <description>Web Designer Wall has compiled an amazing list of trends in web design for 2008.
-So what’s hot now? Pencil sketches, handwritten notes, card stocks, watercolor effects, collage art, script fonts, grungy and splatter ink backgrounds (glossy gradients are not &amp;ldquo;in&amp;rdquo; this year). Another trend to be on the lookout for are the vintage and retro styles which I’ve posted earlier this year. Here is a list of 82 sites picked from Best Web Gallery that show the current design trends.</description>
+So what’s hot now? Pencil sketches, handwritten notes, card stocks, watercolor effects, collage art, script fonts, grungy and splatter ink backgrounds (glossy gradients are not &#34;in&#34; this year). Another trend to be on the lookout for are the vintage and retro styles which I’ve posted earlier this year. Here is a list of 82 sites picked from Best Web Gallery that show the current design trends.</description>
     </item>
     
   </channel>

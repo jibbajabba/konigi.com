@@ -8,7 +8,9 @@ featuredimg = "//media.konigi.com/notebook/sketch-goodies.jpg"
 
 +++
 
-<div class="video">{{< youtube jsKi2z_uRCk >}}</div>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/jsKi2z_uRCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 This is a little zine I made from my Sketch talk.
 

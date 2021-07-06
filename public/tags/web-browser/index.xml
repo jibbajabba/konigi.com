@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Browser on Konigi</title>
+    <title>web browser on Konigi</title>
     <link>http://konigi.com/tags/web-browser/</link>
-    <description>Recent content in Web Browser on Konigi</description>
+    <description>Recent content in web browser on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/web-browser/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/web-browser/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -54,7 +53,7 @@ What I&#39;m proposing is for you to think twice about these ‘rules’ which a
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
-      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &amp;ldquo;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&amp;rdquo; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
+      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &#34;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&#34; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
 http://design-challenge.mozilla.com/summer09/showcase.php</description>
     </item>
     
@@ -74,7 +73,7 @@ They also just released Alkaline, a Mac app that lets you view your tests of Win
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/browser-wars/</guid>
-      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.
+      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &#34;Napoleon&#39;s March&#34; graphic in Tufte&#39;s book.
 http://www.pixellabs.com/images/browserwars.png</description>
     </item>
     
@@ -84,7 +83,7 @@ http://www.pixellabs.com/images/browserwars.png</description>
       <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/methodologie-browser-size-test/</guid>
-      <description>Mmmmm, grids. Methodologie uses stats from The Counter to display the screen resolutions supported by users&amp;rsquo; computers in their 10&amp;frasl;2008 numbers.
+      <description>Mmmmm, grids. Methodologie uses stats from The Counter to display the screen resolutions supported by users&#39; computers in their 10/2008 numbers.
 http://www.methodologie.com/sizer/</description>
     </item>
     
@@ -113,7 +112,7 @@ http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/</description>
       <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ubiquity/</guid>
-      <description>Ubiquity for Firefox from Aza Raskin on Vimeo. I&amp;rsquo;ve been really impressed by Aza Raskin&amp;rsquo;s Ubiquity add on for Firefox, which I&amp;rsquo;ve been playing with a lot lately. It completely makes up for the less than exciting experience I had with Enso, which never came close to a Quicksilver experience on Windows. Ubiquity is pretty much the Quicksilver experience brought to your web browser. A smart tool that is summoned by a keyboard shortcut, and provides shortcuts to frequently used tools, and contextually relevant paths to using selected content in the page.</description>
+      <description>Ubiquity for Firefox from Aza Raskin on Vimeo. I&#39;ve been really impressed by Aza Raskin&#39;s Ubiquity add on for Firefox, which I&#39;ve been playing with a lot lately. It completely makes up for the less than exciting experience I had with Enso, which never came close to a Quicksilver experience on Windows. Ubiquity is pretty much the Quicksilver experience brought to your web browser. A smart tool that is summoned by a keyboard shortcut, and provides shortcuts to frequently used tools, and contextually relevant paths to using selected content in the page.</description>
     </item>
     
     <item>
@@ -132,7 +131,7 @@ Bluish Coder demonstrates the Video tag in SVG to implement a Silverlight style 
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/google-chrome-comic-book/</guid>
-      <description>Google explains it&amp;rsquo;s new open source, Webkit-based Chrome Web Browser with a 28 page comic book inked by Scott McCloud. The Chrome browser beta becomes available to Windows users on September 2, 2008. Mac and Linux versions are also planned.
+      <description>Google explains it&#39;s new open source, Webkit-based Chrome Web Browser with a 28 page comic book inked by Scott McCloud. The Chrome browser beta becomes available to Windows users on September 2, 2008. Mac and Linux versions are also planned.
 http://www.google.com/googlebooks/chrome/</description>
     </item>
     
@@ -154,64 +153,6 @@ Aurora (Part 1) from Adaptive Path on Vimeo. The scenario laid out is one in whi
       <guid>http://konigi.com/blog/firefox-mobile-concept-video/</guid>
       <description>Firefox Mobile Concept Video from Aza Raskin on Vimeo. Aza Raskin demonstrates a touch interface concept for a Firefox Mobile browser. The mocked up prototype includes features including spatial browsing of browser tabs, and touch gestures for summoning application menus.
 http://azarask.in/blog/post/firefox-mobile-concept-video/</description>
-    </item>
-    
-    <item>
-      <title>Yahoo! BrowserPlus</title>
-      <link>http://konigi.com/blog/yahoo-browserplus/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/yahoo-browserplus/</guid>
-      <description>Yahoo! BrowserPlus is software that extends the capabilities of web browsers to make rich web experiences possible. Websites can use the software to support behaviors like drag and drop from the desktop, easier file uploads, acquisition of feeds and information, and native desktop notifications. The site is showing very cool demos right now including dragging and dropping photos from the desktop to a web browser, live image manipulation, and live refreshing IRC chatrooms in the browser.</description>
-    </item>
-    
-    <item>
-      <title>Google Gives Glimpse of Future Gears Goodies</title>
-      <link>http://konigi.com/blog/google-gives-glimpse-future-gears-goodies/</link>
-      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/google-gives-glimpse-future-gears-goodies/</guid>
-      <description>Webware reports that Chris Prince, a lead Gears engineer, provided some insight into what Google plans to do with Gears to advance the web browser&amp;rsquo;s reach into the desktop. Among the features mentioned are notifications on the desktop of various events, support for location information, better interactions with a computer&amp;rsquo;s file system, and technology to let large file uploads proceed even when hampered by intermittent network connectivity. Prince demonstrated the following prototypes:</description>
-    </item>
-    
-    <item>
-      <title>Do websites need to look exactly the same in every browser?</title>
-      <link>http://konigi.com/blog/do-websites-need-look-exactly-same-every-browser/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/do-websites-need-look-exactly-same-every-browser/</guid>
-      <description>That&amp;rsquo;s one hell of a domain name: http://dowebsitesneedtolookexactlythesameineverybrowser.com/
-http://dowebsitesneedtolookexactlythesameineverybrowser.com/</description>
-    </item>
-    
-    <item>
-      <title>Designers Toolbox: OS Form Elements</title>
-      <link>http://konigi.com/blog/designers-toolbox-os-form-elements/</link>
-      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designers-toolbox-os-form-elements/</guid>
-      <description>The Designers Toolbox provides a nice resource for designers looking to create form elements in design comps or wireframes. The site displays every type of form element that can be generated by Windows XP IE and Firefox, and Mac OS X Safari and Firefox. Photoshop files can be downloaded for each form element.
-Thanks, swissmiss.
-http://www.designerstoolbox.com/designresources/elements/</description>
-    </item>
-    
-    <item>
-      <title>Screen Resolution Statistics</title>
-      <link>http://konigi.com/blog/screen-resolution-statistics/</link>
-      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/screen-resolution-statistics/</guid>
-      <description>When it comes to researching user&#39;s screen resolution, I&#39;m a strong believer that vertical positioning matters most when considering key issues such as location of identifying elements like site name and h1-type headings, and elements that satisfy business rules such as ad location. The B&amp;amp;A article, &#34;Blasting the Myth of the Fold&#34; addresses this issue well, and I&#39;m in agreement that &#34;the fold&#34; matters little if the above issues are dealt with.</description>
-    </item>
-    
-    <item>
-      <title>Apple&#39;s Safari 3.1 to support downloadable web fonts and more</title>
-      <link>http://konigi.com/blog/apples-safari-3-1-support-downloadable-web-fonts-and-more/</link>
-      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apples-safari-3-1-support-downloadable-web-fonts-and-more/</guid>
-      <description>Apple Insider reports that Apple will ship Safari 3.1 with downloadable web fonts, HTML5&amp;rsquo;s SQL storage application programming interface, and HTML5 video and audio tags. They provide the following description of these new features.
-For example, CSS Transforms and CSS Animations will join web downloadable fonts in allowing Safari 3.1 and iPhone users to render web pages and web apps with enhanced design messages and real-time visual effects. By applying Transforms, developers can author trigger actions that scale, rotate, skew and translate HTML boxes in real time.</description>
     </item>
     
   </channel>

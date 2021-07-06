@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stencils on Konigi</title>
+    <title>stencils on Konigi</title>
     <link>http://konigi.com/tags/stencils/</link>
-    <description>Recent content in Stencils on Konigi</description>
+    <description>Recent content in stencils on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/stencils/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/stencils/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -58,7 +57,7 @@ http://www.morford.org/iphoneosdesignstencil/</description>
       <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/iphone-3g-stencil/</guid>
-      <description>This is a new version of Theresa Neil&amp;rsquo;s iPhone stencil for the 3G phone. Includes standard interface components for the iPhone 3G: buttons, fields, map elements, keyboards, and icons.
+      <description>This is a new version of Theresa Neil&#39;s iPhone stencil for the 3G phone. Includes standard interface components for the iPhone 3G: buttons, fields, map elements, keyboards, and icons.
 http://www.graffletopia.com/stencils/495</description>
     </item>
     
@@ -78,7 +77,7 @@ http://unify.eightshapes.com/</description>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/iphone-stencil-kit/</guid>
-      <description>The good folks at Seattle&amp;rsquo;s Design Commission are selling a metal stencil for drawing iPhone UIs and screen elements. Comes with a Zebra pencil and downloadable 3-up iPhone mockup paper.
+      <description>The good folks at Seattle&#39;s Design Commission are selling a metal stencil for drawing iPhone UIs and screen elements. Comes with a Zebra pencil and downloadable 3-up iPhone mockup paper.
 http://www.designcommission.com/shop/iphone-stencil-kit/</description>
     </item>
     
@@ -88,7 +87,7 @@ http://www.designcommission.com/shop/iphone-stencil-kit/</description>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
 http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
     </item>
     
@@ -118,7 +117,7 @@ http://www.smashingmagazine.com/2008/11/26/iphone-psd-vector-kit/</description>
       <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/photoshop-custom-comping-elements/</guid>
-      <description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It&amp;rsquo;s like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description>
+      <description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It&#39;s like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description>
     </item>
     
     <item>

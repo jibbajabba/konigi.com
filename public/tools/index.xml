@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Konigi</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tools/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/8-bit-heart/</guid>
-      <description>Much Need a heart card for your significant other or kid who loves games? I made a heart for you to cut out. Here you go.</description>
+      <description>Need a heart card for your significant other?</description>
     </item>
     
     <item>
@@ -48,7 +47,7 @@ People&#39;s Names, Sorted 10, First Name  Andrew Lincoln Chandler Riggs Danai G
       
       <guid>http://konigi.com/tools/sketchbooks-diy/</guid>
       <description>This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.
-I started making my own sketchbooks and pads a few years ago. At the time there weren&amp;rsquo;t many options for interface sketching and storyboarding.</description>
+I started making my own sketchbooks and pads a few years ago. At the time there weren&#39;t many options for interface sketching and storyboarding.</description>
     </item>
     
     <item>
@@ -68,7 +67,7 @@ Konigi</description>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/unicorn-wireframe-birthday-card/</guid>
-      <description>You never know when you&amp;rsquo;ll need a last minute unicorn birthday card.
+      <description>You never know when you&#39;ll need a last minute unicorn birthday card.
 This postcard-sized wireframe was lovingly crafted in OmniGraffle, and you can download the .graffle file to make your own.
 Love,
 Teh uN1Cr0n5</description>
@@ -110,7 +109,7 @@ Version 0.1 was the preliminary version and is very rough.</description>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&amp;rsquo;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
+      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
  Download Download Version 3.</description>
     </item>
     
@@ -120,7 +119,7 @@ Version 0.1 was the preliminary version and is very rough.</description>
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&amp;rsquo;ll be showing true pixel dimensions.
+      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
  Installation 1.</description>
     </item>
     

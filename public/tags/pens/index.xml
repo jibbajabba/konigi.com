@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pens on Konigi</title>
+    <title>pens on Konigi</title>
     <link>http://konigi.com/tags/pens/</link>
-    <description>Recent content in Pens on Konigi</description>
+    <description>Recent content in pens on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/pens/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/pens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/binderball-mini-binder-built-pen/</guid>
-      <description>Japanese office products are so cool. This is Binderball, invented by Masayuki Takahata for Sun-Star Stationery. It&amp;rsquo;s a mini-binder with built-in pen that you can attach to a notepad. More about the invention on the Scription blog.
+      <description>Japanese office products are so cool. This is Binderball, invented by Masayuki Takahata for Sun-Star Stationery. It&#39;s a mini-binder with built-in pen that you can attach to a notepad. More about the invention on the Scription blog.
 http://www.sun-star-st.jp/private_brand/binderball.html</description>
     </item>
     

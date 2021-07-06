@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Information Graphics on Konigi</title>
+    <title>information graphics on Konigi</title>
     <link>http://konigi.com/tags/information-graphics/</link>
-    <description>Recent content in Information Graphics on Konigi</description>
+    <description>Recent content in information graphics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/information-graphics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/information-graphics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/visualizingorg/</guid>
-      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:
+      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:
 It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
     </item>
     
@@ -46,7 +45,7 @@ The categories - such as retail, social networks, search/portal - were defined b
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/save-kittens/</guid>
-      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten&amp;hellip; and David Byrne does a happy dance.
+      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten... and David Byrne does a happy dance.
 I love how the cats run off the side of the canvas. Oh, and how no one in that meeting is paying attention... Awesome.
 http://markandrewgoetz.com/blog/wp-content/uploads/2009/11/tufte-wallpaper.png</description>
     </item>
@@ -67,7 +66,7 @@ http://www.viget.com/inspire/infographics-galore/</description>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/federal-it-dashboard/</guid>
-      <description>This is a new dashboard that tracks the U.S. Government&amp;rsquo;s reported spending on technology.
+      <description>This is a new dashboard that tracks the U.S. Government&#39;s reported spending on technology.
 http://it.usaspending.gov/</description>
     </item>
     
@@ -98,7 +97,7 @@ We create concept maps, a type of model, to explore and learn about complex info
       <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/feltron-2008-annual-report/</guid>
-      <description>Nick Felton&amp;rsquo;s annual report continues to take mundane data and meticulously render superb stastical diagrams and information graphics. If every corporate Power Point chart looked this good, fewer people would be bored out of their skulls in meetings.
+      <description>Nick Felton&#39;s annual report continues to take mundane data and meticulously render superb stastical diagrams and information graphics. If every corporate Power Point chart looked this good, fewer people would be bored out of their skulls in meetings.
 http://feltron.com/index.php?/content/2008_annual_report/</description>
     </item>
     
@@ -108,7 +107,7 @@ http://feltron.com/index.php?/content/2008_annual_report/</description>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/browser-wars/</guid>
-      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.
+      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &#34;Napoleon&#39;s March&#34; graphic in Tufte&#39;s book.
 http://www.pixellabs.com/images/browserwars.png</description>
     </item>
     

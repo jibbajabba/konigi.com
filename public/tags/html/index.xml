@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on Konigi</title>
+    <title>html on Konigi</title>
     <link>http://konigi.com/tags/html/</link>
-    <description>Recent content in Html on Konigi</description>
+    <description>Recent content in html on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -92,6 +91,16 @@ I was playing around with static html tools for a little side project I&#39;ve b
     </item>
     
     <item>
+      <title>jKit: jQuery based UI Toolkit</title>
+      <link>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</guid>
+      <description>jKit is a cross platform, jQuery based UI toolkit, that&#39;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.
+http://jquery-jkit.com/</description>
+    </item>
+    
+    <item>
       <title>One div: Pure CSS icons</title>
       <link>http://konigi.com/links/one-div-pure-css-icons/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
@@ -99,16 +108,6 @@ I was playing around with static html tools for a little side project I&#39;ve b
       <guid>http://konigi.com/links/one-div-pure-css-icons/</guid>
       <description>One Div is a library of icons that are realised in pure css with only one html div as an alternative to SVG. Icons allow precise borders even when resized—same as one would expect with vector icons.
 http://one-div.com/</description>
-    </item>
-    
-    <item>
-      <title>jKit: jQuery based UI Toolkit</title>
-      <link>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/jkit-jquery-based-ui-toolkit/</guid>
-      <description>jKit is a cross platform, jQuery based UI toolkit, that&amp;rsquo;s small in size and is simple enough for non-programmers to use. There is a technique using a special attribute that even allows you to inject behaviors without writing javascript. It has commonly used design patterns, and nice techniques for content templating and binding to cover the basics of UI prototypes.
-http://jquery-jkit.com/</description>
     </item>
     
     <item>
@@ -159,197 +158,6 @@ http://cjdsie.github.com/wirefy/</description>
       <guid>http://konigi.com/links/responsive-design-bookmarklet/</guid>
       <description>Victor Coulon&#39;s Responsive Design Bookmarklet is a simple browser-based tool for testing your web layout in desktop, tablet and mobile phone dimensions. Save the bookmarklet, go to the page you want to test, then select the bookmarklet. It puts your page in a frame at the dimensions you want to test. Found via Takashi Sakamoto
 http://responsive.victorcoulon.fr/</description>
-    </item>
-    
-    <item>
-      <title>Bootstrap, from Twitter</title>
-      <link>http://konigi.com/links/bootstrap-twitter/</link>
-      <pubDate>Mon, 13 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/bootstrap-twitter/</guid>
-      <description>Bootstrap is a free, simple, and flexible HTML, CSS (Less Framework), and Javascript (jQuery) for popular user interface components and interactions created by the devs at Twitter.
-http://twitter.github.com/bootstrap/</description>
-    </item>
-    
-    <item>
-      <title>MiniAjax: Rich UI Showcase</title>
-      <link>http://konigi.com/blog/miniajax-rich-ui-showcase/</link>
-      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/miniajax-rich-ui-showcase/</guid>
-      <description>MiniAjax is a nice showcase of javascript libraries for rich interaction behaviors.
-http://miniajax.com/</description>
-    </item>
-    
-    <item>
-      <title>HTML5 Boilerplate: A rock-solid default for HTML5</title>
-      <link>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</link>
-      <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
-      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
-HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
-    </item>
-    
-    <item>
-      <title>quplo: HTML Prototyping</title>
-      <link>http://konigi.com/links/quplo-html-prototyping/</link>
-      <pubDate>Thu, 22 Jul 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/quplo-html-prototyping/</guid>
-      <description>Quplo may be the most promising HTML prototyping tools I&amp;rsquo;ve seen for UX designers who know a little HTML and would like to do HTML prototyping, but either don&amp;rsquo;t have the chops to build the interaction by hand, or are lazy like me.
-The web-based tool allows you to build multiple prototypes using a combination of standard HTML/CSS. If you can do JS, the standard JS libraries are available to include in your pages (or sheets in Quplo lingo).</description>
-    </item>
-    
-    <item>
-      <title>Sencha Touch HTML5 Mobile App Framework</title>
-      <link>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</link>
-      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/sencha-touch-html5-mobile-app-framework/</guid>
-      <description>Sencha Touch looks like an excellent toolkit for delivering HTML 5/CSS 3 mobile experiences. Check out these demos your mobile device to give it a test run: GeoCongress (makes use of geolocation), Solitaire (drag and drop and flip animations), Kiva (provides iPad popover controls).
-Sencha Touch allows you to develop web apps that look and feel native on Apple iOS and Google Android touchscreen devices. It&#39;s built specifically to leverage HTML5, CSS3, and Javascript and makes use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline.</description>
-    </item>
-    
-    <item>
-      <title>WTF is HTML5 (Infographic)</title>
-      <link>http://konigi.com/blog/wtf-html5-infographic/</link>
-      <pubDate>Thu, 17 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wtf-html5-infographic/</guid>
-      <description>I found this graph explaining HTML 5 features via @obxdesignworks. Succinctly describes the major features enabled by HTML 5 that you need to be aware of: Canvas and video elements, offline storage and geolocation. The graph below shows a snapshot of current support and intent to support in web browsers. Shows that IE is well behind the field in terms of readiness as we speak, but IE 9 intends to support.</description>
-    </item>
-    
-    <item>
-      <title>Google Chrome Extensions for web developers </title>
-      <link>http://konigi.com/links/google-chrome-extensions-web-developers/</link>
-      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/google-chrome-extensions-web-developers/</guid>
-      <description>Google Chrome’s developer extensions are useful in-browser web development tools for such things as testing pages on various screen resolutions, analyzing app performance, working with HTML, CSS, JS, generating lorem ipsum greeking, and more.
-https://chrome.google.com/extensions/featured/web_dev</description>
-    </item>
-    
-    <item>
-      <title>Quick Grid Overlay with CSS and JQuery</title>
-      <link>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</link>
-      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/quick-grid-overlay-css-and-jquery/</guid>
-      <description>Griddy is a simple JQuery plugin that overlays a customizable grid over any element.
-http://devgrow.com/griddy/</description>
-    </item>
-    
-    <item>
-      <title>When can I use... HTML5, CSS3, etc.</title>
-      <link>http://konigi.com/links/when-can-i-use-html5-css3-etc/</link>
-      <pubDate>Fri, 30 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/when-can-i-use-html5-css3-etc/</guid>
-      <description>Can I Use provides compatibility tables for features in HTML5, CSS3, SVG and other upcoming web technologies.
-http://caniuse.com/</description>
-    </item>
-    
-    <item>
-      <title>Design, the web, and craft</title>
-      <link>http://konigi.com/blog/design-web-and-craft/</link>
-      <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-web-and-craft/</guid>
-      <description>I&#39;m a little late on getting to this one, but wanted to post before I forgot because it is a great topic for early and mid-career web designers. Matt (emenel) reacted to Mark Boulton&#39;s thoughts about whether or not designers needed to know html.
-Matt summarizes what he believes:
-As a designer there is a continuum you travel over the course of your career. It starts with making - crafting objects in your selected medium - and progresses through a point where you internalize your craft and can design without making.</description>
-    </item>
-    
-    <item>
-      <title>HTML-Ipsum</title>
-      <link>http://konigi.com/links/html-ipsum/</link>
-      <pubDate>Fri, 05 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/html-ipsum/</guid>
-      <description>HTML Ipsum gives you HTML versions of lorem ipsum, with markup for stuff like lists and forms.
-http://html-ipsum.com/</description>
-    </item>
-    
-    <item>
-      <title>SublimeVideo HTML 5 Video Player</title>
-      <link>http://konigi.com/links/sublimevideo-html-5-video-player/</link>
-      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/sublimevideo-html-5-video-player/</guid>
-      <description>SublimeVideo is an HTML5 video player with full screen play and scrubbing controls. Because it&amp;rsquo;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.
-Via @dandean
-http://jilion.com/sublime/video</description>
-    </item>
-    
-    <item>
-      <title>Brosho - Design CSS in the browser</title>
-      <link>http://konigi.com/links/brosho-design-css-browser/</link>
-      <pubDate>Mon, 25 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/brosho-design-css-browser/</guid>
-      <description>This plugin allows you to reduce the amount of time spent switching between browser windows. With this jquery plugin included on a page, you&amp;rsquo;ll be able to select individual elements and write css code for it right in your browser. Changes are updated on the fly, so you can see your style changes as you write them.
-The CSS generated by your edits can then be generated and copy-pasted into your stylesheet file for minor edits.</description>
-    </item>
-    
-    <item>
-      <title>Drawter: DrawAble Markup Language</title>
-      <link>http://konigi.com/blog/drawter-drawable-markup-language/</link>
-      <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
-      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
-Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website&#39;s code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div&#39;s style properties within floating inspectors.</description>
-    </item>
-    
-    <item>
-      <title>Text Rotation with CSS</title>
-      <link>http://konigi.com/blog/text-rotation-css/</link>
-      <pubDate>Fri, 07 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/text-rotation-css/</guid>
-      <description>Jonathan Snook shows a CSS technique for text rotation, which is supported in Webkit browsers, Firefox 3.5+, and IE 5.5+. Should be useful for ideas the little rotated year displays in the demo, but for me this would also be incredibly useful in dense angled headings for tables.
-http://snook.ca/archives/html_and_css/css-text-rotation</description>
-    </item>
-    
-    <item>
-      <title>Modernizr: Use CSS3 and HTML5 Now</title>
-      <link>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</link>
-      <pubDate>Thu, 02 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/modernizr-use-css3-and-html5-now/</guid>
-      <description>Modernizr is a JavaScript library that essentially allows you to use conditionals (if-statements) in your CSS for the availability of CSS3 and HTML5, while still maintaining a fine level of control over older browsers that may not yet support these new technologies.
-http://www.modernizr.com/</description>
-    </item>
-    
-    <item>
-      <title>Navigation Markup After Content</title>
-      <link>http://konigi.com/blog/navigation-markup-after-content/</link>
-      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/navigation-markup-after-content/</guid>
-      <description>CSS tips offers an SEO tip for putting navigation after content and repositioning back to top by absolutely positioning the navigation block absolutely inside a relative block.
-http://css-tricks.com/navigation-markup-after-content/</description>
-    </item>
-    
-    <item>
-      <title>Firefox 3.1 Alpha Video Demo</title>
-      <link>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</link>
-      <pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</guid>
-      <description>Ars Technica reports on the 3.1 Alpha of Firefox, which includes support for the HTML 5 Video element which provides some functionality to developers that is not possible with Flash. Video can be interspersed with other web content, playback can be manipulated with JavaScript, and video elements can be directly accessed through the document object model.
-Bluish Coder demonstrates the Video tag in SVG to implement a Silverlight style demo in Firefox 3.</description>
-    </item>
-    
-    <item>
-      <title>Xtnd Dreamweaver Extensions for HTML Prototyping</title>
-      <link>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</link>
-      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/xtnd-dreamweaver-extensions-html-prototyping/</guid>
-      <description>xtnd urslf provides extensions for Adobe products. Currently they offer components for Jquery, Prototype, and MooTools. This should be helpful for people who do HTML prototypes in Dreamweaver and need to demonstrate interactive functionalities such as animation, transitions, and AJAX.
-http://xtnd.us/</description>
     </item>
     
   </channel>

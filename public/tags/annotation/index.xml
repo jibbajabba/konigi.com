@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Annotation on Konigi</title>
+    <title>annotation on Konigi</title>
     <link>http://konigi.com/tags/annotation/</link>
-    <description>Recent content in Annotation on Konigi</description>
+    <description>Recent content in annotation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Aug 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/annotation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/annotation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@
       <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touch-notation/</guid>
-      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&amp;rsquo;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
+      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&#39;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
 The Touch Notation page provides PSD, AI, and OmniGraffle templates. I&#39;ve additionally created a Balsamiq Mockups version of the system on Mockups To Go.</description>
     </item>
     

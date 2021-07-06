@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pop Culture on Konigi</title>
+    <title>pop culture on Konigi</title>
     <link>http://konigi.com/tags/pop-culture/</link>
-    <description>Recent content in Pop Culture on Konigi</description>
+    <description>Recent content in pop culture on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/pop-culture/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/pop-culture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/merry-newsinator/</guid>
-      <description>So this year my company plaid decided to create a tool to help people save time around the holidays. It&amp;rsquo;s called the Merry Newsinator and it generates a customized personal newsletter in about 3 minutes. Anyways hope you like it and would love to see you post it. I have included one we did for santa claus below! Happy Holidays!
+      <description>So this year my company plaid decided to create a tool to help people save time around the holidays. It&#39;s called the Merry Newsinator and it generates a customized personal newsletter in about 3 minutes. Anyways hope you like it and would love to see you post it. I have included one we did for santa claus below! Happy Holidays!
 http://merrynewsinator.com/2lc</description>
     </item>
     

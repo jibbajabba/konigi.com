@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hacks on Konigi</title>
+    <title>hacks on Konigi</title>
     <link>http://konigi.com/tags/hacks/</link>
-    <description>Recent content in Hacks on Konigi</description>
+    <description>Recent content in hacks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Nov 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/hacks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</guid>
-      <description>The iClooly is the pen I&amp;rsquo;ve been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I&amp;rsquo;m making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn&amp;rsquo;t merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
+      <description>The iClooly is the pen I&#39;ve been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I&#39;m making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn&#39;t merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
 Verbose version: Remove the clicky end and the spring inside, making sure the brush is pressed down and the bristles exposed.</description>
     </item>
     
@@ -27,7 +26,7 @@ Verbose version: Remove the clicky end and the spring inside, making sure the br
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</guid>
-      <description>I blogged about what I thought could possibly make a better stylus recently and thought I&amp;rsquo;d sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description>
+      <description>I blogged about what I thought could possibly make a better stylus recently and thought I&#39;d sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description>
     </item>
     
     <item>

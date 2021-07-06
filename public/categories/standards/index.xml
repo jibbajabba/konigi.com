@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>standards on Konigi</title>
+    <link>http://konigi.com/categories/standards/</link>
+    <description>Recent content in standards on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2020 15:00:37 -0700</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/categories/standards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open UI</title>
+      <link>http://konigi.com/links/open-ui/</link>
+      <pubDate>Thu, 16 Apr 2020 15:00:37 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/open-ui/</guid>
+      <description>Community project to standardize naming of UI components.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Micromessaging on Konigi</title>
+    <title>micromessaging on Konigi</title>
     <link>http://konigi.com/tags/micromessaging/</link>
-    <description>Recent content in Micromessaging on Konigi</description>
+    <description>Recent content in micromessaging on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/micromessaging/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/micromessaging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
-      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:</description>
+      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&#39;s Growl alerting app as the starting point:</description>
     </item>
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Sun, 14 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/shorty-awards/</guid>
-      <description>An award to celebrate short form public messaging, and honor the world&amp;rsquo;s top Twitterers.
+      <description>An award to celebrate short form public messaging, and honor the world&#39;s top Twitterers.
 http://shortyawards.com/</description>
     </item>
     
@@ -36,7 +35,7 @@ http://shortyawards.com/</description>
       <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</guid>
-      <description>I very rarely will say anything about a site if the only opinion I have is negative. Twingr looked like an interesting idea. The service let&amp;rsquo;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&amp;rsquo;t say that I know what the experience is like because I couldn&amp;rsquo;t get past the front door, so I walked away possibly never to return.</description>
+      <description>I very rarely will say anything about a site if the only opinion I have is negative. Twingr looked like an interesting idea. The service let&#39;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&#39;t say that I know what the experience is like because I couldn&#39;t get past the front door, so I walked away possibly never to return.</description>
     </item>
     
     <item>
@@ -45,7 +44,7 @@ http://shortyawards.com/</description>
       <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
-      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
+      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&#39;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
     </item>
     
     <item>
@@ -54,7 +53,7 @@ http://shortyawards.com/</description>
       <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/favrd/</guid>
-      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &amp;lsquo;favorite. Here&amp;rsquo;s the raison d&amp;rsquo;etre:
+      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &#39;favorite. Here&#39;s the raison d&#39;etre:
 It works on three principles: first, that anyone who wants to can have their vote counted; second, that things people find interesting are more important than people who find things interesting; and third, that by any means necessary, web-strategy, social-media, online-marketing webcocks – unaware as they are of how toxic their presence is in the arenas they cannot shut up about – must and shall be filtered out of view.</description>
     </item>
     

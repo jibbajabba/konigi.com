@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations on Konigi</title>
+    <title>presentations on Konigi</title>
     <link>http://konigi.com/tags/presentations/</link>
-    <description>Recent content in Presentations on Konigi</description>
+    <description>Recent content in presentations on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</guid>
-      <description>The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&amp;rsquo;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic. 
-http://vimeo.com/81544164</description>
+      <description>The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&#39;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic.  http://vimeo.com/81544164</description>
     </item>
     
     <item>
@@ -59,7 +57,7 @@ http://vimeo.com/81544164</description>
       <description>If you&#39;re curious about Keynote prototyping, Travis Isaacs&#39; describes how he works with the presentation software to produce click-through prototypes. As Travis notes, it&#39;s even useful to people who like to go between a low-fidelity wireframe created in another application to interactive demonstrations.
 Keynote Kung-Fu: How to wireframe like a ninja
   You can purchase Travis&#39; Keynote Wireframe Toolkit here on Konigi.
-http://konigi.com/store/product/keynote-wireframe-toolkit</description>
+//konigi.com/store/product/keynote-wireframe-toolkit</description>
     </item>
     
     <item>
@@ -69,7 +67,7 @@ http://konigi.com/store/product/keynote-wireframe-toolkit</description>
       
       <guid>http://konigi.com/blog/kathy-sierra-creating-awesome-users/</guid>
       <description>The model for sustaining customer loyalty is reverse engineering user awesomeness.
-Peldi pointed me to a video of Kathy Sierra&amp;rsquo;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&amp;rsquo;s about user benefits, and not features&amp;ndash;about how they feel about themselves in the context of what you provide them.</description>
+Peldi pointed me to a video of Kathy Sierra&#39;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&#39;s about user benefits, and not features--about how they feel about themselves in the context of what you provide them.</description>
     </item>
     
     <item>
@@ -78,7 +76,7 @@ Peldi pointed me to a video of Kathy Sierra&amp;rsquo;s presentation at Business
       <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ten-commandments-user-experience/</guid>
-      <description>View more presentations from Nick Finck.   Nick Finck and Raina Van Cleave&amp;rsquo;s presentation slides from the SXSWi talk are up. Here&amp;rsquo;s a summary:
+      <description>View more presentations from Nick Finck.   Nick Finck and Raina Van Cleave&#39;s presentation slides from the SXSWi talk are up. Here&#39;s a summary:
 User experiences are your everyday experiences—anything from operating a car, to making a pot of coffee, to ordering a pair of shoes online. User experience is the result of your interactions with a product or service, specifically how it’s delivered and its related artifacts according to the design.</description>
     </item>
     
@@ -88,11 +86,12 @@ User experiences are your everyday experiences—anything from operating a car, 
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid>
-      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&amp;rsquo; approaches. The right way? There isn&amp;rsquo;t one right way. That&amp;rsquo;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
+      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&#39; approaches. The right way? There isn&#39;t one right way. That&#39;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
    Todd Zaki Warfel
 
  Russ Unger
- Fred Beecher</description>
+ Fred Beecher
+ </description>
     </item>
     
     <item>
@@ -111,8 +110,8 @@ http://www.smashingmagazine.com/2010/01/05/25-user-experience-videos-that-are-wo
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
-      <description>This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
-Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &amp;ldquo;the sicker, the better.&amp;rdquo; Digging into the 86 notebooks he&amp;rsquo;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
+      <description>This is fantastic presentation from Pentagram&#39;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
+Renowned graphic designer Michael Bierut claims that he&#39;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &#34;the sicker, the better.&#34; Digging into the 86 notebooks he&#39;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
     </item>
     
     <item>
@@ -130,7 +129,7 @@ Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative
       <pubDate>Tue, 25 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/slidesix-multimedia-presentation-sharing/</guid>
-      <description>SlideSix is a presentation sharing service that let&amp;rsquo;s you upload presentations (PowerPoint, OpenOffice, PDF) with recorded narration or video imported from the web, e.g. from YouTube. Presentation pages provide social features (comments and chat), embedding info, and rating.
+      <description>SlideSix is a presentation sharing service that let&#39;s you upload presentations (PowerPoint, OpenOffice, PDF) with recorded narration or video imported from the web, e.g. from YouTube. Presentation pages provide social features (comments and chat), embedding info, and rating.
 http://slidesix.com/</description>
     </item>
     
@@ -140,7 +139,7 @@ http://slidesix.com/</description>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/redub-designs-better-online-magazine/</guid>
-      <description>I came across Redub&amp;rsquo;s &amp;ldquo;Don&amp;rsquo;t Make Me Scroll&amp;rdquo; presentation embedded above, which looks at the current offering of magazine readers which are modeled after print layouts, are difficult to read, SEO-unfriendly, and which rarely use the full capabilities provided by web browsers, e.g. multi-media. Or they&amp;rsquo;re modeled largely after blogs with articles are long and scrolling, are limited by the possibilities of HTML/CSS, and have layouts that aren&amp;rsquo;t differentiated from blogs and which pale in comparison to the layout in the printed version of the original magazine article.</description>
+      <description>I came across Redub&#39;s &#34;Don&#39;t Make Me Scroll&#34; presentation embedded above, which looks at the current offering of magazine readers which are modeled after print layouts, are difficult to read, SEO-unfriendly, and which rarely use the full capabilities provided by web browsers, e.g. multi-media. Or they&#39;re modeled largely after blogs with articles are long and scrolling, are limited by the possibilities of HTML/CSS, and have layouts that aren&#39;t differentiated from blogs and which pale in comparison to the layout in the printed version of the original magazine article.</description>
     </item>
     
     <item>
@@ -149,7 +148,7 @@ http://slidesix.com/</description>
       <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/designing-humanity-your-products/</guid>
-      <description>This is the video of the keynote from Ziba Design&amp;rsquo;s Bill DeRouchey, at the June 2009 conference &amp;ldquo;From Business to Buttons: Designing for Effect&amp;rdquo; in Malmo, Sweden
+      <description>This is the video of the keynote from Ziba Design&#39;s Bill DeRouchey, at the June 2009 conference &#34;From Business to Buttons: Designing for Effect&#34; in Malmo, Sweden
 http://businesstobuttons.com/2009/06/12/keynote-designing-humanity-into-your-products-bill-derouchey-from-ziba-design/</description>
     </item>
     
@@ -159,89 +158,8 @@ http://businesstobuttons.com/2009/06/12/keynote-designing-humanity-into-your-pro
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/oooh-thats-clever-unnatural-experiments-web-design/</guid>
-      <description>Clearleft&amp;rsquo;s Paul Annet talks about simple, clever little tricks that can make web pages pleasing. This is a slideshow with audio. No accompanying video, but if you jump to the end, you&amp;rsquo;ll find links for the videos shown during the talk. More at Paul Annet&amp;rsquo;s site.
+      <description>Clearleft&#39;s Paul Annet talks about simple, clever little tricks that can make web pages pleasing. This is a slideshow with audio. No accompanying video, but if you jump to the end, you&#39;ll find links for the videos shown during the talk. More at Paul Annet&#39;s site.
 http://www.slideshare.net/nicepaul/oooh-thats-clever-unnatural-experiments-in-web-design</description>
-    </item>
-    
-    <item>
-      <title>Jason Santa Maria: The Influence of Print Design</title>
-      <link>http://konigi.com/blog/jason-santa-maria-influence-print-design/</link>
-      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/jason-santa-maria-influence-print-design/</guid>
-      <description>SVA Dot Dot Dot Lectures: Jason Santa Maria from MFA Interaction Design on Vimeo.
- In SVA&amp;rsquo;s Dot Dot Dot lecture series, Jason Santa Maria talks about the role of print design in influencing design on the web, and how visual designers might bring the same level of attention to designing online content with the same rigor and attention to visual meaning.
-http://vimeo.com/4394152</description>
-    </item>
-    
-    <item>
-      <title>Wireframes for the Wicked Slides</title>
-      <link>http://konigi.com/blog/wireframes-wicked-slides/</link>
-      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wireframes-wicked-slides/</guid>
-      <description>Wireframes for the Wicked  Slides from the SXSWi presentation with Nick Finck, Donna Spencer, and myself. The slides cover our introductory overview of wireframes, which led to our 1&amp;frasl;2 hour discussion panel afterwards. http://www.slideshare.net/nickf/wireframes-for-the-wicked</description>
-    </item>
-    
-    <item>
-      <title>Communicating Concepts</title>
-      <link>http://konigi.com/blog/communicating-concepts/</link>
-      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/communicating-concepts/</guid>
-      <description>Victor writes about some of the less obvious points when it comes to presenting and communicating concept designs.
-When I see concepts that are received well, the concept itself can usually only take a portion of the credit. Just as important is how the concept is communicated. Some of this is common knowledge: make it look good, choose the right level of fidelity, show it in context. Others are maybe not so obvious…</description>
-    </item>
-    
-    <item>
-      <title>Prezi: The zooming presentation editor</title>
-      <link>http://konigi.com/blog/prezi-zooming-presentation-editor/</link>
-      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/prezi-zooming-presentation-editor/</guid>
-      <description>Prezi is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &amp;ldquo;slides&amp;rdquo; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.</description>
-    </item>
-    
-    <item>
-      <title>Tap is the New Click</title>
-      <link>http://konigi.com/blog/tap-new-click/</link>
-      <pubDate>Mon, 02 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/tap-new-click/</guid>
-      <description>NYC IxDA - Tap is the New Click - Dan Saffer from Interaction Design Association on Vimeo. Dan Saffer gave a fantastic NYC IXDA presentation, Tap Is the New Click, discussing the rise of touch interfaces, their place and adoption in society, and the role of the interaction designer in designing these direct manipulation interfaces. Every IA and IXD needs to watch this. A summary of the talk below:
-Even though the technology has been around for decades, only now are we starting to see mass production and adoption of touchscreen and gestural devices for the public.</description>
-    </item>
-    
-    <item>
-      <title>Why Business Models Matter</title>
-      <link>http://konigi.com/blog/why-business-models-matter/</link>
-      <pubDate>Fri, 08 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/why-business-models-matter/</guid>
-      <description>Alex Osterwalder put together a breezy, easy to read deck on why business models matter.
-Business Model Innovation Matters
-View SlideShare presentation (tags: osterwalder alex alexander telco)   Hat tip to Victor for the link.
-http://business-model-design.blogspot.com/2008/08/slideshare-contest-why-business-models.html</description>
-    </item>
-    
-    <item>
-      <title>280 Slides - Create &amp; Share Presentations Online</title>
-      <link>http://konigi.com/blog/280-slides-create-share-presentations-online/</link>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/280-slides-create-share-presentations-online/</guid>
-      <description>280 Slides is a service that lets you create presentations online in a Keynote-like interface, and then share them, download them to PowerPoint, and present them online.
-http://280slides.com/</description>
-    </item>
-    
-    <item>
-      <title>Icon Design Explained (Quickly)</title>
-      <link>http://konigi.com/blog/icon-design-explained-quickly/</link>
-      <pubDate>Tue, 17 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/icon-design-explained-quickly/</guid>
-      <description>Jon Hicks describes his guidelines and workflow when creating icons.
-http://www.hicksdesign.co.uk/journal/icon-design-explained-quickly</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keynote on Konigi</title>
+    <title>keynote on Konigi</title>
     <link>http://konigi.com/tags/keynote/</link>
-    <description>Recent content in Keynote on Konigi</description>
+    <description>Recent content in keynote on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Aug 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,7 +19,7 @@
       <description>If you&#39;re curious about Keynote prototyping, Travis Isaacs&#39; describes how he works with the presentation software to produce click-through prototypes. As Travis notes, it&#39;s even useful to people who like to go between a low-fidelity wireframe created in another application to interactive demonstrations.
 Keynote Kung-Fu: How to wireframe like a ninja
   You can purchase Travis&#39; Keynote Wireframe Toolkit here on Konigi.
-http://konigi.com/store/product/keynote-wireframe-toolkit</description>
+//konigi.com/store/product/keynote-wireframe-toolkit</description>
     </item>
     
   </channel>

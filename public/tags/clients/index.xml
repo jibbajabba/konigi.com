@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clients on Konigi</title>
+    <title>clients on Konigi</title>
     <link>http://konigi.com/tags/clients/</link>
-    <description>Recent content in Clients on Konigi</description>
+    <description>Recent content in clients on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Dec 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/clients/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/clients/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

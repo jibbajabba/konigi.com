@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gestures on Konigi</title>
+    <title>gestures on Konigi</title>
     <link>http://konigi.com/tags/gestures/</link>
-    <description>Recent content in Gestures on Konigi</description>
+    <description>Recent content in gestures on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/gestures/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/gestures/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/precomposed-touch-gestures/</guid>
-      <description>Aureus Wade&amp;rsquo;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.
+      <description>Aureus Wade&#39;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&#39;ll work in your video editor, and Photoshop.
 http://areuswade.com/precomposed-touch-gestures/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://areuswade.com/precomposed-touch-gestures/</description>
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/open-source-multitouch-gesture-library-and-illustrations/</guid>
-      <description>GestureWorks, a multitouch framework for Flash, have published their our free gesture icon set, available to use and reuse under a CC license. You can download vector and raster versions, as well as a poster with all 200+ icons. They&amp;rsquo;re also available on flickr as part of their educational project, Open Exhibits.
+      <description>GestureWorks, a multitouch framework for Flash, have published their our free gesture icon set, available to use and reuse under a CC license. You can download vector and raster versions, as well as a poster with all 200+ icons. They&#39;re also available on flickr as part of their educational project, Open Exhibits.
 http://gestureworks.com/features/open-source-gestures/</description>
     </item>
     
@@ -37,7 +36,7 @@ http://gestureworks.com/features/open-source-gestures/</description>
       <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touch-notation/</guid>
-      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&amp;rsquo;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
+      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&#39;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
 The Touch Notation page provides PSD, AI, and OmniGraffle templates. I&#39;ve additionally created a Balsamiq Mockups version of the system on Mockups To Go.</description>
     </item>
     

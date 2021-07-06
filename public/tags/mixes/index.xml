@@ -1,15 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mixes on Konigi</title>
+    <title>mixes on Konigi</title>
     <link>http://konigi.com/tags/mixes/</link>
-    <description>Recent content in Mixes on Konigi</description>
+    <description>Recent content in mixes on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 16:57:27 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/mixes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/mixes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mix 2021:002</title>
+      <link>http://konigi.com/music/2021-002/</link>
+      <pubDate>Sun, 11 Apr 2021 16:57:27 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2021-002/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title>Mix 2021:001</title>
+      <link>http://konigi.com/music/2021-001/</link>
+      <pubDate>Mon, 01 Mar 2021 10:05:54 -0800</pubDate>
+      
+      <guid>http://konigi.com/music/2021-001/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:008</title>
+      <link>http://konigi.com/music/2020-008/</link>
+      <pubDate>Wed, 05 Aug 2020 08:19:27 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-008/</guid>
+      <description>    </description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:007</title>
+      <link>http://konigi.com/music/2020-007/</link>
+      <pubDate>Sat, 25 Jul 2020 11:24:51 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-007/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:006</title>
+      <link>http://konigi.com/music/2020-006/</link>
+      <pubDate>Sun, 24 May 2020 14:19:19 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-006/</guid>
+      <description>Mixcloud livestream session recorded on 2020-05-24.</description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:004</title>
+      <link>http://konigi.com/music/2020-004/</link>
+      <pubDate>Thu, 07 May 2020 09:31:28 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-004/</guid>
+      <description>Recorded livestream session.</description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:003</title>
+      <link>http://konigi.com/music/2020-003/</link>
+      <pubDate>Tue, 05 May 2020 06:53:33 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-003/</guid>
+      <description>Leftfield Bass bedroom session.</description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:002</title>
+      <link>http://konigi.com/music/2020-002/</link>
+      <pubDate>Sun, 03 May 2020 17:12:57 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-002/</guid>
+      <description>2020:002 - Barnyard Beats Bedroom Session</description>
+    </item>
+    
+    <item>
+      <title>Mix 2020:001 - Virtual Disco Docks</title>
+      <link>http://konigi.com/music/2020-001/</link>
+      <pubDate>Sun, 03 May 2020 17:10:28 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2020-001/</guid>
+      <description>2020:001 - Virtual Disco Docks</description>
+    </item>
+    
+    <item>
+      <title>Mix 2019:006 - Firehouse</title>
+      <link>http://konigi.com/music/2019-006/</link>
+      <pubDate>Mon, 16 Sep 2019 15:12:23 -0700</pubDate>
+      
+      <guid>http://konigi.com/music/2019-006/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>Mix 2019:005 - 19 Broadway</title>
@@ -53,132 +142,6 @@
       <pubDate>Fri, 04 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>http://konigi.com/music/2019-001/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:014</title>
-      <link>http://konigi.com/music/2018-014/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/music/2018-014/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:013</title>
-      <link>http://konigi.com/music/2018-013/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/music/2018-013/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:012</title>
-      <link>http://konigi.com/music/2018-012/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-012/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:011</title>
-      <link>http://konigi.com/music/2018-011/</link>
-      <pubDate>Thu, 11 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-011/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:010</title>
-      <link>http://konigi.com/music/2018-010/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-010/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:009</title>
-      <link>http://konigi.com/music/2018-009/</link>
-      <pubDate>Thu, 04 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-009/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:008</title>
-      <link>http://konigi.com/music/2018-008/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-008/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:007</title>
-      <link>http://konigi.com/music/2018-007/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-007/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:006</title>
-      <link>http://konigi.com/music/2018-006/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-006/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:005</title>
-      <link>http://konigi.com/music/2018-005/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-005/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:004</title>
-      <link>http://konigi.com/music/2018-004/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-004/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:003</title>
-      <link>http://konigi.com/music/2018-003/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-003/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:002</title>
-      <link>http://konigi.com/music/2018-002/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-002/</guid>
-      <description>  </description>
-    </item>
-    
-    <item>
-      <title>Mix 2018:001</title>
-      <link>http://konigi.com/music/2018-001/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://konigi.com/music/2018-001/</guid>
       <description>  </description>
     </item>
     

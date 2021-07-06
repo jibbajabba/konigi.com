@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Passwords on Konigi</title>
+    <title>passwords on Konigi</title>
     <link>http://konigi.com/tags/passwords/</link>
-    <description>Recent content in Passwords on Konigi</description>
+    <description>Recent content in passwords on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/passwords/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/passwords/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ If you&#39;re interested in this topic, you might also want to check out Chris D
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/experiments-password-masking/</guid>
-      <description>Jakob Nielsen recently called for an end to password masking, and a few people have come up with interesting approaches that try to find a middle ground between the typical prractice of masking passwords with asterisks. arc90 are experimenting with a half-masking technique. The method partially obscures the password by placing a few blurred characters in the background so that the characters are not easily read by someone looking over the user&amp;rsquo;s shoulder.</description>
+      <description>Jakob Nielsen recently called for an end to password masking, and a few people have come up with interesting approaches that try to find a middle ground between the typical prractice of masking passwords with asterisks. arc90 are experimenting with a half-masking technique. The method partially obscures the password by placing a few blurred characters in the background so that the characters are not easily read by someone looking over the user&#39;s shoulder.</description>
     </item>
     
   </channel>

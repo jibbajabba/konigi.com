@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Sites on Konigi</title>
+    <title>book sites on Konigi</title>
     <link>http://konigi.com/tags/book-sites/</link>
-    <description>Recent content in Book Sites on Konigi</description>
+    <description>Recent content in book sites on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/book-sites/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/book-sites/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/handcrafted-css/</guid>
-      <description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte&amp;rsquo;s &amp;ldquo;HANDCRAFTED CSS.&amp;rdquo;
+      <description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte&#39;s &#34;HANDCRAFTED CSS.&#34;
 http://handcraftedcss.com/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://handcraftedcss.com/</description>
       <pubDate>Mon, 26 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/five-simple-steps/</guid>
-      <description>Lovely single page design for Mark Boulton&amp;rsquo;s upcoming eBook.
+      <description>Lovely single page design for Mark Boulton&#39;s upcoming eBook.
 http://www.fivesimplesteps.co.uk/</description>
     </item>
     
@@ -37,7 +36,7 @@ http://www.fivesimplesteps.co.uk/</description>
       <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/back-napkin/</guid>
-      <description>I can&amp;rsquo;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&amp;rsquo;t need to be good at drawing to do it.</description>
+      <description>I can&#39;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&#39;t need to be good at drawing to do it.</description>
     </item>
     
   </channel>

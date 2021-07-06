@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simple on Konigi</title>
+    <title>simple on Konigi</title>
     <link>http://konigi.com/tags/simple/</link>
-    <description>Recent content in Simple on Konigi</description>
+    <description>Recent content in simple on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Aug 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/simple/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/simple/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 20 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/love-creative-manchester/</guid>
-      <description>&amp;ldquo;Created In Powerpoint&amp;rdquo; they say. This very simple, witty flash site for the agency Love Creative deserves to be here for its witty, big buttoned, black and white interface alone. http://www.lovecreative.com/</description>
+      <description>&#34;Created In Powerpoint&#34; they say. This very simple, witty flash site for the agency Love Creative deserves to be here for its witty, big buttoned, black and white interface alone. http://www.lovecreative.com/</description>
     </item>
     
   </channel>

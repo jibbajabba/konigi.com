@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Note Taking on Konigi</title>
+    <title>note taking on Konigi</title>
     <link>http://konigi.com/tags/note-taking/</link>
-    <description>Recent content in Note Taking on Konigi</description>
+    <description>Recent content in note taking on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/note-taking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/note-taking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/cohdoo-highlight-voice-recording-iphone-app/</guid>
-      <description>Cohdoo, the company that makes the iPhone whiteboard magnets that I&amp;rsquo;ve posted about have just released Highlight a nice iPhone app for voice recordings. It&amp;rsquo;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.
+      <description>Cohdoo, the company that makes the iPhone whiteboard magnets that I&#39;ve posted about have just released Highlight a nice iPhone app for voice recordings. It&#39;s aimed at helping user researchers record interviews, and is just as useful for recording meetings and conference talks.
 To start new sessions, press the New Recording button, and during the recording you can tap the huge green Mark Highlight button, which I could see being useful for marking new questions during interviews, or marking sections of conference talks.</description>
     </item>
     

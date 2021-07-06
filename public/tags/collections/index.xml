@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collections on Konigi</title>
+    <title>collections on Konigi</title>
     <link>http://konigi.com/tags/collections/</link>
-    <description>Recent content in Collections on Konigi</description>
+    <description>Recent content in collections on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/collections/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/collections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ The collection can be browsed in HTML or via the PivotViewer Silverlight interfa
       <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/50-beautiful-icon-sets/</guid>
-      <description>Noupe rounds up their &amp;ldquo;50 most beautiful icon sets of 2008.&amp;ldquo;.
+      <description>Noupe rounds up their &#34;50 most beautiful icon sets of 2008.&#34;.
 http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</description>
     </item>
     

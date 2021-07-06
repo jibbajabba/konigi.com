@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Menus on Konigi</title>
+    <title>menus on Konigi</title>
     <link>http://konigi.com/tags/menus/</link>
-    <description>Recent content in Menus on Konigi</description>
+    <description>Recent content in menus on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/menus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/interfaces/pinterest-mobile-radial-menus/</guid>
-      <description>Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.
-Screencast / Video http://www.pinterest.com/</description>
+      <description>&lt;p&gt;Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,7 +25,7 @@ Screencast / Video http://www.pinterest.com/</description>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/navigation-patterns-responsive-design/</guid>
-      <description>I like Brad Frost&amp;rsquo;s examples for handling both complex navigation and simple navigation needs on responsive designs.
+      <description>I like Brad Frost&#39;s examples for handling both complex navigation and simple navigation needs on responsive designs.
 Via Leisa IAI Members
 http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/</description>
     </item>
@@ -153,119 +151,6 @@ What&#39;s interesting here is that they provide a row of primary navigation tab
       <guid>http://konigi.com/blog/radial-menu-tests-firefox/</guid>
       <description>Testing of proof of concept prototypes of radial menus. The idea is to get users to try to select the same menu item repeatedly as the radial menu changes from state to state and capture participants feedback on usability of the interface.
 http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/</description>
-    </item>
-    
-    <item>
-      <title>Hulu Channel Drop Down Menu</title>
-      <link>http://konigi.com/interfaces/hulu-channel-drop-down-menu/</link>
-      <pubDate>Mon, 13 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/hulu-channel-drop-down-menu/</guid>
-      <description>Hulu&#39;s drop down menu for channels stretches to the width of the design and provides a multi-column grid of channels. This method of running a drop down or flyout menu left-to-right rather than top-to-bottom allows interface designers to present longer lists of options without worrying about what appears in relation to the fold, and forcing scroll on longer lists.
- http://www.hulu.com/</description>
-    </item>
-    
-    <item>
-      <title>Using the Microsoft Ribbon without anyone getting hurt</title>
-      <link>http://konigi.com/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</link>
-      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/using-microsoft-ribbon-without-anyone-getting-hurt/</guid>
-      <description>In Flow Interactive&amp;rsquo;s blog, Phil Barrett offers advice for those who are considering implementing Microsoft&amp;rsquo;s Ribbon in their applications. The Ribbon has received praise from usability folks who see the benefit this offers in terms of ease of use and better, more visible contextual controls. But it has also met with resistance from individuals who find the large menu-heavy approach disruptive.
-The ribbon is a decent piece of interface, but like most things in UX, it&amp;rsquo;s hard to design it well.</description>
-    </item>
-    
-    <item>
-      <title>3 JQuery Methods for Interactive Menu Effects</title>
-      <link>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</guid>
-      <description>3 recent articles show how to get interactive effects on menus, proving that you don&amp;rsquo;t need Flash for this kind of simple interactivity.  Dave Shea&amp;rsquo;s tutorial in ALA shows how to create interactive menu hover effects using CSS sprites and the JQuery Javascript library. A sprite image is a single graphic with multiple states mapped on the graphic, a technique borrowed from game design, where game characters are shown in different states of action.</description>
-    </item>
-    
-    <item>
-      <title>Falling Leaves Concept UI for iPhone</title>
-      <link>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</guid>
-      <description>Not sure if the user on Vimeo who posted this is THE Woz, but he or she posted this concept user interface for an iPhone menu application that looks very interesting. The video opens with a UI that displays falling media that appear like little square stamps dropping like leaves to a desktop with contacts, photos, videos, etc. on the face of the leaves. The user can apparently pick up one of the pieces, and if it&amp;rsquo;s a video for example, start playing that video in the UI.</description>
-    </item>
-    
-    <item>
-      <title>OfficeMax A-Z Index</title>
-      <link>http://konigi.com/interfaces/officemax-z-index/</link>
-      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/officemax-z-index/</guid>
-      <description>OfficeMax displays an a-z index of the store directory in the global navigation. When users hover over any of the letters, a page-wide flyout menu appears to display entries. Clicking on one of the letters, displays the same listing of entries in full page view.
-1. A-Z index displayed in global navigation. Hovering over letter shows wide flyout menu of directory entries.2. Directory display for B&#39;s. http://www.officemax.com/</description>
-    </item>
-    
-    <item>
-      <title>Conservation International Global Navigation</title>
-      <link>http://konigi.com/interfaces/conservation-international-global-navigation/</link>
-      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/conservation-international-global-navigation/</guid>
-      <description>The Conservation International site provides an interesting take on the flyout or drop down global navigation bar. The site uses single, short action words set in very large type to indicate what you can do and name the sections of the site: Discover, Learn, Explore, Act, Give. These are nice pathfinder-type labels. When the user hovers over a links, the label expands to provide a phrase. For example, Learn becomes &#34;</description>
-    </item>
-    
-    <item>
-      <title>Tork Revolution Navigation</title>
-      <link>http://konigi.com/interfaces/tork-revolution-navigation/</link>
-      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/tork-revolution-navigation/</guid>
-      <description>The Tork Revolution site features a Flash global/local navigation system that appears conventional on the surface, but positions the navigation elements in unconventional places on the page, using size, position, and color to indicate hierarchy.
-1. The home page.2. Clicking, Foodservice, one of the main entry points in the global nav pulls that word out of the nav and re-positions it at the top of the page.3. Following a link to a sub-page, we are now viewing &amp;quot;Foodservice &amp; Kitchen.</description>
-    </item>
-    
-    <item>
-      <title>Songza Radial Menus</title>
-      <link>http://konigi.com/interfaces/songza-radial-menus/</link>
-      <pubDate>Fri, 07 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/songza-radial-menus/</guid>
-      <description>You rarely see radial menus implemented on the web. Radial menus provide a branching interface from a single starting point. Songza uses this interface convention to provide a very interesting way of selecting from 4 categories of actions that can be performed on a single song: play, share, rate, playlist. These are categories of actions you typically get with audio and video media on web sites. The radial menu allows the designer to keep the display simple, so the user can focus on the lists of titles.</description>
-    </item>
-    
-    <item>
-      <title>Color Chart: Reinventing Color from 1950 to Today</title>
-      <link>http://konigi.com/designs/submissions/color-chart-reinventing-color-1950-today/</link>
-      <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/color-chart-reinventing-color-1950-today/</guid>
-      <description>http://www.moma.org/exhibitions/2008/colorchart/flashsite/</description>
-    </item>
-    
-    <item>
-      <title>viaduct</title>
-      <link>http://konigi.com/designs/submissions/viaduct/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/viaduct/</guid>
-      <description>http://www.viaduct.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Nike Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/nike-faceted-navigation/</link>
-      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/nike-faceted-navigation/</guid>
-      <description>The Nike Store provides an excellent faceted navigation for narrowing product listings by sensible facets including gender, product type, sport, color, and price. The site skins the faceted classification tool provided by Endeca, which allows the user to select a product attribute of interest under any facet, and continually provides feedback about the attributes in other facets that can be used to narrow your choice of products down. Nike&#39;s Flash-based implementation is appropriate and useful, and ranks among the best examples of faceted navigation you will find on either commercial or academic databases.</description>
-    </item>
-    
-    <item>
-      <title>Hulu Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/hulu-faceted-navigation/</link>
-      <pubDate>Thu, 29 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/hulu-faceted-navigation/</guid>
-      <description>Hulu provides a nice faceted approach for browsing clips and episodes.
-1. Filtering navigation in left sidebar2. All facets exposed; &amp;quot;Clip&amp;quot; selected under Type facet3. &amp;quot;Comedy&amp;quot; selected under genre facet; Selecting &amp;quot;show more&amp;quot; expands to show other choices under facet4. &amp;quot;NBC&amp;quot; selected under Source facet http://hulu.com/videos/views/thumbs/all/clip/all/all/today/1</description>
     </item>
     
   </channel>

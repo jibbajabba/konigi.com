@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Government on Konigi</title>
+    <title>government on Konigi</title>
     <link>http://konigi.com/tags/government/</link>
-    <description>Recent content in Government on Konigi</description>
+    <description>Recent content in government on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/government/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/government/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/federal-it-dashboard/</guid>
-      <description>This is a new dashboard that tracks the U.S. Government&amp;rsquo;s reported spending on technology.
+      <description>This is a new dashboard that tracks the U.S. Government&#39;s reported spending on technology.
 http://it.usaspending.gov/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://it.usaspending.gov/</description>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/whitehouse-20/</guid>
-      <description>This selection of screens showcases the different social networking and video sites that the Whitehouse has set up. It&amp;rsquo;s interesting to see how much continuity and consistency they&amp;rsquo;re able to achieve given the design constraints imposed by the sites. Perhaps they&amp;rsquo;re given the unique layout options Networks get on YouTube channels. But they couldn&amp;rsquo;t do much with the Facebook page. The MySpace implementation is particularly impressive as an example of site skinning.</description>
+      <description>This selection of screens showcases the different social networking and video sites that the Whitehouse has set up. It&#39;s interesting to see how much continuity and consistency they&#39;re able to achieve given the design constraints imposed by the sites. Perhaps they&#39;re given the unique layout options Networks get on YouTube channels. But they couldn&#39;t do much with the Facebook page. The MySpace implementation is particularly impressive as an example of site skinning.</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@ http://it.usaspending.gov/</description>
       <pubDate>Tue, 20 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/white-house/</guid>
-      <description>The redesigned WhiteHouse.gov site exudes a staid and elegant presence, that establishes a suitable look and feel for the new administration. Compared to the vibrant, youthful, and energentic feel of the Obama electoral campaign with it&amp;rsquo;s bolder and more saturated blues and reds, and dimensional and atmospheric graphics, this site is restrained and has an appropriate seriousness that reflects the job ahead. But it is also elegant and fresh, and has the feeling of being modern, yet stately.</description>
+      <description>The redesigned WhiteHouse.gov site exudes a staid and elegant presence, that establishes a suitable look and feel for the new administration. Compared to the vibrant, youthful, and energentic feel of the Obama electoral campaign with it&#39;s bolder and more saturated blues and reds, and dimensional and atmospheric graphics, this site is restrained and has an appropriate seriousness that reflects the job ahead. But it is also elegant and fresh, and has the feeling of being modern, yet stately.</description>
     </item>
     
   </channel>

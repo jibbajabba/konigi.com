@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Slideshow on Konigi</title>
+    <title>slideshow on Konigi</title>
     <link>http://konigi.com/tags/slideshow/</link>
-    <description>Recent content in Slideshow on Konigi</description>
+    <description>Recent content in slideshow on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Jun 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/slideshow/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/slideshow/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sat, 21 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/daisy-balloon/</guid>
-      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&amp;rsquo;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
+      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&#39;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
     </item>
     
   </channel>

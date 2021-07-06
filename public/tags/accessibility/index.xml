@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accessibility on Konigi</title>
+    <title>accessibility on Konigi</title>
     <link>http://konigi.com/tags/accessibility/</link>
-    <description>Recent content in Accessibility on Konigi</description>
+    <description>Recent content in accessibility on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Aug 2019 14:55:52 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 05 Aug 2019 14:55:52 -0700</pubDate>
       
       <guid>http://konigi.com/links/tota11y/</guid>
-      <description>Tota11y is a tool to find accessibility issues on websites. Install the bookmarklet and a small button will be displayed when the bookmarklet is toggled. It runs a single javascript file on checks the page against accessibility criteria. Select criteria from the menu, and tota11y will visually call out the areas you may need to review, providing a description of the issue and recommendations for making the element accessible. The free tool is provided by Khan Academy.</description>
+      <description>A tool to find accessibility issues</description>
     </item>
     
     <item>
@@ -26,8 +25,7 @@
       <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/accessibility-project/</guid>
-      <description>The A11Y project is a community-driven effort to make web accessibility easier. They provide articles on best practices for doing front end development with accessibility in mind. The site includes an accessibility checklist, a pattern library for accessible widgets, and a list of resources for diving deeper into web accessibility.
-http://a11yproject.com/</description>
+      <description>The A11Y project is a community-driven effort to make web accessibility easier. They provide articles on best practices for doing front end development with accessibility in mind. The site includes an accessibility checklist, a pattern library for accessible widgets, and a list of resources for diving deeper into web accessibility.</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omnigraffle Wireframe Stencils on Konigi</title>
+    <title>omnigraffle wireframe stencils on Konigi</title>
     <link>http://konigi.com/tags/omnigraffle-wireframe-stencils/</link>
-    <description>Recent content in Omnigraffle Wireframe Stencils on Konigi</description>
+    <description>Recent content in omnigraffle wireframe stencils on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Feb 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/omnigraffle-wireframe-stencils/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/omnigraffle-wireframe-stencils/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/right-way-wireframe/</guid>
-      <description>Will Evans shows us how he sketches and wireframes interfaces in this cool video, which is a nice preview of what you may see in his upcoming talk on &amp;ldquo;The Right Way to Wireframe&amp;rdquo; at IXD10. Incidentally, he&amp;rsquo;s using OmniGraffle with our free wireframe stencils. Will says this about wireframing:
+      <description>Will Evans shows us how he sketches and wireframes interfaces in this cool video, which is a nice preview of what you may see in his upcoming talk on &#34;The Right Way to Wireframe&#34; at IXD10. Incidentally, he&#39;s using OmniGraffle with our free wireframe stencils. Will says this about wireframing:
 Increasingly, as designers of interactive systems (spaces, processes and products for people), we find ourselves stretching the limits of communication tools to explore and document what it will be like to interact with the things we design.</description>
     </item>
     
@@ -28,8 +27,8 @@ Increasingly, as designers of interactive systems (spaces, processes and product
       
       <guid>http://konigi.com/blog/omnigraffle-wireframe-stencils-version-3/</guid>
       <description>Version 3 of the OmniGraffle Wireframe Stencils has been posted. Download it now.
-Modified all form and controls elements for color consistency. Added the following: sliders, new form icons, tag clouds and lists, a-z lists, IAB advertising units, iphone chrome, web browser chrome. You&amp;rsquo;ll also see the start of a style guide based on the UI components here, which is being used for the Prototyping Kit we&amp;rsquo;re developing.
-http://konigi.com/tools/omnigraffle-wireframe-stencils</description>
+Modified all form and controls elements for color consistency. Added the following: sliders, new form icons, tag clouds and lists, a-z lists, IAB advertising units, iphone chrome, web browser chrome. You&#39;ll also see the start of a style guide based on the UI components here, which is being used for the Prototyping Kit we&#39;re developing.
+//konigi.com/tools/omnigraffle-wireframe-stencils</description>
     </item>
     
     <item>
@@ -38,7 +37,7 @@ http://konigi.com/tools/omnigraffle-wireframe-stencils</description>
       <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/speed-wireframing-nick-finck/</guid>
-      <description>Thanks for showing off your sick fast skills, Nick, and shaming us all. Oh, and it looks like that&amp;rsquo;s going to be a really useful site. I didn&amp;rsquo;t miss that.
+      <description>Thanks for showing off your sick fast skills, Nick, and shaming us all. Oh, and it looks like that&#39;s going to be a really useful site. I didn&#39;t miss that.
 You can download the OmniGraffle wireframe stencil Nick is using here for free, by the way. ;)
 http://www.nickfinck.com/blog/entry/creating_wireframes/</description>
     </item>
@@ -50,7 +49,7 @@ http://www.nickfinck.com/blog/entry/creating_wireframes/</description>
       
       <guid>http://konigi.com/blog/omnigraffle-sketch-stencils-now-available/</guid>
       <description>Sketches are often better tools for communicating designs than high fidelity illustrations or schematics. The purpose of the sketch style wireframe is to prevent the intended audience from thinking about visual design and focus on the functionality and behavior you are proposing.
-I&amp;rsquo;m happy to announce the release of this set of sketch stencils for OmniGraffle, based on the Wireframe Stencil. This set of user interface sketch stencils is designed for OmniGraffle 5.</description>
+I&#39;m happy to announce the release of this set of sketch stencils for OmniGraffle, based on the Wireframe Stencil. This set of user interface sketch stencils is designed for OmniGraffle 5.</description>
     </item>
     
     <item>
@@ -59,7 +58,7 @@ I&amp;rsquo;m happy to announce the release of this set of sketch stencils for O
       <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/starting-work-omnigraffle-sketch-stencils/</guid>
-      <description>If you&amp;rsquo;ve been following this blog, you may know how I&amp;rsquo;ve wanted to do sketch/jitter line styles in OmniGraffle to produce sketchy diagrams and wireframes. After David&amp;rsquo;s demo of his method for doing sketch shapes on the Design Commission blog got me started figuring out how to get the effect natively in OG, I&amp;rsquo;ve started to finally create sketch versions of the Wireframe Stencils. Above is a screenshot of the forms set.</description>
+      <description>If you&#39;ve been following this blog, you may know how I&#39;ve wanted to do sketch/jitter line styles in OmniGraffle to produce sketchy diagrams and wireframes. After David&#39;s demo of his method for doing sketch shapes on the Design Commission blog got me started figuring out how to get the effect natively in OG, I&#39;ve started to finally create sketch versions of the Wireframe Stencils. Above is a screenshot of the forms set.</description>
     </item>
     
     <item>
@@ -68,7 +67,7 @@ I&amp;rsquo;m happy to announce the release of this set of sketch stencils for O
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
-      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:</description>
+      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&#39;s Growl alerting app as the starting point:</description>
     </item>
     
     <item>
@@ -77,8 +76,8 @@ I&amp;rsquo;m happy to announce the release of this set of sketch stencils for O
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-wireframe-stencils/</guid>
-      <description>This is a major revision to the OmniGraffle Wireframe Shapes that I&amp;rsquo;ve been providing at urlgreyhot since OG version 1.x. It&amp;rsquo;s been over a year since the last update to that version. This version adds new elements and is formatted for OG 5.x. You can get it here in the Tools section.
-http://konigi.com/tools/omnigraffle-wireframe-stencils</description>
+      <description>This is a major revision to the OmniGraffle Wireframe Shapes that I&#39;ve been providing at urlgreyhot since OG version 1.x. It&#39;s been over a year since the last update to that version. This version adds new elements and is formatted for OG 5.x. You can get it here in the Tools section.
+//konigi.com/tools/omnigraffle-wireframe-stencils</description>
     </item>
     
   </channel>

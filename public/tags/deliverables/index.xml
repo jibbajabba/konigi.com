@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deliverables on Konigi</title>
+    <title>deliverables on Konigi</title>
     <link>http://konigi.com/tags/deliverables/</link>
-    <description>Recent content in Deliverables on Konigi</description>
+    <description>Recent content in deliverables on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Feb 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/deliverables/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/deliverables/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</guid>
-      <description>Interesting discussion in M. Jackson Wilkinson&amp;rsquo;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&amp;rsquo;t work in your documentation. I have to agree with one point, in that site maps don&amp;rsquo;t always serve documentation well when the notion of a strict hierarchy just doesn&amp;rsquo;t exist. But I think there&amp;rsquo;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
+      <description>Interesting discussion in M. Jackson Wilkinson&#39;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&#39;t work in your documentation. I have to agree with one point, in that site maps don&#39;t always serve documentation well when the notion of a strict hierarchy just doesn&#39;t exist. But I think there&#39;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
     </item>
     
     <item>
@@ -46,7 +45,7 @@ This list describes twenty user experience deliverables with links to relevant r
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/what-when-and-why-wireframes/</guid>
-      <description>James Kelway&amp;rsquo;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
+      <description>James Kelway&#39;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
 http://userpathways.com/2008/06/26/the-what-when-and-why-of-wireframes/</description>
     </item>
     
@@ -56,7 +55,7 @@ http://userpathways.com/2008/06/26/the-what-when-and-why-of-wireframes/</descrip
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
-      <description>I&amp;rsquo;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&amp;rsquo;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
+      <description>I&#39;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&#39;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pop Up Windows on Konigi</title>
+    <title>pop up windows on Konigi</title>
     <link>http://konigi.com/tags/pop-up-windows/</link>
-    <description>Recent content in Pop Up Windows on Konigi</description>
+    <description>Recent content in pop up windows on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/pop-up-windows/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/pop-up-windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

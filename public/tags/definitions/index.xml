@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Definitions on Konigi</title>
+    <title>definitions on Konigi</title>
     <link>http://konigi.com/tags/definitions/</link>
-    <description>Recent content in Definitions on Konigi</description>
+    <description>Recent content in definitions on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/definitions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/definitions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/what-when-and-why-wireframes/</guid>
-      <description>James Kelway&amp;rsquo;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
+      <description>James Kelway&#39;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
 http://userpathways.com/2008/06/26/the-what-when-and-why-of-wireframes/</description>
     </item>
     

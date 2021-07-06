@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diy on Konigi</title>
+    <title>diy on Konigi</title>
     <link>http://konigi.com/tags/diy/</link>
-    <description>Recent content in Diy on Konigi</description>
+    <description>Recent content in diy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@ I started making my own sketchbooks and pads a few years ago. At the time there 
       
       <guid>http://konigi.com/tools/sketchbooks-diy/</guid>
       <description>This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.
-I started making my own sketchbooks and pads a few years ago. At the time there weren&amp;rsquo;t many options for interface sketching and storyboarding.</description>
+I started making my own sketchbooks and pads a few years ago. At the time there weren&#39;t many options for interface sketching and storyboarding.</description>
     </item>
     
     <item>

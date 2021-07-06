@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Management on Konigi</title>
+    <title>management on Konigi</title>
     <link>http://konigi.com/tags/management/</link>
-    <description>Recent content in Management on Konigi</description>
+    <description>Recent content in management on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Apr 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@ To demonstrate what happens in the teamwork of a group of jazz performers, Kalba
       
       <guid>http://konigi.com/blog/change-effectively-change-just-one-thing/</guid>
       <description>Peter Bregman writes about how finding the simplest solution provides the most effective path to change. In his story he talks about how changing one thing, one habit or pattern of behavior, permitted him to be effective at losing weight. This simple strategy contrasts with the multitude of diet books that suggest entire regimine of change in order to lose weight.
-It&amp;rsquo;s a great tale that Bregman uses to illustrate how simplifying a process or dealing with a challenge can sometimes be most effectively handled by reducing it to its essence, and devoting 100% of energy on a singular action.</description>
+It&#39;s a great tale that Bregman uses to illustrate how simplifying a process or dealing with a challenge can sometimes be most effectively handled by reducing it to its essence, and devoting 100% of energy on a singular action.</description>
     </item>
     
   </channel>

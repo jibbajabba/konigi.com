@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search on Konigi</title>
+    <title>search on Konigi</title>
     <link>http://konigi.com/tags/search/</link>
-    <description>Recent content in Search on Konigi</description>
+    <description>Recent content in search on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/search/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,7 @@
       
       <guid>http://konigi.com/interfaces/pinterest-tag-search-and-suggestions/</guid>
       <description>Pinterest&#39;s search feature shows tag and board suggestions in the auto-completion list. Select terms/tags to display, and a horizontal list (accordion) of correlating tags to refine or narrow your your search are displayed below the search box.
-Screencast / Video
-http://www.pinterest.com/</description>
+Screencast / Video https://www.pinterest.com/</description>
     </item>
     
     <item>
@@ -29,8 +27,8 @@ http://www.pinterest.com/</description>
       
       <guid>http://konigi.com/blog/bing-maps/</guid>
       <description>Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.
-&amp;ldquo;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&amp;rdquo; says Bing Maps&amp;rsquo; Blaise Aguera y Arcas. &amp;ldquo;Maps, directions are really just one of them.&amp;rdquo;
-http://www.youtube.com/watch?v=tQzimblL3g8</description>
+&#34;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&#34; says Bing Maps&#39; Blaise Aguera y Arcas. &#34;Maps, directions are really just one of them.&#34;
+https://www.youtube.com/watch?v=tQzimblL3g8</description>
     </item>
     
     <item>
@@ -39,7 +37,7 @@ http://www.youtube.com/watch?v=tQzimblL3g8</description>
       <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/uxfind/</guid>
-      <description>UXFind is a mashup that uses Google Custom Search Engine and Google App Engine. It provides a search engine tailored for User Experience pros. It indexes over 200 of user experience web sites and blogs. Oddly, they index my old blog iaslash, but not Konigi, so I guess the sources might not be so fresh. It&amp;rsquo;s a great idea, and I&amp;rsquo;ve tried to do this in the past too, to just limit to sources I trust.</description>
+      <description>UXFind is a mashup that uses Google Custom Search Engine and Google App Engine. It provides a search engine tailored for User Experience pros. It indexes over 200 of user experience web sites and blogs. Oddly, they index my old blog iaslash, but not Konigi, so I guess the sources might not be so fresh. It&#39;s a great idea, and I&#39;ve tried to do this in the past too, to just limit to sources I trust.</description>
     </item>
     
     <item>
@@ -62,6 +60,15 @@ http://www.currybet.net/cbet_blog/2010/01/ux_moving_house_1.php</description>
     </item>
     
     <item>
+      <title>iStockphoto Search</title>
+      <link>http://konigi.com/interfaces/istockphoto-search/</link>
+      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/istockphoto-search/</guid>
+      <description>iStockphoto takes a rather approach to search that offers plenty of options. When the user is logged out, they&#39;re presented with a search form on the front page with options that appear when the input is in focus. The user may then select typical options, e.g. size under photos, number of credits under illustration, format for video. On the results page, a simpler search form is displayed at the top of the page.</description>
+    </item>
+    
+    <item>
       <title>Kontain Search</title>
       <link>http://konigi.com/interfaces/kontain-search/</link>
       <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
@@ -78,15 +85,6 @@ http://www.currybet.net/cbet_blog/2010/01/ux_moving_house_1.php</description>
       <guid>http://konigi.com/interfaces/new-york-magazine-search/</guid>
       <description>New York Magazine provides a site search form in the header with options to limit the scope of search, and features advanced filtering options on results page. The results page is simple on the surface, but provides powerful filtering options in the sidebar. The search strategy is shown with actions for removing terms from the search or clear all.
 I found some of the behaviors on filtering options to be inconsistent with others.</description>
-    </item>
-    
-    <item>
-      <title>iStockphoto Search</title>
-      <link>http://konigi.com/interfaces/istockphoto-search/</link>
-      <pubDate>Tue, 11 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/istockphoto-search/</guid>
-      <description>iStockphoto takes a rather approach to search that offers plenty of options. When the user is logged out, they&#39;re presented with a search form on the front page with options that appear when the input is in focus. The user may then select typical options, e.g. size under photos, number of credits under illustration, format for video. On the results page, a simpler search form is displayed at the top of the page.</description>
     </item>
     
     <item>
@@ -125,7 +123,7 @@ http://iwantmyname.com</description>
       <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sideline-twitter-search-app-yahoo/</guid>
-      <description>Sideline is an Adobe AIR desktop application built with the Yahoo! User Interface Library (YUI) that allows users to create and group custom queries by topics of interest, as well as view topic trends. Very nicely done. Am looking at at how the advanced search works at the moment. Looks very easy to build up an seems like it might be the perfect app for a lurker or follower who doesn&amp;rsquo;t post much.</description>
+      <description>Sideline is an Adobe AIR desktop application built with the Yahoo! User Interface Library (YUI) that allows users to create and group custom queries by topics of interest, as well as view topic trends. Very nicely done. Am looking at at how the advanced search works at the moment. Looks very easy to build up an seems like it might be the perfect app for a lurker or follower who doesn&#39;t post much.</description>
     </item>
     
     <item>
@@ -154,181 +152,9 @@ It&#39;s a clever method, but as you can see from the comments, it&#39;s not wit
       <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/google-quick-search-box/</guid>
-      <description>Google&amp;rsquo;s Quick Search Box is a QuickSilver-like launcher that lets you search your computer for applications and data, as well as search the web, and your Google Apps accounts. I presume this will also eventually replace the search interface provided by Google Desktop. The project is in beta and is provided via the Labs.
+      <description>Google&#39;s Quick Search Box is a QuickSilver-like launcher that lets you search your computer for applications and data, as well as search the web, and your Google Apps accounts. I presume this will also eventually replace the search interface provided by Google Desktop. The project is in beta and is provided via the Labs.
 From their blog:
 One of our goals at Google is to make your search experience as fluid as possible.</description>
-    </item>
-    
-    <item>
-      <title>GazoPa Image Search</title>
-      <link>http://konigi.com/blog/gazopa-image-search/</link>
-      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/gazopa-image-search/</guid>
-      <description>Gazopa provides image upload and drawing interfaces for image search. The idea of finding similar images by comparing against a submitted image or drawing is not new, but search tools that use this tech have failed to catch on in consumer sites. People with information retrieval background might be familiar with IBM&amp;rsquo;s QBIC, query by image content, technology for instance. Gazopa looks very interesting, and the results are not bad at all, even with my crude bicycle drawing above.</description>
-    </item>
-    
-    <item>
-      <title>Domainr</title>
-      <link>http://konigi.com/interfaces/domainr/</link>
-      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/domainr/</guid>
-      <description>Domai.nr is a simple single serving site that lets you find a domain using all the top level domain extensions to complete your name.
-1. The search form.2. Enter a word and view suggestions.3. Green boxes indicate available domains. Click one to purchase. http://domai.nr/</description>
-    </item>
-    
-    <item>
-      <title>twitrratr: Sentiment on Twitter</title>
-      <link>http://konigi.com/blog/twitrratr-sentiment-twitter/</link>
-      <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
-      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
-    </item>
-    
-    <item>
-      <title>FanSnap Search Results Filtering</title>
-      <link>http://konigi.com/interfaces/fansnap-search-results-filtering/</link>
-      <pubDate>Wed, 15 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/fansnap-search-results-filtering/</guid>
-      <description>FanSnap is an event ticket search site that provides faceted results filtering. Users simply enter an upcoming event, and FanSnap returns a list of available tickets from vendors like StubHub, provides filtering by price, seating area, and ticket vendor. If a venue diagram is available seats are overlaid over the venue&#39;s seating chart. Users can sort and star/favorite available tickets in their &#34;short list&#34;, and then click a link to purchase the tickets at the ticket vendor&#39;s site.</description>
-    </item>
-    
-    <item>
-      <title>find:Design - the design search engine</title>
-      <link>http://konigi.com/blog/finddesign-design-search-engine/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/finddesign-design-search-engine/</guid>
-      <description>find:Design is a Google custom search page with &amp;ldquo;&amp;hellip;an emphasis on design related content from news, portals, blogs, directories, media, podcasts, companies, portfolios and other design resources.&amp;rdquo;
-http://finddesign.blinkr.net/</description>
-    </item>
-    
-    <item>
-      <title>Rofo Search Filtering</title>
-      <link>http://konigi.com/interfaces/rofo-search-filtering/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/rofo-search-filtering/</guid>
-      <description>Rofo provides a faceted search engine for commercial real estate properties. The beta provides a search interface at the top of the home and results pages to set parameters including location, size, type of space, and budget. Slider controls are used to narrow size and budget. At present, changes in these settings require a manual page submission to update results. The top location shows some limitations on the number of visible values that can be displayed.</description>
-    </item>
-    
-    <item>
-      <title>Thsrs Synonym Search</title>
-      <link>http://konigi.com/interfaces/thsrs-synonym-search/</link>
-      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/thsrs-synonym-search/</guid>
-      <description>Ironic Sans provides Thsrs, a single-serving site that provides shorter synonyms for long words. Simple idea that&#39;s well executed. If you&#39;re Firefox user, this is even more useful as a search add on. 1. User enters a long word.2. Shorter synonyms are returned if possible.3. Would be even better if it caught spelling errors. http://www.ironicsans.com/thsrs/</description>
-    </item>
-    
-    <item>
-      <title>Twitter Search</title>
-      <link>http://konigi.com/interfaces/twitter-search/</link>
-      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/twitter-search/</guid>
-      <description>With Twitter&#39;s acquisition of Summize, the social messaging service now provides a very nice, and simple to use interface to see what people are twitting about. Enter a topic or keyword and click search. The options in the sidebar of the results screen are substantial too: Feeds, translations, trends, interesting queries, e.g. hashtags. Advanced search and using search operators adds a powerful, Google-like experience to your search.
-1. Simple search screen.</description>
-    </item>
-    
-    <item>
-      <title>goosh.org Cmmand Line Interface</title>
-      <link>http://konigi.com/interfaces/goosh-org-cmmand-line-interface/</link>
-      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/goosh-org-cmmand-line-interface/</guid>
-      <description>Goosh, which dubs itself &#34;the unofficial google shell&#34; interprets the idea of presenting a command line interface via a web site literally. The site uses AJAX to present a terminal shell interface to Google. For simple searches, just enter keywords and click Enter. Type h for help with other commands. It even provides history functionality using keyboard up/down arrows.
-1. The default screen is literally a command line interface.2. Help shows available commands.</description>
-    </item>
-    
-    <item>
-      <title>Performancing Metrics Data Filtering</title>
-      <link>http://konigi.com/interfaces/performancing-metrics-data-filtering/</link>
-      <pubDate>Thu, 26 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/performancing-metrics-data-filtering/</guid>
-      <description>Performancing Metrics is a web analytics product that is focussed on Blog Systems. Their reporting views provide an highly scalable solution for data filtering that takes up very little screen real estate, yet provides a powerful mechanism for adding criteria to do granular reports. This example shows an ad-hoc filtering of the Visitors data on their demo server.
-This solution, showing an inline set of filter criteria on a single row contrasts with several typical filtering techniques that can be used.</description>
-    </item>
-    
-    <item>
-      <title>Inquisitor Search</title>
-      <link>http://konigi.com/interfaces/inquisitor-search/</link>
-      <pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/inquisitor-search/</guid>
-      <description>Inquisitor calls itself Spotlight for the web. The free search plugin is installed in Safari and provides better search results using Safari&#39;s built in search box. When a user enters text into the input, Inquisitor displays a drop down menu with results suggestions and search term auto-completion. The first section of the drop down shows matching results pages in Google, and in the second section shows auto-completion suggestions for other terms that match the entered text.</description>
-    </item>
-    
-    <item>
-      <title>Indeed Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/indeed-faceted-navigation/</link>
-      <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/indeed-faceted-navigation/</guid>
-      <description>Job search engine Indeed offers faceted search filtering in their results. Facets include useful filtering criteria such as job title, salary range estimate, company, location, and job type. Filters beneath any facet may be selected at any point while viewing the results, and removed in an ad-hoc manner regardless of the order selected. Users may also remove all filtering to return to original results.
-1. Search interface.2. Search results with filters on left column which can be hidden/collapsed.</description>
-    </item>
-    
-    <item>
-      <title>Apple Site Search</title>
-      <link>http://konigi.com/interfaces/apple-site-search/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/apple-site-search/</guid>
-      <description>Apple provides an excellent site search design, which includes an AJAX auto-completion drop down menu showing categorized matches against your query, and thumbnail images of matching items. The categories carry over in the search results page, which displays your results in collapsible sets, much as you would see with the Mac OS Spotlight search. Some result sets are even rendered as a carousel (look at iTunes results).
-1. Auto-completion drop down shown for query on &amp;quot;iph.</description>
-    </item>
-    
-    <item>
-      <title>Search Patterns</title>
-      <link>http://konigi.com/blog/search-patterns/</link>
-      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/search-patterns/</guid>
-      <description>Peter Morville&#39;s Search Patterns Collection on Flickr provides examples, patterns, and anti-patterns for search interface design. Peter is additionally blogging about the search at findability.org. Excellent stuff.
-http://www.flickr.com/photos/morville/collections/72157603785835882/</description>
-    </item>
-    
-    <item>
-      <title>Searchme Visual Search</title>
-      <link>http://konigi.com/interfaces/searchme-visual-search/</link>
-      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/searchme-visual-search/</guid>
-      <description>Searchme provides a search interface that provides screenshots of search results. The user interface is a flash application that mimics Apple&#39;s new coverflow display in the Leopard finder. The search options provide category filters, and relevant categories are displayed once you&#39;ve typed search terms that match a category. The example here shows categories that are relevant to the search for &#34;new york city.&#34;
-Search results provide more information about the site when the user hovers over the screenshot.</description>
-    </item>
-    
-    <item>
-      <title>Designer Pages</title>
-      <link>http://konigi.com/designs/submissions/designer-pages/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/designer-pages/</guid>
-      <description>http://www.designerpages.com</description>
-    </item>
-    
-    <item>
-      <title>Kayak Filtering</title>
-      <link>http://konigi.com/interfaces/kayak-filtering/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/kayak-filtering/</guid>
-      <description>Kayak provided one of the earliest examples of using AJAX to provide data filtering controls and live refinement or filtering of results. Their slider controls remain one of the best examples of how AJAX can be used to make filtering visual and intuitive. Sliders allow users to narrow down search criteria including flight duration, takeoff/landing time, and price. 1. Default filtering controls.2. Search results page.3. Search results after adjusting search filters.</description>
-    </item>
-    
-    <item>
-      <title>Roost Filtering</title>
-      <link>http://konigi.com/interfaces/roost-filtering/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/roost-filtering/</guid>
-      <description>Roost is a real estate search engine that provides full MLS listings. Their AJAX search refining filters are very similar to those provided by Kayak&#39;s travel search. The slider controls provide a visual method for narrowing down search criteria and results are updated immediately.
-1. Default filtering controls.2. Search results page.3. Search results after adjusting search filters. http://roost.com</description>
     </item>
     
   </channel>

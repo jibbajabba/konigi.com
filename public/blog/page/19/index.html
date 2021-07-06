@@ -4,10 +4,11 @@
   <title>Blog</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="/css/konigi.css?1565299294" type="text/css" rel="stylesheet" media="all">
+  <link href="/css/konigi.css?1625000435" type="text/css" rel="stylesheet" media="all">
   <link href="https://fonts.googleapis.com/css?Open+Sans:400,400i,600,600i&display=swap" rel="stylesheet">
   <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-  <link rel="alternate" type="application/rss+xml" title="Konigi RSS Feed" href="http://konigi.com/index.xml" />
+  <link rel="alternate" type="application/rss+xml" href="http://konigi.com/blog/index.xml" title="Konigi" />
+  <script src="https://kit.fontawesome.com/4f920426c1.js" crossorigin="anonymous"></script>
 </head>
 <body class="blog">
 
@@ -29,9 +30,6 @@
 
       <div class="navbar-menu" id="navMenu">
         <div id="navbarGlobal" class="navbar-end">
-          <a class="navbar-item is-active" href="/blog/">
-            Blog
-          </a>
 
           <a class="navbar-item" href="/art/">
             Art
@@ -41,16 +39,14 @@
             Articles
           </a>
 
-          <a class="navbar-item" href="/interfaces/">
-            Interfaces
-          </a>
-
-          <a class="navbar-item" href="/links/">
-            Links
-          </a>
+          
 
           <a class="navbar-item" href="/music/">
             Music
+          </a>
+
+          <a class="navbar-item" href="/poetry/">
+            Poetry
           </a>
 
           <a class="navbar-item" href="/sunchasing/">
@@ -59,6 +55,10 @@
 
           <a class="navbar-item" href="/tools/">
             Tools
+          </a>
+
+          <a class="navbar-item is-active" href="/blog/">
+            Blog
           </a>
 
         </div>
@@ -83,48 +83,13 @@
 <section class="section">
   <div class="container">
     <div class="columns">
-      <div class="column is-four-fifths index">
-        
-          <article>
-  <h2 class="post-title"><a href="http://konigi.com/blog/raphael-javascript-library-vector-graphics/">Raphael JavaScript Library for Vector Graphics</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://raphaeljs.com/"><img src="http://media.konigi.com/notebook/raphaeljs.jpg" class="notebook-image" /></a></div><p>Henrik pointed me to Raphaël, a nice JS library for generating interactive charts.</p>
-<blockquote><p>Raphaël is a small JavaScript library that should simplify your work with vector graphics on the web. In case you want to create your own specific chart or image crop-n-rotate widget, you can simply achieve it with this library.</p>
-<p>Raphaël uses SVG and VML as a base for graphics creation. Because of that every created object is a DOM object so you can attach JavaScript event handlers or modify objects later. Raphaël’s goal is to provide an adapter that will make drawing cross-browser and easy.</p></blockquote>
-<p>Via tweet from <a href="http://twitter.com/henriklied/status/1091862105">Henrik Lied</a></p></p>
-
-<p><a href="http://raphaeljs.com/">http://raphaeljs.com/</a></p>
-</section>
-  <section class="metadata single bottom">
-    <div class="pub-date">Published on Friday, Jan 2, 2009 in <a href="/blog" class="capitalize">blog</a></div>
-    <ul class="tags">
-    
-      <li>
-        <a href="/tags/diagrams">diagrams</a>
-      </li>
-    
-      <li>
-        <a href="/tags/graphics">graphics</a>
-      </li>
-    
-      <li>
-        <a href="/tags/javascript">javascript</a>
-      </li>
-    
-      <li>
-        <a href="/tags/twitter-link">twitter link</a>
-      </li>
-    
-    </ul>
-  </section>
-</article>
-
+      <div class="column is-full index">
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/typefacejs-rendering-text-javascript-canvas-and-vml/">typeface.js: Rendering text with Javascript, canvas, and VML</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://typeface.neocracy.org/"><img src="http://media.konigi.com/bluga/wt495cc52f28966.jpg"/></a></div><p>I just came across <a href="http://typeface.neocracy.org/">typeface.js</a>, a type face replacement method like <a href="http://wiki.novemberborn.net/sifr/">SIFR</a> and <a href="http://facelift.mawhorter.net/">FLIR</a>, that lets you embed custom fonts in your pages using CSS. On the backend, javscript is used with <canvas> or VML to draw the glyphs for your fonts. </p>
-<p>Compared with SIFR, this suffers from some issues. Biggest one perhaps is that you can&rsquo;t select text since it&rsquo;s rendered as an image. Not so with SIFR. I wouldn&rsquo;t go using this method for body text, but if you&rsquo;re already considering doing image replacement for elements like headings, this would be a library to watch. There&rsquo;s bound to be accessibility improvements in the future using methods that put invisible text over the image, or something like that.</p></p>
-
-<p><a href="http://typeface.neocracy.org/">http://typeface.neocracy.org/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://typeface.neocracy.org/"><img src="//media.konigi.com/bluga/wt495cc52f28966.jpg"/></a></div><p>I just came across <a href="http://typeface.neocracy.org/">typeface.js</a>, a type face replacement method like <a href="http://wiki.novemberborn.net/sifr/">SIFR</a> and <a href="http://facelift.mawhorter.net/">FLIR</a>, that lets you embed custom fonts in your pages using CSS. On the backend, javscript is used with <canvas> or VML to draw the glyphs for your fonts. </p>
+<p>Compared with SIFR, this suffers from some issues. Biggest one perhaps is that you can't select text since it's rendered as an image. Not so with SIFR. I wouldn't go using this method for body text, but if you're already considering doing image replacement for elements like headings, this would be a library to watch. There's bound to be accessibility improvements in the future using methods that put invisible text over the image, or something like that.</p>
+<p><a href="http://typeface.neocracy.org/"><a href="http://typeface.neocracy.org/">http://typeface.neocracy.org/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Thursday, Jan 1, 2009 in <a href="/blog" class="capitalize">blog</a></div>
@@ -149,11 +114,10 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/konigi-twitter-and-facebook/">Konigi on Twitter and Facebook</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://twitter.com/konigi"><img src="http://media.konigi.com/bluga/wt495b9a0894cc6.jpg"/></a></div><p>It seems it&rsquo;s time to start spilling out some of the meta-discussion in my head&ndash;the monologue I guess&ndash;about what I&rsquo;m doing here on Konigi. So I started to post announcements and thoughts about what I&rsquo;m working on with a <a href="http://twitter.com/konigi">Konigi Twitter account</a>.</p>
-<p>Basically, I feel like I want to separate Konigi-specific postings from my regular Twitter stream so I can update interested readers via that account, as well as post more work in progress commentary, observations, and announcements related strictly to Konigi. So if Twitter suits you more than RSS or Email, or if you&rsquo;re interested in my back-channel banter, you can get updates there.</p>
-<p>There&rsquo;s also a product page for Konigi now <a href="http://www.facebook.com/pages/Konigi/45954601363">on Facebook</a>.</p></p>
-
-<p><a href="http://twitter.com/konigi">http://twitter.com/konigi</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://twitter.com/konigi"><img src="//media.konigi.com/bluga/wt495b9a0894cc6.jpg"/></a></div><p>It seems it's time to start spilling out some of the meta-discussion in my head--the monologue I guess--about what I'm doing here on Konigi. So I started to post announcements and thoughts about what I'm working on with a <a href="http://twitter.com/konigi">Konigi Twitter account</a>.</p>
+<p>Basically, I feel like I want to separate Konigi-specific postings from my regular Twitter stream so I can update interested readers via that account, as well as post more work in progress commentary, observations, and announcements related strictly to Konigi. So if Twitter suits you more than RSS or Email, or if you're interested in my back-channel banter, you can get updates there.</p>
+<p>There's also a product page for Konigi now <a href="http://www.facebook.com/pages/Konigi/45954601363">on Facebook</a>.</p>
+<p><a href="http://twitter.com/konigi"><a href="http://twitter.com/konigi">http://twitter.com/konigi</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 31, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -170,9 +134,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/ux-london/">UX London</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://uxlondon.com/"><img src="http://media.konigi.com/bluga/wt495c24651c110.jpg"/></a></div><p><a href="http://uxlondon.com/">UX London</a> is a three-day event for user experience designers that combines a day of inspirational conference with four half days of practical, in-depth, hands-on workshops, all presented by some of the biggest names in the industry. Speakers include Don Norman, Leisa Reichelt, Dan Saffer, Luke Wroblewski, Jared Spool, Jeff Veen, Eric Reiss, and Peter Merholz. If I were in Europe I&rsquo;d definitely want to be there.</p></p>
-
-<p><a href="http://uxlondon.com/">http://uxlondon.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://uxlondon.com/"><img src="//media.konigi.com/bluga/wt495c24651c110.jpg"/></a></div><p><a href="http://uxlondon.com/">UX London</a> is a three-day event for user experience designers that combines a day of inspirational conference with four half days of practical, in-depth, hands-on workshops, all presented by some of the biggest names in the industry. Speakers include Don Norman, Leisa Reichelt, Dan Saffer, Luke Wroblewski, Jared Spool, Jeff Veen, Eric Reiss, and Peter Merholz. If I were in Europe I'd definitely want to be there.</p>
+<p><a href="http://uxlondon.com/"><a href="http://uxlondon.com/">http://uxlondon.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 31, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -189,12 +152,12 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/doing-sketch-iterations/">Doing Sketch Iterations</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/sketch-iterations.jpg" class="notebook-image" /></div><p>These are just more illustrations of the process I&rsquo;ve been using for design iterations. When I have the Konigi notebook available, I&rsquo;ll be doing some screencasts to describe this process in detail, and why I felt the need to make these graph paper notebooks and pads.</p>
+  <section class="article-body">  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/sketch-iterations.jpg" class="notebook-image" /></div><p>These are just more illustrations of the process I've been using for design iterations. When I have the Konigi notebook available, I'll be doing some screencasts to describe this process in detail, and why I felt the need to make these graph paper notebooks and pads.</p>
 <p>What you see above:</p>
 <p>1) Annotated UI Spec (Wireframes) after design review.</p>
 <p>2) Sketches for design and new ideas, on the Konigi Design Notebook.</p>
 <p>3) Refined sketches, inked and annotated on Konigi Wireframe Graph Paper.</p>
-<p>4) The Pentax DSmobile 600 scanner I use to scan and post the sketches to our site for further discussion of design iterations and new ideas.</p></p>
+<p>4) The Pentax DSmobile 600 scanner I use to scan and post the sketches to our site for further discussion of design iterations and new ideas.</p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 29, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -219,12 +182,11 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/input-masks-forms/">Input Masks in Forms</a></h2>
-  <section class="article-body"><p><p><a href="http://www.lukew.com/ff/entry.asp?756">Luke Wroblewski pointed</a> to Josh Bush&rsquo;s <a href="http://digitalbush.com/projects/masked-input-plugin/">Masked Input Plugin</a> for JQuery. Luke writes that the plugin &ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&rdquo;</p>
-<p>The video Luke posted to YouTube, and the demo on Bush&rsquo;s site, show how the input mask works. Great example of an elegantly conceived method for error prevention in forms.</p>
+  <section class="article-body"><p><a href="http://www.lukew.com/ff/entry.asp?756">Luke Wroblewski pointed</a> to Josh Bush's <a href="http://digitalbush.com/projects/masked-input-plugin/">Masked Input Plugin</a> for JQuery. Luke writes that the plugin "integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin."</p>
+<p>The video Luke posted to YouTube, and the demo on Bush's site, show how the input mask works. Great example of an elegantly conceived method for error prevention in forms.</p>
 <div class="video">
-<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/BMaTiGKykl8&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BMaTiGKykl8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></div></p>
-
-<p><a href="http://www.lukew.com/ff/entry.asp?756">http://www.lukew.com/ff/entry.asp?756</a></p>
+<object width="480" height="295"><param name="movie" value="https://www.youtube.com/v/BMaTiGKykl8&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/BMaTiGKykl8&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object></div>
+<p><a href="http://www.lukew.com/ff/entry.asp?756"><a href="http://www.lukew.com/ff/entry.asp?756">http://www.lukew.com/ff/entry.asp?756</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 29, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -261,11 +223,10 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/why-fail-safe-when-you-can-poka-yoke/">Why Fail Safe When You Can Poka-yoke?</a></h2>
-  <section class="article-body"><p><p>Poka-Yoke is a Japanese word for &ldquo;fail-safing&rdquo; that I just came across and suspect might be entering my UI vocabulary soon. The entry from Wikipedia:</p>
-<blockquote><p><strong>Poka-yoke</strong> (IPA: [poka joke]) is a Japanese term that means &ldquo;fail-safing&rdquo;, &ldquo;Foolproof&rdquo; or &ldquo;mistake-proofing&rdquo; — avoiding (yokeru) inadvertent errors (poka)) is a behavior-shaping constraint, or a method of preventing errors by putting limits on how an operation can be performed in order to force the correct completion of the operation. The concept was formalised, and the term adopted, by Shigeo Shingo as part of the Toyota Production System. Originally described as Baka-yoke, but as this means &ldquo;fool-proofing&rdquo; (or &ldquo;idiot proofing&rdquo;) the name was changed to the milder Poka-yoke.</p>
-<p>An example includes 3.5&rdquo; floppy disk. The top-right corner is shaped in a certain way so that the disk cannot be inserted upside-down. In the manufacturing world an example might be that the jig for holding pieces for processing only allows pieces to be held in one orientation, or has switches on the jig to detect whether a hole has been previously cut or not, or it might count the number of spot welds created to ensure that, say, four have been executed by the operator.</p></blockquote></p>
-
-<p><a href="http://en.wikipedia.org/wiki/Poka-yoke">http://en.wikipedia.org/wiki/Poka-yoke</a></p>
+  <section class="article-body"><p>Poka-Yoke is a Japanese word for "fail-safing" that I just came across and suspect might be entering my UI vocabulary soon. The entry from Wikipedia:</p>
+<blockquote><p><strong>Poka-yoke</strong> (IPA: [poka joke]) is a Japanese term that means "fail-safing", "Foolproof" or "mistake-proofing" — avoiding (yokeru) inadvertent errors (poka)) is a behavior-shaping constraint, or a method of preventing errors by putting limits on how an operation can be performed in order to force the correct completion of the operation. The concept was formalised, and the term adopted, by Shigeo Shingo as part of the Toyota Production System. Originally described as Baka-yoke, but as this means "fool-proofing" (or "idiot proofing") the name was changed to the milder Poka-yoke.</p>
+<p>An example includes 3.5" floppy disk. The top-right corner is shaped in a certain way so that the disk cannot be inserted upside-down. In the manufacturing world an example might be that the jig for holding pieces for processing only allows pieces to be held in one orientation, or has switches on the jig to detect whether a hole has been previously cut or not, or it might count the number of spot welds created to ensure that, say, four have been executed by the operator.</p></blockquote>
+<p><a href="http://en.wikipedia.org/wiki/Poka-yoke"><a href="http://en.wikipedia.org/wiki/Poka-yoke">http://en.wikipedia.org/wiki/Poka-yoke</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 29, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -294,22 +255,21 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/cafe-worksketch-kit/">Cafe Work/Sketch Kit</a></h2>
-  <section class="article-body"><p><div class="notebook-image"><a href="http://www.flickr.com/photos/jibbajabba/3138042543/" title="Cafe Work/Sketch Kit by jibbajabba, on Flickr"><img src="http://farm4.static.flickr.com/3129/3138042543_c6ea8f8b58.jpg" alt="Cafe Work/Sketch Kit" /></a></div>
-<p>I gave my wife my MacBook to upgrade her from her iBook and got myself a netbook for those times when I&rsquo;m out and need to wait for my son, and for watching Netflix/Hulu/Slingbox in the house. But I&rsquo;m also finding that the netbook, a <a href="http://shop.lenovo.com/us/notebooks/ideapad/s-series">Lenovo Ideapad S10</a>, is really pretty damned sweet for when I want to head out somewhere and do sketches in a cafe. I use it to post to our Traction server while I&rsquo;m sketching. I just have to remember to put it aside so I can concentrate on getting the sketches done.</p>
-<p>The S10 is small, but it sports a 10 inch screen. The only downside I&rsquo;ve experienced so far is that the right shift key is positioned one key to the right, out of the normal positioning. They did this to make room for the directional arrows. I&rsquo;m a touch typist, so I was afraid this would be a deal breaker. It&rsquo;s been about 4 days since I got it, and I&rsquo;m quite used to the positioning now. </p>
-<p>I spent a lot of time researching the netbook options in the past month and this one was up against the new HP Mini 1000, which got rave reviews, but which has one of those awkward side-positioned trackbpad buttons. After trying the Lenovo at a store, and having great experiences with the solid feel of IBM Ideapads for years as a corporate mucky muck, my decision was easily made. The Lenovo gives me greater hard disk storage options, not like the anemic SSDs. I know the tradeoffs, but I felt the HD options were fast enough. I&rsquo;m not looking for sexy here, just affordable, light, fast enough, reliable enough (I say enough because it&rsquo;s Windows after all), rugged, and usable. It&rsquo;s got get thrown into a bag when I tool around town and hold up to my abuse.</p>
-<p>All in all, I&rsquo;m really very pleased with it. I&rsquo;s only been 4 days and I&rsquo;ve taken it out only once, however, so we&rsquo;ll have to reserve final judgement after a month. It gives me what I need for a limited number of use cases. I won&rsquo;t design on it, but I can do a good deal of reading/writing/media viewing with it. I&rsquo;m using Google Chrome for web browsing, and for my primary application uses: Gmail, Google Docs, and Google Reader. I&rsquo;m absolutely loving it, by the way. I can bring my Pentax DS Mobile 600 scanner with me to scan my drawings and upload to our server when I&rsquo;m out sketching.</p>
-<p>That&rsquo;s all for now. If you&rsquo;re interested, you can click the Flickr photo above to see notes for what&rsquo;s inside my kit. Here&rsquo;s the contents:</p>
+  <section class="article-body">  <div class="notebook-image"><a href="http://www.flickr.com/photos/jibbajabba/3138042543/" title="Cafe Work/Sketch Kit by jibbajabba, on Flickr"><img src="//farm4.static.flickr.com/3129/3138042543_c6ea8f8b58.jpg" alt="Cafe Work/Sketch Kit" /></a></div>
+<p>I gave my wife my MacBook to upgrade her from her iBook and got myself a netbook for those times when I'm out and need to wait for my son, and for watching Netflix/Hulu/Slingbox in the house. But I'm also finding that the netbook, a <a href="http://shop.lenovo.com/us/notebooks/ideapad/s-series">Lenovo Ideapad S10</a>, is really pretty damned sweet for when I want to head out somewhere and do sketches in a cafe. I use it to post to our Traction server while I'm sketching. I just have to remember to put it aside so I can concentrate on getting the sketches done.</p>
+<p>The S10 is small, but it sports a 10 inch screen. The only downside I've experienced so far is that the right shift key is positioned one key to the right, out of the normal positioning. They did this to make room for the directional arrows. I'm a touch typist, so I was afraid this would be a deal breaker. It's been about 4 days since I got it, and I'm quite used to the positioning now. </p>
+<p>I spent a lot of time researching the netbook options in the past month and this one was up against the new HP Mini 1000, which got rave reviews, but which has one of those awkward side-positioned trackbpad buttons. After trying the Lenovo at a store, and having great experiences with the solid feel of IBM Ideapads for years as a corporate mucky muck, my decision was easily made. The Lenovo gives me greater hard disk storage options, not like the anemic SSDs. I know the tradeoffs, but I felt the HD options were fast enough. I'm not looking for sexy here, just affordable, light, fast enough, reliable enough (I say enough because it's Windows after all), rugged, and usable. It's got get thrown into a bag when I tool around town and hold up to my abuse.</p>
+<p>All in all, I'm really very pleased with it. I's only been 4 days and I've taken it out only once, however, so we'll have to reserve final judgement after a month. It gives me what I need for a limited number of use cases. I won't design on it, but I can do a good deal of reading/writing/media viewing with it. I'm using Google Chrome for web browsing, and for my primary application uses: Gmail, Google Docs, and Google Reader. I'm absolutely loving it, by the way. I can bring my Pentax DS Mobile 600 scanner with me to scan my drawings and upload to our server when I'm out sketching.</p>
+<p>That's all for now. If you're interested, you can click the Flickr photo above to see notes for what's inside my kit. Here's the contents:</p>
 <p>1) <a href="http://alchemygoods.com/haversack.html">Alchemy Goods Haversack</a>, a 6 x 6 x 11 inch shoulder bag made of recycled bicycle inner tubes and a car seat belt. Love this little bag. </p>
 <p>2) Notebook cords in a Kensington bag until I can get a strap to wrap them.</p>
 <p>3) Glasses in a cheapo case.</p>
-<p>4) The Konigi Designer&rsquo;s Notebook prototype, which you should be seeing more of on this site in &lsquo;09.</p>
+<p>4) The Konigi Designer's Notebook prototype, which you should be seeing more of on this site in '09.</p>
 <p>5) Konigi wireframe graph paper pad in a vinyl pad holder.</p>
-<p>6) Midori Traveler&rsquo;s Notebook with my weekly planner.</p>
+<p>6) Midori Traveler's Notebook with my weekly planner.</p>
 <p>7) Lenovo Ideapad S10.</p>
-<p>Not pictured is a the Pilot Coleur 0.5 mechanical pencil with 2B lead, and a Pentel Sign Pen.</p></p>
-
-<p><a href="http://www.flickr.com/photos/jibbajabba/3138042543/">http://www.flickr.com/photos/jibbajabba/3138042543/</a></p>
+<p>Not pictured is a the Pilot Coleur 0.5 mechanical pencil with 2B lead, and a Pentel Sign Pen.</p>
+<p><a href="http://www.flickr.com/photos/jibbajabba/3138042543/"><a href="http://www.flickr.com/photos/jibbajabba/3138042543/">http://www.flickr.com/photos/jibbajabba/3138042543/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Saturday, Dec 27, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -334,9 +294,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/happy-holidays-konigi/">Happy Holidays from Konigi</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/happy-holidays-from-konigi.jpg" class="notebook-image" /></div><p>I just wanted to take a moment to thank everyone who took some time out of their busy days to read Konigi this year, to provide their feedback and commentary, to download my tools, to buy notepads, and to help me keep a dialogue going with you, my new and old design and development friends. This has been a very rewarding first year playing with this blog, and I feel light years away from those years spent doing iaslash.</p>
-<p>I wish you all a safe and happy holiday season. I&rsquo;ll be slowing down quite a bit in the next few weeks to spend time with my family, but will return in the next few months with some improvements and surprises on this site. </p>
-<p>-Michael</p></p>
+  <section class="article-body">  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/happy-holidays-from-konigi.jpg" class="notebook-image" /></div><p>I just wanted to take a moment to thank everyone who took some time out of their busy days to read Konigi this year, to provide their feedback and commentary, to download my tools, to buy notepads, and to help me keep a dialogue going with you, my new and old design and development friends. This has been a very rewarding first year playing with this blog, and I feel light years away from those years spent doing iaslash.</p>
+<p>I wish you all a safe and happy holiday season. I'll be slowing down quite a bit in the next few weeks to spend time with my family, but will return in the next few months with some improvements and surprises on this site. </p>
+<p>-Michael</p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Friday, Dec 19, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -353,10 +313,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/christmas-time-easter-egg-flickr/">A Christmas Time Easter Egg on Flickr</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.flickr.com/photos/jibbajabba/3118649132/"><img src="http://media.konigi.com/notebook/flickr-xmas-easter-egg.jpg" class="notebook-image" /></a></div><p>That&rsquo;s BJ Fogg in my wireframe screenshot on <a href="http://flickr.com/">Flickr</a>, sporting a Santa hat and beard. </p>
-<p>This was spotted via <a href="http://lifehacker.com/">Lifehacker</a>. Add a note with the text &ldquo;ho ho ho hat&rdquo; to get the hat, and &ldquo;ho ho ho beard&rdquo; for the beard. I &#9829; Flickr.</p></p>
-
-<p><a href="http://www.flickr.com/photos/jibbajabba/3118649132/">http://www.flickr.com/photos/jibbajabba/3118649132/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.flickr.com/photos/jibbajabba/3118649132/"><img src="//media.konigi.com/notebook/flickr-xmas-easter-egg.jpg" class="notebook-image" /></a></div><p>That's BJ Fogg in my wireframe screenshot on <a href="http://flickr.com/">Flickr</a>, sporting a Santa hat and beard. </p>
+<p>This was spotted via <a href="http://lifehacker.com/">Lifehacker</a>. Add a note with the text "ho ho ho hat" to get the hat, and "ho ho ho beard" for the beard. I &#9829; Flickr.</p>
+<p><a href="http://www.flickr.com/photos/jibbajabba/3118649132/"><a href="http://www.flickr.com/photos/jibbajabba/3118649132/">http://www.flickr.com/photos/jibbajabba/3118649132/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Thursday, Dec 18, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -377,16 +336,15 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/software-tool-design-design-sketching/">Software Tool Design: Design by Sketching</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/"><img src="http://media.konigi.com/notebook/design-by-sketching.jpg" class="notebook-image" /></a></div><p>The <a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/">second part of Stephen Chambers&rsquo; series</a> on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.</p>
-<p>James, the team leader had just read Bill Buxton&rsquo;s <em>Sketching the User Experience</em> and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas. After some initial discomfort, a few people got the ball rolling, and then as the ideas started flowing, constraints and possibilities were clarified, revelations ensued, and useful design directions manifested themselves.</p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/"><img src="//media.konigi.com/notebook/design-by-sketching.jpg" class="notebook-image" /></a></div><p>The <a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/">second part of Stephen Chambers' series</a> on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool's interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.</p>
+<p>James, the team leader had just read Bill Buxton's <em>Sketching the User Experience</em> and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas. After some initial discomfort, a few people got the ball rolling, and then as the ideas started flowing, constraints and possibilities were clarified, revelations ensued, and useful design directions manifested themselves.</p>
 <p>Stephen writes that the 2 main things he took away from the exercise were:</p>
 <ol>
 <li>It’s easy to generate and explore new ideas when everyone is sitting around a table with a pencil and sketchbook to hand.</li>
 <li>You don’t have to second guess what someone is thinking. We often just said “Don’t try and tell me – show me.” Two minutes later you had the idea on paper, concrete and unambiguous. </li>
 </ol>
-<p>This is a wonderful example of how to get everyone (especially engineers!) on your team involved in concrete idea generation. There&rsquo;s no need to fear failure or criticism of ideas because sketches are disposable, but by having the ideas shown rather than just discussed, concepts become inherently clear rather and can be quickly refined or discarded with much less lost time when compared to first doing the work in software. The method used here might be a little extreme&ndash;taking all the computers out of the room for the duration of the exercise&ndash;but the benefits are clear, given the observations in Stephen&rsquo;s telling of the results.</p></p>
-
-<p><a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/">http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/</a></p>
+<p>This is a wonderful example of how to get everyone (especially engineers!) on your team involved in concrete idea generation. There's no need to fear failure or criticism of ideas because sketches are disposable, but by having the ideas shown rather than just discussed, concepts become inherently clear rather and can be quickly refined or discarded with much less lost time when compared to first doing the work in software. The method used here might be a little extreme--taking all the computers out of the room for the duration of the exercise--but the benefits are clear, given the observations in Stephen's telling of the results.</p>
+<p><a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/"><a href="http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/">http://www.simple-talk.com/dotnet/.net-tools/software-tool-design-design-by-sketching/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Thursday, Dec 18, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -427,15 +385,14 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/growl-alerts-web-pages/">Growl-Like Alerts in Web Pages</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://stanlemon.net/projects/jgrowl.html"><img src="http://media.konigi.com/notebook/web-growl.jpg" class="notebook-image" /></a></div><p>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. <a href="http://growl.info/">Growl</a> is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.</p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://stanlemon.net/projects/jgrowl.html"><img src="//media.konigi.com/notebook/web-growl.jpg" class="notebook-image" /></a></div><p>I just came across two Growl-like alert plugins that should be of interest to HTML prototypers. <a href="http://growl.info/">Growl</a> is a Mac OS X application that functions like a service that other applications can use to show unobtrusive messages in the monitor when things happen on the system.</p>
 <p>These javascript plugins work for the Moo Tools or JQuery libraries to provide small in-page layers in a corner or center of the page to do such things as show AJAX alerts for new content updates, e.g. show when new articles posted as iminlikewithyou does, or show changes in page state when someone is editing a wiki page perhaps. </p>
 <ul>
 <li><a href="http://icebeat.bitacoras.com/mootools/growl/">Window Growl for Moo Tools</a></li>
 <li><a href="http://stanlemon.net/projects/jgrowl.html">JGrowl for JQuery</a></li>
 </ul>
-<p>The screenshot above shows the Window Growl plugin with 2 different types of messages in view.</p></p>
-
-<p><a href="http://stanlemon.net/projects/jgrowl.html">http://stanlemon.net/projects/jgrowl.html</a></p>
+<p>The screenshot above shows the Window Growl plugin with 2 different types of messages in view.</p>
+<p><a href="http://stanlemon.net/projects/jgrowl.html"><a href="http://stanlemon.net/projects/jgrowl.html">http://stanlemon.net/projects/jgrowl.html</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 17, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -468,9 +425,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/making-modular-layout-systems/">Making Modular Layout Systems</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://24ways.org/2008/making-modular-layout-systems"><img src="http://media.konigi.com/notebook/jsm-modular-layout.jpg" class="notebook-image" /></a></div><p>Jason Santa Maria&rsquo;s <a href="http://24ways.org/2008/making-modular-layout-systems">24 Ways entry</a> provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. </p></p>
-
-<p><a href="http://24ways.org/2008/making-modular-layout-systems">http://24ways.org/2008/making-modular-layout-systems</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://24ways.org/2008/making-modular-layout-systems"><img src="//media.konigi.com/notebook/jsm-modular-layout.jpg" class="notebook-image" /></a></div><p>Jason Santa Maria's <a href="http://24ways.org/2008/making-modular-layout-systems">24 Ways entry</a> provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. </p>
+<p><a href="http://24ways.org/2008/making-modular-layout-systems"><a href="http://24ways.org/2008/making-modular-layout-systems">http://24ways.org/2008/making-modular-layout-systems</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 17, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -495,9 +451,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/undrln/">undrln</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.undrln.com/"><img src="http://media.konigi.com/bluga/wt49493243bb370.jpg"/></a></div><p><a href="http://www.undrln.com/">underln</a> is a really simple vote to promote site by smashLAB to scoop any topic or site related to the fields of advertising, marketing, and design. Only 2 inputs: title and URL, and only Title is required.</p></p>
-
-<p><a href="http://www.undrln.com/">http://www.undrln.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.undrln.com/"><img src="//media.konigi.com/bluga/wt49493243bb370.jpg"/></a></div><p><a href="http://www.undrln.com/">underln</a> is a really simple vote to promote site by smashLAB to scoop any topic or site related to the fields of advertising, marketing, and design. Only 2 inputs: title and URL, and only Title is required.</p>
+<p><a href="http://www.undrln.com/"><a href="http://www.undrln.com/">http://www.undrln.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 17, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -517,11 +472,42 @@
 
         
           <article>
-  <h2 class="post-title"><a href="http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/">Wireframing Experiences and Applications with Flash Catalyst</a></h2>
-  <section class="article-body"><p><div class="video"><embed src="http://tv.adobe.com/Embed.swf" quality="high" bgcolor="#000000" width="600" height="385" name="AdobeTVPlayer" play="true" loop="false" quality="high" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashVars="v=~b64~aHR0cDovL2Fkb2JlLmVkZ2Vib3NzLm5ldC9mbGFzaC9hZG9iZS9hZG9iZXR2Mi9tYXhfMjAwOF9kZXZlbG9wLzE1OTY3NDE2MTNfMjk0NjI0NzAwMV8yMDA0LWZseW5uLXdlZC05MzBhbS1kZXNpZ24tZGV2ZWxvcGVyLmZsdj9yc3NfZmVlZGlkPTE1Mzg0JnhtbHZlcnM9Mg==&amp;w=600&amp;t=http://tv.adobe.com/vi+f15384v1003&amp;h=385"></embed></div>
-<p>Peter Flynn gives a <a href="http://tv.adobe.com/#vi+f15384v1003">demo of wireframing in Adobe Flash Catalyst</a>, aka Thermo. Every online demo I&rsquo;ve seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release. It&rsquo;s only slightly ironic that his first 5 minutes are talk about how wireframes are by definition, low fidelity, given my last post. :)</p></p>
+  <h2 class="post-title"><a href="http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/">scribbles, incredibly simple drawing app for Mac</a></h2>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.atebits.com/software/scribbles/"><img src="//media.konigi.com/bluga/wt49481259d6483.jpg"/></a></div><p><a href="http://www.atebits.com/software/scribbles/">Scribbles</a> is perhaps the simplest drawing program I've ever tried. The app, created by atebits, gives you 4 tools: brush, move, pan, and zoom. There are 12 brush styles, a color picker, a big slider for brush size, and a layer manager. </p>
+<p>It looks deceptively simple on the surface, but when you explore a bit, you'll find some really interesting functionalities that even the advanced Mac freehand drawing tools like Sketchbook and ArtRage don't do well. One is the tracing paper mode, which gives you a transparent canvas so you can position the window over anything on screen. The other is the infinite canvas, which lets you zoom out infinitely to widen canvas by just dragging a magnifying glass cursor. It's pretty wild, and you kind of get a sense of scale of your zoomed canvas when grids are on.</p>
+<p>Seems like kind of a fun toy, but I'm sure you could do a lot more with this if you got creative.</p>
+<p><a href="http://www.atebits.com/software/scribbles/"><a href="http://www.atebits.com/software/scribbles/">http://www.atebits.com/software/scribbles/</a></a></p>
+</section>
+  <section class="metadata single bottom">
+    <div class="pub-date">Published on Tuesday, Dec 16, 2008 in <a href="/blog" class="capitalize">blog</a></div>
+    <ul class="tags">
+    
+      <li>
+        <a href="/tags/interface">interface</a>
+      </li>
+    
+      <li>
+        <a href="/tags/mac">mac</a>
+      </li>
+    
+      <li>
+        <a href="/tags/sketching">sketching</a>
+      </li>
+    
+      <li>
+        <a href="/tags/software">software</a>
+      </li>
+    
+    </ul>
+  </section>
+</article>
 
-<p><a href="http://tv.adobe.com/#vi+f15384v1003">http://tv.adobe.com/#vi+f15384v1003</a></p>
+        
+          <article>
+  <h2 class="post-title"><a href="http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/">Wireframing Experiences and Applications with Flash Catalyst</a></h2>
+  <section class="article-body">  <div class="video"><embed src="http://tv.adobe.com/Embed.swf" quality="high" bgcolor="#000000" width="600" height="385" name="AdobeTVPlayer" play="true" loop="false" quality="high" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashVars="v=~b64~aHR0cDovL2Fkb2JlLmVkZ2Vib3NzLm5ldC9mbGFzaC9hZG9iZS9hZG9iZXR2Mi9tYXhfMjAwOF9kZXZlbG9wLzE1OTY3NDE2MTNfMjk0NjI0NzAwMV8yMDA0LWZseW5uLXdlZC05MzBhbS1kZXNpZ24tZGV2ZWxvcGVyLmZsdj9yc3NfZmVlZGlkPTE1Mzg0JnhtbHZlcnM9Mg==&amp;w=600&amp;t=http://tv.adobe.com/vi+f15384v1003&amp;h=385"></embed></div>
+<p>Peter Flynn gives a <a href="http://tv.adobe.com/#vi+f15384v1003">demo of wireframing in Adobe Flash Catalyst</a>, aka Thermo. Every online demo I've seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release. It's only slightly ironic that his first 5 minutes are talk about how wireframes are by definition, low fidelity, given my last post. :)</p>
+<p><a href="http://tv.adobe.com/#vi+f15384v1003"><a href="http://tv.adobe.com/#vi+f15384v1003">http://tv.adobe.com/#vi+f15384v1003</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Tuesday, Dec 16, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -553,46 +539,13 @@
 
         
           <article>
-  <h2 class="post-title"><a href="http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/">scribbles, incredibly simple drawing app for Mac</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.atebits.com/software/scribbles/"><img src="http://media.konigi.com/bluga/wt49481259d6483.jpg"/></a></div><p><a href="http://www.atebits.com/software/scribbles/">Scribbles</a> is perhaps the simplest drawing program I&rsquo;ve ever tried. The app, created by atebits, gives you 4 tools: brush, move, pan, and zoom. There are 12 brush styles, a color picker, a big slider for brush size, and a layer manager. </p>
-<p>It looks deceptively simple on the surface, but when you explore a bit, you&rsquo;ll find some really interesting functionalities that even the advanced Mac freehand drawing tools like Sketchbook and ArtRage don&rsquo;t do well. One is the tracing paper mode, which gives you a transparent canvas so you can position the window over anything on screen. The other is the infinite canvas, which lets you zoom out infinitely to widen canvas by just dragging a magnifying glass cursor. It&rsquo;s pretty wild, and you kind of get a sense of scale of your zoomed canvas when grids are on.</p>
-<p>Seems like kind of a fun toy, but I&rsquo;m sure you could do a lot more with this if you got creative.</p></p>
-
-<p><a href="http://www.atebits.com/software/scribbles/">http://www.atebits.com/software/scribbles/</a></p>
-</section>
-  <section class="metadata single bottom">
-    <div class="pub-date">Published on Tuesday, Dec 16, 2008 in <a href="/blog" class="capitalize">blog</a></div>
-    <ul class="tags">
-    
-      <li>
-        <a href="/tags/interface">interface</a>
-      </li>
-    
-      <li>
-        <a href="/tags/mac">mac</a>
-      </li>
-    
-      <li>
-        <a href="/tags/sketching">sketching</a>
-      </li>
-    
-      <li>
-        <a href="/tags/software">software</a>
-      </li>
-    
-    </ul>
-  </section>
-</article>
-
-        
-          <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/fear-high-fidelity-wireframe/">Fear of the High Fidelity Wireframe</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/fear-hifi-wireframe.jpg" class="notebook-image" /></div><p>In Twitter today, I posted a message that I need to resist putting rounded corners on boxes in wireframes. Then I got a few replies essentially saying that stylized elements shouldn&rsquo;t be in wireframes. Context is everything. Taken out of context, it is very difficult to possibly critique a specific design technique without knowing the how and why you&rsquo;re using it. Because of that 140 character constraint in Twitter, I didn&rsquo;t really explain that this rounded corner example came from my hybrid high-fidelity wireframing and visual design document I was working on.</p>
-<p>The above is an element in a wireframe. It&rsquo;s for a special kind of tag in Traction, the product I&rsquo;ve been working on. They&rsquo;re for todo tags actually, and the element also doubles as a checkbox. If you click the checkbox, the To Do becomes a Done tag. </p>
-<p>I&rsquo;m only posting this entry now so people understand just what the hell I&rsquo;m talking about in Twitter, and get the bigger picture with regard to what I&rsquo;ve been playing at, with going from sketches to UI specs, because very often I skip the rough wireframe stage these days, and go right to design comp-quality elements in UI specs. </p>
-<p>I wireframe fast. Faster than I work in Illustrator or Photoshop. I also do all of our XHTML/CSS. But it&rsquo;s still a hell of a lot faster for me to illustrate something in OmniGraffle. That&rsquo;s its purpose after all&ndash;it&rsquo;s a drawing program. It&rsquo;s for illustrating. Maybe it&rsquo;s static and it doesn&rsquo;t illustrate everything well, but when I need interactivity, then I do it some other way. But there are times when I find it does a hell of a job at illustrating visual design too.</p>
-<p>My point is that there is a place for doing high fidelity in wireframes. The outie/innie distinction is good to point out here. In my situation, HiFi serves a purpose because I&rsquo;m the one who goes from pencil sketch to implementation just short of hooking up the back end system functionality and AJAX. There are parts we do that go from sketch to implementation, or from discussion to implementation. But there are definitely parts where I do a HiFi wireframe because it&rsquo;s a more efficient path. 99% of the time, I&rsquo;m not specifying/presenting to communicate an idea to a customer/client, I&rsquo;m creating to both test out an idea with a design/dev team and to prep the way for graphic production on a visual design that&rsquo;s already been approved.</p>
-<p>This discussion may seem out of left field, but it&rsquo;s something I do pretty regularly actually&ndash;go from Lo Fi at the onset of a project, to doing Hi Fi when visual design is there. So what&rsquo;s your take. Do you have a similar experience or treat wireframes differently than the majority of IA/IXD pros out there?</p></p>
+  <section class="article-body">  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/fear-hifi-wireframe.jpg" class="notebook-image" /></div><p>In Twitter today, I posted a message that I need to resist putting rounded corners on boxes in wireframes. Then I got a few replies essentially saying that stylized elements shouldn't be in wireframes. Context is everything. Taken out of context, it is very difficult to possibly critique a specific design technique without knowing the how and why you're using it. Because of that 140 character constraint in Twitter, I didn't really explain that this rounded corner example came from my hybrid high-fidelity wireframing and visual design document I was working on.</p>
+<p>The above is an element in a wireframe. It's for a special kind of tag in Traction, the product I've been working on. They're for todo tags actually, and the element also doubles as a checkbox. If you click the checkbox, the To Do becomes a Done tag. </p>
+<p>I'm only posting this entry now so people understand just what the hell I'm talking about in Twitter, and get the bigger picture with regard to what I've been playing at, with going from sketches to UI specs, because very often I skip the rough wireframe stage these days, and go right to design comp-quality elements in UI specs. </p>
+<p>I wireframe fast. Faster than I work in Illustrator or Photoshop. I also do all of our XHTML/CSS. But it's still a hell of a lot faster for me to illustrate something in OmniGraffle. That's its purpose after all--it's a drawing program. It's for illustrating. Maybe it's static and it doesn't illustrate everything well, but when I need interactivity, then I do it some other way. But there are times when I find it does a hell of a job at illustrating visual design too.</p>
+<p>My point is that there is a place for doing high fidelity in wireframes. The outie/innie distinction is good to point out here. In my situation, HiFi serves a purpose because I'm the one who goes from pencil sketch to implementation just short of hooking up the back end system functionality and AJAX. There are parts we do that go from sketch to implementation, or from discussion to implementation. But there are definitely parts where I do a HiFi wireframe because it's a more efficient path. 99% of the time, I'm not specifying/presenting to communicate an idea to a customer/client, I'm creating to both test out an idea with a design/dev team and to prep the way for graphic production on a visual design that's already been approved.</p>
+<p>This discussion may seem out of left field, but it's something I do pretty regularly actually--go from Lo Fi at the onset of a project, to doing Hi Fi when visual design is there. So what's your take. Do you have a similar experience or treat wireframes differently than the majority of IA/IXD pros out there?</p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 15, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -625,9 +578,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/shorty-awards/">The Shorty Awards</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://shortyawards.com/"><img src="http://media.konigi.com/bluga/wt4944fb0382a0f.jpg"/></a></div><p><a href="http://shortyawards.com/">An award</a> to celebrate short form public messaging, and honor the world&rsquo;s top Twitterers.</p></p>
-
-<p><a href="http://shortyawards.com/">http://shortyawards.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://shortyawards.com/"><img src="//media.konigi.com/bluga/wt4944fb0382a0f.jpg"/></a></div><p><a href="http://shortyawards.com/">An award</a> to celebrate short form public messaging, and honor the world's top Twitterers.</p>
+<p><a href="http://shortyawards.com/"><a href="http://shortyawards.com/">http://shortyawards.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Sunday, Dec 14, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -648,10 +600,10 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/creative-mornings-physical-computing/">Creative Mornings: Physical Computing</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/creativemornings-arduino.jpg" class="notebook-image" /></div><p>At today&rsquo;s excellent <a href="http://www.swiss-miss.com/weblog/2008/11/creativemorni-1.html">Creative Mornings</a> on physical computing, <a href="http://10minchat.com/">Zach Klein and Casey Pugh from Vimeo</a> talked about tinkering with <a href="http://www.arduino.cc/">Arduino</a>, an open-source electronics prototyping platform. They showed some simple circuit controls using the LEDs and Processing, and then demoed a Daft Punk helmet they created with LEDs, that could then be controlled/drawn on via a Flash UI. Neat stuff.  </p>
+  <section class="article-body">  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/creativemornings-arduino.jpg" class="notebook-image" /></div><p>At today's excellent <a href="http://www.swiss-miss.com/weblog/2008/11/creativemorni-1.html">Creative Mornings</a> on physical computing, <a href="http://10minchat.com/">Zach Klein and Casey Pugh from Vimeo</a> talked about tinkering with <a href="http://www.arduino.cc/">Arduino</a>, an open-source electronics prototyping platform. They showed some simple circuit controls using the LEDs and Processing, and then demoed a Daft Punk helmet they created with LEDs, that could then be controlled/drawn on via a Flash UI. Neat stuff.  </p>
 <p>Later, I got to talk to Carl, a freelance developer/interaction designer who turned me onto <a href="http://www.nycresistor.com/">NYC Resistor</a>. NYC Resistor is a hacker collective with a shared space located in downtown Brooklyn where people meet regularly to share knowledge, and hack on projects together.</p>
-<p>As a maker, I&rsquo;ve been really interested in doing more to combine my craft hobbies with my techie and interface design interests. Resistor sounds like the kind of place I&rsquo;d be able to do that, and I agree that more web people should play around in this area. Reminds me of some of the 1990&rsquo;s fusion of art/tech in NYC, ala adaweb, JODI, and Eyebeam.</p>
-<p>Resistor sounds pretty cool. I&rsquo;ve been looking for a reason to play with Processing, and looks like some Processing workshops are going on at the space. </p></p>
+<p>As a maker, I've been really interested in doing more to combine my craft hobbies with my techie and interface design interests. Resistor sounds like the kind of place I'd be able to do that, and I agree that more web people should play around in this area. Reminds me of some of the 1990's fusion of art/tech in NYC, ala adaweb, JODI, and Eyebeam.</p>
+<p>Resistor sounds pretty cool. I've been looking for a reason to play with Processing, and looks like some Processing workshops are going on at the space. </p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Friday, Dec 12, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -680,11 +632,11 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/finding-productivity-method-fits/">Finding the Productivity Method That Fits</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><img src="http://media.konigi.com/notebook/printable-ceo-task-timer.jpg" class="notebook-image" /></div><p>As many of my friends and colleagues know, I&rsquo;m one of those people that read David Allen&rsquo;s <em><a href="http://en.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done</a></em>, got the religion, and tried various methods for planning and managing project tasks, using both software and paper. In the past few years, like many, I&rsquo;ve tweaked my approach, taking bits and pieces from here and there to settle on the solution that&rsquo;s most suitable for the way I work. At this point, any resemblance to GTD might be less noticable, but it&rsquo;s beginnings are there. </p>
-<p>The methods and tools that work best for me now are influenced by <em>GTD</em>, Niel Fiore&rsquo;s <em><a href="http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/0874775043">The Now Habit</a></em>, and from a broader perspective, by ideas inspired by Napoleon Hill&rsquo;s <em><a href="http://en.wikipedia.org/wiki/Think_and_Grow_Rich">Think and Grow Rich</a></em>, which seems now to me to be less about planning your road to wealth, and more about how to use thought to visualize goals. Out of those kinds of ideas, stem the more practical suggestions of taking the larger goals and breaking them down into smaller tasks, a la the book <em><a href="http://ezinearticles.com/?How-Do-You-Eat-An-Elephant?&amp;id=945215">How Do You Eat An Elephant: One bite at a time</a></em>, which seemed to be recommended reading years ago to grad students.</p>
-<p>In any case, the sum of everything I&rsquo;ve taken from those books that I deem doable for me without being unreasonable. I do some of these with regularity, e.g. the high level planning, and others more loosely, e.g. the daily task list.</p>
+  <section class="article-body">  <div class="notebook-screenshot"><img src="//media.konigi.com/notebook/printable-ceo-task-timer.jpg" class="notebook-image" /></div><p>As many of my friends and colleagues know, I'm one of those people that read David Allen's <em><a href="http://en.wikipedia.org/wiki/Getting_Things_Done">Getting Things Done</a></em>, got the religion, and tried various methods for planning and managing project tasks, using both software and paper. In the past few years, like many, I've tweaked my approach, taking bits and pieces from here and there to settle on the solution that's most suitable for the way I work. At this point, any resemblance to GTD might be less noticable, but it's beginnings are there. </p>
+<p>The methods and tools that work best for me now are influenced by <em>GTD</em>, Niel Fiore's <em><a href="http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/0874775043">The Now Habit</a></em>, and from a broader perspective, by ideas inspired by Napoleon Hill's <em><a href="http://en.wikipedia.org/wiki/Think_and_Grow_Rich">Think and Grow Rich</a></em>, which seems now to me to be less about planning your road to wealth, and more about how to use thought to visualize goals. Out of those kinds of ideas, stem the more practical suggestions of taking the larger goals and breaking them down into smaller tasks, a la the book <em><a href="http://ezinearticles.com/?How-Do-You-Eat-An-Elephant?&amp;id=945215">How Do You Eat An Elephant: One bite at a time</a></em>, which seemed to be recommended reading years ago to grad students.</p>
+<p>In any case, the sum of everything I've taken from those books that I deem doable for me without being unreasonable. I do some of these with regularity, e.g. the high level planning, and others more loosely, e.g. the daily task list.</p>
 <p><strong>High and Mid Level Planning</strong></p>
-<p>This is the outline for a high level plan for a single project. Apply for each project, and iteratively apply to sub-projects. Revisit and revise based on changed goals in the daily/monthly/quarterly view. It&rsquo;s kind of a like a roadmap and is done at the above intervals.</p>
+<p>This is the outline for a high level plan for a single project. Apply for each project, and iteratively apply to sub-projects. Revisit and revise based on changed goals in the daily/monthly/quarterly view. It's kind of a like a roadmap and is done at the above intervals.</p>
 <ul>
 <li>Set high level goals per project and record them. This can be done for both work and personal projects.</li>
 <li>Break the high level down into steps towards achieving that goal, and further break those down into smaller and smaller bits that can each be accomplished in one sitting. Each step should be ideally accomplishable in a specific time frame, e.g. up to 1 hour on 15 minute intervals with repeat attempts as necessary.</li>
@@ -697,9 +649,9 @@
 <p>This is the day to day work of getting things done. </p>
 <ul>
 <li>Check your project folders for next actions and list all the goals that need to be done today. GTD peeps call these tickle folders, and the practice is to check these frequently to see where you are.</li>
-<li>If anything is waiting for feedback or input from someone else, file it back in or defer it, but check in with people you&rsquo;re waiting on if you have to.</li>
+<li>If anything is waiting for feedback or input from someone else, file it back in or defer it, but check in with people you're waiting on if you have to.</li>
 <li>With your list of goals for the day, mark estimated time to complete or level of effort.</li>
-<li>Start going down the list based on priority and level of effort and list tasks that you know you can complete for the day. Create a task list based on those &ldquo;can do&rdquo; actions, with estimated times to complete and checkboxes.</li>
+<li>Start going down the list based on priority and level of effort and list tasks that you know you can complete for the day. Create a task list based on those "can do" actions, with estimated times to complete and checkboxes.</li>
 <li>Record tasks completed and time to complete.</li>
 <li>At the end of the day, plan your goals for the next day.</li>
 </ul>
@@ -708,9 +660,9 @@
 <ul>
 <li>As above, adjust the higher levels according to shifted actual goals.</li>
 </ul>
-<p>That&rsquo;s a hell of a lot of stuff, and I haven&rsquo;t even included the idea of planning the things you want to do, a la Now Habit and Uncalendar. I don&rsquo;t do all of these. I do some of the above on paper in my sketchbook. At the top, I place my date and goals radar. Below, I list my tasks with checkboxes, level of effort/duration, and actual completion duration. I&rsquo;ve actually been playing around with a task book based on this, which I print and bind myself.</p>
-<p>Recently I&rsquo;ve also been turned on to some great ideas that validate the above approach and give me ideas for how to better support this obsession with finding the method the works for me. One is <a href="http://www.jackcheng.com/time-on-your-side">Jack Cheng&rsquo;s idea for forward time tagging/estimation</a> in your task list. And the other is David Seah&rsquo;s <a href="http://davidseah.com/blog/the-printable-ceo/">Printable CEO</a> work sheets for tracking actual effort, and a <a href="http://davidseah.com/tools/ett/alpha/">Emergent Time Tracker Flash app</a> he&rsquo;s developing to do time tracking, which is pictured above. I&rsquo;ve been playing with it, and it&rsquo;s really quite nice. I&rsquo;d be interested in using something like that full time on my Mac and iPhone. The Behance Network&rsquo;s <a href="http://www.actionmethod.com/">Action Method</a> is a nice web-based service that let&rsquo;s you do all of this online.</p>
-<p>Anyway, now seemed like a good time to start sharing my thoughts on what works for me, mainly because I&rsquo;m interested in hearing what works for other people. For now, I&rsquo;m sticking to a combination of OmniFocus for the longer term planning and paper for the daily planning/tracking and it&rsquo;s working for me. It&rsquo;s been amazing to see how much people like to talk about this topic, but since Merlin&rsquo;s stopped talking about GTD on 43 Folders, maybe we&rsquo;ll stop talking so much about getting things done, and just get them done. Which reminds me, this blog entry has eaten up more than 30 minutes now.</p></p>
+<p>That's a hell of a lot of stuff, and I haven't even included the idea of planning the things you want to do, a la Now Habit and Uncalendar. I don't do all of these. I do some of the above on paper in my sketchbook. At the top, I place my date and goals radar. Below, I list my tasks with checkboxes, level of effort/duration, and actual completion duration. I've actually been playing around with a task book based on this, which I print and bind myself.</p>
+<p>Recently I've also been turned on to some great ideas that validate the above approach and give me ideas for how to better support this obsession with finding the method the works for me. One is <a href="http://www.jackcheng.com/time-on-your-side">Jack Cheng's idea for forward time tagging/estimation</a> in your task list. And the other is David Seah's <a href="http://davidseah.com/blog/the-printable-ceo/">Printable CEO</a> work sheets for tracking actual effort, and a <a href="http://davidseah.com/tools/ett/alpha/">Emergent Time Tracker Flash app</a> he's developing to do time tracking, which is pictured above. I've been playing with it, and it's really quite nice. I'd be interested in using something like that full time on my Mac and iPhone. The Behance Network's <a href="http://www.actionmethod.com/">Action Method</a> is a nice web-based service that let's you do all of this online.</p>
+<p>Anyway, now seemed like a good time to start sharing my thoughts on what works for me, mainly because I'm interested in hearing what works for other people. For now, I'm sticking to a combination of OmniFocus for the longer term planning and paper for the daily planning/tracking and it's working for me. It's been amazing to see how much people like to talk about this topic, but since Merlin's stopped talking about GTD on 43 Folders, maybe we'll stop talking so much about getting things done, and just get them done. Which reminds me, this blog entry has eaten up more than 30 minutes now.</p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Friday, Dec 12, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -731,9 +683,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/trying-out-notebooks-has-become-obsession/">Trying Out Notebooks Has Become an Obsession</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="../index.html"><img src="http://media.konigi.com/notebook/trying-notebooks.jpg" class="notebook-image" /></a></div><p>Here&rsquo;s a collection of notebooks that are in heavy rotation now, and the last Rhodia I used before I started making my own. Click through for notes. <a href="http://www.flickr.com/photos/jibbajabba/3103201627/">View the photo in flickr</a> for notes about the ones in this picture.</p></p>
-
-<p><a href="../index.html"><a href="http://konigi.com/">http://konigi.com/</a></a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="../index.html"><img src="//media.konigi.com/notebook/trying-notebooks.jpg" class="notebook-image" /></a></div><p>Here's a collection of notebooks that are in heavy rotation now, and the last Rhodia I used before I started making my own. Click through for notes. <a href="http://www.flickr.com/photos/jibbajabba/3103201627/">View the photo in flickr</a> for notes about the ones in this picture.</p>
+<p><a href="../index.html">//konigi.com/</a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Friday, Dec 12, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -750,9 +701,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/50-beautiful-icon-sets/">50 Beautiful Icon Sets</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html"><img src="http://media.konigi.com/notebook/50-icon-sets.jpg" class="notebook-image" /></a></div><p>Noupe rounds up their &ldquo;<a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html">50 most beautiful icon sets of 2008</a>.&ldquo;.</p></p>
-
-<p><a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html">http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html"><img src="//media.konigi.com/notebook/50-icon-sets.jpg" class="notebook-image" /></a></div><p>Noupe rounds up their "<a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html">50 most beautiful icon sets of 2008</a>.".</p>
+<p><a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html"><a href="http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html">http://www.noupe.com/icons/50-most-beautiful-icon-sets-created-in-2008.html</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Thursday, Dec 11, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -793,9 +743,7 @@
 </ol>
 <p class="rteindent2 rtecenter"><a href="http://www.uie.com/articles/sign_in_process_reprint/">Read the full article</a> for scenarios illustrating these mistakes, and the better practices some companies employ to avoid them.</p>
 <p>&nbsp;</p>
-    
-
-<p><a href="http://www.uie.com/articles/sign_in_process_reprint/">http://www.uie.com/articles/sign_in_process_reprint/</a></p>
+<p><a href="http://www.uie.com/articles/sign_in_process_reprint/"><a href="http://www.uie.com/articles/sign_in_process_reprint/">http://www.uie.com/articles/sign_in_process_reprint/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Thursday, Dec 11, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -820,10 +768,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/twilert-twitter-search-alerts-email/">Twilert - Twitter search alerts via email</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.twilert.com/"><img src="http://media.konigi.com/bluga/wt493fb8d601bbd.jpg"/></a></div><p><a href="http://www.twilert.com/">Twilert</a> is an email alert/notification service for Twitter. Just enter any brand, product, service, or any keyword. </p>
-<p><a href="http://swissmiss.typepad.com/weblog/2008/12/twilert.html">Via SwissMiss</a></p></p>
-
-<p><a href="http://www.twilert.com/">http://www.twilert.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.twilert.com/"><img src="//media.konigi.com/bluga/wt493fb8d601bbd.jpg"/></a></div><p><a href="http://www.twilert.com/">Twilert</a> is an email alert/notification service for Twitter. Just enter any brand, product, service, or any keyword. </p>
+<p><a href="http://swissmiss.typepad.com/weblog/2008/12/twilert.html">Via SwissMiss</a></p>
+<p><a href="http://www.twilert.com/"><a href="http://www.twilert.com/">http://www.twilert.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Wednesday, Dec 10, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -844,10 +791,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/brooklyn-museum-1stfans-socially-networked-museum-membership/">Brooklyn Museum: 1stfans, a socially-networked museum membership</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.brooklynmuseum.org/join/1stfans/"><img src="http://media.konigi.com/notebook/bma-1stfans.jpg" class="notebook-image" /></a></div><p>The Brooklyn Museum continues its exploration and extension of Museum services by offering <a href="http://www.brooklynmuseum.org/join/1stfans/">1stfans</a> a socially-networked museum membership. Members pay a smaller $20 membership fee and get access to special events where they can mingle with other 1stfans members, may skip lines at film events, and get alerts via flickr, facebook, and twitter. </p>
-<p>The museum also recently added a crowd-sourced art work tagging interface that allows users to describe work in the collection using free tags, and has utilized Flickr for over a year now to promote events. </p></p>
-
-<p><a href="http://www.brooklynmuseum.org/join/1stfans/">http://www.brooklynmuseum.org/join/1stfans/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.brooklynmuseum.org/join/1stfans/"><img src="//media.konigi.com/notebook/bma-1stfans.jpg" class="notebook-image" /></a></div><p>The Brooklyn Museum continues its exploration and extension of Museum services by offering <a href="http://www.brooklynmuseum.org/join/1stfans/">1stfans</a> a socially-networked museum membership. Members pay a smaller $20 membership fee and get access to special events where they can mingle with other 1stfans members, may skip lines at film events, and get alerts via flickr, facebook, and twitter. </p>
+<p>The museum also recently added a crowd-sourced art work tagging interface that allows users to describe work in the collection using free tags, and has utilized Flickr for over a year now to promote events. </p>
+<p><a href="http://www.brooklynmuseum.org/join/1stfans/"><a href="http://www.brooklynmuseum.org/join/1stfans/">http://www.brooklynmuseum.org/join/1stfans/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 8, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -872,10 +818,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/how-do-you-design-ebook/">How do you design? Ebook</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.dubberly.com/articles/how-do-you-design.html"><img src="http://media.konigi.com/notebook/how-do-you-design-book.jpg" class="notebook-image" /></a></div><p>Hugh Dubberly has released a free <a href="http://www.dubberly.com/articles/how-do-you-design.html">E Book on design and development models</a>.</p>
-<blockquote><p>In this book, I have collected over one-hundred descriptions of design and development processes, from architecture, industrial design, mechanical engineering, quality management, and software development. They range from short mnemonic devices, such as the 4Ds (deﬁne, design, develop, deploy), to elaborate schemes, such as Archer’s 9-phase, 229-step “systematic method for designers.” Some are synonyms for the same process; others represent differing approaches to design.</p></blockquote></p>
-
-<p><a href="http://www.dubberly.com/articles/how-do-you-design.html">http://www.dubberly.com/articles/how-do-you-design.html</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.dubberly.com/articles/how-do-you-design.html"><img src="//media.konigi.com/notebook/how-do-you-design-book.jpg" class="notebook-image" /></a></div><p>Hugh Dubberly has released a free <a href="http://www.dubberly.com/articles/how-do-you-design.html">E Book on design and development models</a>.</p>
+<blockquote><p>In this book, I have collected over one-hundred descriptions of design and development processes, from architecture, industrial design, mechanical engineering, quality management, and software development. They range from short mnemonic devices, such as the 4Ds (deﬁne, design, develop, deploy), to elaborate schemes, such as Archer’s 9-phase, 229-step “systematic method for designers.” Some are synonyms for the same process; others represent differing approaches to design.</p></blockquote>
+<p><a href="http://www.dubberly.com/articles/how-do-you-design.html"><a href="http://www.dubberly.com/articles/how-do-you-design.html">http://www.dubberly.com/articles/how-do-you-design.html</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 8, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -904,10 +849,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/johnny-holland-magazine/">Johnny Holland Magazine</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://johnnyholland.org/"><img src="http://media.konigi.com/bluga/wt493d62cb2fa0a.jpg"/></a></div><p><a href="http://johnnyholland.org/">Johnny Holland Magazine</a> is an interesting new collaborative magazine co-authored by a handful of creatives who talk about experience design.</p>
-<blockquote><p>Johnny is an open collective talking, sharing and finding answers about the interaction between people and products, systems or processes.</p></blockquote></p>
-
-<p><a href="http://johnnyholland.org/">http://johnnyholland.org/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://johnnyholland.org/"><img src="//media.konigi.com/bluga/wt493d62cb2fa0a.jpg"/></a></div><p><a href="http://johnnyholland.org/">Johnny Holland Magazine</a> is an interesting new collaborative magazine co-authored by a handful of creatives who talk about experience design.</p>
+<blockquote><p>Johnny is an open collective talking, sharing and finding answers about the interaction between people and products, systems or processes.</p></blockquote>
+<p><a href="http://johnnyholland.org/"><a href="http://johnnyholland.org/">http://johnnyholland.org/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Monday, Dec 8, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -932,9 +876,8 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/tabbloid-delivers-your-rss-feeds-newsletter/">Tabbloid Delivers Your RSS Feeds as a Newsletter</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.tabbloid.com/"><img src="http://media.konigi.com/notebook/tabbloid.jpg" class="notebook-image" /></a></div><p><a href="http://www.tabbloid.com/">Tabbloid</a> sat in my tabs for a little while, because really, how interesting can yet another RSS reader be? But now that I&rsquo;ve tried it, I have to say that I&rsquo;m pretty happy with the idea of having this pushed to me for those times when I&rsquo;d rather read blog updates without my Google Reader. Tablloid turns your feeds into a cleanly designed personal magazine, and delivers a PDF to you, with links intact, at an interval you set. There&rsquo;s no sign up, and the service is free.</p></p>
-
-<p><a href="http://www.tabbloid.com/">http://www.tabbloid.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.tabbloid.com/"><img src="//media.konigi.com/notebook/tabbloid.jpg" class="notebook-image" /></a></div><p><a href="http://www.tabbloid.com/">Tabbloid</a> sat in my tabs for a little while, because really, how interesting can yet another RSS reader be? But now that I've tried it, I have to say that I'm pretty happy with the idea of having this pushed to me for those times when I'd rather read blog updates without my Google Reader. Tablloid turns your feeds into a cleanly designed personal magazine, and delivers a PDF to you, with links intact, at an interval you set. There's no sign up, and the service is free.</p>
+<p><a href="http://www.tabbloid.com/"><a href="http://www.tabbloid.com/">http://www.tabbloid.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Tuesday, Dec 2, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -959,10 +902,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/grid-system/">The Grid System</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.thegridsystem.org/"><img src="http://media.konigi.com/bluga/wt493540b9d46e8.jpg"/></a></div><p>The ultimate resource on Grid Systems. You&rsquo;ll find links to articles, books, tools, and other resources related to grid systems here. </p>
-<p>Via <a href="http://coudal.com/archives/2008/12/the_grid_system.php">Coudal</a>.</p></p>
-
-<p><a href="http://www.thegridsystem.org/">http://www.thegridsystem.org/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.thegridsystem.org/"><img src="//media.konigi.com/bluga/wt493540b9d46e8.jpg"/></a></div><p>The ultimate resource on Grid Systems. You'll find links to articles, books, tools, and other resources related to grid systems here. </p>
+<p>Via <a href="http://coudal.com/archives/2008/12/the_grid_system.php">Coudal</a>.</p>
+<p><a href="http://www.thegridsystem.org/"><a href="http://www.thegridsystem.org/">http://www.thegridsystem.org/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Tuesday, Dec 2, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -987,10 +929,9 @@
         
           <article>
   <h2 class="post-title"><a href="http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/">UX Booth: Free Website Usability Testing Reviews &amp; UX Blog</a></h2>
-  <section class="article-body"><p><div class="notebook-screenshot"><a href="http://www.uxbooth.com/"><img src="http://media.konigi.com/bluga/wt49353c9577e4c.jpg"/></a></div><p>The <a href="http://www.uxbooth.com/">UX Booth</a> is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.</p>
-<p>Via <a href="http://digitalweb.tumblr.com/">Digital Web</a></p></p>
-
-<p><a href="http://www.uxbooth.com/">http://www.uxbooth.com/</a></p>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.uxbooth.com/"><img src="//media.konigi.com/bluga/wt49353c9577e4c.jpg"/></a></div><p>The <a href="http://www.uxbooth.com/">UX Booth</a> is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.</p>
+<p>Via <a href="http://digitalweb.tumblr.com/">Digital Web</a></p>
+<p><a href="http://www.uxbooth.com/"><a href="http://www.uxbooth.com/">http://www.uxbooth.com/</a></a></p>
 </section>
   <section class="metadata single bottom">
     <div class="pub-date">Published on Tuesday, Dec 2, 2008 in <a href="/blog" class="capitalize">blog</a></div>
@@ -1017,30 +958,36 @@
 </article>
 
         
-      </div>
-      <div class="column is-one-fifth">
-        <div class="ad-primary">
-  <div class="content">
-    <h5>Visit gifmuse</h5>
-    <a href="http://gifmuse.io"><img src="//media.konigi.com/notebook/gifuse_io.jpg" alt="gifmuse.io"/></a>
-    <hr/>
-    <h5>Say Hello</h5>
-    <p><a href="/guestbook/">Sign my guestbook</a> and share a random, weird or inspirational message or whatever is on your mind.</p>
-    <hr/>
-    <h5>Blogroll</h5>
-    <ul class="unstyled">
-      <li><a href="https://alistapart.com/">A List Apart</a></li>
-      <li><a href="https://www.carryology.com/">Carryology</a></li>
-      <li><a href="https://www.designernews.co/">Designer News</a></li>
-      <li><a href="https://ello.co/">ello</a></li>
-      <li><a href="https://kottke.org/">Kottke</a></li>
-      <li><a href="https://m.signalvnoise.com/">SvN</a></li>
-      <li><a href="http://bm.straightline.jp/">straightline</a></li>
-      <li><a href="https://www.swiss-miss.com/">Swiss Miss</a></li>
+          <article>
+  <h2 class="post-title"><a href="http://konigi.com/blog/appopedia-business-app-reviews/">Appopedia, Business App Reviews</a></h2>
+  <section class="article-body">  <div class="notebook-screenshot"><a href="http://www.theappgap.com/reviews"><img src="//media.konigi.com/bluga/wt49340f29af622.jpg"/></a></div><p>The AppGap releases the <a href="http://www.theappgap.com/reviews">Appopedia</a>, a directory and review site for "2.0 apps" for work.</p>
+<p><a href="http://www.theappgap.com/reviews"><a href="http://www.theappgap.com/reviews">http://www.theappgap.com/reviews</a></a></p>
+</section>
+  <section class="metadata single bottom">
+    <div class="pub-date">Published on Monday, Dec 1, 2008 in <a href="/blog" class="capitalize">blog</a></div>
+    <ul class="tags">
+    
+      <li>
+        <a href="/tags/applications">applications</a>
+      </li>
+    
+      <li>
+        <a href="/tags/enterprise-software">enterprise software</a>
+      </li>
+    
+      <li>
+        <a href="/tags/interface">interface</a>
+      </li>
+    
+      <li>
+        <a href="/tags/reviews">reviews</a>
+      </li>
+    
     </ul>
-  </div>
-</div>
+  </section>
+</article>
 
+        
       </div>
     </div>
   </div>
@@ -1048,315 +995,48 @@
 <section class="section pagination">
   <div class="container">
     <nav>
-
 <ul class="pagination">
-    
-    <li>
-        <a href="/blog/" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-    </li>
-    
-    <li
-    >
-    <a href="/blog/page/18/" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-    </li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/">1</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/page/2/">2</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/page/3/">3</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="disabled"><span aria-hidden="true">&hellip;</span></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/page/18/">18</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    class="active"><a href="/blog/page/19/">19</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/page/20/">20</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="disabled"><span aria-hidden="true">&hellip;</span></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li
-    ><a href="/blog/page/29/">29</a></li>
-    
-    
-    <li
-    >
-    <a href="/blog/page/20/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-    </li>
-    
-    <li>
-        <a href="/blog/page/29/" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-    </li>
-    
+  <li class="page-item">
+    <a href="/blog/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+  </li>
+  <li class="page-item">
+    <a href="/blog/page/18/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/">1</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/page/2/">2</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/page/3/">3</a>
+  </li>
+  <li class="page-item disabled">
+    <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/page/18/">18</a>
+  </li>
+  <li class="page-item active">
+    <a class="page-link" href="/blog/page/19/">19</a>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/page/20/">20</a>
+  </li>
+  <li class="page-item disabled">
+    <span aria-hidden="true">&nbsp;&hellip;&nbsp;</span>
+  </li>
+  <li class="page-item">
+    <a class="page-link" href="/blog/page/29/">29</a>
+  </li>
+  <li class="page-item">
+    <a href="/blog/page/20/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+  </li>
+  <li class="page-item">
+    <a href="/blog/page/29/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+  </li>
 </ul>
+
 </nav>
   </div>
 </section>
@@ -1367,7 +1047,8 @@
 <footer class="footer">
   <div class="container">
     <div class="content has-text-centered">
-      <p><a href="/">Konigi</a> is published by Michael Angeles. Find out more <a href="/about/">about this site</a> or <a href="/contact/">contact me</a>. Screenshots &copy; their respective owners.</p>
+      <p><a href="/">Konigi</a> is published by Michael Angeles. Find out more <a href="/about/">about this site</a> or <a href="/contact/">contact me</a>.</p>
+      <p>You might be interested in my <strong><a href="/tools/graph-paper">Printable Graph Paper</a></strong> and <strong><a href="/tools/sketchbooks-diy">DIY Sketchbook Tutorial</a></strong>. Check out my campervan site! <strong><a href="https://1van2go.com">1Van2Go</a></strong></p>
     </div>
   </div>
 </footer>
@@ -1380,7 +1061,8 @@
      data-full-width>
   <div overflow></div>
 </amp-ad>
-<script src="/js/konigi.js?1565299294"></script>
+<script src="/js/konigi.js?1625000435"></script>
+<script src="https://kit.fontawesome.com/4f920426c1.js" crossorigin="anonymous"></script>
 </body>
 </html>
 

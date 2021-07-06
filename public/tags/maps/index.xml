@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maps on Konigi</title>
+    <title>maps on Konigi</title>
     <link>http://konigi.com/tags/maps/</link>
-    <description>Recent content in Maps on Konigi</description>
+    <description>Recent content in maps on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Feb 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/maps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,8 @@
       
       <guid>http://konigi.com/blog/bing-maps/</guid>
       <description>Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.
-&amp;ldquo;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&amp;rdquo; says Bing Maps&amp;rsquo; Blaise Aguera y Arcas. &amp;ldquo;Maps, directions are really just one of them.&amp;rdquo;
-http://www.youtube.com/watch?v=tQzimblL3g8</description>
+&#34;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&#34; says Bing Maps&#39; Blaise Aguera y Arcas. &#34;Maps, directions are really just one of them.&#34;
+https://www.youtube.com/watch?v=tQzimblL3g8</description>
     </item>
     
     <item>

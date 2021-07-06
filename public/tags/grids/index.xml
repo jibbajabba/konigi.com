@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grids on Konigi</title>
+    <title>grids on Konigi</title>
     <link>http://konigi.com/tags/grids/</link>
-    <description>Recent content in Grids on Konigi</description>
+    <description>Recent content in grids on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Nov 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/grids/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/grids/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
-      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.
+      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&#39;ve heard of and a few that are new to me, and showcase of sites.
 Via @zakiwarfel
 http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html</description>
     </item>
@@ -38,7 +37,7 @@ http://font.is/?p=1226</description>
       <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/wireframe-sketch-book-now-available/</guid>
-      <description>The sketch book is finally available in the store. It&amp;rsquo;s a small 8.25 x 5.5 inch wirebound book that lays flat, has a 24 x 24 grid with note block on the front (landscape orientation) and 48 x 24 grid on the back (landscape or portrait). Includes 50 perforated sheets (100 pages) printed in non-photo blue ink, and an interior flap on the back cover. For the first set sold, I&amp;rsquo;m also including a Zebra 0.</description>
+      <description>The sketch book is finally available in the store. It&#39;s a small 8.25 x 5.5 inch wirebound book that lays flat, has a 24 x 24 grid with note block on the front (landscape orientation) and 48 x 24 grid on the back (landscape or portrait). Includes 50 perforated sheets (100 pages) printed in non-photo blue ink, and an interior flap on the back cover. For the first set sold, I&#39;m also including a Zebra 0.</description>
     </item>
     
     <item>
@@ -47,9 +46,8 @@ http://font.is/?p=1226</description>
       <pubDate>Mon, 09 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/photoshop-and-illustrator-grid-templates/</guid>
-      <description>I moved the Photoshop and Illustrator templates for the Blueprint Grid System over from my personal blog at urlgreyhot to Konigi&amp;rsquo;s Tools section. So now you can make the most of the system I use here and go from sketch to wireframe, to visual design comp.
-The complete tool kit now includes:  printable graph paper graph paper notepads wireframe template Adobe Photoshop template Adobe Illlustrator template 
-http://konigi.com/tools/overview</description>
+      <description>I moved the Photoshop and Illustrator templates for the Blueprint Grid System over from my personal blog at urlgreyhot to Konigi&#39;s Tools section. So now you can make the most of the system I use here and go from sketch to wireframe, to visual design comp.
+The complete tool kit now includes:  printable graph paper graph paper notepads wireframe template Adobe Photoshop template Adobe Illlustrator template  //konigi.com/tools/overview</description>
     </item>
     
     <item>
@@ -58,7 +56,7 @@ http://konigi.com/tools/overview</description>
       <pubDate>Fri, 09 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/grid-designer-css-grid-generator/</guid>
-      <description>This is a cool browser-based CSS grid generator created by Rasmus Schultz of mindplay.dk. Lets you quickly set some column, gutter, and margin sizes using forms inputs or button controls. Similarly you can set typography with form controls, and the results are shown on screen. When you&amp;rsquo;re happy, you can bookmark your work, and export the CSS. Sweet.
+      <description>This is a cool browser-based CSS grid generator created by Rasmus Schultz of mindplay.dk. Lets you quickly set some column, gutter, and margin sizes using forms inputs or button controls. Similarly you can set typography with form controls, and the results are shown on screen. When you&#39;re happy, you can bookmark your work, and export the CSS. Sweet.
 Via @emenel
 http://grid.mindplay.dk</description>
     </item>
@@ -69,7 +67,7 @@ http://grid.mindplay.dk</description>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/grid-system/</guid>
-      <description>The ultimate resource on Grid Systems. You&amp;rsquo;ll find links to articles, books, tools, and other resources related to grid systems here. Via Coudal.
+      <description>The ultimate resource on Grid Systems. You&#39;ll find links to articles, books, tools, and other resources related to grid systems here. Via Coudal.
 http://www.thegridsystem.org/</description>
     </item>
     
@@ -79,8 +77,7 @@ http://www.thegridsystem.org/</description>
       <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/css-framework-roundup/</guid>
-      <description>Hidden Pixels recently rounded up the available CSS frameworks into a list. I happen to be evaluating CSS frameworks as well to find a flexible system to provide on a CMS I&amp;rsquo;m working on. The Hidden Pixels list isn&amp;rsquo;t very descriptive of the specific usage or value each framework has to offer, so I&amp;rsquo;ve provided a summary of each to make this a useful reference when evaluating the list.
-The CSS presentation frameworks listed below provide the underlying CSS structure for typical web site needs.</description>
+      <description>Hidden Pixels recently rounded up the available CSS frameworks into a list. I happen to be evaluating CSS frameworks as well to find a flexible system to provide on a CMS I&#39;m working on. The Hidden Pixels list isn&#39;t very descriptive of the specific usage or value each framework has to offer, so I&#39;ve provided a summary of each to make this a useful reference when evaluating the list.</description>
     </item>
     
     <item>
@@ -93,7 +90,7 @@ The CSS presentation frameworks listed below provide the underlying CSS structur
 * Lightweight (compressed weight less then 4kb)
 * Personalized width of the page in (em,px,%)
 * Use of fixed and fluid columns in the grid.
-* Elastic Layout with &amp;ldquo;em&amp;rdquo;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
+* Elastic Layout with &#34;em&#34;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
     </item>
     
     <item>

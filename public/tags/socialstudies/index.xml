@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socialstudies on Konigi</title>
+    <link>http://konigi.com/tags/socialstudies/</link>
+    <description>Recent content in socialstudies on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 23:23:31 -0700</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/tags/socialstudies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn@Home on YouTube</title>
+      <link>http://konigi.com/kidstuff/youtube-learning/</link>
+      <pubDate>Fri, 20 Mar 2020 23:23:31 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/youtube-learning/</guid>
+      <description>YouTube, Khan Academy and other learning creators partner to bring together resources and activities to make days as educational and fun as possible.</description>
+    </item>
+    
+    <item>
+      <title>Learn at Home on Scholastic</title>
+      <link>http://konigi.com/kidstuff/scholastic/</link>
+      <pubDate>Fri, 20 Mar 2020 23:15:09 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/scholastic/</guid>
+      <description>Day by day projects to keep kids learning at home.</description>
+    </item>
+    
+  </channel>
+</rss>

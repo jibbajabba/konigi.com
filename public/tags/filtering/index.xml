@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filtering on Konigi</title>
+    <title>filtering on Konigi</title>
     <link>http://konigi.com/tags/filtering/</link>
-    <description>Recent content in Filtering on Konigi</description>
+    <description>Recent content in filtering on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/filtering/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/filtering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -139,7 +138,7 @@ This solution, showing an inline set of filter criteria on a single row contrast
       <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/uniqlo-try/</guid>
-      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&amp;rsquo;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&amp;rsquo;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&amp;rsquo;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
+      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&#39;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&#39;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&#39;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
     </item>
     
     <item>
@@ -149,54 +148,6 @@ This solution, showing an inline set of filter criteria on a single row contrast
       
       <guid>http://konigi.com/interfaces/pattern-tap-tag-filtering/</guid>
       <description>Pattern Tap, an interface and visual design gallery, provides a UI for filtering using tags. Best case scenario would get rid of the filter button and also updates the set of available tags to indicate those that can be combined with the current selection (e.g. dim or hide tags that can&#39;t be combined with my selection &#34;black AND white&#34; AND simiple.&#34; Often times in interfaces that provide filtering based on all available tags or index terms, if the filtering UI doesn&#39;t update to reflect those terms that may successfully combined, the user is led down a path to an empty set.</description>
-    </item>
-    
-    <item>
-      <title>Indeed Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/indeed-faceted-navigation/</link>
-      <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/indeed-faceted-navigation/</guid>
-      <description>Job search engine Indeed offers faceted search filtering in their results. Facets include useful filtering criteria such as job title, salary range estimate, company, location, and job type. Filters beneath any facet may be selected at any point while viewing the results, and removed in an ad-hoc manner regardless of the order selected. Users may also remove all filtering to return to original results.
-1. Search interface.2. Search results with filters on left column which can be hidden/collapsed.</description>
-    </item>
-    
-    <item>
-      <title>Kayak Filtering</title>
-      <link>http://konigi.com/interfaces/kayak-filtering/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/kayak-filtering/</guid>
-      <description>Kayak provided one of the earliest examples of using AJAX to provide data filtering controls and live refinement or filtering of results. Their slider controls remain one of the best examples of how AJAX can be used to make filtering visual and intuitive. Sliders allow users to narrow down search criteria including flight duration, takeoff/landing time, and price. 1. Default filtering controls.2. Search results page.3. Search results after adjusting search filters.</description>
-    </item>
-    
-    <item>
-      <title>Roost Filtering</title>
-      <link>http://konigi.com/interfaces/roost-filtering/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/roost-filtering/</guid>
-      <description>Roost is a real estate search engine that provides full MLS listings. Their AJAX search refining filters are very similar to those provided by Kayak&#39;s travel search. The slider controls provide a visual method for narrowing down search criteria and results are updated immediately.
-1. Default filtering controls.2. Search results page.3. Search results after adjusting search filters. http://roost.com</description>
-    </item>
-    
-    <item>
-      <title>Nike Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/nike-faceted-navigation/</link>
-      <pubDate>Tue, 22 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/nike-faceted-navigation/</guid>
-      <description>The Nike Store provides an excellent faceted navigation for narrowing product listings by sensible facets including gender, product type, sport, color, and price. The site skins the faceted classification tool provided by Endeca, which allows the user to select a product attribute of interest under any facet, and continually provides feedback about the attributes in other facets that can be used to narrow your choice of products down. Nike&#39;s Flash-based implementation is appropriate and useful, and ranks among the best examples of faceted navigation you will find on either commercial or academic databases.</description>
-    </item>
-    
-    <item>
-      <title>Hulu Faceted Navigation</title>
-      <link>http://konigi.com/interfaces/hulu-faceted-navigation/</link>
-      <pubDate>Thu, 29 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/hulu-faceted-navigation/</guid>
-      <description>Hulu provides a nice faceted approach for browsing clips and episodes.
-1. Filtering navigation in left sidebar2. All facets exposed; &amp;quot;Clip&amp;quot; selected under Type facet3. &amp;quot;Comedy&amp;quot; selected under genre facet; Selecting &amp;quot;show more&amp;quot; expands to show other choices under facet4. &amp;quot;NBC&amp;quot; selected under Source facet http://hulu.com/videos/views/thumbs/all/clip/all/all/today/1</description>
     </item>
     
   </channel>

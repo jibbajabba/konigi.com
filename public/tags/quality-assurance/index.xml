@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quality Assurance on Konigi</title>
+    <title>quality assurance on Konigi</title>
     <link>http://konigi.com/tags/quality-assurance/</link>
-    <description>Recent content in Quality Assurance on Konigi</description>
+    <description>Recent content in quality assurance on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Oct 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/quality-assurance/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/quality-assurance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/saucelabs-cloud-based-cross-browser-testing/</guid>
-      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&amp;rsquo;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
+      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&#39;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ http://www.my-debugbar.com/wiki/IETester/HomePage</description>
       <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/install-multiple-versions-ie-your-pc/</guid>
-      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&amp;rsquo;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
+      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&#39;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
     </item>
     
     <item>

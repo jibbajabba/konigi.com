@@ -1,0 +1,13 @@
+{{/* END BODY */}}
+
+{{/* FOOTER */}}
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p><a href="/">Konigi</a> is published by Michael Angeles. Find out more <a href="/about/">about this site</a> or <a href="/contact/">contact me</a>.</p>
+      <p>You might be interested in my <strong><a href="/tools/graph-paper">Printable Graph Paper</a></strong> and <strong><a href="/tools/sketchbooks-diy">DIY Sketchbook Tutorial</a></strong>. Check out my campervan site! <strong><a href="https://1van2go.com">1Van2Go</a></strong></p>
+    </div>
+  </div>
+</footer>
+{{/* END FOOTER */}}
+

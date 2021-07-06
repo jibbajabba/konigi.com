@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code Libraries on Konigi</title>
+    <title>code libraries on Konigi</title>
     <link>http://konigi.com/tags/code-libraries/</link>
-    <description>Recent content in Code Libraries on Konigi</description>
+    <description>Recent content in code libraries on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/code-libraries/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/code-libraries/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -75,7 +74,7 @@ Sencha Touch allows you to develop web apps that look and feel native on Apple i
       <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/drupal-coda-clips/</guid>
-      <description>Dezinerfolio&amp;rsquo;s free Drupal snippet library for the Coda editor (Mac OS only) provides a very useful set of code clips for theming Drupal sites.
+      <description>Dezinerfolio&#39;s free Drupal snippet library for the Coda editor (Mac OS only) provides a very useful set of code clips for theming Drupal sites.
 http://www.dezinerfolio.com/freebie/drupal-coda-clips</description>
     </item>
     
@@ -85,7 +84,7 @@ http://www.dezinerfolio.com/freebie/drupal-coda-clips</description>
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/jquery-slider-gallery/</guid>
-      <description>The jQuery Slider Gallery article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&amp;rsquo;s product pages.
+      <description>The jQuery Slider Gallery article on jQuery for Designers provides a tutorial and demonstration for using jQuery plugins to create a scrolling gallery similar to the scrolling showcase on Apple&#39;s product pages.
 http://jqueryfordesigners.com/slider-gallery/</description>
     </item>
     
@@ -95,7 +94,7 @@ http://jqueryfordesigners.com/slider-gallery/</description>
       <pubDate>Wed, 21 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/uni-form/</guid>
-      <description>Uni-Form is a cool tool from Dragan Babić of Superawesome. The CSS library standardizes form markup (xhtml) and css, and &amp;ldquo;modularizes&amp;rdquo; it so even people with only basic knowledge of these technologies can get nice looking, well structured, highly customizable, semantic, accessible and usable forms. Download the plug and play XHTML and CSS and you&amp;rsquo;re ready to go.
+      <description>Uni-Form is a cool tool from Dragan Babić of Superawesome. The CSS library standardizes form markup (xhtml) and css, and &#34;modularizes&#34; it so even people with only basic knowledge of these technologies can get nice looking, well structured, highly customizable, semantic, accessible and usable forms. Download the plug and play XHTML and CSS and you&#39;re ready to go.
 http://sprawsm.com/uni-form/</description>
     </item>
     

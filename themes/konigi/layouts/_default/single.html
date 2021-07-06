@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "gnav.html" . }}
+{{ define "main" }}
 
 {{ partial "hero.html" . }}
 
@@ -14,7 +13,14 @@
           {{ if .Params.href }}
           <section class="link-out">
             {{ $url := urls.Parse .Params.href }}
-            <a href="{{ .Params.href }}" class="button is-info">Visit {{ $url.Host }}</a>
+            <a href="{{ .Params.href }}" class="button is-dark">
+              {{ if eq .Section "djsets" }}
+                Listen on
+              {{ else }}
+                Visit
+              {{ end }} 
+              {{ $url.Host }}
+            </a>
           </section>
           {{ end }}
           <hr/>
@@ -56,4 +62,4 @@
 </section>
 {{/* END CONTENT */}}
 
-{{ partial "footer.html" . }}
+{{ end }}

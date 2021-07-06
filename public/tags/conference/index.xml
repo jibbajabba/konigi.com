@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conference on Konigi</title>
+    <title>conference on Konigi</title>
     <link>http://konigi.com/tags/conference/</link>
-    <description>Recent content in Conference on Konigi</description>
+    <description>Recent content in conference on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ http://mageconf.com/</description>
       <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/99-conference/</guid>
-      <description>Behance&amp;rsquo;s 99 Percent Conference bills itself as one &amp;ldquo;&amp;hellip;that focuses less on inspiration, and more on how idea generation and organization come together to make ideas happen.&amp;rdquo; Not suprisingly, they have one of the best looking conference sites to set the stage, showcasing the speakers and event. The treatment of the slash motif morphing into the trapezoids repeated throughout the site in the photography is cool. I like the dark bold color treatment and the clean hierarchy in tables, forms, and text.</description>
+      <description>Behance&#39;s 99 Percent Conference bills itself as one &#34;...that focuses less on inspiration, and more on how idea generation and organization come together to make ideas happen.&#34; Not suprisingly, they have one of the best looking conference sites to set the stage, showcasing the speakers and event. The treatment of the slash motif morphing into the trapezoids repeated throughout the site in the photography is cool. I like the dark bold color treatment and the clean hierarchy in tables, forms, and text.</description>
     </item>
     
     <item>

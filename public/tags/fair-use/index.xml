@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fair Use on Konigi</title>
+    <title>fair use on Konigi</title>
     <link>http://konigi.com/tags/fair-use/</link>
-    <description>Recent content in Fair Use on Konigi</description>
+    <description>Recent content in fair use on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Mar 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/fair-use/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/fair-use/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/milton-glaser-shepard-fairey-and-plagiarism/</guid>
-      <description>Print Magazine interviews Milton Glaser to discuss Shepard Fairey and the topic of appropriation and plagiarism. If you&amp;rsquo;re not familiar, Fairey is the graffiti artist responsible for such iconic imagery as the ubiquitous Andre OBEY tag and the Obama Hope image. Glaser had this to say, on the topic of copying other artists&amp;rsquo; work:
+      <description>Print Magazine interviews Milton Glaser to discuss Shepard Fairey and the topic of appropriation and plagiarism. If you&#39;re not familiar, Fairey is the graffiti artist responsible for such iconic imagery as the ubiquitous Andre OBEY tag and the Obama Hope image. Glaser had this to say, on the topic of copying other artists&#39; work:
 The process of looking back at the past is very accepted in our business—the difference is when you take something without adding anything to the conversation.</description>
     </item>
     

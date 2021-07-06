@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resources on Konigi</title>
+    <title>resources on Konigi</title>
     <link>http://konigi.com/tags/resources/</link>
-    <description>Recent content in Resources on Konigi</description>
+    <description>Recent content in resources on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jun 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://projectuxd.com/</description>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/dey-alexanders-user-experience-design-resources/</guid>
-      <description>Dey Alexander Consulting&amp;rsquo;s user experience design resources directory is an extensive, categorized collection of bibliographies, tools, and resources.
+      <description>Dey Alexander Consulting&#39;s user experience design resources directory is an extensive, categorized collection of bibliographies, tools, and resources.
 http://deyalexander.com/resources/uxd/</description>
     </item>
     
@@ -57,7 +56,7 @@ http://www.iaapps.com/</description>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/webmonkey-relaunch/</guid>
-      <description>You remember Webmonkey, that web design resource many of us grew up with when we were cutting our teeth on HTML. Wired redesigned and re-launched with a few new articles, and some of the old tutes and cheat sheets seem to have been updated. The entire code library appears to be a wiki, so it&amp;rsquo;s open for editing. We&amp;rsquo;ll keep our eyes open to see if anyone kicks in some quality material.</description>
+      <description>You remember Webmonkey, that web design resource many of us grew up with when we were cutting our teeth on HTML. Wired redesigned and re-launched with a few new articles, and some of the old tutes and cheat sheets seem to have been updated. The entire code library appears to be a wiki, so it&#39;s open for editing. We&#39;ll keep our eyes open to see if anyone kicks in some quality material.</description>
     </item>
     
   </channel>

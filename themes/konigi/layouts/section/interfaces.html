@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "gnav.html" . }}
+{{ define "main" }}
 
 <section class="hero is-centered">
   <div class="hero-body">
@@ -15,21 +14,18 @@
 <section class="section">
   <div class="container">
     <div class="columns">
-      <div class="column is-four-fifths index">
+      <div class="column is-full index">
         {{ range .Paginator.Pages }}
           {{ .Render "list-node"}}
         {{ end }}
       </div>{{/* /column */}}
-      <div class="column is-one-fifth">
-        {{ partial "ad_primary.html" . }}
-      </div>{{/* /column */}}
     </div>{{/* /columns */}}
   </div>{{/* /container */}}
 </section>
-<section class="section pagination">
+<section class="section pagination index">
   <div class="container">
     <nav>{{ template "_internal/pagination.html" . }}</nav>
   </div>
 </section>
 
-{{ partial "footer.html" . }}
+{{ end }}

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tables on Konigi</title>
+    <title>tables on Konigi</title>
     <link>http://konigi.com/tags/tables/</link>
-    <description>Recent content in Tables on Konigi</description>
+    <description>Recent content in tables on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jul 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/tables/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/tables/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -55,7 +54,7 @@
       <pubDate>Tue, 06 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/zebra-striping-does-it-really-help/</guid>
-      <description>The conclusions in this A List Apart article about zebra striping, the method of using alternating row colors in tables, strike me as odd. My first reaction to the article was, &amp;ldquo;Why do you need to study the usability of that technique?&amp;rdquo; I wonder if the issue isn&amp;rsquo;t so much a question of usability, but rather of aesthetic sensibility. Bad table row style without zebra striping can adversely affect readability as much as good zebra striping or horizontal rule style.</description>
+      <description>The conclusions in this A List Apart article about zebra striping, the method of using alternating row colors in tables, strike me as odd. My first reaction to the article was, &#34;Why do you need to study the usability of that technique?&#34; I wonder if the issue isn&#39;t so much a question of usability, but rather of aesthetic sensibility. Bad table row style without zebra striping can adversely affect readability as much as good zebra striping or horizontal rule style.</description>
     </item>
     
   </channel>

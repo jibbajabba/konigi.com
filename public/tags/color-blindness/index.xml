@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Color Blindness on Konigi</title>
+    <title>color blindness on Konigi</title>
     <link>http://konigi.com/tags/color-blindness/</link>
-    <description>Recent content in Color Blindness on Konigi</description>
+    <description>Recent content in color blindness on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Aug 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/color-blindness/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/color-blindness/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,7 +35,7 @@ http://www.dasplankton.de/ContrastA/</description>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/chrometric-color-blindness-simulator/</guid>
-      <description>Chrometric is an excellent color application that simulates eight types of color blindness, blur (&amp;quot;forgotten glasses&amp;quot;), and reduced contrast (a.k.a my laptop screen on a sunny day). It is essentially a web browser, and allows you to check webpage address you enter into it. It&amp;rsquo;s an Adobe AIR, so it works on Mac/Linux/Win.
+      <description>Chrometric is an excellent color application that simulates eight types of color blindness, blur (&amp;quot;forgotten glasses&amp;quot;), and reduced contrast (a.k.a my laptop screen on a sunny day). It is essentially a web browser, and allows you to check webpage address you enter into it. It&#39;s an Adobe AIR, so it works on Mac/Linux/Win.
 http://enably.com/chrometric/</description>
     </item>
     
@@ -46,7 +45,7 @@ http://enably.com/chrometric/</description>
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/color-scheme-designer-3/</guid>
-      <description>Petr Stanicek&amp;rsquo;s Color Scheme Designer is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.
+      <description>Petr Stanicek&#39;s Color Scheme Designer is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.
 http://colorschemedesigner.com/</description>
     </item>
     

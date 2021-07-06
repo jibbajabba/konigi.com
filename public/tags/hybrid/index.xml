@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hybrid on Konigi</title>
+    <title>hybrid on Konigi</title>
     <link>http://konigi.com/tags/hybrid/</link>
-    <description>Recent content in Hybrid on Konigi</description>
+    <description>Recent content in hybrid on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Aug 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/hybrid/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/blitz-30-site/</guid>
-      <description>The latest incarnation of the online presence for Blitz Agency. I like the clean interface and the fact they haven&amp;rsquo;t abandoned flash entirely.
+      <description>The latest incarnation of the online presence for Blitz Agency. I like the clean interface and the fact they haven&#39;t abandoned flash entirely.
 http://www.blitzagency.com</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Birds on Konigi</title>
+    <title>birds on Konigi</title>
     <link>http://konigi.com/tags/birds/</link>
-    <description>Recent content in Birds on Konigi</description>
+    <description>Recent content in birds on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Mar 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/birds/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/birds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -144,159 +143,6 @@
       
       <guid>http://konigi.com/art/097/</guid>
       <description>Bald Eagle</description>
-    </item>
-    
-    <item>
-      <title>096/100</title>
-      <link>http://konigi.com/art/096/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/096/</guid>
-      <description>Peregrine Falcon</description>
-    </item>
-    
-    <item>
-      <title>095/100</title>
-      <link>http://konigi.com/art/095/</link>
-      <pubDate>Sun, 21 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/095/</guid>
-      <description>Allen’s Humminbird</description>
-    </item>
-    
-    <item>
-      <title>094/100</title>
-      <link>http://konigi.com/art/094/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/094/</guid>
-      <description>Great Blue Heron</description>
-    </item>
-    
-    <item>
-      <title>093/100</title>
-      <link>http://konigi.com/art/093/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/093/</guid>
-      <description>Stellar’s Jay</description>
-    </item>
-    
-    <item>
-      <title>092/100</title>
-      <link>http://konigi.com/art/092/</link>
-      <pubDate>Wed, 10 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/092/</guid>
-      <description>Anna’s Hummingbird</description>
-    </item>
-    
-    <item>
-      <title>091/100</title>
-      <link>http://konigi.com/art/091/</link>
-      <pubDate>Tue, 09 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/091/</guid>
-      <description>Snowy Egret</description>
-    </item>
-    
-    <item>
-      <title>090/100</title>
-      <link>http://konigi.com/art/090/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/090/</guid>
-      <description>Caspian Tern</description>
-    </item>
-    
-    <item>
-      <title>089/100</title>
-      <link>http://konigi.com/art/089/</link>
-      <pubDate>Sun, 07 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/089/</guid>
-      <description>Barn Owl</description>
-    </item>
-    
-    <item>
-      <title>088/100</title>
-      <link>http://konigi.com/art/088/</link>
-      <pubDate>Thu, 04 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/088/</guid>
-      <description>White Crowned Sparrow</description>
-    </item>
-    
-    <item>
-      <title>087/100</title>
-      <link>http://konigi.com/art/087/</link>
-      <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/087/</guid>
-      <description>California Quail</description>
-    </item>
-    
-    <item>
-      <title>086/100</title>
-      <link>http://konigi.com/art/086/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/086/</guid>
-      <description>Pileated Woodpecker</description>
-    </item>
-    
-    <item>
-      <title>085/100</title>
-      <link>http://konigi.com/art/085/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/085/</guid>
-      <description>Raven</description>
-    </item>
-    
-    <item>
-      <title>084/100</title>
-      <link>http://konigi.com/art/084/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/084/</guid>
-      <description>Kingfisher</description>
-    </item>
-    
-    <item>
-      <title>083/100</title>
-      <link>http://konigi.com/art/083/</link>
-      <pubDate>Sat, 30 Dec 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/083/</guid>
-      <description>Bufflehead</description>
-    </item>
-    
-    <item>
-      <title>082/100</title>
-      <link>http://konigi.com/art/082/</link>
-      <pubDate>Fri, 29 Dec 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/082/</guid>
-      <description>Night Heron</description>
-    </item>
-    
-    <item>
-      <title>081/100</title>
-      <link>http://konigi.com/art/081/</link>
-      <pubDate>Thu, 28 Dec 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/081/</guid>
-      <description>Great Blue Heron</description>
-    </item>
-    
-    <item>
-      <title>080/100</title>
-      <link>http://konigi.com/art/080/</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://konigi.com/art/080/</guid>
-      <description>Pelican</description>
     </item>
     
   </channel>

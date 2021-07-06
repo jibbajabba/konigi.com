@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Video on Konigi</title>
+    <title>video on Konigi</title>
     <link>http://konigi.com/tags/video/</link>
-    <description>Recent content in Video on Konigi</description>
+    <description>Recent content in video on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 16:11:46 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Fri, 06 Apr 2018 16:16:30 -0700</pubDate>
       
       <guid>http://konigi.com/links/graphic-design-basics/</guid>
-      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics&amp;nbsp; and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
+      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
     </item>
     
     <item>
@@ -54,7 +53,7 @@ http://praegnanz.de/html5video/</description>
       <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/call-recorder-skype/</guid>
-      <description>ecamm&amp;rsquo;s Call Recorder for Mac captures audio and video to save Skype calls as QuickTime movies. Useful for user interviews or screensharing sessions.
+      <description>ecamm&#39;s Call Recorder for Mac captures audio and video to save Skype calls as QuickTime movies. Useful for user interviews or screensharing sessions.
 Thanks to Thomas @vanderwal for the tip
 http://www.ecamm.com/mac/callrecorder/</description>
     </item>
@@ -65,8 +64,8 @@ http://www.ecamm.com/mac/callrecorder/</description>
       <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
-      <description>From Aaron Koblin&amp;rsquo;s TED presentation:
-&amp;ldquo;Artist Aaron Koblin takes vast amounts of data &amp;ndash; and at times vast numbers of people &amp;ndash; and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &amp;ldquo;Wilderness Downtown&amp;rdquo; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description>
+      <description>From Aaron Koblin&#39;s TED presentation:
+&#34;Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &#34;Wilderness Downtown&#34; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description>
     </item>
     
     <item>
@@ -75,7 +74,7 @@ http://www.ecamm.com/mac/callrecorder/</description>
       <pubDate>Tue, 17 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/charlie-rose-interview-jeff-bezos/</guid>
-      <description>This is a fantastic interview of Jeff Bezos on Charlie Rose where Bezos talks about why Kindle shouldn&amp;rsquo;t be the iPad and why Amazon&amp;rsquo;s new mission is &amp;quot;Earth&amp;rsquo;s most customer-centric company.&amp;quot;
+      <description>This is a fantastic interview of Jeff Bezos on Charlie Rose where Bezos talks about why Kindle shouldn&#39;t be the iPad and why Amazon&#39;s new mission is &amp;quot;Earth&#39;s most customer-centric company.&amp;quot;
 http://www.charlierose.com/view/interview/11138</description>
     </item>
     
@@ -85,7 +84,7 @@ http://www.charlierose.com/view/interview/11138</description>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ipad-video/</guid>
-      <description>The OmniGroup now has video up of the OmniGraffle for iPad showing what looks to be an awesome product. I can&amp;rsquo;t wait to get my hands on it.
+      <description>The OmniGroup now has video up of the OmniGraffle for iPad showing what looks to be an awesome product. I can&#39;t wait to get my hands on it.
 http://www.omnigroup.com/products/omnigraffle-ipad/videos/</description>
     </item>
     
@@ -95,7 +94,7 @@ http://www.omnigroup.com/products/omnigraffle-ipad/videos/</description>
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/sublimevideo-html-5-video-player/</guid>
-      <description>SublimeVideo is an HTML5 video player with full screen play and scrubbing controls. Because it&amp;rsquo;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.
+      <description>SublimeVideo is an HTML5 video player with full screen play and scrubbing controls. Because it&#39;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.
 Via @dandean
 http://jilion.com/sublime/video</description>
     </item>
@@ -126,8 +125,8 @@ http://www.webgriffe.com</description>
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
-      <description>This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
-Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &amp;ldquo;the sicker, the better.&amp;rdquo; Digging into the 86 notebooks he&amp;rsquo;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
+      <description>This is fantastic presentation from Pentagram&#39;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
+Renowned graphic designer Michael Bierut claims that he&#39;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &#34;the sicker, the better.&#34; Digging into the 86 notebooks he&#39;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
     </item>
     
     <item>
@@ -136,8 +135,8 @@ Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative
       <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/barry-schwartz-paradox-choice/</guid>
-      <description>Psychologist Barry Schwartz takes aim at a central tenet of western societies on TED: freedom of choice. In Schwartz&amp;rsquo;s estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.
-The idea that more choice leads to paralysis rather than happiness resonates strongly with me. I think about where I am in terms of my spiritual and psychological development, and I do feel dissatisfied when things aren&amp;rsquo;t perfect today and I find it troublesome that I think this way.</description>
+      <description>Psychologist Barry Schwartz takes aim at a central tenet of western societies on TED: freedom of choice. In Schwartz&#39;s estimation, choice has made us not freer but more paralyzed, not happier but more dissatisfied.
+The idea that more choice leads to paralysis rather than happiness resonates strongly with me. I think about where I am in terms of my spiritual and psychological development, and I do feel dissatisfied when things aren&#39;t perfect today and I find it troublesome that I think this way.</description>
     </item>
     
     <item>
@@ -157,658 +156,6 @@ The idea that more choice leads to paralysis rather than happiness resonates str
       <guid>http://konigi.com/links/screenr-screencasting-service/</guid>
       <description>Screenr is a web-based screen capture tool that lets you record screen video and audio from your Mac or PC and posts a link to the video, hosted on Screenr.com, to your Twitter stream.
 http://screenr.com/</description>
-    </item>
-    
-    <item>
-      <title>Wireframing over the shoulder</title>
-      <link>http://konigi.com/blog/wireframing-over-shoulder/</link>
-      <pubDate>Wed, 12 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wireframing-over-shoulder/</guid>
-      <description>This is a video on From The Couch podcast showing David Perel sketching wireframes for the Obox Theme. The first half shows David sketching, and during the second half he talks through the interface.
-View the article for more.
-http://www.from-the-couch.com/post.cfm/title/wireframing-over-the-shoulder</description>
-    </item>
-    
-    <item>
-      <title>So you&#39;re thinking about becoming a designer?</title>
-      <link>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</link>
-      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/so-youre-thinking-about-becoming-designer/</guid>
-      <description>Liz Danzico sought out the advice of digital designers and designer conspirers to ask them to respond to the following statement:
-So you’re thinking about becoming a designer? If I could tell you only one thing about going into the field, my advice would be ___________ .
- The suggestions ranged from the philosophical to the pragmatic. Below are the ones that resounded with me. Focus on empathy and understanding problems  Being empathetic helps designers create things that move people.</description>
-    </item>
-    
-    <item>
-      <title>MTV Networks: Which video ads work best?</title>
-      <link>http://konigi.com/blog/mtv-networks-which-video-ads-work-best/</link>
-      <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/mtv-networks-which-video-ads-work-best/</guid>
-      <description>CNet reports on an MTV Networks survey on the effectiveness of their video advertising formats. &#34;Project Inform,&#34; the MTV survey, found that a five-second-long &#34;pre-roll&#34; ad in advance of the clip, combined with ten seconds of a semi-transparent ad unit that takes up the lower third of the video (and starts about ten seconds in), makes up &#34;both the most effective and the most audience-friendly ad product for short-form online video,&#34;</description>
-    </item>
-    
-    <item>
-      <title>Nike Video Hero</title>
-      <link>http://konigi.com/interfaces/nike-video-hero/</link>
-      <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/nike-video-hero/</guid>
-      <description>Nike has been using a video player as hero graphic in the main Nike.com site. The player features large buttons for play controls and link to microsite (the button with the right angle quotes), star rating, playhead, low/high resolution and bandwidth switcher, a time elapse countdown, volume bars, and save/share options.
- http://www.nike.com/nikeos/p/nike/en_US/?</description>
-    </item>
-    
-    <item>
-      <title>Sick City Club</title>
-      <link>http://konigi.com/designs/submissions/sick-city-club/</link>
-      <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/sick-city-club/</guid>
-      <description>Sick City Club are a new band hotly tipped for 2009 by UK&amp;rsquo;s Radio One. The new site was designed and built by Zaum &amp;amp; Brown. It&amp;rsquo;s a full flash build powered by an xml cms. The design was inspired by traveling around a city, always being on the go. The sites most prominent feature is the bands new video playing as the background.
-http://www.sickcityclub.net</description>
-    </item>
-    
-    <item>
-      <title>MTV&#39;s brand new look</title>
-      <link>http://konigi.com/blog/mtvs-brand-new-look/</link>
-      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
-      <description>MTV International / Mad Drummer from Universal Everything on Vimeo.
- Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&amp;rsquo;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&amp;rsquo;s recent rebranding in the Tristan Eaton designed character videos.
-http://creativereview.co.uk/cr-blog/2009/june/mtvs-brand-new-look</description>
-    </item>
-    
-    <item>
-      <title>Gatorade</title>
-      <link>http://konigi.com/designs/gatorade/</link>
-      <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/gatorade/</guid>
-      <description>The Gatorade site redesign accompanies the drink maker&amp;rsquo;s rebranding and the bold type of the product names on every bottle. Every drink name is an active message about excelling in sports and the video loop that runs in the background of product and athlete pages suffuses the site with the imagery of athletes kicking ass. A product filter allows users to view by product name or nutritient.
-http://www.gatorade.com/#/products/tiger</description>
-    </item>
-    
-    <item>
-      <title>Free Flash Catalyst Tutorials on Lynda.com</title>
-      <link>http://konigi.com/blog/free-flash-catalyst-tutorials-lyndacom/</link>
-      <pubDate>Tue, 09 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/free-flash-catalyst-tutorials-lyndacom/</guid>
-      <description>Lynda.com has free introductory tutorials for the Flash Catalyst beta, screencasted by Mordy Golding.
-http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
-    </item>
-    
-    <item>
-      <title>Formula 1 Video Bandwidth Profiler</title>
-      <link>http://konigi.com/interfaces/formula-1-video-bandwidth-profiler/</link>
-      <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/formula-1-video-bandwidth-profiler/</guid>
-      <description>Formula 1&#39;s Video site provides a bandwidth profiler before display their video player. After checking your bandwidth availability, the app suggests a resolution and quality that will give you the best experience.
-1. User selects the video they wish to view.2. App assesses available bandwidth.3. App provides report of bandwidth and resolution, and suggests the option that will provide the best experience.4. Grade 2 video player. http://www.formula1.com/video/</description>
-    </item>
-    
-    <item>
-      <title>BooneOakley</title>
-      <link>http://konigi.com/designs/booneoakley/</link>
-      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/booneoakley/</guid>
-      <description>Ad agencies are outdoing each other in terms of clever uses of social media. BooneOakley&amp;rsquo;s new web site is actually a series of YouTube videos with links placed via annotations into the videos to connect all of what we might traditionally think of as sections. What they create is something like a network of hypertext connections to hold together a concept of site&amp;#8212;hacked together boundaries that create space within another larger space.</description>
-    </item>
-    
-    <item>
-      <title>Clixpy.com Click Path Tracking</title>
-      <link>http://konigi.com/links/clixpycom-click-path-tracking/</link>
-      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/clixpycom-click-path-tracking/</guid>
-      <description>Clixpy is a service that tracks everything your site’s users do, from mouse movement, clicks, and scrolling, to form inputs. The user sessions are as video for you to analyze. Installation requires pasting a few lines of JavaScript into your pages. Check out their excellent demo to see how it works.
-http://clixpy.com/</description>
-    </item>
-    
-    <item>
-      <title>Silverback Usability Testing Software</title>
-      <link>http://konigi.com/links/silverback-usability-testing-software/</link>
-      <pubDate>Tue, 14 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/silverback-usability-testing-software/</guid>
-      <description>Silverback is a simple to use usability testing application that allows you to capture screen activity, record audio and video of the participant’s voice, add chapter markers on the fly, control recording with the remote, and export to Quicktime.
-http://silverbackapp.com</description>
-    </item>
-    
-    <item>
-      <title>TMX Interactive</title>
-      <link>http://konigi.com/designs/submissions/tmx-interactive/</link>
-      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/tmx-interactive/</guid>
-      <description>This clever, comical page for interactive agency, TMX Interactive, features video of a team led by some McGruber-like dude defusing a bomb while a clock ticks down to zero. The old site with info about the company, including their portfolio is actually a lovely minimal site as well. http://www.tmxinteractive.com/</description>
-    </item>
-    
-    <item>
-      <title>Twix.com</title>
-      <link>http://konigi.com/designs/submissions/twixcom/</link>
-      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/twixcom/</guid>
-      <description>Man, the candy advertising biz sure spends a lot on creative work. While not as unexpected as the Skittles site, the interactive storytelling on Twix.com takes you through a scenario where you get to play a guy trying and lying to pick up a girl at a party by helping him make strategic decisions at each Twix moment. Guess 18-30-ish guys are their target demographic. Clever use of interactive video and a humorous story to keep you engaged on the site for more than a few seconds.</description>
-    </item>
-    
-    <item>
-      <title>Tandem Film Production</title>
-      <link>http://konigi.com/designs/submissions/tandem-film-production/</link>
-      <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/tandem-film-production/</guid>
-      <description>Tandem Film is an independent film production company like no other, which affords professional services for both Romanian and foreign companies.
-http://www.tandemfilm.com/</description>
-    </item>
-    
-    <item>
-      <title>Cooper Shows How to Do Low Fi Concept Demos</title>
-      <link>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</link>
-      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cooper-shows-how-do-low-fi-concept-demos/</guid>
-      <description>The Drawing Board: Commuter Buddy from Cooper Journal on Vimeo. Cooper Interactive&amp;rsquo;s Commuter Buddy concept video is another great find via Dave Malouf&amp;rsquo;s Engage blog. You might have already seen this one, but as Dave points out, it is a great example of using personas, narrative, and really low fidelity sketches to demonstrate a concept.
-The video above uses still photography, super-imposed photos of whiteboard drawings, and voice over narrative to describe the idea for a mobile phone application that helps a commuter to get to his ride on time, and even to remember to get off if he becomes engrossed in an article, for instance.</description>
-    </item>
-    
-    <item>
-      <title>Paula Scher gets serious at TED</title>
-      <link>http://konigi.com/blog/paula-scher-gets-serious-ted/</link>
-      <pubDate>Fri, 16 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/paula-scher-gets-serious-ted/</guid>
-      <description>Fantastic TED video of Paula Scher looking back at her career for those moments where she was able to devote time and effort to serious play and create wonderful work, and contrasting it with the unfortunate moments when the serious becomes solemn. I love how this retrospective observation of her career brings her to conclude that the best of times for her as a designer is when she comes into a project with no grounding or bearing&amp;ndash;those times where lack of history or reference point allows that kind of play to emerge.</description>
-    </item>
-    
-    <item>
-      <title>Westerdals</title>
-      <link>http://konigi.com/designs/submissions/westerdals/</link>
-      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/westerdals/</guid>
-      <description>Westerdals is a communication design school in Norway for film, tv, and graphic design. The site&amp;rsquo;s home page presents a mosaic of videos of teachers, previous teachers and current students who talk about what makes the school unique. Each of the rectangles in the grid is either a video or text block, which expands into adjacent squares on the grid when clicked in order to load a video player or text.</description>
-    </item>
-    
-    <item>
-      <title>GOOD</title>
-      <link>http://konigi.com/designs/good/</link>
-      <pubDate>Fri, 12 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/good/</guid>
-      <description>GOOD is a collaborative project that produces a print magazine, website, videos, and events that focus on the greater good and moving the world forward, e.g. towards social and environmental improvement. They donate 100% of contributions for the magazine to one of the non profit orgs they support.
-The site is utterly readable and clean, and utilizes a blog format with excellent filtering abilities. I like the layout of the entries on the main pages, which look sort of like index cards laid out across a desk.</description>
-    </item>
-    
-    <item>
-      <title>Motionographer</title>
-      <link>http://konigi.com/blog/motionographer/</link>
-      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/motionographer/</guid>
-      <description>Motionographer is a source of inspiration for filmmakers, animators and designers.
-http://motionographer.com/</description>
-    </item>
-    
-    <item>
-      <title>Sling.com Launches</title>
-      <link>http://konigi.com/blog/slingcom-launches/</link>
-      <pubDate>Mon, 24 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/slingcom-launches/</guid>
-      <description>The video portal I worked on last year went Public Beta today. Check it out at Sling.com. If you have a Sling Box, you can also now view your sling player in a web browser as well (IE/Windows only for now). I guess the rollout of features will be gradual. Can&amp;rsquo;t wait until Clip N Sling is available for Sling Box owners and more social features are released. We designed a number of very interesting interfaces which don&amp;rsquo;t appear to be available yet.</description>
-    </item>
-    
-    <item>
-      <title>ScreenToaster Free Online Screen Recorder</title>
-      <link>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</link>
-      <pubDate>Thu, 13 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/screentoaster-free-online-screen-recorder/</guid>
-      <description>ScreenToaster is a pretty incredible web application that lets you record your web browser screen without having to download desktop software. Currently, to record a screen, you open up ScreenToaster in a browser tab, navigate to the page you want to capture, click a keyword combination, and the applet starts recording. Press another key combination to stop. The service saves the session and almost immediately gives you a flash video with your recording.</description>
-    </item>
-    
-    <item>
-      <title>MSNBC.com Microsoft Surface Videos</title>
-      <link>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</link>
-      <pubDate>Mon, 20 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/msnbccom-microsoft-surface-videos/</guid>
-      <description>I&amp;rsquo;ve caught Chuck Todd using a desktop touch interface a few times on MSNBC to click through poll charts. While John King has been using a Perceptive Pixel-designed touch wall, Todd has been using a Microsoft Surface interface on a desktop. The device and manipulation of data on the screen looks very natural on this show, especially for the kind of information he&amp;rsquo;s speaking to. I think whenever there&amp;rsquo;s a lot of visual information to add to a story, this kind of an interface has potential to be very helpful and I look forward to seeing what they do at MSNBC and on other shows.</description>
-    </item>
-    
-    <item>
-      <title>Fancast</title>
-      <link>http://konigi.com/designs/fancast/</link>
-      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/fancast/</guid>
-      <description>The slight redesign of the surface on Fancast is a lovely updating that comes along with the site&amp;rsquo;s latest release and new inventory of video content. The presentation layer is sporting the clean and glossy look of white boxes with pale drop shadows that I&amp;rsquo;m fond of, as well as using soft white bevels with enough restraint to look good without going over the top. The overall look is softer, and might slightly reference the minimalist Hulu, but clearly outsexes that site.</description>
-    </item>
-    
-    <item>
-      <title>Fancast Video Player</title>
-      <link>http://konigi.com/interfaces/fancast-video-player/</link>
-      <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/fancast-video-player/</guid>
-      <description>The Fancast has a simple video player interface with typical features. No advanced features like clipping (although it does allow sharing scenes) and the features it does have are not available in full screen mode. Additionally, accessing any of those features, e.g. sharing and embedding, pauses playback. I like the simplicity of the design, but the video player could reach some parity in terms of functionality with what video users are becoming accustomed to.</description>
-    </item>
-    
-    <item>
-      <title>Firefox 3.1 Alpha Video Demo</title>
-      <link>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</link>
-      <pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/firefox-3-1-alpha-video-demo/</guid>
-      <description>Ars Technica reports on the 3.1 Alpha of Firefox, which includes support for the HTML 5 Video element which provides some functionality to developers that is not possible with Flash. Video can be interspersed with other web content, playback can be manipulated with JavaScript, and video elements can be directly accessed through the document object model.
-Bluish Coder demonstrates the Video tag in SVG to implement a Silverlight style demo in Firefox 3.</description>
-    </item>
-    
-    <item>
-      <title>CNET TV Video Player</title>
-      <link>http://konigi.com/interfaces/cnet-tv-video-player/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/cnet-tv-video-player/</guid>
-      <description>CNET TV provides a video player that showcases their large library of content including product reviews, news coverage, and special reports. The main page of CNET TV features the video player in the center stage, with a short list of featured (hot) content flanking the left side, and a playlist on the right showing the currently playing video. The player controls are simple and easy to use, but at full screen, the controls a little soft and blurry.</description>
-    </item>
-    
-    <item>
-      <title>Falling Leaves Concept UI for iPhone</title>
-      <link>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</guid>
-      <description>Not sure if the user on Vimeo who posted this is THE Woz, but he or she posted this concept user interface for an iPhone menu application that looks very interesting. The video opens with a UI that displays falling media that appear like little square stamps dropping like leaves to a desktop with contacts, photos, videos, etc. on the face of the leaves. The user can apparently pick up one of the pieces, and if it&amp;rsquo;s a video for example, start playing that video in the UI.</description>
-    </item>
-    
-    <item>
-      <title>Bill Buxton Lecture on Sketching and Experience Design at Stanford</title>
-      <link>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</link>
-      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</guid>
-      <description>Bill Buxton gives a lecture at the Stanford University Human-Computer Interaction Seminar (CS 547, June 1, 2007) giving an excellent deep dive into some of the topics in his book, Sketching User Experiences.
- Designing for experience comes with a whole new level of complexity. This is especially true in this emerging world of information appliances, reactive environments, and ubiquitous computing, where, along with those of their users, we have to factor in the convoluted behaviors of the products themselves.</description>
-    </item>
-    
-    <item>
-      <title>Interface and Interaction Design Video Bloggers</title>
-      <link>http://konigi.com/blog/interface-and-interaction-design-video-bloggers/</link>
-      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/interface-and-interaction-design-video-bloggers/</guid>
-      <description>I recently noticed that I&#39;m not the only one posting interface design and interaction videos on Vimeo. Here are 4 Vimeo users who are doing this now:
- Alex G Christian Schlatter Ivan Bachev Michael Angeles (Me)  Know of any other UI and Interaction Design video bloggers? Let me know about them.</description>
-    </item>
-    
-    <item>
-      <title>LongTail Video</title>
-      <link>http://konigi.com/blog/longtail-video/</link>
-      <pubDate>Wed, 23 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/longtail-video/</guid>
-      <description>Jeroen &amp;ldquo;JW&amp;rdquo; Wijering, developer who brought us the JW FLV Media Player has launched the LongTail Video venture. The company provides a the Video Player with ad serving pre-roll, post-roll, and mid-roll options.
-http://www.longtailvideo.com/</description>
-    </item>
-    
-    <item>
-      <title>NATIONAL TELEVISION</title>
-      <link>http://konigi.com/designs/national-television/</link>
-      <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/national-television/</guid>
-      <description>National Television is a video and film production studio in California. It&amp;rsquo;s portfolio site is among the best examples of the use of bold typography as the primary element that defines both the form and interface. The look is clean and undeniably confident.
-http://www.natl.tv/</description>
-    </item>
-    
-    <item>
-      <title>The Filter</title>
-      <link>http://konigi.com/designs/filter/</link>
-      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/filter/</guid>
-      <description>The Filter is an portal that aggregates music, TV, and video content. The project was started by Peter Gabriel and is looking to get amass a community of users who are willing to rate content so they can provide recommendations back to the community.
-The site is looking to be a comprehensive consumer experience for all media, and essentially is pulling content from various sources and providing a single interface for adding recommendations and usage metadata to that content within the confines of this community.</description>
-    </item>
-    
-    <item>
-      <title>The Secret Location</title>
-      <link>http://konigi.com/designs/secret-location/</link>
-      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/secret-location/</guid>
-      <description>The Secret Location is an agency that works on interactive, film, animation, and motion graphics. Their portfolio exemplifies their work, by providing an immersive flash experience around a conjured up story leading a character to follow a mysterious path that leads to the secret location. Luckily the story is short and engaging, because that location leads down the path to the real goods, the company site and portfolio. Once you summon the remote control in the lower left menu, you navigate with a pretty simple hierarchical tree to drill down into the portfolio.</description>
-    </item>
-    
-    <item>
-      <title>IA TV</title>
-      <link>http://konigi.com/blog/ia-tv/</link>
-      <pubDate>Fri, 13 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ia-tv/</guid>
-      <description>IA TV is a blog that posts videos related to information architecture and interaction design.
-http://iatelevision.blogspot.com/</description>
-    </item>
-    
-    <item>
-      <title>CamSpace Webcam Game Controller</title>
-      <link>http://konigi.com/blog/camspace-webcam-game-controller/</link>
-      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/camspace-webcam-game-controller/</guid>
-      <description>Camspace is pretty slick. The people at CamTrax are demoing the PC camera-based interface. At first blush, I thought it similar to the gimicky Eye Toy games, but this is much better. CamTrax is a software-based technology that enables the tracking of hand-held objects in real time, with high reliability. What you see in the demo is that the software recognizes the hand-held objects and effectively turns them into pointers and other controls that can be used to act on the simple end as a cursor, and on the more sophisticated end as a game controller.</description>
-    </item>
-    
-    <item>
-      <title>CGART: Video and Motion Graphics Showcase</title>
-      <link>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</link>
-      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</guid>
-      <description>CGART is an excellent new showcase that curates motion work covering the following areas: Motion Design, Animation, CG Animation, Cinematography, Special Effects, Interesting Advertising, Music Videos, Making of Videos, Movie Trailers, Motion Experiments.
-http://cgart.com/</description>
-    </item>
-    
-    <item>
-      <title>YouTube Media Annotation</title>
-      <link>http://konigi.com/interfaces/youtube-media-annotation/</link>
-      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/youtube-media-annotation/</guid>
-      <description>YouTube have added media annotation controls that allow users to add comment bubbles, note boxes, and links (within YouTube only) to their own videos. YouTube is not the first to add media annotations or commenting features like this, but the addition of this feature may mean we&#39;ll see more if it on video portals. The feature is similar to the video annotation that Bubbleply does. Viewers are not allowed to add annotations to other users&#39; media as is done on Flickr and iminlikewithyou.</description>
-    </item>
-    
-    <item>
-      <title>blip.tv</title>
-      <link>http://konigi.com/designs/submissions/blip-tv-0/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/blip-tv-0/</guid>
-      <description>I have a weakness for ultra clean, modern sites, especially those that are devoted to showcasing photos, screenshots, or video. The minimalist sites that minimize graphics, let type function directly as interface, and all but vanish from your awareness really let the content come to the fore. Among the video portals, blip.tv is the one that fits this description perfectly. http://blip.tv/</description>
-    </item>
-    
-    <item>
-      <title>Nokia Productions</title>
-      <link>http://konigi.com/blog/nokia-productions/</link>
-      <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/nokia-productions/</guid>
-      <description>Nokia are beggining a co-creative film project about music that will call for the contribution of film clips taken with mobile phones. The site resembles most video portals, Each video page includes a video player, sharing tools, favoriting and tagging. Finally Jumpcut&amp;rsquo;s video editing/mixing tool is provided when you click the &amp;ldquo;Remix Movie&amp;rdquo; link. This allows you to reorder clips and apply effects and transitions.
-http://promotions.yahoo.com/nokiaproductions/index.php</description>
-    </item>
-    
-    <item>
-      <title>REC: Immersive Movie Ad</title>
-      <link>http://konigi.com/blog/rec-immersive-movie-ad/</link>
-      <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/rec-immersive-movie-ad/</guid>
-      <description>The REC movie site is one of the most immersive Flash video interactive pieces I&amp;rsquo;ve seen in a long time. The site puts you into the movie as though you are watching video captured from an observer who is actually in the scene. There&amp;rsquo;s a qality to the video and the storytelling here that feels very reminiscent of the Blair Witch Project, and here it is an equally successful vehicle. After exploring and experiencing some of the terror for a few minutes, check out the video footage of audience reactions at a screening of the film.</description>
-    </item>
-    
-    <item>
-      <title>Adobe TV</title>
-      <link>http://konigi.com/designs/adobe-tv/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/adobe-tv/</guid>
-      <description>Adobe TV is a video on demand portal for information about Adobe products, including instructional videos and behind-the-scenes tours. The portal sports a dark color palette and subtle beveled edges, keeping consistent with the look and feel of applications like Lightroom and the various Labs projects, and giving the site the appearance of expensive audio/video componentry in a pro rack. The site is very simply organized, with only a handful or channels.</description>
-    </item>
-    
-    <item>
-      <title>Flickr Video!</title>
-      <link>http://konigi.com/blog/flickr-video/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/flickr-video/</guid>
-      <description>Flickr have announced that they are now letting Pro account users post video up to 90 seconds to their accounts. An invitation only group called Video! Video! Video! was created to showcase some of this new content. I&amp;rsquo;d love to post small videos to my Flickr account. I&amp;rsquo;ve always loved that my digital cameras limit me to capturing only the short moments. In a way, it reminds me of haiku, in that is forced to create poetry within the constraints and rules of the format.</description>
-    </item>
-    
-    <item>
-      <title>Fanta</title>
-      <link>http://konigi.com/designs/submissions/fanta/</link>
-      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/fanta/</guid>
-      <description>http://www.fanta.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Jockey Underwars</title>
-      <link>http://konigi.com/designs/submissions/jockey-underwars/</link>
-      <pubDate>Fri, 28 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/jockey-underwars/</guid>
-      <description>http://jockeyunderwars.com/</description>
-    </item>
-    
-    <item>
-      <title>ibeatyou rating</title>
-      <link>http://konigi.com/interfaces/ibeatyou-rating/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/ibeatyou-rating/</guid>
-      <description>ibeatyou is a video portal that allows people to create challenges to compete on anything. Users either upload a video, record from webcam, or import from YouTube.
-The rating system is a whimsical little widget for allowing a score from 1 to 5. The vote is indicated by a little blue man holding up a scrore card. They also provide a qualitative award, allowing users to give an award to the entry and name it anything they like.</description>
-    </item>
-    
-    <item>
-      <title>VBS.TV</title>
-      <link>http://konigi.com/designs/submissions/vbs-tv/</link>
-      <pubDate>Sat, 22 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/vbs-tv/</guid>
-      <description>http://www.vbs.tv/index.php</description>
-    </item>
-    
-    <item>
-      <title>Carlos Aleman</title>
-      <link>http://konigi.com/designs/submissions/carlos-aleman/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/carlos-aleman/</guid>
-      <description>http://www.carlosaleman.com</description>
-    </item>
-    
-    <item>
-      <title>Surfwise</title>
-      <link>http://konigi.com/designs/submissions/surfwise/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/surfwise/</guid>
-      <description>http://www.surfwisefilm.com/</description>
-    </item>
-    
-    <item>
-      <title>Viddyou</title>
-      <link>http://konigi.com/designs/submissions/viddyou/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/viddyou/</guid>
-      <description>http://www.viddyou.com/</description>
-    </item>
-    
-    <item>
-      <title>blip.tv</title>
-      <link>http://konigi.com/designs/submissions/blip-tv/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/blip-tv/</guid>
-      <description>http://blip.tv/</description>
-    </item>
-    
-    <item>
-      <title>Forget the Film, Watch the Titles</title>
-      <link>http://konigi.com/designs/submissions/forget-film-watch-titles/</link>
-      <pubDate>Fri, 14 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/forget-film-watch-titles/</guid>
-      <description>http://www.submarinechannel.com/titlesequences/index.jsp</description>
-    </item>
-    
-    <item>
-      <title>Toyota Matrix 09</title>
-      <link>http://konigi.com/designs/submissions/toyota-matrix-09/</link>
-      <pubDate>Mon, 10 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/toyota-matrix-09/</guid>
-      <description>http://www.fullofpotential.ca/</description>
-    </item>
-    
-    <item>
-      <title>Chanel Mobile Art</title>
-      <link>http://konigi.com/designs/submissions/chanel-mobile-art/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/chanel-mobile-art/</guid>
-      <description>http://www.chanel-mobileart.com/</description>
-    </item>
-    
-    <item>
-      <title>Motorola - Public Safety Solutions</title>
-      <link>http://konigi.com/designs/submissions/motorola-public-safety-solutions/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/motorola-public-safety-solutions/</guid>
-      <description>http://business.motorola.com/publicsafety/secondnature/site.html</description>
-    </item>
-    
-    <item>
-      <title>Toyota Corolla Features</title>
-      <link>http://konigi.com/designs/submissions/toyota-corolla-features/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/toyota-corolla-features/</guid>
-      <description>http://www.toyota.com/corolla/demos.html</description>
-    </item>
-    
-    <item>
-      <title>Kurt Stallaert</title>
-      <link>http://konigi.com/designs/submissions/kurt-stallaert/</link>
-      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/kurt-stallaert/</guid>
-      <description>http://www.kurtstallaert.com/</description>
-    </item>
-    
-    <item>
-      <title>Be Kind Rewind</title>
-      <link>http://konigi.com/designs/submissions/be-kind-rewind/</link>
-      <pubDate>Fri, 22 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/be-kind-rewind/</guid>
-      <description>http://www.bekindmovie.com/</description>
-    </item>
-    
-    <item>
-      <title>Analogue</title>
-      <link>http://konigi.com/designs/submissions/analogue/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/analogue/</guid>
-      <description>http://www.analogue.ca/main.html</description>
-    </item>
-    
-    <item>
-      <title>another graphic design portfolio</title>
-      <link>http://konigi.com/designs/submissions/another-graphic-design-portfolio/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/another-graphic-design-portfolio/</guid>
-      <description>http://anotherwebsite.net/</description>
-    </item>
-    
-    <item>
-      <title>PROTECTYOURHEAD.com - Brain Injury Prevention</title>
-      <link>http://konigi.com/designs/submissions/protectyourhead-com-brain-injury-prevention/</link>
-      <pubDate>Sat, 16 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/protectyourhead-com-brain-injury-prevention/</guid>
-      <description>http://www.protectyourhead.com/</description>
-    </item>
-    
-    <item>
-      <title>Paine&#39;s Park Project</title>
-      <link>http://konigi.com/designs/submissions/paines-park-project/</link>
-      <pubDate>Sat, 16 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/paines-park-project/</guid>
-      <description>http://www.fromlovecomespaine.com/main.php</description>
-    </item>
-    
-    <item>
-      <title>Gawker Media Video Comments</title>
-      <link>http://konigi.com/interfaces/gawker-media-video-comments/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/gawker-media-video-comments/</guid>
-      <description>Gawker Media&#39;s weblogs provide a simple method for including YouTube videos in comments. The example shown here is from the Consumerist blog. Users find a video in YouTube, copy and paste the permalink URL into their comment on the blog, and the video is embedded into their published comment. This method of transcluding content is popular in wikis, but the implementation usually involves using a special syntax. Gawker&#39;s method of using translating the permalink is dead simple.</description>
-    </item>
-    
-    <item>
-      <title>Video Demonstration of Interfaces</title>
-      <link>http://konigi.com/blog/video-demonstration-interfaces/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/video-demonstration-interfaces/</guid>
-      <description>I&#39;ve started experimenting with doing video screencasts in the interface section. You can see an example of the first one here: Gawker Media Video Comments. Scroll to the bottom of the screenshots for video--which we&#39;re going to use Vimeo&#39;s excellent video publishing service for the hosting. Here&#39;s a preview of the first video:
-Gawker Video Commenting from jibbajabba on Vimeo.  I think it makes a lot of sense to do this for interfaces because screenshots simply cannot reproduce the experience of transitions, motion, and AJAX interactions.</description>
-    </item>
-    
-    <item>
-      <title>Apple TV 2.0 Review</title>
-      <link>http://konigi.com/blog/apple-tv-2-0-review/</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apple-tv-2-0-review/</guid>
-      <description>Apple TV owners got a software update pushed to their boxes this week, and Gizmodo has a review of the software complete with screenshots and a description of the rental and purchase services now offered. I was a bit disappointed by the update at first, but like my 6 year old son said on the second day, &#34;I&#39;m getting used to it.&#34; Gone is the simple, single panel with left/right hierarchical navigation.</description>
-    </item>
-    
-    <item>
-      <title>Apple filing depicts Apple TV with iChat widget interface</title>
-      <link>http://konigi.com/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</link>
-      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apple-filing-depicts-apple-tv-ichat-widget-interface/</guid>
-      <description>AppleInsider discovers an August 2006 patent filing by Apple for features having to do with broadcast video sent over Apple TV. The patent discusses interesting ideas for widgets that overlay the screen to allow such display of information as data related to what is on, and interactions such as purchasing tickets to performances, and doing video chat.
-View photo on Flickr
-http://www.appleinsider.com/articles/08/02/07/apple_filing_depicts_apple_tv_with_ichat_widget_interface.html</description>
-    </item>
-    
-    <item>
-      <title>Howcast Video Player</title>
-      <link>http://konigi.com/interfaces/howcast-video-player/</link>
-      <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/howcast-video-player/</guid>
-      <description>Howcast is a web video site founded by veterans of Google and YouTube, to &#34;bring together the personality of user-generated content with the quality of a professional video studio.&#34; The videos produced by the site bring a higher standard of quality than Google and YouTube, and offer interesting features such as chapter markers and time-marked notes called &#34;steps&#34; in Howcast parlance. The content is targetted at information seekers of how to, tutorial, and DIY instructional video.</description>
-    </item>
-    
-    <item>
-      <title>Kaltura Video Editor</title>
-      <link>http://konigi.com/interfaces/kaltura-video-editor/</link>
-      <pubDate>Fri, 18 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/kaltura-video-editor/</guid>
-      <description>Kaltura&#39;s Flash / Flex video editor mimicks a full-featured video editor like iMovie. The company&#39;s product allows its users to add video to a collaboratively created work. The editor features nearly all of the features you would expect from a video editor, but delivers the entire interface via the web. Features include organizing clips from a media library, adding titles, transitions, and special effects, and adding and controlling soundtrack and volume.</description>
-    </item>
-    
-    <item>
-      <title>YouTube Explore Related Videos</title>
-      <link>http://konigi.com/interfaces/youtube-explore-related-videos/</link>
-      <pubDate>Mon, 17 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/youtube-explore-related-videos/</guid>
-      <description>YouTube&#39;s exploring functionality in the full-screen video player allows users to directed exploration of related videos.
-1) Clicking the explore button in the lower left brings up related videos visualization, which is sort of like a digraph that looks like a constellation of stars. 2) Circles in the center are videos. Hover over one circle expands to show you other videos related to that one, forming a cluster. Click a circle to watch a video.</description>
     </item>
     
   </channel>

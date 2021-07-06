@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awards on Konigi</title>
+    <title>awards on Konigi</title>
     <link>http://konigi.com/tags/awards/</link>
-    <description>Recent content in Awards on Konigi</description>
+    <description>Recent content in awards on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/awards/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/awards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sun, 14 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/shorty-awards/</guid>
-      <description>An award to celebrate short form public messaging, and honor the world&amp;rsquo;s top Twitterers.
+      <description>An award to celebrate short form public messaging, and honor the world&#39;s top Twitterers.
 http://shortyawards.com/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://shortyawards.com/</description>
       <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/cooper-hewitt-national-design-museum-peoples-design-award/</guid>
-      <description>Results are in of the People&amp;rsquo;s Choice award for the Cooper-Hewitt&amp;rsquo;s National Design Award. The Zon Hearing Aid grabbed the prize.
+      <description>Results are in of the People&#39;s Choice award for the Cooper-Hewitt&#39;s National Design Award. The Zon Hearing Aid grabbed the prize.
 http://peoplesdesignaward.cooperhewitt.org/2008/browse/all/0</description>
     </item>
     

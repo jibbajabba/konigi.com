@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logos on Konigi</title>
+    <title>logos on Konigi</title>
     <link>http://konigi.com/tags/logos/</link>
-    <description>Recent content in Logos on Konigi</description>
+    <description>Recent content in logos on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 May 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/logos/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/logos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://logoblink.com/2008/03/23/usa-polit-logos-2008-1960/</description>
       <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/vintage-logos/</guid>
-      <description>&amp;ldquo;A collection of vintage logos from a mid-70&amp;rsquo;s edition of the book World of Logotypes&amp;rdquo; Check the logo set on flickr.
+      <description>&#34;A collection of vintage logos from a mid-70&#39;s edition of the book World of Logotypes&#34; Check the logo set on flickr.
 http://www.flickr.com/photos/mr_carl/sets/72157604144345854/</description>
     </item>
     

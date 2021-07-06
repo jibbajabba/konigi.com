@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Radial Menus on Konigi</title>
+    <title>radial menus on Konigi</title>
     <link>http://konigi.com/tags/radial-menus/</link>
-    <description>Recent content in Radial Menus on Konigi</description>
+    <description>Recent content in radial menus on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/radial-menus/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/radial-menus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/interfaces/pinterest-mobile-radial-menus/</guid>
-      <description>Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.
-Screencast / Video http://www.pinterest.com/</description>
+      <description>&lt;p&gt;Pinterest&#39;s mobile app displays a radial menu if you tap on an image. The menu items are for functions that are also available using the icons and buttons in the top of the UI for allowing you to pin, like, or send the image.&lt;/p&gt;</description>
     </item>
     
     <item>

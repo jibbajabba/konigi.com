@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Privacy on Konigi</title>
+    <title>privacy on Konigi</title>
     <link>http://konigi.com/tags/privacy/</link>
-    <description>Recent content in Privacy on Konigi</description>
+    <description>Recent content in privacy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 May 2018 16:24:23 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Thu, 03 May 2018 16:24:23 -0700</pubDate>
       
       <guid>http://konigi.com/links/1-1-1-1-dns-service/</guid>
-      <description>1.1.1.1 is a DNS service created by Cloudflare and APNIC to offer you a more private experience on the Internet. Here’s what they say:
-Unfortunately, by default, DNS is usually slow and insecure. Your ISP, and anyone else listening in on the Internet, can see every site you visit and every app you use — even if their content is encrypted. Creepily, some DNS providers sell data about your Internet activity or use it target you with ads.</description>
+      <description>A DNS service created for a more private Internet.</description>
     </item>
     
     <item>

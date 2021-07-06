@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Input Masks on Konigi</title>
+    <title>input masks on Konigi</title>
     <link>http://konigi.com/tags/input-masks/</link>
-    <description>Recent content in Input Masks on Konigi</description>
+    <description>Recent content in input masks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/input-masks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/input-masks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/input-masks-forms/</guid>
-      <description>Luke Wroblewski pointed to Josh Bush&amp;rsquo;s Masked Input Plugin for JQuery. Luke writes that the plugin &amp;ldquo;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&amp;rdquo;</description>
+      <description>Luke Wroblewski pointed to Josh Bush&#39;s Masked Input Plugin for JQuery. Luke writes that the plugin &#34;integrate(s) formatting cues directly into an input field to help signal how to correctly answer a question. These formatting instructions are automatically included in an input and cannot be removed by a user. More importantly, a user cannot enter other non-valid characters into the input field. Check out the demo at Masked Input Plugin.&#34;</description>
     </item>
     
   </channel>

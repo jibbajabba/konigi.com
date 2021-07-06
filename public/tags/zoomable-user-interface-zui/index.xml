@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoomable User Interface Zui on Konigi</title>
+    <title>zoomable user interface (zui) on Konigi</title>
     <link>http://konigi.com/tags/zoomable-user-interface-zui/</link>
-    <description>Recent content in Zoomable User Interface Zui on Konigi</description>
+    <description>Recent content in zoomable user interface (zui) on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/zoomable-user-interface-zui/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/zoomable-user-interface-zui/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://2011.beercamp.com/</description>
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/prezi-zooming-presentation-editor/</guid>
-      <description>Prezi is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &amp;ldquo;slides&amp;rdquo; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.</description>
+      <description>Prezi is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &#34;slides&#34; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ http://2011.beercamp.com/</description>
       
       <guid>http://konigi.com/blog/hillcrest-labs-remote-control/</guid>
       <description>Hillcrest Labs provides a vision of the pointing and navigating future with their demonstration of Freespace motion-controlled TV remote.
- I came across the video demos of Hillcrest Labs&#39; remote control via NewTeevee. The video above shows a demo at the Consumer Electronics Show last winter, but check the NewTeevee link for the more complete demo of their Freespace motion control technology (sadly they won&#39;t let me embed it here). The demo shows a proof of concept software interface for the TV that allows the user to navigate and access media on their TV/Computer using the &#34;</description>
+ I came across the video demos of Hillcrest Labs&#39; remote control via NewTeevee. The video above shows a demo at the Consumer Electronics Show last winter, but check the NewTeevee link for the more complete demo of their Freespace motion control technology (sadly they won&#39;t let me embed it here).</description>
     </item>
     
     <item>

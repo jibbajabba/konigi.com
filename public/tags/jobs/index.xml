@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jobs on Konigi</title>
+    <title>jobs on Konigi</title>
     <link>http://konigi.com/tags/jobs/</link>
-    <description>Recent content in Jobs on Konigi</description>
+    <description>Recent content in jobs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/jobs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Mon, 28 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/articles/jobs/</guid>
-      <description>Professional Association Job Listings   AIGA Design Jobs  BayCHI Job Bank  CHI-JOBS Email List  IA Institute Job Board  IXDA Interaction Design Job Board  Usability Professionals Association Job Bank 
-UX Focussed   Bestica  Boxes and Arrows Job Board  DUX Jobs  HF Careers  Consortia (UK) UX Jobs  Good Experience  Indeed UX Jobs  UX Design Jobs  UX Jobs LA (Los Angeles)  UX Jobs Board</description>
+      <description>Professional Association Job Listings   AIGA Design Jobs  BayCHI Job Bank  CHI-JOBS Email List  IA Institute Job Board  IXDA Interaction Design Job Board  Usability Professionals Association Job Bank  UX Focussed   Bestica  Boxes and Arrows Job Board  DUX Jobs  HF Careers  Consortia (UK) UX Jobs  Good Experience  Indeed UX Jobs  UX Design Jobs  UX Jobs LA (Los Angeles)  UX Jobs Board  Broad Design and Technology Focus   37signals Job Board  Aquent  Authentic Jobs  Creative Circle  Creative Hotlist  elegant.</description>
     </item>
     
     <item>

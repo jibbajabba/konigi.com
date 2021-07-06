@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sketch Notes on Konigi</title>
+    <title>sketch notes on Konigi</title>
     <link>http://konigi.com/tags/sketch-notes/</link>
-    <description>Recent content in Sketch Notes on Konigi</description>
+    <description>Recent content in sketch notes on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Feb 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/sketch-notes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/sketch-notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 07 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketchnotes-2009-2010-book-eva-lotta-lamm/</guid>
-      <description>This is pretty incredible. Eva-Lotta Lamm&amp;rsquo;s self-published book contains 2 years&amp;rsquo; worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.
+      <description>This is pretty incredible. Eva-Lotta Lamm&#39;s self-published book contains 2 years&#39; worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.
 Some of the events covered in the book are UXweek 2009, d.construct 2010, Flash on the Beach 2010, UXcamp Europe 2010, offf 2010, UXcamp London, Internet Week Europe 2010, various London IA events and RSA talks.
 The book contains notes from talks by Edward Tufte, Scott McCloud, Jesse James Garrett, Ryan Singer, Tim Berners-Lee, Stephen Fry, Dave Gray, Whitney Hess, Stephen Anderson, Andy Budd, Richard Rutter, Eric Reiss, Giles Colborne, Mr.</description>
     </item>
@@ -38,7 +37,7 @@ Freehand design sketching on the iPad is for UX designers. Any app that lets you
       <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid>
-      <description>I&amp;rsquo;ve been telling people how much I dig Adobe&amp;rsquo;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&amp;rsquo;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
+      <description>I&#39;ve been telling people how much I dig Adobe&#39;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&#39;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
 I&#39;m really loving it. The adjustment is taking time, and it&#39;s not as quick as pen and paper, but it&#39;s slightly more natural using a Pogo Sketch Stylus.</description>
     </item>
     
@@ -58,7 +57,7 @@ http://www.sgmitch.com/blog/2010/02/interaction-10/</description>
       <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketchnote-army/</guid>
-      <description>Just discovered Mike Rohde&amp;rsquo;s Sketchnote Army.
+      <description>Just discovered Mike Rohde&#39;s Sketchnote Army.
 Sketchnote Army is dedicated to finding and showcasing sketchnotes and sketchnoters from around the world, from events, conferences, workshops or wherever sketchnotes are captured or created. If you sketchnote, send your sketchnotes URL to Mike Rohde to have them featured there.
 Via @katerutter
 http://sketchnotearmy.com/</description>
@@ -80,7 +79,7 @@ http://www.rohdesign.com/weblog/archives/003039.html</description>
       <pubDate>Thu, 02 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/dave-grays-sketches/</guid>
-      <description>Great sketch and sketch note collection in Dave Gray&amp;rsquo;s flickr.
+      <description>Great sketch and sketch note collection in Dave Gray&#39;s flickr.
 http://www.flickr.com/photos/davegray/sets/1672209/</description>
     </item>
     

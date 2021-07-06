@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Konigi</title>
+    <title>services on Konigi</title>
     <link>http://konigi.com/tags/services/</link>
-    <description>Recent content in Services on Konigi</description>
+    <description>Recent content in services on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jun 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/services/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ We’ve been working with foundries to develop a consistent web-only font linkin
       <pubDate>Wed, 08 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/team-whiteboarding-twiddla/</guid>
-      <description>Twiddla is an easy to use collaborative whiteboard service, but it&amp;rsquo;s really got the potential to be much more. The whiteboard lets you mark up websites and graphics, and even use a drag-drop library of interface elements for working on interface concepts collaboratively. You communicate with others in the meeting with the chat window, and you can also use built in audio-conferencing capabilities. Very impressive, and free. Would make sense for there to be options for private meetings as well as embedding the whiteboard into your CMS or intranet.</description>
+      <description>Twiddla is an easy to use collaborative whiteboard service, but it&#39;s really got the potential to be much more. The whiteboard lets you mark up websites and graphics, and even use a drag-drop library of interface elements for working on interface concepts collaboratively. You communicate with others in the meeting with the chat window, and you can also use built in audio-conferencing capabilities. Very impressive, and free. Would make sense for there to be options for private meetings as well as embedding the whiteboard into your CMS or intranet.</description>
     </item>
     
     <item>
@@ -57,7 +56,7 @@ This offers designers, advertisers and creatives, a Pre-testing technology that 
       <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/prezi-zooming-presentation-editor/</guid>
-      <description>Prezi is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &amp;ldquo;slides&amp;rdquo; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.</description>
+      <description>Prezi is an interesting web app that allows users to create Flash-based Zoomable/Pannable presentations. The interface brings up a presentation editor with a keyboard command, and displays a radial menu for placing media objects, drawing paths for prev/next animation, etc. The finished presentation allows users to step through the &#34;slides&#34; as the canvas zooms and pans. It really might be a nice service for doing things like simple product screencasts, for instance, and hopefully the finished product will allow you to export your work for embedding on your site.</description>
     </item>
     
     <item>
@@ -76,7 +75,7 @@ http://www.iplotz.com/</description>
       <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/tabbloid-delivers-your-rss-feeds-newsletter/</guid>
-      <description>Tabbloid sat in my tabs for a little while, because really, how interesting can yet another RSS reader be? But now that I&amp;rsquo;ve tried it, I have to say that I&amp;rsquo;m pretty happy with the idea of having this pushed to me for those times when I&amp;rsquo;d rather read blog updates without my Google Reader. Tablloid turns your feeds into a cleanly designed personal magazine, and delivers a PDF to you, with links intact, at an interval you set.</description>
+      <description>Tabbloid sat in my tabs for a little while, because really, how interesting can yet another RSS reader be? But now that I&#39;ve tried it, I have to say that I&#39;m pretty happy with the idea of having this pushed to me for those times when I&#39;d rather read blog updates without my Google Reader. Tablloid turns your feeds into a cleanly designed personal magazine, and delivers a PDF to you, with links intact, at an interval you set.</description>
     </item>
     
     <item>

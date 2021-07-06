@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yosemie on Konigi</title>
+    <link>http://konigi.com/tags/yosemie/</link>
+    <description>Recent content in yosemie on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2020 16:56:04 -0700</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/tags/yosemie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>121</title>
+      <link>http://konigi.com/art/121/</link>
+      <pubDate>Fri, 17 Apr 2020 16:56:04 -0700</pubDate>
+      
+      <guid>http://konigi.com/art/121/</guid>
+      <description>Golden State of Mind (Half Dome)</description>
+    </item>
+    
+  </channel>
+</rss>

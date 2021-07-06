@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monochromatic on Konigi</title>
+    <title>monochromatic on Konigi</title>
     <link>http://konigi.com/tags/monochromatic/</link>
-    <description>Recent content in Monochromatic on Konigi</description>
+    <description>Recent content in monochromatic on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/monochromatic/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/monochromatic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -66,7 +65,7 @@ The design aesthetic is modern and minimalist, and conveys a sense of wit which 
       <pubDate>Sat, 07 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/keith-hancox/</guid>
-      <description>Graphic designer Keith Hancox&amp;rsquo;s site is as spartan as it gets. He renders the monochromatic interface, including rulers, with a monospaced font, and the only graphics are the portfolio pictures. Would be easy to convert this site to use CSS rather than tables. http://www.keithhancox.com/</description>
+      <description>Graphic designer Keith Hancox&#39;s site is as spartan as it gets. He renders the monochromatic interface, including rulers, with a monospaced font, and the only graphics are the portfolio pictures. Would be easy to convert this site to use CSS rather than tables. http://www.keithhancox.com/</description>
     </item>
     
     <item>
@@ -84,8 +83,7 @@ The design aesthetic is modern and minimalist, and conveys a sense of wit which 
       <pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/standardimage/</guid>
-      <description>standardimage provides an interesting single page, scrolling interface. The global navigation persists in a fixed position in the left of the page, and clicking on any of these links scrolls the user to that area of the page. You can just as easily scroll with the scroll bar as well. In some areas, you can pan horizontally, e.g. to see more images in the portfolio of work.
-http://www.standardimage.jp/</description>
+      <description>standardimage provides an interesting single page, scrolling interface. The global navigation persists in a fixed position in the left of the page, and clicking on any of these links scrolls the user to that area of the page. You can just as easily scroll with the scroll bar as well. In some areas, you can pan horizontally, e.g. to see more images in the portfolio of work.</description>
     </item>
     
     <item>
@@ -107,21 +105,21 @@ http://www.standardimage.jp/</description>
     </item>
     
     <item>
-      <title>WALLSPANKERS PDF DOWNLOADS</title>
-      <link>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</link>
-      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</guid>
-      <description>http://wallspankers.com/wspdfzine.htm</description>
-    </item>
-    
-    <item>
       <title>street mining</title>
       <link>http://konigi.com/designs/submissions/street-mining/</link>
       <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/street-mining/</guid>
       <description>http://streetmining.net/</description>
+    </item>
+    
+    <item>
+      <title>WALLSPANKERS PDF DOWNLOADS</title>
+      <link>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</link>
+      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/designs/submissions/wallspankers-pdf-downloads/</guid>
+      <description>http://wallspankers.com/wspdfzine.htm</description>
     </item>
     
     <item>
@@ -149,15 +147,6 @@ http://www.standardimage.jp/</description>
       
       <guid>http://konigi.com/designs/submissions/analogue/</guid>
       <description>http://www.analogue.ca/main.html</description>
-    </item>
-    
-    <item>
-      <title>Quommunication</title>
-      <link>http://konigi.com/designs/submissions/quommunication/</link>
-      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/quommunication/</guid>
-      <description>http://quommunication.com/</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Optimization on Konigi</title>
+    <title>optimization on Konigi</title>
     <link>http://konigi.com/tags/optimization/</link>
-    <description>Recent content in Optimization on Konigi</description>
+    <description>Recent content in optimization on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Jun 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 15 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/clever-png-optimization-techniques/</guid>
-      <description>Sergey Chikuyonok&amp;rsquo;s Smashing Magazine article on PNG optimization is an oldie, but I just found myself returning to use it for maybe the 4th time since I originally read it. I don&amp;rsquo;t do web graphics so frequently anymore, so I always return here to get reminded of things like the posterization layer in Photoshop. See also Sergey&amp;rsquo;s JPEG Optimization article.
+      <description>Sergey Chikuyonok&#39;s Smashing Magazine article on PNG optimization is an oldie, but I just found myself returning to use it for maybe the 4th time since I originally read it. I don&#39;t do web graphics so frequently anymore, so I always return here to get reminded of things like the posterization layer in Photoshop. See also Sergey&#39;s JPEG Optimization article.
 http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/</description>
     </item>
     

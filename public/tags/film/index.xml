@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Film on Konigi</title>
+    <title>film on Konigi</title>
     <link>http://konigi.com/tags/film/</link>
-    <description>Recent content in Film on Konigi</description>
+    <description>Recent content in film on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/film/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/film/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/jiro-dreams-sushi/</guid>
-      <description>I got around to watching David Gelb&amp;rsquo;s documentary, Jiro Dreams of Sushi after seeing it making the rounds on the web repeatedly. I&amp;rsquo;ve been on a documentary kick lately, and this has made it into the category of films I&amp;rsquo;d re-watch. The film looks at the life of celebrated sushi chef, Jiro Ono, whose small restaurant serves only sushi and requires a reservation 3 months in advance, and who is regarded as the most masterful sushi chef in Japan.</description>
+      <description>I got around to watching David Gelb&#39;s documentary, Jiro Dreams of Sushi after seeing it making the rounds on the web repeatedly. I&#39;ve been on a documentary kick lately, and this has made it into the category of films I&#39;d re-watch. The film looks at the life of celebrated sushi chef, Jiro Ono, whose small restaurant serves only sushi and requires a reservation 3 months in advance, and who is regarded as the most masterful sushi chef in Japan.</description>
     </item>
     
     <item>

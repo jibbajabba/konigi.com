@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Textured on Konigi</title>
+    <title>textured on Konigi</title>
     <link>http://konigi.com/tags/textured/</link>
-    <description>Recent content in Textured on Konigi</description>
+    <description>Recent content in textured on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/textured/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/textured/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -55,7 +54,7 @@ http://bonterra.ca</description>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/handcrafted-css/</guid>
-      <description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte&amp;rsquo;s &amp;ldquo;HANDCRAFTED CSS.&amp;rdquo;
+      <description>This is the simple single-page site book site for by Dan Cederholm with Ethan Marcotte&#39;s &#34;HANDCRAFTED CSS.&#34;
 http://handcraftedcss.com/</description>
     </item>
     
@@ -129,7 +128,7 @@ http://sprockethouse.com/</description>
       <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/drykorn/</guid>
-      <description>With a tagline like &amp;ldquo;for beautiful people,&amp;rdquo; your web site better beautiful too. Drykorn totally delivers on that promise. There are very few sites I gush over, but every time I come back to this site I want to just wrap myself up in it. Each season the design takes on a new texture, in line with the colors and fabrics of their garments. The design showcased here is for Spring/Summer &amp;lsquo;08, and its appropriately light, but summery fabric background is still as rich and textured as the dark woolen background they sported in the Winter look.</description>
+      <description>With a tagline like &#34;for beautiful people,&#34; your web site better beautiful too. Drykorn totally delivers on that promise. There are very few sites I gush over, but every time I come back to this site I want to just wrap myself up in it. Each season the design takes on a new texture, in line with the colors and fabrics of their garments. The design showcased here is for Spring/Summer &#39;08, and its appropriately light, but summery fabric background is still as rich and textured as the dark woolen background they sported in the Winter look.</description>
     </item>
     
   </channel>

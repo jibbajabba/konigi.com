@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spam on Konigi</title>
+    <title>spam on Konigi</title>
     <link>http://konigi.com/tags/spam/</link>
-    <description>Recent content in Spam on Konigi</description>
+    <description>Recent content in spam on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/spam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 24 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/captchas-effect-conversion-rates/</guid>
-      <description>SEOmoz user chenry posted some i8nteresting data showing captcha&amp;rsquo;s effect on conversion rates vs. reduction in spam. Chenry was given the task of eliminating spam that was being submitted through a web form. Disliking the captcha solution, he decided run a test to compare the data after adding captcha for a period of time, with data captured after turning captcha off. He made the following observation:
+      <description>SEOmoz user chenry posted some i8nteresting data showing captcha&#39;s effect on conversion rates vs. reduction in spam. Chenry was given the task of eliminating spam that was being submitted through a web form. Disliking the captcha solution, he decided run a test to compare the data after adding captcha for a period of time, with data captured after turning captcha off. He made the following observation:
 From the data you can see that with CAPTCHA on, there was an 88% reduction in SPAM but there were 159 failed conversions.</description>
     </item>
     

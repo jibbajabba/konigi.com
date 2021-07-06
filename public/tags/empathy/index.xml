@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Empathy on Konigi</title>
+    <title>empathy on Konigi</title>
     <link>http://konigi.com/tags/empathy/</link>
-    <description>Recent content in Empathy on Konigi</description>
+    <description>Recent content in empathy on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Feb 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/empathy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 24 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/realizing-empathy-inquiry-meaning-making/</guid>
-      <description>Seung Chan Lim, better known as Slim, spent 10 years making software, working in computer science and interaction design at MAYA Design where he was the Assistant Director of Engineering. After some soul searching he began to ask why he was doing what he was doing, and at the suggestion of a mentor, he went out to do something different, something he didn&amp;rsquo;t understand. He went to art school.</description>
+      <description>Seung Chan Lim, better known as Slim, spent 10 years making software, working in computer science and interaction design at MAYA Design where he was the Assistant Director of Engineering. After some soul searching he began to ask why he was doing what he was doing, and at the suggestion of a mentor, he went out to do something different, something he didn&#39;t understand. He went to art school.</description>
     </item>
     
   </channel>

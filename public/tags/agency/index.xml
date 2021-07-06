@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agency on Konigi</title>
+    <title>agency on Konigi</title>
     <link>http://konigi.com/tags/agency/</link>
-    <description>Recent content in Agency on Konigi</description>
+    <description>Recent content in agency on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/agency/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/agency/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -84,7 +83,7 @@ http://www.kuama.net</description>
       <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/winkreative/</guid>
-      <description>Winkreative&amp;rsquo;s site is a minimalist site that feels like it makes a few design references to elements of Monocle site they designed for the magazine. I like the clean main content pages, the bento box lay out on some portfolio pages, and the intuitive navigation and portfolio filtering. http://www.winkreative.com/</description>
+      <description>Winkreative&#39;s site is a minimalist site that feels like it makes a few design references to elements of Monocle site they designed for the magazine. I like the clean main content pages, the bento box lay out on some portfolio pages, and the intuitive navigation and portfolio filtering. http://www.winkreative.com/</description>
     </item>
     
     <item>
@@ -102,7 +101,7 @@ http://www.kuama.net</description>
       <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/booneoakley/</guid>
-      <description>Ad agencies are outdoing each other in terms of clever uses of social media. BooneOakley&amp;rsquo;s new web site is actually a series of YouTube videos with links placed via annotations into the videos to connect all of what we might traditionally think of as sections. What they create is something like a network of hypertext connections to hold together a concept of site&amp;#8212;hacked together boundaries that create space within another larger space.</description>
+      <description>Ad agencies are outdoing each other in terms of clever uses of social media. BooneOakley&#39;s new web site is actually a series of YouTube videos with links placed via annotations into the videos to connect all of what we might traditionally think of as sections. What they create is something like a network of hypertext connections to hold together a concept of site&amp;#8212;hacked together boundaries that create space within another larger space.</description>
     </item>
     
     <item>
@@ -152,153 +151,6 @@ http://anaara.com</description>
       <guid>http://konigi.com/designs/submissions/baritchi/</guid>
       <description>We take things personally and we always pay attention to details because this is our style, this simply represents our way of living and our understanding of life.
 http://www.baritchi.eu</description>
-    </item>
-    
-    <item>
-      <title>Work at Play</title>
-      <link>http://konigi.com/designs/submissions/work-play/</link>
-      <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/work-play/</guid>
-      <description>Work at Play Social Media Labs is a creative agency in Vancouver, BC that works on social media projects. The behaviors make the site feel like it&amp;rsquo;s rendered in Flash, but the nice card flipping case studies on the home page, and the sliding page transitions are all done with Javascript.
-http://www.workatplay.com/</description>
-    </item>
-    
-    <item>
-      <title>YCN</title>
-      <link>http://konigi.com/designs/submissions/ycn/</link>
-      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/ycn/</guid>
-      <description>Nice minimalist design from this London, UK creative organization that is equal parts industry publisher, awards host, events coordinator, and agency, serving up design and communication needs through the members of its collective. This is a multi-faceted org, and starting with the homepage and looking around through the pages, you get the impression that there&amp;rsquo;s a lot of content on this site, and a lot of people involved. The challenge upon arriving there for the first time is to understand what they&amp;rsquo;re about.</description>
-    </item>
-    
-    <item>
-      <title>Bond Art &#43; Science</title>
-      <link>http://konigi.com/designs/bond-art-science/</link>
-      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/bond-art-science/</guid>
-      <description>The new site for Bond Art + Science mimics an instant messaging window session where Bond are talking to you directly as a potential client. Messages scroll up from the bottom in a canned discussion, almost as if viewing someone&amp;rsquo;s previous IM session. The device would have been very clever if it was actually functioning as a chat bot. This site manages to do one thing very well&amp;#8212;it gets your attention because the presentation is unexpected.</description>
-    </item>
-    
-    <item>
-      <title>IDEO</title>
-      <link>http://konigi.com/designs/ideo/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/ideo/</guid>
-      <description>The redesigned IDEO site has been sitting in a browser tab for a few weeks now because it just felt like one of those things I needed to mull over before writing about. It&amp;rsquo;s one of the few sites this year that just took me by surprise. In short, the deep treasure trove of content unleashed in this redesign is a huge departure from the tightly constrained and minimalist prior design.</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>http://konigi.com/designs/hello/</link>
-      <pubDate>Mon, 21 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/hello/</guid>
-      <description>Hello is an interactive design agency in Los Angeles, California that have worked on projects ranging from immersive online experiences to kiosks. Their Flash portfolio is a clean, minimalist layout that puts the work on center stage. Rolling over a thumbnial dislays a slides and rotates through a few thumbnails for that project. Clicking on the project turns out the lights (background color) and displays either a slideshow of project screens or a video reel.</description>
-    </item>
-    
-    <item>
-      <title>Visualbox</title>
-      <link>http://konigi.com/designs/submissions/visualbox/</link>
-      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/visualbox/</guid>
-      <description>Visualbox is an agency in Buenos Aires, Argentina. Their portfolio is a single page scrolling site with project images laid out on a slate gray tile background. Love the huge heading and the gorgeous, crisp images.
-http://www.visualboxsite.com/</description>
-    </item>
-    
-    <item>
-      <title>Schematic</title>
-      <link>http://konigi.com/designs/schematic/</link>
-      <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/schematic/</guid>
-      <description>Schematic is a large agency with 6 offices in locations including Los Angeles, New York, and London. They provide a host of services including strategy, creative, marketing, user experience and technology. It&amp;rsquo;s portfolio shows how a company site can be at once slick and easy to use. It&amp;rsquo;s easily on my list of favorites and is one of the nicest portfolios to look at. What I like about this site, besides the very clean visual design, is that it provides a very usable example of a zoomable user interface.</description>
-    </item>
-    
-    <item>
-      <title>De Facto Design Nottingham</title>
-      <link>http://konigi.com/designs/submissions/de-facto-design-nottingham/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/de-facto-design-nottingham/</guid>
-      <description>Design and Ad agency, De Facto Design presents each of the pieces in their portfolio like a stack of index cards with photos. Love the fixed navigation, the translucent header over the scrolling page, and the easing in the portfolio cards&amp;hellip; smooth as butter.
-http://www.de-facto.com/</description>
-    </item>
-    
-    <item>
-      <title>Enigmind</title>
-      <link>http://konigi.com/designs/submissions/enigmind/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/enigmind/</guid>
-      <description>Engimind is a design agency in Bogota, Columbia. Their flash site has a clean, modern, and mechanical feel, and features some unique navigation tools that allow users to click links, or use their keyboard entirely to move select sections and scroll through their portfolio. http://www.enigmind.com/#/NEWS/</description>
-    </item>
-    
-    <item>
-      <title>memo</title>
-      <link>http://konigi.com/designs/submissions/memo/</link>
-      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/memo/</guid>
-      <description>http://www.memo-ny.com/</description>
-    </item>
-    
-    <item>
-      <title>bestial</title>
-      <link>http://konigi.com/designs/submissions/bestial/</link>
-      <pubDate>Sat, 17 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/bestial/</guid>
-      <description>http://www.bestialdesign.com/</description>
-    </item>
-    
-    <item>
-      <title>Fi</title>
-      <link>http://konigi.com/designs/fi/</link>
-      <pubDate>Thu, 08 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/fi/</guid>
-      <description>Fi, the Stockholm/New York City agency that was formerly known as Fantasy Interactive built up its history by making glossy flash sites where nearly every element on the screen moved and had audio attached to it. The agency has matured over the years and uses Flash more selectively and strategically now, and the name change is meant to reflect that maturity. The founder talks about usability as the thing that will characterize Fi in the future, and their clean site update reflects that.</description>
-    </item>
-    
-    <item>
-      <title>MATRIZ COMUNICA&amp;Atilde;�&amp;Atilde;�O</title>
-      <link>http://konigi.com/designs/submissions/matriz-comunica-o/</link>
-      <pubDate>Mon, 21 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/matriz-comunica-o/</guid>
-      <description>http://www.matrizcomunicacao.com.br/html/index.html</description>
-    </item>
-    
-    <item>
-      <title>Blue Flavor</title>
-      <link>http://konigi.com/designs/submissions/blue-flavor/</link>
-      <pubDate>Wed, 16 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/blue-flavor/</guid>
-      <description>http://www.blueflavor.com/</description>
-    </item>
-    
-    <item>
-      <title>Switch Mediaworks</title>
-      <link>http://konigi.com/designs/submissions/switch-mediaworks/</link>
-      <pubDate>Tue, 08 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/switch-mediaworks/</guid>
-      <description>http://www.switchmw.com/</description>
-    </item>
-    
-    <item>
-      <title>Firstflash X-media Labor</title>
-      <link>http://konigi.com/designs/submissions/firstflash-x-media-labor/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/firstflash-x-media-labor/</guid>
-      <description>http://www.firstflash.net</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Design Presentations on Konigi</title>
+    <title>design presentations on Konigi</title>
     <link>http://konigi.com/tags/design-presentations/</link>
-    <description>Recent content in Design Presentations on Konigi</description>
+    <description>Recent content in design presentations on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/design-presentations/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/design-presentations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sun, 02 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</guid>
-      <description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more&amp;hellip; Check its features!
+      <description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more... Check its features!
 http://vyoopoint.com/about/why/why_vyoopoint/index.html</description>
     </item>
     

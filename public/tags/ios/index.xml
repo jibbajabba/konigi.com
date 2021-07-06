@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ios on Konigi</title>
+    <title>iOS on Konigi</title>
     <link>http://konigi.com/tags/ios/</link>
-    <description>Recent content in Ios on Konigi</description>
+    <description>Recent content in iOS on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,8 @@
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/origami-design-prototyping-quartz-composer/</guid>
-      <description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that&amp;rsquo;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&amp;rsquo;s UI allows you connect patches with wires (or tubes, if you&amp;rsquo;re familiar with that metaphor) to perform tasks or set behaviors and properties.
-Jay Thrash&amp;rsquo;s video explains how to use it.</description>
+      <description>Origami is a free toolkit created by the Facebook Design team for Quartz Composer, the visual programming tool that&#39;s available with the Apple XCode development environment. Origami provides patches that can be added to your Quartz Composer library, to create interactive prototypes without programming. Quartz composer&#39;s UI allows you connect patches with wires (or tubes, if you&#39;re familiar with that metaphor) to perform tasks or set behaviors and properties.
+Jay Thrash&#39;s video explains how to use it.</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@ Jay Thrash&amp;rsquo;s video explains how to use it.</description>
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&amp;rsquo;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&amp;rsquo;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
 http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
     </item>
     
@@ -47,7 +46,7 @@ http://tapotype.com/</description>
       <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid>
-      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.</description>
+      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&#39;s face and hands.</description>
     </item>
     
     <item>
@@ -79,8 +78,8 @@ http://blog.cohdoo.com/post/9293679992/icon-grids</description>
       <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/ios-stencils-omnigraffle/</guid>
-      <description>I&amp;rsquo;ve been asked several times in the past to add iOS stencils to the wireframe stencil set I make. These are some that I know of, and have been recommended to me by @OmniGraffle and @jmk.
- iA&amp;rsquo;s OmniGraffle port of the Teehan+Lax iPad Stencils David Morford&amp;rsquo;s iOS Design Stencils iPad and iPhone Design  I prefer to link to these than to throw together something myself until I actually work on an iOS project.</description>
+      <description>I&#39;ve been asked several times in the past to add iOS stencils to the wireframe stencil set I make. These are some that I know of, and have been recommended to me by @OmniGraffle and @jmk.
+ iA&#39;s OmniGraffle port of the Teehan+Lax iPad Stencils David Morford&#39;s iOS Design Stencils iPad and iPhone Design  I prefer to link to these than to throw together something myself until I actually work on an iOS project.</description>
     </item>
     
     <item>

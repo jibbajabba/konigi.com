@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statistics on Konigi</title>
+    <title>statistics on Konigi</title>
     <link>http://konigi.com/tags/statistics/</link>
-    <description>Recent content in Statistics on Konigi</description>
+    <description>Recent content in statistics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Oct 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/visualizingorg/</guid>
-      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:
+      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:
 It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
     </item>
     
@@ -58,7 +57,7 @@ http://www.omnipotent.net/jquery.sparkline/</description>
       <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/browser-wars/</guid>
-      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &amp;ldquo;Napoleon&amp;rsquo;s March&amp;rdquo; graphic in Tufte&amp;rsquo;s book.
+      <description>Cool infographic from Pixel Labs depicting the Browser wars, based on W3 Schools Browser Stats. Reminds me of the &#34;Napoleon&#39;s March&#34; graphic in Tufte&#39;s book.
 http://www.pixellabs.com/images/browserwars.png</description>
     </item>
     
@@ -68,7 +67,7 @@ http://www.pixellabs.com/images/browserwars.png</description>
       <pubDate>Sun, 23 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/methodologie-browser-size-test/</guid>
-      <description>Mmmmm, grids. Methodologie uses stats from The Counter to display the screen resolutions supported by users&amp;rsquo; computers in their 10&amp;frasl;2008 numbers.
+      <description>Mmmmm, grids. Methodologie uses stats from The Counter to display the screen resolutions supported by users&#39; computers in their 10/2008 numbers.
 http://www.methodologie.com/sizer/</description>
     </item>
     

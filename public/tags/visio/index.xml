@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visio on Konigi</title>
+    <title>visio on Konigi</title>
     <link>http://konigi.com/tags/visio/</link>
-    <description>Recent content in Visio on Konigi</description>
+    <description>Recent content in visio on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/visio/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/visio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/zefamedia-ux-templates/</guid>
-      <description>zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
+      <description>zef[a]media&#39;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
 http://www.zefamedia.com/websites/free-ux-templates/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://www.zefamedia.com/websites/free-ux-templates/</description>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
 http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
     </item>
     
@@ -37,7 +36,7 @@ http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketchy-wireframes-visio/</guid>
-      <description>I&amp;rsquo;m guessing many Visio users out there already know about it, but in case you don&amp;rsquo;t, Wireframes Magazine points to Niklas Wolkert&amp;rsquo;s Sketchy UI Shapes (found on Henrik Olsen&amp;rsquo;s GUUUI) and the updated Updated Sketch shapes by Jonathan Abbett. http://wireframes.linowski.ca/?p=445</description>
+      <description>I&#39;m guessing many Visio users out there already know about it, but in case you don&#39;t, Wireframes Magazine points to Niklas Wolkert&#39;s Sketchy UI Shapes (found on Henrik Olsen&#39;s GUUUI) and the updated Updated Sketch shapes by Jonathan Abbett. http://wireframes.linowski.ca/?p=445</description>
     </item>
     
   </channel>

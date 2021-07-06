@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self help on Konigi</title>
+    <link>http://konigi.com/tags/self-help/</link>
+    <description>Recent content in self help on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 14:19:25 -0800</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/tags/self-help/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fruit and Suffering</title>
+      <link>http://konigi.com/poetry/001/</link>
+      <pubDate>Fri, 20 Nov 2020 14:19:25 -0800</pubDate>
+      
+      <guid>http://konigi.com/poetry/001/</guid>
+      <description>Fruit and suffering
+New life and old skin
+Shed the failure and bruises
+The wounds and mediocrity
+Today I begin
+Born anew
+A vineyard of bruises is my birthplace</description>
+    </item>
+    
+  </channel>
+</rss>

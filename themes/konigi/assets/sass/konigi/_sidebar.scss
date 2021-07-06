@@ -1,0 +1,29 @@
+.sidebar {
+	h4 {
+		border-bottom: 1px solid rgba(255,255,255,.15);
+		text-transform: uppercase;
+		// color: $graymed;
+	}
+	.events {
+		background: rgba(255,255,255,.1);
+	}
+	.livestream {
+		background: rgba(255,255,255,.1);
+		.icons {
+			a {
+				@include fontsize(28,28);
+				display: inline-block;
+				margin-right: 1rem;
+			}
+		}
+	}
+	.booking {
+		background: $accent3;
+	}
+	.contact-cta {
+	  background: $pink;
+	  border-color: $pink;
+	  color: $accent3 !important;
+	  font-weight: bold;
+	}
+}

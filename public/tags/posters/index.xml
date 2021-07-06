@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posters on Konigi</title>
+    <title>posters on Konigi</title>
     <link>http://konigi.com/tags/posters/</link>
-    <description>Recent content in Posters on Konigi</description>
+    <description>Recent content in posters on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/posters/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/posters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/information-architects-web-trend-map-4/</guid>
-      <description>Information Architects, Japan, post their 4th Web Trends map. They&amp;rsquo;ll only be printing 1,000 copies.
+      <description>Information Architects, Japan, post their 4th Web Trends map. They&#39;ll only be printing 1,000 copies.
 http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
     </item>
     

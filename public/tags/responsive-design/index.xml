@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Responsive Design on Konigi</title>
+    <title>responsive design on Konigi</title>
     <link>http://konigi.com/tags/responsive-design/</link>
-    <description>Recent content in Responsive Design on Konigi</description>
+    <description>Recent content in responsive design on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -48,7 +47,7 @@ http://screensiz.es/</description>
       <pubDate>Tue, 12 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/responsive-sketch-pad-ui-stencils/</guid>
-      <description>UI Stencils&amp;rsquo; responsive design sketchpad is made to help figure out breakpoints and how your product might translate to mobile and tablet versions. 2 device silhouettes on the front and 3 on the back. 50 pages on 70# paper in Letter or A4.
+      <description>UI Stencils&#39; responsive design sketchpad is made to help figure out breakpoints and how your product might translate to mobile and tablet versions. 2 device silhouettes on the front and 3 on the back. 50 pages on 70# paper in Letter or A4.
 http://www.uistencils.com/products/responsive-sketch-pad</description>
     </item>
     
@@ -58,7 +57,7 @@ http://www.uistencils.com/products/responsive-sketch-pad</description>
       <pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/navigation-patterns-responsive-design/</guid>
-      <description>I like Brad Frost&amp;rsquo;s examples for handling both complex navigation and simple navigation needs on responsive designs.
+      <description>I like Brad Frost&#39;s examples for handling both complex navigation and simple navigation needs on responsive designs.
 Via Leisa IAI Members
 http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/</description>
     </item>

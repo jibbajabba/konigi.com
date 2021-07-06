@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Page on Konigi</title>
+    <title>page on Konigi</title>
     <link>http://konigi.com/categories/page/</link>
-    <description>Recent content in Page on Konigi</description>
+    <description>Recent content in page on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/categories/page/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/categories/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,22 +22,12 @@ Contact me by email or send a message via Twitter to @konigi.
     </item>
     
     <item>
-      <title>Guestbook</title>
-      <link>http://konigi.com/guestbook/</link>
-      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/guestbook/</guid>
-      <description>Hi. Thanks for visiting! Sign the register below.
-  /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/ /* var disqus_config = function () { this.page.url = PAGE_URL; // Replace PAGE_URL with your page&#39;s canonical URL variable this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&#39;s unique identifier variable }; */ (function() { // DON&#39;T EDIT BELOW THIS LINE var d = document, s = d.</description>
-    </item>
-    
-    <item>
       <title>404 Error</title>
       <link>http://konigi.com/error/</link>
       <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/error/</guid>
-      <description>header, footer, h2 {display: none}</description>
+      <description>   header, footer, h2 {display: none} </description>
     </item>
     
     <item>
@@ -47,9 +36,19 @@ Contact me by email or send a message via Twitter to @konigi.
       <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/about/</guid>
-      <description>This is a blog in search of a purpose.  In life I’m exploring the question, “what matters now?” and this blog will jibe with each change in the journey.
-I’ve been starting with a manifesto for myself, based on exploring what matters to me. On a trail run in June these words came to me. I’m considering them my manifesto for the moment.
-I move because if I’m standing still, I’m dying.</description>
+      <description>This is a blog in search of a purpose.
+In life I’m exploring the question, “what matters now?” and this blog will jibe with each change in the journey.
+I’ve been starting with a manifesto for myself, based on exploring what matters to me. On a trail run these words came to me. I’m considering them my manifesto for the moment.
+I move because if I’m standing still, I’m dying. I create, as my soul knows no better way to be free.</description>
+    </item>
+    
+    <item>
+      <title>Kid Stuff!</title>
+      <link>http://konigi.com/test/</link>
+      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/test/</guid>
+      <description>  Show All  Arts &amp; Crafts  Animals  Earth  Games  Science  Sports     </description>
     </item>
     
   </channel>

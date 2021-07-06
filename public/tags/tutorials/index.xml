@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorials on Konigi</title>
+    <title>tutorials on Konigi</title>
     <link>http://konigi.com/tags/tutorials/</link>
-    <description>Recent content in Tutorials on Konigi</description>
+    <description>Recent content in tutorials on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/tutorials/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&amp;rsquo;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&amp;rsquo;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
 http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
     </item>
     
@@ -28,7 +27,7 @@ http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
       
       <guid>http://konigi.com/blog/mockups-tips-and-tricks-chapter-1-working-controls/</guid>
       <description>Peldi from Balsamiq shares some power user tips and tricks for Mockups controls. In this video he shows keyboard shortcuts and methods for selection, snapping, layering, locking, aligning and zooming.
-http://www.youtube.com/watch?v=1mnlN4SJxFg</description>
+https://www.youtube.com/watch?v=1mnlN4SJxFg</description>
     </item>
     
     <item>
@@ -67,7 +66,7 @@ http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
       <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-sketch-style-screencast/</guid>
-      <description>I&amp;rsquo;ve been wanting for the past year or so to do sketch style wireframes in OmniGraffle. My first requests for sketchy line styles were made to OmniGroup in the Spring of 08 along with a few other users, and I posted this comment to the OG List about this feature. I knew how to do this in Visio, and had read that CAD users have something called a &amp;ldquo;Jitter&amp;rdquo; line style, so I quietly campaigned for this feature.</description>
+      <description>I&#39;ve been wanting for the past year or so to do sketch style wireframes in OmniGraffle. My first requests for sketchy line styles were made to OmniGroup in the Spring of 08 along with a few other users, and I posted this comment to the OG List about this feature. I knew how to do this in Visio, and had read that CAD users have something called a &#34;</description>
     </item>
     
     <item>
@@ -76,7 +75,7 @@ http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mac-tip-mounting-server-automatically/</guid>
-      <description>One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.</description>
+      <description>One of the things I&#39;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&#39;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&#39;s one of the projects I&#39;m working on a preview release of to make the web-based interface a bit more friendly.</description>
     </item>
     
     <item>
@@ -85,7 +84,7 @@ http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/3-jquery-methods-interactive-menu-effects/</guid>
-      <description>3 recent articles show how to get interactive effects on menus, proving that you don&amp;rsquo;t need Flash for this kind of simple interactivity.  Dave Shea&amp;rsquo;s tutorial in ALA shows how to create interactive menu hover effects using CSS sprites and the JQuery Javascript library. A sprite image is a single graphic with multiple states mapped on the graphic, a technique borrowed from game design, where game characters are shown in different states of action.</description>
+      <description>3 recent articles show how to get interactive effects on menus, proving that you don&#39;t need Flash for this kind of simple interactivity.  Dave Shea&#39;s tutorial in ALA shows how to create interactive menu hover effects using CSS sprites and the JQuery Javascript library. A sprite image is a single graphic with multiple states mapped on the graphic, a technique borrowed from game design, where game characters are shown in different states of action.</description>
     </item>
     
     <item>
@@ -94,7 +93,7 @@ http://www.lynda.com/home/DisplayCourse.aspx?lpk2=778</description>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/webmonkey-relaunch/</guid>
-      <description>You remember Webmonkey, that web design resource many of us grew up with when we were cutting our teeth on HTML. Wired redesigned and re-launched with a few new articles, and some of the old tutes and cheat sheets seem to have been updated. The entire code library appears to be a wiki, so it&amp;rsquo;s open for editing. We&amp;rsquo;ll keep our eyes open to see if anyone kicks in some quality material.</description>
+      <description>You remember Webmonkey, that web design resource many of us grew up with when we were cutting our teeth on HTML. Wired redesigned and re-launched with a few new articles, and some of the old tutes and cheat sheets seem to have been updated. The entire code library appears to be a wiki, so it&#39;s open for editing. We&#39;ll keep our eyes open to see if anyone kicks in some quality material.</description>
     </item>
     
   </channel>

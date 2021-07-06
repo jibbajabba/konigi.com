@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eye Tracking on Konigi</title>
+    <title>eye tracking on Konigi</title>
     <link>http://konigi.com/tags/eye-tracking/</link>
-    <description>Recent content in Eye Tracking on Konigi</description>
+    <description>Recent content in eye tracking on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Mar 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/youeye-user-testing-webcam-eye-tracking/</guid>
-      <description>&amp;lt;a href=&amp;quot;http://www.youeye.com/&amp;lsquo;&amp;gt;YouEye looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.
+      <description>&amp;lt;a href=&amp;quot;http://www.youeye.com/&#39;&amp;gt;YouEye looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&#39;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.
 http://youeye.com</description>
     </item>
     

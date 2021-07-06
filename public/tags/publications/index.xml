@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Konigi</title>
+    <title>publications on Konigi</title>
     <link>http://konigi.com/tags/publications/</link>
-    <description>Recent content in Publications on Konigi</description>
+    <description>Recent content in publications on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/publications/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/publications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/asist-bulletin-ia-issue-octnov-2012/</guid>
-      <description>The IA Issue of ASIS&amp;amp;T Journal is out, edited by Thomas Haller. Here&amp;rsquo;s a listing of articles in this issue.  Information Architecture in the Age of Complexity, by Andrea Resmini The Architecture of Information, by Martyn Dade-Robertson Optimizing Websites in the Post Panda World, by Marianne Sweeny A Metaphor for Content Strategy, by Carrie Hane Dennison How to Start Sketchnoting, by Veronica Erb A Conversation with Eric Reiss, Author of Usable Usability: Simple Steps for Making Stuff Better, by Thom Haller  Get more info about this issue of the Bulletin or Download the PDF.</description>
+      <description>The IA Issue of ASIS&amp;amp;T Journal is out, edited by Thomas Haller. Here&#39;s a listing of articles in this issue.  Information Architecture in the Age of Complexity, by Andrea Resmini The Architecture of Information, by Martyn Dade-Robertson Optimizing Websites in the Post Panda World, by Marianne Sweeny A Metaphor for Content Strategy, by Carrie Hane Dennison How to Start Sketchnoting, by Veronica Erb A Conversation with Eric Reiss, Author of Usable Usability: Simple Steps for Making Stuff Better, by Thom Haller  Get more info about this issue of the Bulletin or Download the PDF.</description>
     </item>
     
     <item>

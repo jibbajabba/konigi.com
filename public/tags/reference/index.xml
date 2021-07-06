@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reference on Konigi</title>
+    <title>reference on Konigi</title>
     <link>http://konigi.com/tags/reference/</link>
-    <description>Recent content in Reference on Konigi</description>
+    <description>Recent content in reference on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Nov 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/reference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/instacss-css-documentation-search/</guid>
-      <description>Using InstaCSS is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&amp;rsquo;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item like this. Via Think Vitamin Newsletter
+      <description>Using InstaCSS is a much easier way to look up CSS docs than Googling. Enter a CSS property in the search box, and the panel below dynamically shows matching properties. Simple. If you&#39;re a Mac user, it seems to me like it would be useful tucked into a Fluid menu item like this. Via Think Vitamin Newsletter
 http://instacss.com/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://instacss.com/</description>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touch-gesture-reference-guide/</guid>
-      <description>Luke Wroblewski&amp;rsquo;s Touch Gesture Reference Guide is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures.</description>
+      <description>Luke Wroblewski&#39;s Touch Gesture Reference Guide is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures.</description>
     </item>
     
     <item>

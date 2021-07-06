@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fun on Konigi</title>
+    <title>fun on Konigi</title>
     <link>http://konigi.com/tags/fun/</link>
-    <description>Recent content in Fun on Konigi</description>
+    <description>Recent content in fun on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,7 +35,7 @@ http://dedesigntheweb.com/</description>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/8-bit-heart/</guid>
-      <description>Much Need a heart card for your significant other or kid who loves games? I made a heart for you to cut out. Here you go.</description>
+      <description>Need a heart card for your significant other?</description>
     </item>
     
     <item>
@@ -56,8 +55,8 @@ Konigi</description>
       <pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/can-you-guess-what/</guid>
-      <description>So I&amp;rsquo;m working on this hand drawn font and looking at characters with diacritics is having a weird effect on me. While working on it, the ö character reminded me of something from my childhood and I had to remake it in type.
-So if you can guess what this is by @ing me on Twitter or in G+ if we follow each other there, I&amp;rsquo;ll give you a floppy disk notebook from my stash, and a few sketch pads.</description>
+      <description>So I&#39;m working on this hand drawn font and looking at characters with diacritics is having a weird effect on me. While working on it, the ö character reminded me of something from my childhood and I had to remake it in type.
+So if you can guess what this is by @ing me on Twitter or in G+ if we follow each other there, I&#39;ll give you a floppy disk notebook from my stash, and a few sketch pads.</description>
     </item>
     
     <item>
@@ -66,7 +65,7 @@ So if you can guess what this is by @ing me on Twitter or in G+ if we follow eac
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/unicorn-wireframe-birthday-card/</guid>
-      <description>You never know when you&amp;rsquo;ll need a last minute unicorn birthday card.
+      <description>You never know when you&#39;ll need a last minute unicorn birthday card.
 This postcard-sized wireframe was lovingly crafted in OmniGraffle, and you can download the .graffle file to make your own.
 Love,
 Teh uN1Cr0n5</description>
@@ -78,7 +77,7 @@ Teh uN1Cr0n5</description>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/save-kittens/</guid>
-      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten&amp;hellip; and David Byrne does a happy dance.
+      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten... and David Byrne does a happy dance.
 I love how the cats run off the side of the canvas. Oh, and how no one in that meeting is paying attention... Awesome.
 http://markandrewgoetz.com/blog/wp-content/uploads/2009/11/tufte-wallpaper.png</description>
     </item>
@@ -89,7 +88,7 @@ http://markandrewgoetz.com/blog/wp-content/uploads/2009/11/tufte-wallpaper.png</
       <pubDate>Mon, 15 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/help-menu-isquint/</guid>
-      <description>I&amp;rsquo;m a bit too busy to blog seriously yet, having just gotten back from my vacation. In the meantime, enjoy this help menu I discovered when opening iSquint, an app that I found in my Applications folder, and only launched to see what it was before I AppZapped it.</description>
+      <description>I&#39;m a bit too busy to blog seriously yet, having just gotten back from my vacation. In the meantime, enjoy this help menu I discovered when opening iSquint, an app that I found in my Applications folder, and only launched to see what it was before I AppZapped it.</description>
     </item>
     
     <item>
@@ -108,7 +107,7 @@ http://www.domgoodrum.com</description>
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/merry-newsinator/</guid>
-      <description>So this year my company plaid decided to create a tool to help people save time around the holidays. It&amp;rsquo;s called the Merry Newsinator and it generates a customized personal newsletter in about 3 minutes. Anyways hope you like it and would love to see you post it. I have included one we did for santa claus below! Happy Holidays!
+      <description>So this year my company plaid decided to create a tool to help people save time around the holidays. It&#39;s called the Merry Newsinator and it generates a customized personal newsletter in about 3 minutes. Anyways hope you like it and would love to see you post it. I have included one we did for santa claus below! Happy Holidays!
 http://merrynewsinator.com/2lc</description>
     </item>
     
@@ -128,7 +127,7 @@ http://flutterandwow.com</description>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
-      <description>Fred Beecher wrote the excellent article &amp;ldquo;The iPhone is Not Easy to Use: A New Direction for User Experience&amp;rdquo; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
+      <description>Fred Beecher wrote the excellent article &#34;The iPhone is Not Easy to Use: A New Direction for User Experience&#34; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
     </item>
     
     <item>
@@ -137,7 +136,7 @@ http://flutterandwow.com</description>
       <pubDate>Fri, 17 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/fatcow/</guid>
-      <description>Love the nutritional information panel on the right of this promo landing page. It&amp;rsquo;s ashame they don&amp;rsquo;t use a fun graphic like this on the regular home page.
+      <description>Love the nutritional information panel on the right of this promo landing page. It&#39;s ashame they don&#39;t use a fun graphic like this on the regular home page.
 http://www.fatcow.com/fatcow/special-promo.bml#ic</description>
     </item>
     
@@ -147,7 +146,7 @@ http://www.fatcow.com/fatcow/special-promo.bml#ic</description>
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/teoskaffacom/</guid>
-      <description>Teo Skaffa&amp;rsquo;s fun portfolio is like a tribute to 8 bit game consoles. Huge pixelated text and pointers, dinging mouseovers that make you half expect coins to pop out of links, and a keyboard navigation make this site a pleasure for NES nostalgists.
+      <description>Teo Skaffa&#39;s fun portfolio is like a tribute to 8 bit game consoles. Huge pixelated text and pointers, dinging mouseovers that make you half expect coins to pop out of links, and a keyboard navigation make this site a pleasure for NES nostalgists.
 http://www.teoskaffa.com/</description>
     </item>
     
@@ -159,43 +158,6 @@ http://www.teoskaffa.com/</description>
       <guid>http://konigi.com/designs/submissions/litago-ku-kunst/</guid>
       <description>Cute use of sticker effects and vinyl toy illustration in this promotional site for a Norwegian milk product. Love the background and navigation menu on the bottom.
 http://www.litago.no/kampanjer/kunst/</description>
-    </item>
-    
-    <item>
-      <title>Multitouch Barcelona</title>
-      <link>http://konigi.com/designs/submissions/multitouch-barcelona/</link>
-      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/multitouch-barcelona/</guid>
-      <description>The clever, whimsy of falling balls that drop into the content boxes as the page loads, and bounce up and down as you scroll make the Multitouch Barcelona site an unexpected and enjoyable experience.
-http://www.multitouch-barcelona.com/</description>
-    </item>
-    
-    <item>
-      <title>BooneOakley</title>
-      <link>http://konigi.com/designs/booneoakley/</link>
-      <pubDate>Tue, 02 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/booneoakley/</guid>
-      <description>Ad agencies are outdoing each other in terms of clever uses of social media. BooneOakley&amp;rsquo;s new web site is actually a series of YouTube videos with links placed via annotations into the videos to connect all of what we might traditionally think of as sections. What they create is something like a network of hypertext connections to hold together a concept of site&amp;#8212;hacked together boundaries that create space within another larger space.</description>
-    </item>
-    
-    <item>
-      <title>Squared Eye</title>
-      <link>http://konigi.com/designs/squared-eye/</link>
-      <pubDate>Mon, 23 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/squared-eye/</guid>
-      <description>Squared Eye&amp;rsquo;s newly relaunched site goes down in my short list of favorite redesigns. I love the fun art direction and editorial copy throughout the site, starting with the excellent whale logo, the crafty feel of the cutout graphpaper waves in those beiges and workingman blues that remind me of ledger paper, to the excellent copy in the headlines making reference to the water theme, and the attention to detail in every link and mouseover.</description>
-    </item>
-    
-    <item>
-      <title>Anorak Magazine</title>
-      <link>http://konigi.com/designs/submissions/anorak-magazine/</link>
-      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/anorak-magazine/</guid>
-      <description>http://www.anorak-magazine.co.uk/</description>
     </item>
     
   </channel>

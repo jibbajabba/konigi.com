@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twitter on Konigi</title>
+    <title>twitter on Konigi</title>
     <link>http://konigi.com/tags/twitter/</link>
-    <description>Recent content in Twitter on Konigi</description>
+    <description>Recent content in twitter on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 10 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/made-many-goes-southwest/</guid>
-      <description>Sweet tweets. The Made by Many crew shows what they&amp;rsquo;re up to at SXSW with this constantly updating status page. Love the fresh/stale indicator.
+      <description>Sweet tweets. The Made by Many crew shows what they&#39;re up to at SXSW with this constantly updating status page. Love the fresh/stale indicator.
 Via @arainert
 http://sxsw.madebymany.co.uk/</description>
     </item>
@@ -48,7 +47,7 @@ http://toriseye.quodis.com/#konigi</description>
       <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sideline-twitter-search-app-yahoo/</guid>
-      <description>Sideline is an Adobe AIR desktop application built with the Yahoo! User Interface Library (YUI) that allows users to create and group custom queries by topics of interest, as well as view topic trends. Very nicely done. Am looking at at how the advanced search works at the moment. Looks very easy to build up an seems like it might be the perfect app for a lurker or follower who doesn&amp;rsquo;t post much.</description>
+      <description>Sideline is an Adobe AIR desktop application built with the Yahoo! User Interface Library (YUI) that allows users to create and group custom queries by topics of interest, as well as view topic trends. Very nicely done. Am looking at at how the advanced search works at the moment. Looks very easy to build up an seems like it might be the perfect app for a lurker or follower who doesn&#39;t post much.</description>
     </item>
     
     <item>
@@ -66,7 +65,7 @@ http://toriseye.quodis.com/#konigi</description>
       <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/twitrratr-sentiment-twitter/</guid>
-      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&amp;rsquo;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
+      <description>twitrratr looks like an interesting attempt to provide some sentiment analysis to Twitter. Do a search for a keyword and twitrratr displays the tweets matching that term, with entries organized in 3 columns: negative, neutral, positive. Some algorithm works in the background to determine the sentiment. The major issue I have with sentiment analysis is that it is not trivial stuff. From what I&#39;ve seen of vendors who provide this service to corporations doing analysis of product mentions on the web, the effectiveness of this type of analysis is dependent on the algorithms that crunch text, the amount of text, and language used.</description>
     </item>
     
   </channel>

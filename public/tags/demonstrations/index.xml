@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demonstrations on Konigi</title>
+    <title>demonstrations on Konigi</title>
     <link>http://konigi.com/tags/demonstrations/</link>
-    <description>Recent content in Demonstrations on Konigi</description>
+    <description>Recent content in demonstrations on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Jan 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/demonstrations/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/demonstrations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 16 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/airserver-airplay-receiver-ios-devices/</guid>
-      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&amp;rsquo;s face and hands.</description>
+      <description>AirServer is an AirPlay receiver for Mac/PC that allows you to receive AirPlay feeds in up to full 1080p HD. It works similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Mountain Lion to your desktop computer. The app was made for game and video streaming, but would work perfectly for application demos and presentation or usability testing, when coupled with a concurrent video recording of the user&#39;s face and hands.</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comics on Konigi</title>
+    <title>comics on Konigi</title>
     <link>http://konigi.com/tags/comics/</link>
-    <description>Recent content in Comics on Konigi</description>
+    <description>Recent content in comics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/comics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/comics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/</
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/google-chrome-comic-book/</guid>
-      <description>Google explains it&amp;rsquo;s new open source, Webkit-based Chrome Web Browser with a 28 page comic book inked by Scott McCloud. The Chrome browser beta becomes available to Windows users on September 2, 2008. Mac and Linux versions are also planned.
+      <description>Google explains it&#39;s new open source, Webkit-based Chrome Web Browser with a 28 page comic book inked by Scott McCloud. The Chrome browser beta becomes available to Windows users on September 2, 2008. Mac and Linux versions are also planned.
 http://www.google.com/googlebooks/chrome/</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fonts on Konigi</title>
+    <title>fonts on Konigi</title>
     <link>http://konigi.com/tags/fonts/</link>
-    <description>Recent content in Fonts on Konigi</description>
+    <description>Recent content in fonts on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jun 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/sketchnote-typeface-mike-rohde/</guid>
-      <description>Mike Rohde&amp;rsquo;s Sketchnote font can be purchased on Delve for desktop and webfont use. Mike created the font for the Sketchnote handbook and writes about its design on his blog. The family has four fonts: Sketchnote Text in Reg­ular, Bold and Italic, plus Sketchnote Square.
+      <description>Mike Rohde&#39;s Sketchnote font can be purchased on Delve for desktop and webfont use. Mike created the font for the Sketchnote handbook and writes about its design on his blog. The family has four fonts: Sketchnote Text in Reg­ular, Bold and Italic, plus Sketchnote Square.
 Sketchnote Text is a friendly, casual script with a bouncy baseline and a warm texture. To emulate natural hand­writing, OpenType features auto­matically switch be­tween multiple versions of each letter or number, with over 240 alter­nates in each text font.</description>
     </item>
     
@@ -37,7 +36,7 @@ http://fontprep.com/</description>
       <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/redacted-font/</guid>
-      <description>Christian Naths&amp;rsquo; Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&amp;rsquo;t end up wider than your normal font setting.
+      <description>Christian Naths&#39; Redacted is a set of fonts released under SIL Open Font license with block and scribbled font faces. Main difference between Redacted and BLOKK (which the font is copies/is inspired by) is that Redacted uses smaller widths so your text blocks won&#39;t end up wider than your normal font setting.
 Git it for free.
 https://github.com/christiannaths/Redacted-Font/blob/master/README.md</description>
     </item>
@@ -58,7 +57,7 @@ http://www.blokkfont.com/</description>
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</guid>
-      <description>2 different fonts to turn text to obscure your copy in design documents so they don&amp;rsquo;t distract the audience. It&amp;rsquo;s an alternative to using real text or lorem ipsum. Download for free.
+      <description>2 different fonts to turn text to obscure your copy in design documents so they don&#39;t distract the audience. It&#39;s an alternative to using real text or lorem ipsum. Download for free.
 Thanks to Ryan Schroeder (@rschroed) for pointing me to this.
 http://www.letterror.com/foundry/goodies/index.html</description>
     </item>
@@ -69,7 +68,7 @@ http://www.letterror.com/foundry/goodies/index.html</description>
       <pubDate>Mon, 31 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/fontcapturecom-create-fonts-your-handwriting/</guid>
-      <description>fontcapture might be interesting to people who create sketch-style wireframes, but don&amp;rsquo;t like using Apple&amp;rsquo;s Casual or Comic Sans. Simply download and fill in the font template, scan and upload it to fontcatpure, and download your completed font, usable on both Windows and Mac computers.
+      <description>fontcapture might be interesting to people who create sketch-style wireframes, but don&#39;t like using Apple&#39;s Casual or Comic Sans. Simply download and fill in the font template, scan and upload it to fontcatpure, and download your completed font, usable on both Windows and Mac computers.
 http://www.fontcapture.com/</description>
     </item>
     
@@ -79,7 +78,7 @@ http://www.fontcapture.com/</description>
       <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/misprinted-type/</guid>
-      <description>Eduardo Recife&amp;rsquo;s misprinted type has some fine distressed fonts, if that suits you. Some are free to download and a bunch are for sale. There are also free Photoshop brushes up for grabs. Check it.
+      <description>Eduardo Recife&#39;s misprinted type has some fine distressed fonts, if that suits you. Some are free to download and a bunch are for sale. There are also free Photoshop brushes up for grabs. Check it.
 http://www.misprintedtype.com/v3/fonts.php</description>
     </item>
     
@@ -98,7 +97,7 @@ http://www.misprintedtype.com/v3/fonts.php</description>
       <pubDate>Fri, 08 Feb 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/apples-safari-3-1-support-downloadable-web-fonts-and-more/</guid>
-      <description>Apple Insider reports that Apple will ship Safari 3.1 with downloadable web fonts, HTML5&amp;rsquo;s SQL storage application programming interface, and HTML5 video and audio tags. They provide the following description of these new features.
+      <description>Apple Insider reports that Apple will ship Safari 3.1 with downloadable web fonts, HTML5&#39;s SQL storage application programming interface, and HTML5 video and audio tags. They provide the following description of these new features.
 For example, CSS Transforms and CSS Animations will join web downloadable fonts in allowing Safari 3.1 and iPhone users to render web pages and web apps with enhanced design messages and real-time visual effects. By applying Transforms, developers can author trigger actions that scale, rotate, skew and translate HTML boxes in real time.</description>
     </item>
     

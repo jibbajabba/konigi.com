@@ -1,21 +1,32 @@
-{{ partial "header.html" . }}
-{{ partial "gnav.html" . }}
+{{ define "main" }}
+
+<section class="section home-hero mb-5">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-half">
+        <h1 class="home-logo">KONIGI</h1>
+        <p class="home-description">Hi, from Michael. I'm a designer &amp; DJ in the San Francisco Bay Area.</p>
+      </div>
+  </div>
+</section>
 
 <section class="section home">
   <div class="container">
     <div class="columns">
-      <div class="column is-full index">
-        {{ range (.Paginator 5).Pages }}
-          {{ .Render "list-node"}}
+      <div class="column is-three-fifths">
+        <h2 class="mb-4 pb-4"><a href="/djsets">DJ SETS</a></h2>
+        {{ $djsets := where (where site.Pages.ByDate.Reverse "Section" "djsets") "Params.featured" "==" "true" }}
+        {{ range first 10 $djsets }}
+          {{ .Render "list-node-home" }}
         {{ end }}
+        <p><a href="/djsets">View All...</a></p>
+      </div>{{/* /column */}}
+      <div class="column is-two-fifths sidebar">
+        {{ partial "sidebar.html" . }}
       </div>{{/* /column */}}
     </div>{{/* /columns */}}
   </div>{{/* /container */}}
 </section>
-<section class="section pagination">
-  <div class="container">
-    <nav>{{ template "_internal/pagination.html" . }}</nav>
-  </div>
-</section>
 
-{{ partial "footer.html" . }}
+
+{{ end }}

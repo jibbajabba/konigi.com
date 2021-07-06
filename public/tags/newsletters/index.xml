@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Newsletters on Konigi</title>
+    <title>newsletters on Konigi</title>
     <link>http://konigi.com/tags/newsletters/</link>
-    <description>Recent content in Newsletters on Konigi</description>
+    <description>Recent content in newsletters on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Apr 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/newsletters/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/newsletters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ He&#39;s looking at how to employ practical ideas that satisfy the business side
       <pubDate>Wed, 12 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/anatomy-apple-email/</guid>
-      <description>Peldi tipped me to this graphic deconstructing one of Apple&amp;rsquo;s promotional emails.
+      <description>Peldi tipped me to this graphic deconstructing one of Apple&#39;s promotional emails.
 http://www.flowtown.com/blog/wp-content/uploads/2011/01/110110-FLOW-APPLE.png</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inline Forms on Konigi</title>
+    <title>inline forms on Konigi</title>
     <link>http://konigi.com/tags/inline-forms/</link>
-    <description>Recent content in Inline Forms on Konigi</description>
+    <description>Recent content in inline forms on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/inline-forms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/inline-forms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,7 @@
       
       <guid>http://konigi.com/interfaces/kelley-blue-book-mad-libs-form/</guid>
       <description>The Kelley Blue Book features Mad Libs-style inline form elements for its contact form. The contact form, which was previously displayed with right-aligned labels adjacent to to left aligned fields, is now displayed as an inline form with &amp;quot;fill in the blanks&amp;quot; style prompts for input.
-
-http://www.kbb.com/</description>
+ http://www.kbb.com/</description>
     </item>
     
     <item>

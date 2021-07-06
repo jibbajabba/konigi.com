@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Magazine on Konigi</title>
+    <title>magazine on Konigi</title>
     <link>http://konigi.com/tags/magazine/</link>
-    <description>Recent content in Magazine on Konigi</description>
+    <description>Recent content in magazine on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/magazine/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/magazine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,8 +39,7 @@ The site is utterly readable and clean, and utilizes a blog format with excellen
       <guid>http://konigi.com/blog/johnny-holland-magazine/</guid>
       <description>Johnny Holland Magazine is an interesting new collaborative magazine co-authored by a handful of creatives who talk about experience design.
 Johnny is an open collective talking, sharing and finding answers about the interaction between people and products, systems or processes.
-
-http://johnnyholland.org/</description>
+ http://johnnyholland.org/</description>
     </item>
     
     <item>
@@ -50,7 +48,7 @@ http://johnnyholland.org/</description>
       <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/inspire-publication-adobe-experience-design-team/</guid>
-      <description>Inspire is a new site from Adobe Experience Design. With interviews, videos, and examples of work, the site is part magazine, part showcase, part news portal. It&amp;rsquo;s definitely worth a regular watch. http://xd.adobe.com/#/home</description>
+      <description>Inspire is a new site from Adobe Experience Design. With interviews, videos, and examples of work, the site is part magazine, part showcase, part news portal. It&#39;s definitely worth a regular watch. http://xd.adobe.com/#/home</description>
     </item>
     
     <item>
@@ -69,7 +67,7 @@ http://floggedmagazine.com/</description>
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/theme/</guid>
-      <description>Theme is a magazine about contemporary Asian culture, targeted at a creative audience. Each issue focuses on a single theme or topic. The Summer &amp;lsquo;08 redesigned site sports a clean, minimalist aesthetic with and clear, simple grid reflects a design that is focused on delivering feature content, and now provides users the ability to comment on all content.
+      <description>Theme is a magazine about contemporary Asian culture, targeted at a creative audience. Each issue focuses on a single theme or topic. The Summer &#39;08 redesigned site sports a clean, minimalist aesthetic with and clear, simple grid reflects a design that is focused on delivering feature content, and now provides users the ability to comment on all content.
 http://www.thememagazine.com/</description>
     </item>
     
@@ -119,15 +117,6 @@ http://www.thememagazine.com/</description>
     </item>
     
     <item>
-      <title>Shine</title>
-      <link>http://konigi.com/designs/submissions/shine/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/shine/</guid>
-      <description>http://shine.yahoo.com/</description>
-    </item>
-    
-    <item>
       <title>omg!</title>
       <link>http://konigi.com/designs/submissions/omg/</link>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
@@ -137,12 +126,12 @@ http://www.thememagazine.com/</description>
     </item>
     
     <item>
-      <title>DAMn Magazine</title>
-      <link>http://konigi.com/designs/submissions/damn-magazine/</link>
-      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
+      <title>Shine</title>
+      <link>http://konigi.com/designs/submissions/shine/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://konigi.com/designs/submissions/damn-magazine/</guid>
-      <description>http://damnmagazine.net/mission.php</description>
+      <guid>http://konigi.com/designs/submissions/shine/</guid>
+      <description>http://shine.yahoo.com/</description>
     </item>
     
     <item>
@@ -155,111 +144,12 @@ http://www.thememagazine.com/</description>
     </item>
     
     <item>
-      <title>Aperture Foundation</title>
-      <link>http://konigi.com/designs/submissions/aperture-foundation/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
+      <title>DAMn Magazine</title>
+      <link>http://konigi.com/designs/submissions/damn-magazine/</link>
+      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://konigi.com/designs/submissions/aperture-foundation/</guid>
-      <description>http://www.aperture.org/store/default.aspx</description>
-    </item>
-    
-    <item>
-      <title>Variety</title>
-      <link>http://konigi.com/designs/submissions/variety/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/variety/</guid>
-      <description>http://www.variety.com/</description>
-    </item>
-    
-    <item>
-      <title>Complex Magazine</title>
-      <link>http://konigi.com/designs/submissions/complex-magazine/</link>
-      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/complex-magazine/</guid>
-      <description>http://www.complex.com/</description>
-    </item>
-    
-    <item>
-      <title>GQ</title>
-      <link>http://konigi.com/designs/submissions/gq/</link>
-      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/gq/</guid>
-      <description>http://men.style.com/gq</description>
-    </item>
-    
-    <item>
-      <title>The Sun Magazine</title>
-      <link>http://konigi.com/designs/submissions/sun-magazine/</link>
-      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/sun-magazine/</guid>
-      <description>http://www.thesunmagazine.org/</description>
-    </item>
-    
-    <item>
-      <title>Vanity Fair</title>
-      <link>http://konigi.com/designs/submissions/vanity-fair/</link>
-      <pubDate>Sun, 02 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/vanity-fair/</guid>
-      <description>http://www.vanityfair.com/</description>
-    </item>
-    
-    <item>
-      <title>Frieze Magazine</title>
-      <link>http://konigi.com/designs/submissions/frieze-magazine/</link>
-      <pubDate>Fri, 29 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/frieze-magazine/</guid>
-      <description>http://www.frieze.com/magazine/</description>
-    </item>
-    
-    <item>
-      <title>I HEART LUXE</title>
-      <link>http://konigi.com/designs/submissions/i-heart-luxe/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/i-heart-luxe/</guid>
-      <description>http://www.iheartluxe.com/</description>
-    </item>
-    
-    <item>
-      <title>San Francisco online</title>
-      <link>http://konigi.com/designs/submissions/san-francisco-online/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/san-francisco-online/</guid>
-      <description>http://www.sanfranmag.com/</description>
-    </item>
-    
-    <item>
-      <title>TheHotMag</title>
-      <link>http://konigi.com/designs/submissions/thehotmag/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/thehotmag/</guid>
-      <description>http://www.thehotmag.com/</description>
-    </item>
-    
-    <item>
-      <title>Numero TOKYO</title>
-      <link>http://konigi.com/designs/submissions/numero-tokyo/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/numero-tokyo/</guid>
-      <description>http://www.numero.jp/</description>
-    </item>
-    
-    <item>
-      <title>MONOCLE</title>
-      <link>http://konigi.com/designs/monocle/</link>
-      <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/monocle/</guid>
-      <description>Magazine covering international affairs, business, culture and design. Edited by Wallpaper* founder and International Herald Tribune columnist Tyler Brule. You&amp;rsquo;ll find superb photography, well-crafted iconography and infographics, and excellent graphics and video production, a clear hierarchical order of information, and simple to navigation. http://monocle.com</description>
+      <guid>http://konigi.com/designs/submissions/damn-magazine/</guid>
+      <description>http://damnmagazine.net/mission.php</description>
     </item>
     
   </channel>

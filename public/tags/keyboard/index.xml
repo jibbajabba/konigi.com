@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Keyboard on Konigi</title>
+    <title>keyboard on Konigi</title>
     <link>http://konigi.com/tags/keyboard/</link>
-    <description>Recent content in Keyboard on Konigi</description>
+    <description>Recent content in keyboard on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 13 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/google-quick-search-box/</guid>
-      <description>Google&amp;rsquo;s Quick Search Box is a QuickSilver-like launcher that lets you search your computer for applications and data, as well as search the web, and your Google Apps accounts. I presume this will also eventually replace the search interface provided by Google Desktop. The project is in beta and is provided via the Labs.
+      <description>Google&#39;s Quick Search Box is a QuickSilver-like launcher that lets you search your computer for applications and data, as well as search the web, and your Google Apps accounts. I presume this will also eventually replace the search interface provided by Google Desktop. The project is in beta and is provided via the Labs.
 From their blog:
 One of our goals at Google is to make your search experience as fluid as possible.</description>
     </item>

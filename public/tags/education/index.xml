@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education on Konigi</title>
+    <title>education on Konigi</title>
     <link>http://konigi.com/tags/education/</link>
-    <description>Recent content in Education on Konigi</description>
+    <description>Recent content in education on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Apr 2018 16:16:30 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 13:27:16 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KidStuff!</title>
+      <link>http://konigi.com/blog/kidstuff/</link>
+      <pubDate>Wed, 25 Mar 2020 13:27:16 -0700</pubDate>
+      
+      <guid>http://konigi.com/blog/kidstuff/</guid>
+      <description>Learning resources for elementary school kids</description>
+    </item>
     
     <item>
       <title>Graphic Design Basics</title>
@@ -17,7 +25,7 @@
       <pubDate>Fri, 06 Apr 2018 16:16:30 -0700</pubDate>
       
       <guid>http://konigi.com/links/graphic-design-basics/</guid>
-      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics&amp;nbsp; and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
+      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
     </item>
     
     <item>
@@ -35,7 +43,8 @@
       <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/codeorg-program-k-5/</guid>
-      <description>Code.org now has an elementary school program (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free MIT Scratch app, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.</description>
+      <description>Code.org now has an elementary school program (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free MIT Scratch app, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.
+ </description>
     </item>
     
     <item>
@@ -76,7 +85,7 @@ HUGE started the school to help prepare design professionals for successful care
       <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/will-wright-game-play-and-education/</guid>
-      <description>Will Wright&amp;rsquo;s talk at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.
+      <description>Will Wright&#39;s talk at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.
 How we process information Our basic model for processing and acting on data that we receive in the world looks something like this:
 - Behavior
 - Models (Predictive) ↑

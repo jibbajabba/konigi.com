@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sitemaps on Konigi</title>
+    <title>sitemaps on Konigi</title>
     <link>http://konigi.com/tags/sitemaps/</link>
-    <description>Recent content in Sitemaps on Konigi</description>
+    <description>Recent content in sitemaps on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 09:41:14 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/sitemaps/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/sitemaps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VisualSitemaps</title>
+      <link>http://konigi.com/links/visualsitemaps/</link>
+      <pubDate>Fri, 09 Aug 2019 09:41:14 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/visualsitemaps/</guid>
+      <description>A visual sitemap generator.</description>
+    </item>
     
     <item>
       <title>Integrity: Website link checker and xml sitemap generator for Mac</title>
@@ -27,7 +35,7 @@ http://peacockmedia.co.uk/integrity/</description>
       <pubDate>Wed, 18 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/omnigraffle-sitemap-generator-sitemap-xml/</guid>
-      <description>Wireframes Mag pointed to an XML to OmniGraffle Sitmap Generator created by Jason Kunesh at Fuzzy Math to generate a sitemap from an XML file. The script assumes that your XML file consists of url elements, and that parent child relationships are defined by the paths in the url. For instance, http://konigi.com/about-site/unicorns would be a child of http://konigi.com/about-site. Once you generate a list of your urls and pass it to the script, OmniGraffle generates the sitemap hierarchy for you.</description>
+      <description>Wireframes Mag pointed to an XML to OmniGraffle Sitmap Generator created by Jason Kunesh at Fuzzy Math to generate a sitemap from an XML file. The script assumes that your XML file consists of url elements, and that parent child relationships are defined by the paths in the url. For instance, //konigi.com/about-site/unicorns would be a child of //konigi.com/about-site. Once you generate a list of your urls and pass it to the script, OmniGraffle generates the sitemap hierarchy for you.</description>
     </item>
     
     <item>
@@ -47,7 +55,7 @@ http://astuteo.com/slickmap/</description>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/zefamedia-ux-templates/</guid>
-      <description>zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
+      <description>zef[a]media&#39;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
 http://www.zefamedia.com/websites/free-ux-templates/</description>
     </item>
     
@@ -63,12 +71,21 @@ http://www.webdesignerwall.com/trends/modern-sitemap-and-footer/</description>
     </item>
     
     <item>
+      <title>Lovely Charts Online Diagramming Application</title>
+      <link>http://konigi.com/links/lovely-charts-online-diagramming-application/</link>
+      <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/lovely-charts-online-diagramming-application/</guid>
+      <description>This is a review of Lovely Charts, a free online diagramming tool that provides wire frame, flow chart, and site map stencils. I like the unique, simple method they provide for quickly creating flow charts and site maps. In this screencast I show how to do a few simple flow diagrams and a wireframe, as well as discussing the features that I&#39;d like to see for creating prototypes from this tool.</description>
+    </item>
+    
+    <item>
       <title>When Sitemaps Don&#39;t Work: Two Alternatives</title>
       <link>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</link>
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</guid>
-      <description>Interesting discussion in M. Jackson Wilkinson&amp;rsquo;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&amp;rsquo;t work in your documentation. I have to agree with one point, in that site maps don&amp;rsquo;t always serve documentation well when the notion of a strict hierarchy just doesn&amp;rsquo;t exist. But I think there&amp;rsquo;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
+      <description>Interesting discussion in M. Jackson Wilkinson&#39;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&#39;t work in your documentation. I have to agree with one point, in that site maps don&#39;t always serve documentation well when the notion of a strict hierarchy just doesn&#39;t exist. But I think there&#39;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
     </item>
     
     <item>

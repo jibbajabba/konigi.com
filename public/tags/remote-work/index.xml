@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remote work on Konigi</title>
+    <link>http://konigi.com/tags/remote-work/</link>
+    <description>Recent content in remote work on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2020 10:48:16 -0700</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design Critique on a Remote Team</title>
+      <link>http://konigi.com/links/design-critique-remote-team/</link>
+      <pubDate>Thu, 16 Apr 2020 10:48:16 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/design-critique-remote-team/</guid>
+      <description>Tips for running remote design critique.</description>
+    </item>
+    
+  </channel>
+</rss>

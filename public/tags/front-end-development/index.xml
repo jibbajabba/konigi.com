@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Front End Development on Konigi</title>
+    <title>front end development on Konigi</title>
     <link>http://konigi.com/tags/front-end-development/</link>
-    <description>Recent content in Front End Development on Konigi</description>
+    <description>Recent content in front end development on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Apr 2018 12:47:40 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/front-end-development/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/front-end-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Tue, 24 Apr 2018 12:47:40 -0700</pubDate>
       
       <guid>http://konigi.com/links/rgba-fecolormatrix/</guid>
-      <description>feColorMatrix is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
-This filter allows granular per channel color manipulation. Una Kravets wrote an excellent article explaining how to use it.</description>
+      <description>An SVG filter that changes colors based on a transformation matrix.</description>
     </item>
     
     <item>
@@ -46,8 +44,7 @@ Choosing Static Site Generators In the past few years, I&amp;rsquo;ve taken a fe
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</guid>
-      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.
-https://remote.modern.ie/</description>
+      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.</description>
     </item>
     
     <item>
@@ -75,7 +72,7 @@ After installing the software on your computer and any number of mobile devices,
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/saucelabs-cloud-based-cross-browser-testing/</guid>
-      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&amp;rsquo;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
+      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&#39;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
     </item>
     
     <item>
@@ -94,7 +91,7 @@ Enter a URL to test, and select a target browser in the version of your choosing
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
-      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
+      <description>I stumbled on Paul Irish and Divya Manian&#39;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&#39;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&#39;s site.
 HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
     </item>
     
@@ -124,7 +121,7 @@ http://lesscss.org/</description>
       <pubDate>Wed, 06 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/drawter-drawable-markup-language/</guid>
-      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&amp;rsquo;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
+      <description>Drawter has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn&#39;t until I watched the screencast, however, that I really got to see how beautifully it generates markup and css.
 Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website&#39;s code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div&#39;s style properties within floating inspectors.</description>
     </item>
     
@@ -134,7 +131,7 @@ Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQu
       <pubDate>Tue, 10 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ultimate-guide-grid-based-web-design/</guid>
-      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&amp;rsquo;ve heard of and a few that are new to me, and showcase of sites.
+      <description>Noupe offers up a complete guide to techniques and tools for designing web layouts with grids. Includes basic information about grid design, links to more articles on specific aspects of grid-based design from other sites, links to all of the CSS grid-based layout frameworks I&#39;ve heard of and a few that are new to me, and showcase of sites.
 Via @zakiwarfel
 http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html</description>
     </item>
@@ -145,7 +142,7 @@ http://www.noupe.com/design/ultimate-guide-to-grid-based-web-design.html</descri
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/yahoo-grids-css/</guid>
-      <description>The Yahoo! UI Library&amp;rsquo;s Grids CSS framework might seem hard to grok at first, but I&amp;rsquo;ve been using it for the past year on a commercial project and find that it&amp;rsquo;s solid for liquid CSS layouts. The grid builder helps to visualize what&amp;rsquo;s possible and view the rather obscure naming conventions they use in CSS classes.
+      <description>The Yahoo! UI Library&#39;s Grids CSS framework might seem hard to grok at first, but I&#39;ve been using it for the past year on a commercial project and find that it&#39;s solid for liquid CSS layouts. The grid builder helps to visualize what&#39;s possible and view the rather obscure naming conventions they use in CSS classes.
 The framework offers four preset page widths, six preset templates, and the ability to stack and nest subdivided regions of two, three, or four columns.</description>
     </item>
     
@@ -157,81 +154,6 @@ The framework offers four preset page widths, six preset templates, and the abil
       <guid>http://konigi.com/blog/litmus-browser-testing-software/</guid>
       <description>Litmus is a web browser testing service that lets you test your web pages against 23 browser versions on 3 platforms as well as testing email on 16 different mail clients. The service offers a very intuitive experience for running tests, viewing the full page screenshots, and verifying compatibility.
 They also just released Alkaline, a Mac app that lets you view your tests of Windows clients without going to the web site, which is shown in the screenshot above.</description>
-    </item>
-    
-    <item>
-      <title>Fluid Grids</title>
-      <link>http://konigi.com/blog/fluid-grids/</link>
-      <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/fluid-grids/</guid>
-      <description>In the latest A List Apart, Airbag Industries&amp;rsquo; Ethan Marcotte writes about designing fluid grids, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user.</description>
-    </item>
-    
-    <item>
-      <title>jQuery Flash Plugin</title>
-      <link>http://konigi.com/blog/jquery-flash-plugin/</link>
-      <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/jquery-flash-plugin/</guid>
-      <description>The Flash Plugin looks like an extremely simple method to do Flash replacement using XHTML and JQuery. Can embed SWFs, You Tube videos, and even do SIFR. Sick. Via David Kaneda
-http://jquery.lukelutman.com/plugins/flash/</description>
-    </item>
-    
-    <item>
-      <title>stopdesign is back!</title>
-      <link>http://konigi.com/blog/stopdesign-back/</link>
-      <pubDate>Wed, 28 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/stopdesign-back/</guid>
-      <description>Doug Bowman has started blogging again! http://stopdesign.com/</description>
-    </item>
-    
-    <item>
-      <title>Making Modular Layout Systems</title>
-      <link>http://konigi.com/blog/making-modular-layout-systems/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/making-modular-layout-systems/</guid>
-      <description>Jason Santa Maria&amp;rsquo;s 24 Ways entry provides a very simple explanation of the modular layout strategy he uses. THe example html/css is super simple and easy to read, and the article itself is a short and easy to digest. We need to see more concise instructive articles like that. http://24ways.org/2008/making-modular-layout-systems</description>
-    </item>
-    
-    <item>
-      <title>CSS Framework Roundup</title>
-      <link>http://konigi.com/blog/css-framework-roundup/</link>
-      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/css-framework-roundup/</guid>
-      <description>Hidden Pixels recently rounded up the available CSS frameworks into a list. I happen to be evaluating CSS frameworks as well to find a flexible system to provide on a CMS I&amp;rsquo;m working on. The Hidden Pixels list isn&amp;rsquo;t very descriptive of the specific usage or value each framework has to offer, so I&amp;rsquo;ve provided a summary of each to make this a useful reference when evaluating the list.
-The CSS presentation frameworks listed below provide the underlying CSS structure for typical web site needs.</description>
-    </item>
-    
-    <item>
-      <title>SproutCore</title>
-      <link>http://konigi.com/blog/sproutcore/</link>
-      <pubDate>Mon, 30 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sproutcore/</guid>
-      <description>SproutCore has been getting some buzz after the June Apple WWDC, where SproutCore was demoed. This is an MVC framework that builds a standards-based application that runs entirely in the browser and is not tied to a single scripting language to power the back end. The framework is being used to drive the new MobileMe service from Apple.
-SproutCore is a framework for building applications in JavaScript with remarkably little amounts of code.</description>
-    </item>
-    
-    <item>
-      <title>Yahoo! BrowserPlus</title>
-      <link>http://konigi.com/blog/yahoo-browserplus/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/yahoo-browserplus/</guid>
-      <description>Yahoo! BrowserPlus is software that extends the capabilities of web browsers to make rich web experiences possible. Websites can use the software to support behaviors like drag and drop from the desktop, easier file uploads, acquisition of feeds and information, and native desktop notifications. The site is showing very cool demos right now including dragging and dropping photos from the desktop to a web browser, live image manipulation, and live refreshing IRC chatrooms in the browser.</description>
-    </item>
-    
-    <item>
-      <title>Install multiple versions of IE on your PC</title>
-      <link>http://konigi.com/links/install-multiple-versions-ie-your-pc/</link>
-      <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/install-multiple-versions-ie-your-pc/</guid>
-      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&amp;rsquo;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
     </item>
     
   </channel>

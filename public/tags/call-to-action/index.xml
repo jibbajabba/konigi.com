@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call to Action on Konigi</title>
+    <title>call to action on Konigi</title>
     <link>http://konigi.com/tags/call-to-action/</link>
-    <description>Recent content in Call to Action on Konigi</description>
+    <description>Recent content in call to action on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/call-to-action/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/call-to-action/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</guid>
-      <description>Dustin Curtis did an interesting experiment with a short call to action at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &amp;ldquo;here&amp;rdquo; had a pretty significant impact. As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &amp;ldquo;You&amp;rdquo; identifies the reader directly, &amp;ldquo;should&amp;rdquo; implies an obligation, and &amp;ldquo;follow me on twitter&amp;rdquo; is a direct command.</description>
+      <description>Dustin Curtis did an interesting experiment with a short call to action at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &#34;here&#34; had a pretty significant impact. As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &#34;</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@
       <pubDate>Tue, 16 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ui-testing-results-lessaccountingcom-call-action/</guid>
-      <description>Less Everything did a couple of A-B tests on the call to action buttons on the home page of their Less Accounting product. Their first test modified the design of 2 buttons (see tour, try), using 1 button instead for the &amp;ldquo;Try Less Accounting&amp;rdquo; link and a text link for &amp;ldquo;See Tour&amp;rdquo;. They noticed a small increase in conversion when they went to the single button, and then did a second test, reversing the position of the button and link.</description>
+      <description>Less Everything did a couple of A-B tests on the call to action buttons on the home page of their Less Accounting product. Their first test modified the design of 2 buttons (see tour, try), using 1 button instead for the &#34;Try Less Accounting&#34; link and a text link for &#34;See Tour&#34;. They noticed a small increase in conversion when they went to the single button, and then did a second test, reversing the position of the button and link.</description>
     </item>
     
     <item>
@@ -58,7 +57,7 @@ http://www.leemunroe.com/web-design-trends-call-to-action-signup-download-button
       <guid>http://konigi.com/blog/10-techniques-effective-call-action/</guid>
       <description>Boagworld looks at 10 ways to design an effective call to action.
 Having an effective call to action is an essential part of any website. A call to action is not just limited to ecommerce sites. Every website should have an objective it wants users to complete whether it is filling in a contact form, signup for a newsletter or volunteering their time.
-A call to action provides&amp;hellip;
+A call to action provides...
 Focus to your site</description>
     </item>
     

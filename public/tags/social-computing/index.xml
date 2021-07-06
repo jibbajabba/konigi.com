@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Computing on Konigi</title>
+    <title>social computing on Konigi</title>
     <link>http://konigi.com/tags/social-computing/</link>
-    <description>Recent content in Social Computing on Konigi</description>
+    <description>Recent content in social computing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Nov 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/social-computing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/social-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 09 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/preview-social-computing-chapter-encyclopedia-human-computer-interaction/</guid>
-      <description>In case you haven&amp;rsquo;t checked it out, the Interaction-Design.org Foundation is an outstanding project started by Mads Soegaard and Rikke Dam to create free and open educational materials for the HCI and IXD communities. The Encyclopedia of Human-Computer Interaction is the main project, where they&amp;rsquo;ve engaged professors and designers to contribute chapters that include HD video and commentary.
+      <description>In case you haven&#39;t checked it out, the Interaction-Design.org Foundation is an outstanding project started by Mads Soegaard and Rikke Dam to create free and open educational materials for the HCI and IXD communities. The Encyclopedia of Human-Computer Interaction is the main project, where they&#39;ve engaged professors and designers to contribute chapters that include HD video and commentary.
 Mads and crew will soon release a chapter on Social Computing and its relation to social media, written by Tom Erickson, veteran researcher in social computing at IBM Watson Research Lab.</description>
     </item>
     

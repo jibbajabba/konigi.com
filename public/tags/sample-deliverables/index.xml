@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sample Deliverables on Konigi</title>
+    <title>sample deliverables on Konigi</title>
     <link>http://konigi.com/tags/sample-deliverables/</link>
-    <description>Recent content in Sample Deliverables on Konigi</description>
+    <description>Recent content in sample deliverables on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Nov 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/sample-deliverables/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/sample-deliverables/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ Would have been lovely to also see some of the sketches, but it&#39;s awesome th
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
-      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:</description>
+      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&#39;s Growl alerting app as the starting point:</description>
     </item>
     
   </channel>

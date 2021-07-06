@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sign in and Registration on Konigi</title>
+    <title>sign in and registration on Konigi</title>
     <link>http://konigi.com/tags/sign-in-and-registration/</link>
-    <description>Recent content in Sign in and Registration on Konigi</description>
+    <description>Recent content in sign in and registration on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/sign-in-and-registration/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/sign-in-and-registration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,23 +30,23 @@ If you&#39;re interested in this topic, you might also want to check out Chris D
     </item>
     
     <item>
-      <title>Log in or sign up?</title>
-      <link>http://konigi.com/blog/log-or-sign/</link>
-      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/log-or-sign/</guid>
-      <description>Leah Culver discusses the design of hybrid sign up / login forms, showing a few examples and the final form as implemented for Leafy Chat. Uses the familiar I&amp;rsquo;m a customer/I&amp;rsquo;m new here radios that we know from Amazon, but positions it before the password field, which I find an improvement over the Amazon implementation. Lots of ideas in the comments.
-http://blog.leahculver.com/2009/11/log-in-or-sign-up.html</description>
-    </item>
-    
-    <item>
       <title>iPhone-like Passwords using jQuery</title>
       <link>http://konigi.com/links/iphone-passwords-using-jquery/</link>
       <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/iphone-passwords-using-jquery/</guid>
-      <description>Stefan Ullrich&amp;rsquo;s jQuery plugin on the DECAF site provides a behavior for masking passwords that is familiar to mobile users. The plugin obscures previously entered characters at delayed intervals or when new characters are entered. It falls back on using the browser&amp;rsquo;s password masking when JS is disabled.
+      <description>Stefan Ullrich&#39;s jQuery plugin on the DECAF site provides a behavior for masking passwords that is familiar to mobile users. The plugin obscures previously entered characters at delayed intervals or when new characters are entered. It falls back on using the browser&#39;s password masking when JS is disabled.
 http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/</description>
+    </item>
+    
+    <item>
+      <title>Log in or sign up?</title>
+      <link>http://konigi.com/blog/log-or-sign/</link>
+      <pubDate>Tue, 17 Nov 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/log-or-sign/</guid>
+      <description>Leah Culver discusses the design of hybrid sign up / login forms, showing a few examples and the final form as implemented for Leafy Chat. Uses the familiar I&#39;m a customer/I&#39;m new here radios that we know from Amazon, but positions it before the password field, which I find an improvement over the Amazon implementation. Lots of ideas in the comments.
+http://blog.leahculver.com/2009/11/log-in-or-sign-up.html</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/</descript
       <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/designing-sign/</guid>
-      <description>View more presentations from Joshua Porter.   Joshua Porter&amp;rsquo;s &amp;ldquo;Designing for Sign Up&amp;rdquo; presentation from Webstock, 2009, does a great job of focusing the task of sign up on user motivation and anxiety, and thinking through scenarios that help remove barriers to entry. As he says, the form itself is the least of your concerns. Porter describes the entire experience leading up to the call to action, providing excellent examples that ease users into sign up.</description>
+      <description>View more presentations from Joshua Porter.   Joshua Porter&#39;s &#34;Designing for Sign Up&#34; presentation from Webstock, 2009, does a great job of focusing the task of sign up on user motivation and anxiety, and thinking through scenarios that help remove barriers to entry. As he says, the form itself is the least of your concerns. Porter describes the entire experience leading up to the call to action, providing excellent examples that ease users into sign up.</description>
     </item>
     
     <item>
@@ -65,7 +64,7 @@ http://blog.decaf.de/2009/07/iphone-like-password-fields-using-jquery/</descript
       <pubDate>Tue, 28 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/12-excellent-examples-lazy-registration/</guid>
-      <description>This is a short entry about sites that use &amp;ldquo;Lazy Registration,&amp;rdquo; or registration/sign up processes that often don&amp;rsquo;t require any information from the user while they try out a site, until they decide to commit to using it. In some cases, sites bypass signup altogether, and in others, users are permitted to register once they&amp;rsquo;ve decided to go beyond simply &amp;ldquo;testing out&amp;rdquo; a site or application. As noted, the process of &amp;ldquo;getting your feet wet by trying,&amp;rdquo; most likely leads to more sign ups because of the frictionless experience.</description>
+      <description>This is a short entry about sites that use &#34;Lazy Registration,&#34; or registration/sign up processes that often don&#39;t require any information from the user while they try out a site, until they decide to commit to using it. In some cases, sites bypass signup altogether, and in others, users are permitted to register once they&#39;ve decided to go beyond simply &#34;testing out&#34; a site or application. As noted, the process of &#34;</description>
     </item>
     
     <item>

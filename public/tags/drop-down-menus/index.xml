@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drop Down Menus on Konigi</title>
+    <title>drop-down menus on Konigi</title>
     <link>http://konigi.com/tags/drop-down-menus/</link>
-    <description>Recent content in Drop Down Menus on Konigi</description>
+    <description>Recent content in drop-down menus on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/drop-down-menus/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/drop-down-menus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -150,74 +149,6 @@ The interface is pretty simple to use.</description>
       <guid>http://konigi.com/interfaces/hulu-channel-drop-down-menu/</guid>
       <description>Hulu&#39;s drop down menu for channels stretches to the width of the design and provides a multi-column grid of channels. This method of running a drop down or flyout menu left-to-right rather than top-to-bottom allows interface designers to present longer lists of options without worrying about what appears in relation to the fold, and forcing scroll on longer lists.
  http://www.hulu.com/</description>
-    </item>
-    
-    <item>
-      <title>CBS Navigation</title>
-      <link>http://konigi.com/interfaces/cbs-navigation/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/cbs-navigation/</guid>
-      <description>The CBS site features a drop down menu that spans the entire width of the layout when the user hovers over shows. Wide drop downs are not unusual, and for a time appeared on the Amazon.com site when they experiencing the growth of their departments. On CBS, this type of interface is used to display as many of the network&#39;s shows as it can, segmenting them by airing time and format.</description>
-    </item>
-    
-    <item>
-      <title>IKEA Navigation</title>
-      <link>http://konigi.com/interfaces/ikea-navigation/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/ikea-navigation/</guid>
-      <description>IKEA&#39;s navigation menus feature a simple navigation bar on the top of the layout. The most important entry points are shown as is a button for new items. A drop down menu at right for the rest of the top level entry points. Within each section, tree navigation interfaces are provided for browsing more deeply within the section.
-1. Home page.2. &amp;quot;Living Room&amp;quot; selected in the global navigation. Local navigation appears in the left sidebar.</description>
-    </item>
-    
-    <item>
-      <title>MobileMe Calendar Date Selector</title>
-      <link>http://konigi.com/interfaces/mobileme-calendar-date-selector/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/mobileme-calendar-date-selector/</guid>
-      <description>The date selection controls in MobileMe Calendar mimic the date selection segmented control in iCal. However, the control bar adds an additional drop-down menu for actions like creating events, and jumping to a specific date. The interface is simple. The addition of the action menu makes the functions from the iCal menu bar accessible without having to add to the web-based calendar interface.
-1. The full calendar interface.2. The action menu expanded.</description>
-    </item>
-    
-    <item>
-      <title>Delicious Global Navigation</title>
-      <link>http://konigi.com/interfaces/delicious-global-navigation/</link>
-      <pubDate>Tue, 05 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/delicious-global-navigation/</guid>
-      <description>The redesigned del.icio.us site provides drop down navigation to signed in users. Clicking the navigation label jumps to that section, or click the arrow to drill down in that section. They provide separators in the drop-down to chunk up the navigation options. There&#39;s some inconsistency in the treatment of selected sections. The blue background of the nav link on Home implies selected color. But if you click the links in the global nav, the blue background on Home remains on Home.</description>
-    </item>
-    
-    <item>
-      <title>OfficeMax A-Z Index</title>
-      <link>http://konigi.com/interfaces/officemax-z-index/</link>
-      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/officemax-z-index/</guid>
-      <description>OfficeMax displays an a-z index of the store directory in the global navigation. When users hover over any of the letters, a page-wide flyout menu appears to display entries. Clicking on one of the letters, displays the same listing of entries in full page view.
-1. A-Z index displayed in global navigation. Hovering over letter shows wide flyout menu of directory entries.2. Directory display for B&#39;s. http://www.officemax.com/</description>
-    </item>
-    
-    <item>
-      <title>Conservation International Global Navigation</title>
-      <link>http://konigi.com/interfaces/conservation-international-global-navigation/</link>
-      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/conservation-international-global-navigation/</guid>
-      <description>The Conservation International site provides an interesting take on the flyout or drop down global navigation bar. The site uses single, short action words set in very large type to indicate what you can do and name the sections of the site: Discover, Learn, Explore, Act, Give. These are nice pathfinder-type labels. When the user hovers over a links, the label expands to provide a phrase. For example, Learn becomes &#34;</description>
-    </item>
-    
-    <item>
-      <title>Flickr Sharing</title>
-      <link>http://konigi.com/interfaces/flickr-sharing/</link>
-      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/flickr-sharing/</guid>
-      <description>Flickr have added a sharing interface for their photos and videos. Presumably this is because of the introduction of videos into the ecosystem. The interface is provided via an unobtrusive link that uses AJAX to display contextual menus when clicked.
-Prior to the introduction of this interface, users had to go to click the &#34;All Sizes&#34; link to find URLs for the item.
-1. &amp;quot;Share This&amp;quot; button appears to the right of photo or video title.</description>
     </item>
     
   </channel>

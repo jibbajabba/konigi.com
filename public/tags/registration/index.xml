@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Registration on Konigi</title>
+    <title>registration on Konigi</title>
     <link>http://konigi.com/tags/registration/</link>
-    <description>Recent content in Registration on Konigi</description>
+    <description>Recent content in registration on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/registration/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/registration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,8 +27,7 @@ The illustrations on the site do a great job of making you feel like this isn&#3
       
       <guid>http://konigi.com/interfaces/geeklist-sign-password-strength/</guid>
       <description>Geeklist&#39;s sign up form tells you how secure your password is by indicating how long it would take to crack. Sounds much more understandable and convincing than the typical weak/strong message.
-1. A really strong password.2. A dictionary word is weak. 3. Better, but still weak. The messaging may be convincing enough to get users to think about their choice.
-https://geekli.st/signup</description>
+1. A really strong password.2. A dictionary word is weak. 3. Better, but still weak. The messaging may be convincing enough to get users to think about their choice. https://geekli.st/signup</description>
     </item>
     
     <item>

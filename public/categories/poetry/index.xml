@@ -1,0 +1,65 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poetry on Konigi</title>
+    <link>http://konigi.com/categories/poetry/</link>
+    <description>Recent content in poetry on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2020 16:43:11 -0800</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/categories/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dope O’ Mine</title>
+      <link>http://konigi.com/poetry/003/</link>
+      <pubDate>Tue, 15 Dec 2020 16:43:11 -0800</pubDate>
+      
+      <guid>http://konigi.com/poetry/003/</guid>
+      <description>reduced me to puddles
+and aftershocks
+exhausted limbs
+and tousled locks
+lit me up
+and shook my spine
+can’t get enough
+of that dope o&amp;rsquo; mine</description>
+    </item>
+    
+    <item>
+      <title>You, Me, We</title>
+      <link>http://konigi.com/poetry/002/</link>
+      <pubDate>Fri, 20 Nov 2020 14:23:24 -0800</pubDate>
+      
+      <guid>http://konigi.com/poetry/002/</guid>
+      <description>You
+You caught me looking
+You have beautiful eyes
+You hear that a lot I’m sure
+I
+I froze up
+I wanted to say hi
+I lost my nerve
+We
+We stood in line
+We made contact
+We made eye contact</description>
+    </item>
+    
+    <item>
+      <title>Fruit and Suffering</title>
+      <link>http://konigi.com/poetry/001/</link>
+      <pubDate>Fri, 20 Nov 2020 14:19:25 -0800</pubDate>
+      
+      <guid>http://konigi.com/poetry/001/</guid>
+      <description>Fruit and suffering
+New life and old skin
+Shed the failure and bruises
+The wounds and mediocrity
+Today I begin
+Born anew
+A vineyard of bruises is my birthplace</description>
+    </item>
+    
+  </channel>
+</rss>

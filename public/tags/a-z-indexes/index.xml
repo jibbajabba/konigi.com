@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Z Indexes on Konigi</title>
+    <title>a-z indexes on Konigi</title>
     <link>http://konigi.com/tags/a-z-indexes/</link>
-    <description>Recent content in A Z Indexes on Konigi</description>
+    <description>Recent content in a-z indexes on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/a-z-indexes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/a-z-indexes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/z-indexes/</guid>
-      <description>uxRefresh has collected a handful of examples of A-Z indexes of titles on large sites. Also useful might be a look at the article I wrote about KWIC/KWOC/A-Z Site Indexes work I did while at Bell Labs, and for a deeper dive, look at the list of links of indexer-designed examples on the Montague Institute&amp;rsquo;s site. Many of the latter are still valid, but there&amp;rsquo;s some link rot there too. James Kalbach also recently wrote on A-Z indexes, and in particular demonstrated the use of indexes in search auto-completion using Elsevier bibliographic database EMBASE.</description>
+      <description>uxRefresh has collected a handful of examples of A-Z indexes of titles on large sites. Also useful might be a look at the article I wrote about KWIC/KWOC/A-Z Site Indexes work I did while at Bell Labs, and for a deeper dive, look at the list of links of indexer-designed examples on the Montague Institute&#39;s site. Many of the latter are still valid, but there&#39;s some link rot there too.</description>
     </item>
     
   </channel>

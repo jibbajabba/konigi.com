@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Onboarding on Konigi</title>
+    <title>onboarding on Konigi</title>
     <link>http://konigi.com/tags/onboarding/</link>
-    <description>Recent content in Onboarding on Konigi</description>
+    <description>Recent content in onboarding on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 10:26:55 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/onboarding/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/onboarding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stonly: Step by step guides</title>
+      <link>http://konigi.com/links/stonly/</link>
+      <pubDate>Fri, 09 Aug 2019 10:26:55 -0700</pubDate>
+      
+      <guid>http://konigi.com/links/stonly/</guid>
+      <description>A widget for creating guides and explainers.</description>
+    </item>
     
     <item>
       <title>How Color Already Blew It</title>
@@ -27,7 +35,7 @@
       <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/onboarding-designing-welcoming-first-experiences/</guid>
-      <description>Whitney Hess has published the sidebar on Onboarding from the Designing Social Interfaces book by Erin Malone and Christian Crumlish, as a featured article on UX Mag. Whitney&amp;rsquo;s article describes how to use onboarding to get users from sign up, to becoming oriented with your site and actually using it.
+      <description>Whitney Hess has published the sidebar on Onboarding from the Designing Social Interfaces book by Erin Malone and Christian Crumlish, as a featured article on UX Mag. Whitney&#39;s article describes how to use onboarding to get users from sign up, to becoming oriented with your site and actually using it.
 http://uxmag.com/design/onboarding-designing-welcoming-first-experiences</description>
     </item>
     

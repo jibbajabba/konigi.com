@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Store on Konigi</title>
+    <title>store on Konigi</title>
     <link>http://konigi.com/tags/store/</link>
-    <description>Recent content in Store on Konigi</description>
+    <description>Recent content in store on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Nov 2015 12:06:00 -0800</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/store/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/store/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://teez.com.ua</description>
       <pubDate>Thu, 03 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/50-every-dollar-you-spend-will-go-charity-december/</guid>
-      <description>The Plan I&amp;rsquo;ve been thinking of two things a lot with the holidays arriving. The first is, how can I provide a discount on Konigi stuff to my friends who use the notepads and sketchbooks. The second is, how can I find a way to make my Christmastime donations interesting. When I was an avid Lala trader a few years ago, I tried to see if I could get one of the many CDs sleeves I marked back and vowed to make my donations coincide with the event.</description>
+      <description>The Plan I&#39;ve been thinking of two things a lot with the holidays arriving. The first is, how can I provide a discount on Konigi stuff to my friends who use the notepads and sketchbooks. The second is, how can I find a way to make my Christmastime donations interesting. When I was an avid Lala trader a few years ago, I tried to see if I could get one of the many CDs sleeves I marked back and vowed to make my donations coincide with the event.</description>
     </item>
     
     <item>
@@ -74,7 +73,7 @@ http://www.happywebbies.com/</description>
       <pubDate>Tue, 30 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/gamboliocom-take-control-your-casual-gaming/</guid>
-      <description>London-based software developer Webalon is planning to take on the big online casual gaming portals with the public beta launch of an innovative Ajax-powered casual gaming web app. Described by Webalon founder Alex Kearns as &amp;ldquo;iTunes for online games&amp;rdquo;, Gambolio allows users to create and play their own library of online games in the same way as iTunes helps people oversee their music collecion. &amp;ldquo;We want to give users the same sense of ownership of the games that people have with the songs in their iTunes library,&amp;rdquo; said Kearns.</description>
+      <description>London-based software developer Webalon is planning to take on the big online casual gaming portals with the public beta launch of an innovative Ajax-powered casual gaming web app. Described by Webalon founder Alex Kearns as &#34;iTunes for online games&#34;, Gambolio allows users to create and play their own library of online games in the same way as iTunes helps people oversee their music collecion. &#34;We want to give users the same sense of ownership of the games that people have with the songs in their iTunes library,&#34;</description>
     </item>
     
     <item>
@@ -83,8 +82,8 @@ http://www.happywebbies.com/</description>
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/erath-winery/</guid>
-      <description>From out of Oregon&amp;rsquo;s Dundee Hills rolls a new web presence for its founding winery, those consummate Pinot masters who combine the &amp;ldquo;Art of Pinot&amp;rdquo; with the winemaker&amp;rsquo;s pharmacological science to trample out the vintage where The Grapes Of Erath are stored at http://www.erath.com.
-Visualize a glass of Fuqua or Niederberger&amp;rsquo;s best, or, if you&amp;rsquo;re feeling prime time, maybe a glass of pink from their Melrose vineyard, and enjoy their new website :).</description>
+      <description>From out of Oregon&#39;s Dundee Hills rolls a new web presence for its founding winery, those consummate Pinot masters who combine the &#34;Art of Pinot&#34; with the winemaker&#39;s pharmacological science to trample out the vintage where The Grapes Of Erath are stored at http://www.erath.com.
+Visualize a glass of Fuqua or Niederberger&#39;s best, or, if you&#39;re feeling prime time, maybe a glass of pink from their Melrose vineyard, and enjoy their new website :).</description>
     </item>
     
     <item>
@@ -112,7 +111,7 @@ The design aesthetic is modern and minimalist, and conveys a sense of wit which 
       <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/kiosk/</guid>
-      <description>You probably know that I like minimalist design. I like it not only for its aesthetic appeal, but because of its utility in helping to bring clarity or focus to an idea. The site for the KIOSK shop utilizes a minimalist aesthetic. I can&amp;rsquo;t say I love it, but I love the story, which can describe this better than I can. &amp;ldquo;We offer a curated range of products from all over the world.</description>
+      <description>You probably know that I like minimalist design. I like it not only for its aesthetic appeal, but because of its utility in helping to bring clarity or focus to an idea. The site for the KIOSK shop utilizes a minimalist aesthetic. I can&#39;t say I love it, but I love the story, which can describe this better than I can. &#34;We offer a curated range of products from all over the world.</description>
     </item>
     
     <item>
@@ -149,42 +148,6 @@ The design aesthetic is modern and minimalist, and conveys a sense of wit which 
       
       <guid>http://konigi.com/designs/submissions/tokyocube/</guid>
       <description>http://tokyocube.com/</description>
-    </item>
-    
-    <item>
-      <title>COBA</title>
-      <link>http://konigi.com/designs/submissions/coba/</link>
-      <pubDate>Wed, 27 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/coba/</guid>
-      <description>http://www.cobahair.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Rumplo</title>
-      <link>http://konigi.com/designs/submissions/rumplo/</link>
-      <pubDate>Wed, 20 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/rumplo/</guid>
-      <description>http://rumplo.com/</description>
-    </item>
-    
-    <item>
-      <title>evelMerch</title>
-      <link>http://konigi.com/designs/submissions/evelmerch/</link>
-      <pubDate>Wed, 20 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/evelmerch/</guid>
-      <description>http://www.evelmerch.com/</description>
-    </item>
-    
-    <item>
-      <title>black &amp; light co.</title>
-      <link>http://konigi.com/designs/submissions/black-light-co/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/black-light-co/</guid>
-      <description>http://www.blackandlightco.com/</description>
     </item>
     
   </channel>

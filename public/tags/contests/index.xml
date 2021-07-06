@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contests on Konigi</title>
+    <title>contests on Konigi</title>
     <link>http://konigi.com/tags/contests/</link>
-    <description>Recent content in Contests on Konigi</description>
+    <description>Recent content in contests on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Jan 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/contests/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/contests/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 13 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/explain-ia-win-1k/</guid>
-      <description>Explain IA is a contest created by the Information Architecture Institute to find the explanation of information architecture. Will be interesting to see what people come up with. I&amp;rsquo;d especially like to see the explanation that explains IA in layman&amp;rsquo;s terms in a way that my non-techie mother could understand.
+      <description>Explain IA is a contest created by the Information Architecture Institute to find the explanation of information architecture. Will be interesting to see what people come up with. I&#39;d especially like to see the explanation that explains IA in layman&#39;s terms in a way that my non-techie mother could understand.
 What is it? Why is it important? What does it mean to you? Some folks may offer a definition in 140 characters or less, while others will use this opportunity to tell a story (using text, pictures, audio, and/or video) about their relationship to IA.</description>
     </item>
     
@@ -27,7 +26,7 @@ What is it? Why is it important? What does it mean to you? Some folks may offer 
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
-      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &amp;ldquo;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&amp;rdquo; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
+      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &#34;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&#34; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
 http://design-challenge.mozilla.com/summer09/showcase.php</description>
     </item>
     

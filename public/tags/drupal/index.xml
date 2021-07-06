@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Drupal on Konigi</title>
+    <title>drupal on Konigi</title>
     <link>http://konigi.com/tags/drupal/</link>
-    <description>Recent content in Drupal on Konigi</description>
+    <description>Recent content in drupal on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Feb 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sun, 28 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/drupal-coda-clips/</guid>
-      <description>Dezinerfolio&amp;rsquo;s free Drupal snippet library for the Coda editor (Mac OS only) provides a very useful set of code clips for theming Drupal sites.
+      <description>Dezinerfolio&#39;s free Drupal snippet library for the Coda editor (Mac OS only) provides a very useful set of code clips for theming Drupal sites.
 http://www.dezinerfolio.com/freebie/drupal-coda-clips</description>
     </item>
     

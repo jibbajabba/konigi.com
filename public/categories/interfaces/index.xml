@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interfaces on Konigi</title>
+    <title>interfaces on Konigi</title>
     <link>http://konigi.com/categories/interfaces/</link>
-    <description>Recent content in Interfaces on Konigi</description>
+    <description>Recent content in interfaces on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Aug 2018 09:31:33 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/categories/interfaces/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/categories/interfaces/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 02 Aug 2018 09:31:33 -0700</pubDate>
       
       <guid>http://konigi.com/interfaces/evernote-authorize-slack-access/</guid>
-      <description>This is the authorization gateway screen shown by Evernote to give Slack access to Evernote services. A dropdown list allows the user to set options for the life of the session and provides brief instruction for how to revoke access at any time in the user’s Settings.</description>
+      <description>Evernote&amp;rsquo;s authorization gateway interface.</description>
     </item>
     
   </channel>

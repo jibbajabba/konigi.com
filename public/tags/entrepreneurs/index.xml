@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entrepreneurs on Konigi</title>
+    <title>entrepreneurs on Konigi</title>
     <link>http://konigi.com/tags/entrepreneurs/</link>
-    <description>Recent content in Entrepreneurs on Konigi</description>
+    <description>Recent content in entrepreneurs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/entrepreneurs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/entrepreneurs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ Getting funding for your app idea is hard and often unrealistic. Most of the tim
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
-      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&amp;rsquo;t as important as working on the right things. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;
+      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&#39;t as important as working on the right things. Or as I once heard on a cartoon as a kid... &#34;you have to work smarter not harder.&#34;
 Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be.</description>
     </item>
     
@@ -37,7 +36,7 @@ Much more important than working hard is knowing how to find the right thing to 
       <pubDate>Thu, 23 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/istik-designers-make-better-ipod-holder/</guid>
-      <description>Core77 talks about a couple that makes good with self-designed iPod accessory, the iStik. Great example of designers finding buyers in a market saturated with accessory makers. They stand out because they&amp;rsquo;ve thought of the problem, researched how to make the better mousetrap and deliver a product that sells the story of sticking your nano wherever you want when you work out. They&amp;rsquo;ve made $50K in 6 months. Excellent stuff.</description>
+      <description>Core77 talks about a couple that makes good with self-designed iPod accessory, the iStik. Great example of designers finding buyers in a market saturated with accessory makers. They stand out because they&#39;ve thought of the problem, researched how to make the better mousetrap and deliver a product that sells the story of sticking your nano wherever you want when you work out. They&#39;ve made $50K in 6 months. Excellent stuff.</description>
     </item>
     
   </channel>

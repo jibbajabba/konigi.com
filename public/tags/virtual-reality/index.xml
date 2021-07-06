@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Virtual Reality on Konigi</title>
+    <title>virtual reality on Konigi</title>
     <link>http://konigi.com/tags/virtual-reality/</link>
-    <description>Recent content in Virtual Reality on Konigi</description>
+    <description>Recent content in virtual reality on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jan 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</guid>
-      <description>CNET reports on Johnny Chung Lee&amp;rsquo;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them.</description>
+      <description>CNET reports on Johnny Chung Lee&#39;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them.</description>
     </item>
     
   </channel>

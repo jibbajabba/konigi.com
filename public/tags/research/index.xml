@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Konigi</title>
+    <title>research on Konigi</title>
     <link>http://konigi.com/tags/research/</link>
-    <description>Recent content in Research on Konigi</description>
+    <description>Recent content in research on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Apr 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -68,7 +67,7 @@ Some of the ideas are pretty exciting. I particularly like the emphasis on every
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/clicktale-scrolling-research-report/</guid>
-      <description>ClickTale makes observations about scrolling based on their research of users&amp;rsquo; browsing behaviors around &amp;ldquo;the fold.&amp;rdquo; Their report on scrolling makes the following conclusions: [I[t appears that visitors scroll in a relative way - about the same percentage of page views will reach the middle of a web page regardless of the actual page height in pixels.
+      <description>ClickTale makes observations about scrolling based on their research of users&#39; browsing behaviors around &#34;the fold.&#34; Their report on scrolling makes the following conclusions: [I[t appears that visitors scroll in a relative way - about the same percentage of page views will reach the middle of a web page regardless of the actual page height in pixels.
 Visitors appear to be using the location of the scroll bar but not the size of the tracker when scrolling, since the scroll bar location is a relative indicator and the scroll tracker size is an indicator of page height.</description>
     </item>
     
@@ -88,7 +87,7 @@ http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-othe
       <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/crowd-science-research-service-launches/</guid>
-      <description>Crowd Science is a new comer among user research services that allow you to prompt small sets of users to participate in questionnaires while they&amp;rsquo;re browsing your site.
+      <description>Crowd Science is a new comer among user research services that allow you to prompt small sets of users to participate in questionnaires while they&#39;re browsing your site.
 Crowd Science Demographics is a new analytics service that builds detailed reports on the demographics and attitudes of website audiences. By surveying a small number visitors with carefully constructed questionnaires, Crowd Science Demographics is able to build comprehensive audience profiles that give publishers a deep understanding of their audience.</description>
     </item>
     
@@ -127,7 +126,7 @@ http://www.adaptivepath.com/blog/2008/09/22/is-your-organization-experienced/</d
       <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hold-front-page/</guid>
-      <description>The Economist reports on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&amp;rsquo;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page).</description>
+      <description>The Economist reports on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&#39;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page).</description>
     </item>
     
     <item>
@@ -136,7 +135,7 @@ http://www.adaptivepath.com/blog/2008/09/22/is-your-organization-experienced/</d
       <pubDate>Mon, 28 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/engineer-unlocks-wiis-hidden-potential/</guid>
-      <description>CNET reports on Johnny Chung Lee&amp;rsquo;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them.</description>
+      <description>CNET reports on Johnny Chung Lee&#39;s interaction experiments with the Wii Remote. Lee, a Phd student at Carnegie Melon, does a quick demo of head tracking for VR displays and multi point interaction using the wii remote. His experiments describe with incredible clarity how the wii remote fundamentally works and how the remote might be exploited to do much more than point at single points on the screen and control them.</description>
     </item>
     
     <item>

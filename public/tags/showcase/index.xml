@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Showcase on Konigi</title>
+    <title>showcase on Konigi</title>
     <link>http://konigi.com/tags/showcase/</link>
-    <description>Recent content in Showcase on Konigi</description>
+    <description>Recent content in showcase on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -57,7 +56,7 @@ http://moobileframes.tumblr.com/page/1</description>
       <pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/wireframe-showcase/</guid>
-      <description>Mike Lohrman&amp;rsquo;s Wireframe Showcase is a user-contributed wireframe and UI sketch gallery. I&amp;rsquo;m hoping, since there is some space on the individual pages for content, that we&amp;rsquo;ll see a little more discussion about process and design thinking here rather than mere visuals of design artifacts. It&amp;rsquo;s always good to see more people showing how they explore ideas with sketches and wireframes.
+      <description>Mike Lohrman&#39;s Wireframe Showcase is a user-contributed wireframe and UI sketch gallery. I&#39;m hoping, since there is some space on the individual pages for content, that we&#39;ll see a little more discussion about process and design thinking here rather than mere visuals of design artifacts. It&#39;s always good to see more people showing how they explore ideas with sketches and wireframes.
 http://www.wireframeshowcase.com/</description>
     </item>
     
@@ -67,7 +66,7 @@ http://www.wireframeshowcase.com/</description>
       <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketchnote-army/</guid>
-      <description>Just discovered Mike Rohde&amp;rsquo;s Sketchnote Army.
+      <description>Just discovered Mike Rohde&#39;s Sketchnote Army.
 Sketchnote Army is dedicated to finding and showcasing sketchnotes and sketchnoters from around the world, from events, conferences, workshops or wherever sketchnotes are captured or created. If you sketchnote, send your sketchnotes URL to Mike Rohde to have them featured there.
 Via @katerutter
 http://sketchnotearmy.com/</description>
@@ -89,7 +88,7 @@ http://designgalleria.tumblr.com/</description>
       <pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/showcase-web-design-russia/</guid>
-      <description>As part of Smashing Mag&amp;rsquo;s Global Web Design series, they&amp;rsquo;ve created a showcase of Russian Web Design with Designcollector&amp;rsquo;s Arseny Vesnin providing the commentary.
+      <description>As part of Smashing Mag&#39;s Global Web Design series, they&#39;ve created a showcase of Russian Web Design with Designcollector&#39;s Arseny Vesnin providing the commentary.
 http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</description>
     </item>
     
@@ -99,7 +98,7 @@ http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</descriptio
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/beautiful-minimal-websites/</guid>
-      <description>I&amp;rsquo;m enjoying the 6 part collection of minimalist designs posted by Vandelay Design. Some sites are more minimalist than others. I tend to use that term loosely at times as well. But the predominant theme seems to be type as interface, minimal use of graphics (aside from a logo and the body content), few if any graphic treatments of navigation, and little to no use of texture and graphic effects, and liberal use of white space.</description>
+      <description>I&#39;m enjoying the 6 part collection of minimalist designs posted by Vandelay Design. Some sites are more minimalist than others. I tend to use that term loosely at times as well. But the predominant theme seems to be type as interface, minimal use of graphics (aside from a logo and the body content), few if any graphic treatments of navigation, and little to no use of texture and graphic effects, and liberal use of white space.</description>
     </item>
     
     <item>
@@ -108,7 +107,7 @@ http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</descriptio
       <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/collection-inspirational-website-collections/</guid>
-      <description>The Design Cubicle collects the design inspiration collections. More single page collections of links and screenshots than you&amp;rsquo;ll ever have time to look at, and each title starting with a number, so you can add it all up.
+      <description>The Design Cubicle collects the design inspiration collections. More single page collections of links and screenshots than you&#39;ll ever have time to look at, and each title starting with a number, so you can add it all up.
 http://www.thedesigncubicle.com/2009/06/motherload-collection-of-inspirational-website-collections/</description>
     </item>
     
@@ -128,7 +127,7 @@ http://www.instantshift.com/2009/06/07/infographic-designs-overview-examples-and
       <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/chrome-experiments/</guid>
-      <description>Google&amp;rsquo;s Chrome Experiments lab showcases some interesting uses of Javascript. We think JavaScript is awesome. We also think browsers are awesome. Indeed, when we talk about them, we say they are the cat&amp;rsquo;s meow – which is an American expression meaning AWESOME.
+      <description>Google&#39;s Chrome Experiments lab showcases some interesting uses of Javascript. We think JavaScript is awesome. We also think browsers are awesome. Indeed, when we talk about them, we say they are the cat&#39;s meow – which is an American expression meaning AWESOME.
 In light of these deeply held beliefs, we created this site to showcase cool experiments for both JavaScript and web browsers.
 These experiments were created by designers and programmers from around the world.</description>
     </item>
@@ -150,7 +149,7 @@ http://singlefunction.com/showcase/</description>
       <pubDate>Sat, 14 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/picocool/</guid>
-      <description>I&amp;rsquo;m a regular reader of Emily Chang&amp;rsquo;s eHub, one of my sources for learning about interesting web app and services. Emily recently launced a new showcase of interesting finds with PicoCool. A global community dedicated to uncovering the cool, whether in art, design, environment, culture, architecture, fashion, travel or technology. Our community finds and shares tiny bytes and unique content from the world of peer media, social networks and subcultures. We discover upcoming designs, cool products, micro-trends, subcultures, artists, human experiences, innovations, philosophies, technologies, and more.</description>
+      <description>I&#39;m a regular reader of Emily Chang&#39;s eHub, one of my sources for learning about interesting web app and services. Emily recently launced a new showcase of interesting finds with PicoCool. A global community dedicated to uncovering the cool, whether in art, design, environment, culture, architecture, fashion, travel or technology. Our community finds and shares tiny bytes and unique content from the world of peer media, social networks and subcultures.</description>
     </item>
     
     <item>
@@ -160,81 +159,6 @@ http://singlefunction.com/showcase/</description>
       
       <guid>http://konigi.com/blog/cssiphone/</guid>
       <description>How cool is this? A CSS Design gallery showing sites as viewed through the iPhone. http://cssiphone.com/</description>
-    </item>
-    
-    <item>
-      <title>UXrepublic</title>
-      <link>http://konigi.com/blog/uxrepublic/</link>
-      <pubDate>Mon, 27 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/uxrepublic/</guid>
-      <description>UXrepublic launches to provide another user-generated showcase for user interface examples.
-http://uxrepublic.com/</description>
-    </item>
-    
-    <item>
-      <title>minimalsites</title>
-      <link>http://konigi.com/blog/minimalsites/</link>
-      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/minimalsites/</guid>
-      <description>minimalsites is a nice minimalist CSS web design showcase.
-http://www.minimalsites.com/</description>
-    </item>
-    
-    <item>
-      <title>Intrinsic Nature</title>
-      <link>http://konigi.com/designs/submissions/intrinsic-nature/</link>
-      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/intrinsic-nature/</guid>
-      <description>I love viewing these slices of art work this way. I like galleries that provide a glimpse of a lot of work at this scale. I used to be a big fan of a web project in the &amp;lsquo;90&amp;rsquo;s called Slice The Web, which grabbed images from the web and re-arranged them into random overlayed slices. http://intrinsicnature.org/art/</description>
-    </item>
-    
-    <item>
-      <title>CGART: Video and Motion Graphics Showcase</title>
-      <link>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</link>
-      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</guid>
-      <description>CGART is an excellent new showcase that curates motion work covering the following areas: Motion Design, Animation, CG Animation, Cinematography, Special Effects, Interesting Advertising, Music Videos, Making of Videos, Movie Trailers, Motion Experiments.
-http://cgart.com/</description>
-    </item>
-    
-    <item>
-      <title>typeish</title>
-      <link>http://konigi.com/designs/submissions/typeish/</link>
-      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/typeish/</guid>
-      <description>typeish is a showcase of images, joining sites such as ffffound and weheartit. The site notes that it differentiates itself by limiting the participants to a select group that will curate the gallery. Stylistically, the yellow legal pad with scribbles and coffee stains makes this site stand out from the bunch of galleries out there, which I generally categorize at either end of the spectrum as either minimalist with few graphics or textured, 3 dimensional or glossy on the other end.</description>
-    </item>
-    
-    <item>
-      <title>Abduzeedo</title>
-      <link>http://konigi.com/designs/submissions/abduzeedo/</link>
-      <pubDate>Thu, 13 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/abduzeedo/</guid>
-      <description>http://abduzeedo.com/</description>
-    </item>
-    
-    <item>
-      <title>ScrnShots</title>
-      <link>http://konigi.com/designs/submissions/scrnshots/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/scrnshots/</guid>
-      <description>http://www.scrnshots.com/</description>
-    </item>
-    
-    <item>
-      <title>Web&amp;atilde;��&amp;atilde;�&amp;para;&amp;atilde;�&amp;curren;&amp;atilde;�&amp;sup3;&amp;atilde;�&amp;ordf;&amp;atilde;�&amp;sup3;&amp;atilde;�&amp;macr;&amp;eacute;��&amp;atilde;�&amp;raquo;&amp;atilde;�&amp;frac12;&amp;atilde;�&amp;frac14;&amp;atilde;�&amp;middot;&amp;atilde;�&amp;pound;&amp;atilde;�&amp;laquo;&amp;atilde;��&amp;atilde;��&amp;atilde;�&amp;macr;&amp;atilde;��&amp;atilde;�&amp;frac14;&amp;atilde;�&amp;macr; - straightline bookmark</title>
-      <link>http://konigi.com/designs/submissions/web-straightline-bookmark/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/web-straightline-bookmark/</guid>
-      <description>http://bm.straightline.jp/</description>
     </item>
     
   </channel>

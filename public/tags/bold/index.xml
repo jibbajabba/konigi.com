@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bold on Konigi</title>
+    <title>bold on Konigi</title>
     <link>http://konigi.com/tags/bold/</link>
-    <description>Recent content in Bold on Konigi</description>
+    <description>Recent content in bold on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Apr 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/bold/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/bold/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -77,7 +76,7 @@ http://www.whenweland.com/</description>
       <pubDate>Tue, 23 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/gatorade/</guid>
-      <description>The Gatorade site redesign accompanies the drink maker&amp;rsquo;s rebranding and the bold type of the product names on every bottle. Every drink name is an active message about excelling in sports and the video loop that runs in the background of product and athlete pages suffuses the site with the imagery of athletes kicking ass. A product filter allows users to view by product name or nutritient.
+      <description>The Gatorade site redesign accompanies the drink maker&#39;s rebranding and the bold type of the product names on every bottle. Every drink name is an active message about excelling in sports and the video loop that runs in the background of product and athlete pages suffuses the site with the imagery of athletes kicking ass. A product filter allows users to view by product name or nutritient.
 http://www.gatorade.com/#/products/tiger</description>
     </item>
     
@@ -87,7 +86,7 @@ http://www.gatorade.com/#/products/tiger</description>
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/webwork-design-studio-collection/</guid>
-      <description>Randjelovic Milos&amp;rsquo;s portfolio really can&amp;rsquo;t be capture very well in screenshots, so you should check out the site to experience the perfect transitions between pages. Beautiful bold type and simple presentation.
+      <description>Randjelovic Milos&#39;s portfolio really can&#39;t be capture very well in screenshots, so you should check out the site to experience the perfect transitions between pages. Beautiful bold type and simple presentation.
 http://www.webwork-studio.org/</description>
     </item>
     
@@ -106,7 +105,7 @@ http://www.webwork-studio.org/</description>
       <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/ideo/</guid>
-      <description>The redesigned IDEO site has been sitting in a browser tab for a few weeks now because it just felt like one of those things I needed to mull over before writing about. It&amp;rsquo;s one of the few sites this year that just took me by surprise. In short, the deep treasure trove of content unleashed in this redesign is a huge departure from the tightly constrained and minimalist prior design.</description>
+      <description>The redesigned IDEO site has been sitting in a browser tab for a few weeks now because it just felt like one of those things I needed to mull over before writing about. It&#39;s one of the few sites this year that just took me by surprise. In short, the deep treasure trove of content unleashed in this redesign is a huge departure from the tightly constrained and minimalist prior design.</description>
     </item>
     
     <item>
@@ -115,7 +114,7 @@ http://www.webwork-studio.org/</description>
       <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/heads-state/</guid>
-      <description>The Heads of State are a 2 person design studio in Brooklyn and Seattle. Their recently redesigned site showcases the strong portfolio of print work on projects including book covers, magazine illustrations, and corporate identity. I love the simple, powerful covers on the Rosenfeld Media books, and after diving into their site, I think I&amp;rsquo;d love even more to hire them in the future.
+      <description>The Heads of State are a 2 person design studio in Brooklyn and Seattle. Their recently redesigned site showcases the strong portfolio of print work on projects including book covers, magazine illustrations, and corporate identity. I love the simple, powerful covers on the Rosenfeld Media books, and after diving into their site, I think I&#39;d love even more to hire them in the future.
 https://www.theheadsofstate.com/</description>
     </item>
     
@@ -135,7 +134,7 @@ http://www.256tm.com/</description>
       <pubDate>Fri, 18 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/national-television/</guid>
-      <description>National Television is a video and film production studio in California. It&amp;rsquo;s portfolio site is among the best examples of the use of bold typography as the primary element that defines both the form and interface. The look is clean and undeniably confident.
+      <description>National Television is a video and film production studio in California. It&#39;s portfolio site is among the best examples of the use of bold typography as the primary element that defines both the form and interface. The look is clean and undeniably confident.
 http://www.natl.tv/</description>
     </item>
     
@@ -155,191 +154,7 @@ http://www.theshowlive.com/</description>
       <pubDate>Sat, 21 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/daisy-balloon/</guid>
-      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&amp;rsquo;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
-    </item>
-    
-    <item>
-      <title>Jason Santa Maria</title>
-      <link>http://konigi.com/designs/jason-santa-maria/</link>
-      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/jason-santa-maria/</guid>
-      <description>Brooklyn visual designer Jason Santa Maria redesigns his site with a more flexible system that will allow him to adapt the design of each entry to suit the content. He notes that this is a redefined focus on art direction, and a magazine approach to content publishing outside of the typical confines of a CMS templating system.
-I liked previous site design, and its reference to physical print. But I find that while the new visual style might refer back to the feeling of print, this visual style is more appealing to me as a someone who tends to be drawn to modern design.</description>
-    </item>
-    
-    <item>
-      <title>SOFAMADE</title>
-      <link>http://konigi.com/designs/sofamade/</link>
-      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/sofamade/</guid>
-      <description>SOFAMADE are a design and development shop in Arlington, Texas. What I liked about their site most was the bold front page colors and intro paragraph with inline links and the wide 2 and 3 column grids that varied from page to page. The layout of the text-heavy Approach page and the Portfolio pages is clean and easy to read, although I thought the Approach pages did a better job at indicating the hierarchy of page elements.</description>
-    </item>
-    
-    <item>
-      <title>Fi</title>
-      <link>http://konigi.com/designs/fi/</link>
-      <pubDate>Thu, 08 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/fi/</guid>
-      <description>Fi, the Stockholm/New York City agency that was formerly known as Fantasy Interactive built up its history by making glossy flash sites where nearly every element on the screen moved and had audio attached to it. The agency has matured over the years and uses Flash more selectively and strategically now, and the name change is meant to reflect that maturity. The founder talks about usability as the thing that will characterize Fi in the future, and their clean site update reflects that.</description>
-    </item>
-    
-    <item>
-      <title>AEVUM</title>
-      <link>http://konigi.com/designs/submissions/aevum/</link>
-      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/aevum/</guid>
-      <description>http://www.aevumphoto.com/</description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>http://konigi.com/designs/submissions/typography/</link>
-      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/typography/</guid>
-      <description>http://ilovetypography.com/</description>
-    </item>
-    
-    <item>
-      <title>DAMn Magazine</title>
-      <link>http://konigi.com/designs/submissions/damn-magazine/</link>
-      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/damn-magazine/</guid>
-      <description>http://damnmagazine.net/mission.php</description>
-    </item>
-    
-    <item>
-      <title>Modernista</title>
-      <link>http://konigi.com/designs/modernista/</link>
-      <pubDate>Sat, 22 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/modernista/</guid>
-      <description>Modernista delivers one of the most unexpected agency portfolios by using UGC tools to display their content. Their site is sort of an un-site. Once you arrive at their domain, a smallish red navigation widget that&amp;rsquo;s 50px x 80px displays in the upper left of the screen. The rest of the screen is taken over by an 100% x 100% iframe showing their Wikipedia page.
-For the most part, the red widget is the only bit of the Modernista identity you see in their experience.</description>
-    </item>
-    
-    <item>
-      <title>Peekaboo Design</title>
-      <link>http://konigi.com/designs/submissions/peekaboo-design/</link>
-      <pubDate>Mon, 17 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/peekaboo-design/</guid>
-      <description>http://www.peekaboodesign.co.uk/index.html</description>
-    </item>
-    
-    <item>
-      <title>DenzmixedLab</title>
-      <link>http://konigi.com/designs/submissions/denzmixedlab/</link>
-      <pubDate>Fri, 14 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/denzmixedlab/</guid>
-      <description>http://www.denzmixed.com/</description>
-    </item>
-    
-    <item>
-      <title>Katja Schweiker</title>
-      <link>http://konigi.com/designs/submissions/katja-schweiker/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/katja-schweiker/</guid>
-      <description>http://www.katjaschweiker.com/</description>
-    </item>
-    
-    <item>
-      <title>COBA</title>
-      <link>http://konigi.com/designs/submissions/coba/</link>
-      <pubDate>Wed, 27 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/coba/</guid>
-      <description>http://www.cobahair.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Analogue</title>
-      <link>http://konigi.com/designs/submissions/analogue/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/analogue/</guid>
-      <description>http://www.analogue.ca/main.html</description>
-    </item>
-    
-    <item>
-      <title>DESUDESU</title>
-      <link>http://konigi.com/designs/submissions/desudesu/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/desudesu/</guid>
-      <description>http://www.desudesu.com/</description>
-    </item>
-    
-    <item>
-      <title>FUOR</title>
-      <link>http://konigi.com/designs/submissions/fuor/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/fuor/</guid>
-      <description>http://fuor.de/index.php</description>
-    </item>
-    
-    <item>
-      <title>PrintHuge.com</title>
-      <link>http://konigi.com/designs/submissions/printhuge-com/</link>
-      <pubDate>Wed, 13 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/printhuge-com/</guid>
-      <description>http://printhuge.com/</description>
-    </item>
-    
-    <item>
-      <title>HUGE</title>
-      <link>http://konigi.com/designs/huge/</link>
-      <pubDate>Tue, 12 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/huge/</guid>
-      <description>HUGE is a design agency specializing in websites, software applications, and branding. Their site has a modern, minimalist feel. The large bold type, their similarly selective use of large photography, and the subtle hints at the grid, lend an obvious sense of hierarchy and a clear message about what this agency is about&amp;#8212;crisp messaging and confident design. As I look at this mosaic of screens, there&amp;rsquo;s something about the openness, colors, and clear separation of large and small that is light, feels asymmetrically bold, and gives me a generally good feeling.</description>
-    </item>
-    
-    <item>
-      <title>IlanioWear</title>
-      <link>http://konigi.com/designs/submissions/ilaniowear/</link>
-      <pubDate>Fri, 25 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/ilaniowear/</guid>
-      <description>http://ilaniowear.com/</description>
-    </item>
-    
-    <item>
-      <title>Elmwood</title>
-      <link>http://konigi.com/designs/elmwood/</link>
-      <pubDate>Fri, 04 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/elmwood/</guid>
-      <description>UK agency Elmwood employs large photos and type on an atmospheric backdrop that gives a bold, modern elegance to their message, &amp;ldquo;We create brands with authentic attitude.&amp;rdquo;
-http://elmwood.co.uk</description>
-    </item>
-    
-    <item>
-      <title>Made by Elephant</title>
-      <link>http://konigi.com/designs/made-elephant/</link>
-      <pubDate>Fri, 04 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/made-elephant/</guid>
-      <description>This design portfolio makes a statement with bold colors, tight alignment, clear visual hierarchy, and readable text. The fun logo reminds me of the children&amp;rsquo;s shoemaker, elefanten. Love it.
-http://madebyelephant.com</description>
-    </item>
-    
-    <item>
-      <title>smashLAB</title>
-      <link>http://konigi.com/designs/smashlab/</link>
-      <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/smashlab/</guid>
-      <description>smashLAB is an interactive services firm that creates meaningful, memorable and easy to manage digital experiences. Reversed white text on black and large photographic elements ared used to dramatic effect. http://smashlab.com</description>
+      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&#39;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Play on Konigi</title>
+    <title>play on Konigi</title>
     <link>http://konigi.com/tags/play/</link>
-    <description>Recent content in Play on Konigi</description>
+    <description>Recent content in play on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/play/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/play/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Mon, 25 Apr 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/will-wright-game-play-and-education/</guid>
-      <description>Will Wright&amp;rsquo;s talk at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.
+      <description>Will Wright&#39;s talk at the Summit on Science, Entertainment, and Education looks at how game play can be relevant to education. These are my notes from this talk.
 How we process information Our basic model for processing and acting on data that we receive in the world looks something like this:
 - Behavior
 - Models (Predictive) ↑
@@ -41,7 +40,7 @@ How we process information Our basic model for processing and acting on data tha
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
-      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
+      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone--Convert and Covertbot--and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
 Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around.</description>
     </item>
     
@@ -51,7 +50,7 @@ Fun isn’t always the new usable. There are situations in which usability is mo
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
-      <description>Fred Beecher wrote the excellent article &amp;ldquo;The iPhone is Not Easy to Use: A New Direction for User Experience&amp;rdquo; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
+      <description>Fred Beecher wrote the excellent article &#34;The iPhone is Not Easy to Use: A New Direction for User Experience&#34; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
     </item>
     
   </channel>

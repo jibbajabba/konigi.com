@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on Konigi</title>
+    <title>software on Konigi</title>
     <link>http://konigi.com/tags/software/</link>
-    <description>Recent content in Software on Konigi</description>
+    <description>Recent content in software on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Nov 2015 10:18:14 -0800</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,10 +16,7 @@
       <pubDate>Tue, 17 Nov 2015 10:18:14 -0800</pubDate>
       
       <guid>http://konigi.com/links/aspect-ratio-calculators/</guid>
-      <description>In my Skillshare course there&amp;rsquo;s a brief moment where I show a ratio calculator that I use for doing things like figuring out dimensions of containers while designing.
-The idea is simple. You have a ratio like 16:9, 4:3, 9:6, etc. and want to see how to scale another object with that ratio using a fixed dimension, e.g. you know the width.
-Here are a few that I like:
-Aspect Ratio Calculator, a free web calculator by Andrew Hedges that I&amp;rsquo;ve used for years.</description>
+      <description>Aspect Ratio Calculators for web designers.</description>
     </item>
     
     <item>
@@ -39,7 +35,7 @@ The commenting and linking features are what you&#39;d expect, but what I was re
       <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mockups-20-symbols-release/</guid>
-      <description>We&amp;rsquo;ve release Mockups 2.0 at Balsamiq. The main feature in this release is the Symbols functionality. It allows you to reuse groups of controls in order to create templates, page masters, and libraries of re-usable components. This can be done globally for all of your projects, or locally within a single project. You can create symbols from the top down and the bottom up. There&amp;rsquo;s some documentation for this somewhat advanced feature here: Working with Symbols.</description>
+      <description>We&#39;ve release Mockups 2.0 at Balsamiq. The main feature in this release is the Symbols functionality. It allows you to reuse groups of controls in order to create templates, page masters, and libraries of re-usable components. This can be done globally for all of your projects, or locally within a single project. You can create symbols from the top down and the bottom up. There&#39;s some documentation for this somewhat advanced feature here: Working with Symbols.</description>
     </item>
     
     <item>
@@ -49,7 +45,7 @@ The commenting and linking features are what you&#39;d expect, but what I was re
       
       <guid>http://konigi.com/blog/kathy-sierra-creating-awesome-users/</guid>
       <description>The model for sustaining customer loyalty is reverse engineering user awesomeness.
-Peldi pointed me to a video of Kathy Sierra&amp;rsquo;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&amp;rsquo;s about user benefits, and not features&amp;ndash;about how they feel about themselves in the context of what you provide them.</description>
+Peldi pointed me to a video of Kathy Sierra&#39;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&#39;s about user benefits, and not features--about how they feel about themselves in the context of what you provide them.</description>
     </item>
     
     <item>
@@ -156,82 +152,8 @@ http://silverbackapp.com</description>
       <pubDate>Fri, 23 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/xsort-free-card-sorting-application-mac-os/</guid>
-      <description>xSort is a card sorting application for researchers and information architects that want to get a better idea of their users&amp;rsquo; mental models for any given application or task. The software is free and works on Mac OS X.
+      <description>xSort is a card sorting application for researchers and information architects that want to get a better idea of their users&#39; mental models for any given application or task. The software is free and works on Mac OS X.
 http://www.xsortapp.com/</description>
-    </item>
-    
-    <item>
-      <title>Wireframing Experiences and Applications with Flash Catalyst</title>
-      <link>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</link>
-      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/wireframing-experiences-and-applications-flash-catalyst/</guid>
-      <description>Peter Flynn gives a demo of wireframing in Adobe Flash Catalyst, aka Thermo. Every online demo I&amp;rsquo;ve seen of this product looks more and more exciting, and this is truly going to give Mac users a way to do easy interactive prototypes as our PC brothers and sisters can do with tools like Axure. I fully expect to be using this thing when it gets out of Preview release. It&amp;rsquo;s only slightly ironic that his first 5 minutes are talk about how wireframes are by definition, low fidelity, given my last post.</description>
-    </item>
-    
-    <item>
-      <title>scribbles, incredibly simple drawing app for Mac</title>
-      <link>http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/</link>
-      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/scribbles-incredibly-simple-drawing-app-mac/</guid>
-      <description>Scribbles is perhaps the simplest drawing program I&amp;rsquo;ve ever tried. The app, created by atebits, gives you 4 tools: brush, move, pan, and zoom. There are 12 brush styles, a color picker, a big slider for brush size, and a layer manager. It looks deceptively simple on the surface, but when you explore a bit, you&amp;rsquo;ll find some really interesting functionalities that even the advanced Mac freehand drawing tools like Sketchbook and ArtRage don&amp;rsquo;t do well.</description>
-    </item>
-    
-    <item>
-      <title>Sumopaint.com beta - Image Editing in the Browser</title>
-      <link>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</guid>
-      <description>Sumopaint, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing.</description>
-    </item>
-    
-    <item>
-      <title>Ubiquity</title>
-      <link>http://konigi.com/blog/ubiquity/</link>
-      <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ubiquity/</guid>
-      <description>Ubiquity for Firefox from Aza Raskin on Vimeo. I&amp;rsquo;ve been really impressed by Aza Raskin&amp;rsquo;s Ubiquity add on for Firefox, which I&amp;rsquo;ve been playing with a lot lately. It completely makes up for the less than exciting experience I had with Enso, which never came close to a Quicksilver experience on Windows. Ubiquity is pretty much the Quicksilver experience brought to your web browser. A smart tool that is summoned by a keyboard shortcut, and provides shortcuts to frequently used tools, and contextually relevant paths to using selected content in the page.</description>
-    </item>
-    
-    <item>
-      <title>Silverback: Usability Testing Software for the Mac</title>
-      <link>http://konigi.com/blog/silverback-usability-testing-software-mac/</link>
-      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/silverback-usability-testing-software-mac/</guid>
-      <description>Silverback launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won&amp;rsquo;t have to ever touch another Windows box if you don&amp;rsquo;t want to. (I&amp;rsquo;m kidding. I&amp;rsquo;m sure you will at some point in your life.)
-Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won&amp;rsquo;t find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</description>
-    </item>
-    
-    <item>
-      <title>Yahoo! BrowserPlus</title>
-      <link>http://konigi.com/blog/yahoo-browserplus/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/yahoo-browserplus/</guid>
-      <description>Yahoo! BrowserPlus is software that extends the capabilities of web browsers to make rich web experiences possible. Websites can use the software to support behaviors like drag and drop from the desktop, easier file uploads, acquisition of feeds and information, and native desktop notifications. The site is showing very cool demos right now including dragging and dropping photos from the desktop to a web browser, live image manipulation, and live refreshing IRC chatrooms in the browser.</description>
-    </item>
-    
-    <item>
-      <title>6 Screenshot Utilities You Should Know About</title>
-      <link>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</link>
-      <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</guid>
-      <description>I use different screen capture utilities depending on the type of screen I&amp;rsquo;m trying to grab. Some are great for a quick and dirty capture of a page I want to send someone. Others are good for annotating an interface I want to post to a web page. And still others are best for archival screen capture or for interfaces with video. Below are the 6 screenshot utilities that Mac users should know about.</description>
-    </item>
-    
-    <item>
-      <title>Apple Dashcode</title>
-      <link>http://konigi.com/blog/apple-dashcode/</link>
-      <pubDate>Fri, 25 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apple-dashcode/</guid>
-      <description>Apple&#39;s Dashcode widget builder provides a nice library interface for viewing the parts you can include in your widget, and a code library to view snippets.
-http://developer.apple.com/tools/dashcode/</description>
     </item>
     
   </channel>

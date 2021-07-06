@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podcasts on Konigi</title>
+    <title>podcasts on Konigi</title>
     <link>http://konigi.com/tags/podcasts/</link>
-    <description>Recent content in Podcasts on Konigi</description>
+    <description>Recent content in podcasts on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ia-summit-10-podcasts/</guid>
-      <description>Didn&amp;rsquo;t get to the IA Summit this year? Or went to IAS10, but didn&amp;rsquo;t get to see everything in all the tracks? Of course you didn&amp;rsquo;t unless you had Hermione&amp;rsquo;s Time Turner with you.
+      <description>Didn&#39;t get to the IA Summit this year? Or went to IAS10, but didn&#39;t get to see everything in all the tracks? Of course you didn&#39;t unless you had Hermione&#39;s Time Turner with you.
 The good news is that Jeff Parks did an amazing job of capturing the sessions and producing audio podcasts, which are now available via Boxes and Arrows or by subscribing to the podcast via iTunes. Currently the keynotes and all of the sessions from Day 1 are available.</description>
     </item>
     
@@ -28,7 +27,7 @@ The good news is that Jeff Parks did an amazing job of capturing the sessions an
       
       <guid>http://konigi.com/blog/spoolcast-todd-zaki-warfel-prototyping-experiences/</guid>
       <description>Jared Spool talks with Todd Zaki Warfel about his forthcoming Prototyping book to be published by Rosenfeld Media, and got him to talk about his 2 years of research while working on the book.
-Todd&amp;rsquo;s firm, Message First, utilizes prototypes as a core element of the design process and has been giving a series of presentations and workshops recently to describe his research into the different prototyping practices of UX pros, and talk about the utility of the prototype.</description>
+Todd&#39;s firm, Message First, utilizes prototypes as a core element of the design process and has been giving a series of presentations and workshops recently to describe his research into the different prototyping practices of UX pros, and talk about the utility of the prototype.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ One thing that I latched onto is Wurman&#39;s contention that his success workin
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/history-evolution-user-experience-design/</guid>
-      <description>On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&amp;rsquo;s Peter Merholz to talk about the history and evolution of User Experience Design. User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&amp;rsquo;s actually not the way many designers historically thought about making things.</description>
+      <description>On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&#39;s Peter Merholz to talk about the history and evolution of User Experience Design. User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&#39;s actually not the way many designers historically thought about making things.</description>
     </item>
     
     <item>

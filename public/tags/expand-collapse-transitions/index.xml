@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Expand Collapse Transitions on Konigi</title>
+    <title>expand-collapse transitions on Konigi</title>
     <link>http://konigi.com/tags/expand-collapse-transitions/</link>
-    <description>Recent content in Expand Collapse Transitions on Konigi</description>
+    <description>Recent content in expand-collapse transitions on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/expand-collapse-transitions/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/expand-collapse-transitions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

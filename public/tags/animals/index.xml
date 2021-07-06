@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animals on Konigi</title>
+    <link>http://konigi.com/tags/animals/</link>
+    <description>Recent content in animals on Konigi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2020 13:53:17 -0700</lastBuildDate>
+    
+        <atom:link href="http://konigi.com/tags/animals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PBS Learning</title>
+      <link>http://konigi.com/kidstuff/pbslearning/</link>
+      <pubDate>Fri, 24 Apr 2020 13:53:17 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/pbslearning/</guid>
+      <description>Free standards-aligned videos, interactives, lesson plans, and more just for California teachers and students.</description>
+    </item>
+    
+    <item>
+      <title>Mystery Science</title>
+      <link>http://konigi.com/kidstuff/mystery-science/</link>
+      <pubDate>Tue, 24 Mar 2020 11:36:15 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/mystery-science/</guid>
+      <description>Free, easy K-5 science lessons for remote learning.</description>
+    </item>
+    
+    <item>
+      <title>BrainPOP</title>
+      <link>http://konigi.com/kidstuff/brainpop/</link>
+      <pubDate>Sat, 21 Mar 2020 22:15:15 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/brainpop/</guid>
+      <description>BrainPOP is an excellent learning resource for teaching resource for kids K - 8th grade and offers free access during school closures.</description>
+    </item>
+    
+    <item>
+      <title>Learn@Home on YouTube</title>
+      <link>http://konigi.com/kidstuff/youtube-learning/</link>
+      <pubDate>Fri, 20 Mar 2020 23:23:31 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/youtube-learning/</guid>
+      <description>YouTube, Khan Academy and other learning creators partner to bring together resources and activities to make days as educational and fun as possible.</description>
+    </item>
+    
+    <item>
+      <title>Learn at Home on Scholastic</title>
+      <link>http://konigi.com/kidstuff/scholastic/</link>
+      <pubDate>Fri, 20 Mar 2020 23:15:09 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/scholastic/</guid>
+      <description>Day by day projects to keep kids learning at home.</description>
+    </item>
+    
+    <item>
+      <title>Educational Shows on Netflix</title>
+      <link>http://konigi.com/kidstuff/netflix/</link>
+      <pubDate>Fri, 20 Mar 2020 15:47:59 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/netflix/</guid>
+      <description>Homeschoolhideout&amp;rsquo;s list of educational shows streaming on Netflix.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Field Trips</title>
+      <link>http://konigi.com/kidstuff/adventures-in-familyhood-virtual-field-trips/</link>
+      <pubDate>Fri, 20 Mar 2020 15:32:26 -0700</pubDate>
+      
+      <guid>http://konigi.com/kidstuff/adventures-in-familyhood-virtual-field-trips/</guid>
+      <description>Offers kids an interesting way to experience the world.</description>
+    </item>
+    
+  </channel>
+</rss>

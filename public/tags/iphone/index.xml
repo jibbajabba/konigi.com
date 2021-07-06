@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iphone on Konigi</title>
+    <title>iphone on Konigi</title>
     <link>http://konigi.com/tags/iphone/</link>
-    <description>Recent content in Iphone on Konigi</description>
+    <description>Recent content in iphone on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&amp;rsquo;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&amp;rsquo;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
 http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
     </item>
     
@@ -37,8 +36,8 @@ http://popapp.in/</description>
       <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/whitelines-link/</guid>
-      <description>Everyone&amp;rsquo;s getting in on on the physical paper capturing game using the iPhone&amp;rsquo;s camera. Whitelines is one of my favorite sketch paper makers. They make great graph paper that reverses the grid using white lines over pale a gray paper. The result is that the grid it more subtle and less distracting
-The Whitelines Link product is a free iPhone app that let&amp;rsquo;s you capture sketches made on their new Whitelines Link papers.</description>
+      <description>Everyone&#39;s getting in on on the physical paper capturing game using the iPhone&#39;s camera. Whitelines is one of my favorite sketch paper makers. They make great graph paper that reverses the grid using white lines over pale a gray paper. The result is that the grid it more subtle and less distracting
+The Whitelines Link product is a free iPhone app that let&#39;s you capture sketches made on their new Whitelines Link papers.</description>
     </item>
     
     <item>
@@ -57,7 +56,7 @@ I like that these gives you a surface to work on that can be re-arranged easily 
       <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ipad-dry-erase-board/</guid>
-      <description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They&amp;rsquo;ve created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
+      <description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They&#39;ve created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
 Update: 
 Mine arrived and I have to say that this is the nicest dry erase board I have now. It&#39;s made on hard particle board, similar to what you&#39;d find on a clipboard, so it feels great in the hands.</description>
     </item>
@@ -68,7 +67,7 @@ Mine arrived and I have to say that this is the nicest dry erase board I have no
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid>
-      <description>This is one of the most practical uses of augmented reality I&amp;rsquo;ve seen. Word Lens translates text you capture from an iPhone&amp;rsquo;s camera to another language. I think it&amp;rsquo;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&amp;rsquo;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
+      <description>This is one of the most practical uses of augmented reality I&#39;ve seen. Word Lens translates text you capture from an iPhone&#39;s camera to another language. I think it&#39;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&#39;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
     </item>
     
     <item>
@@ -77,7 +76,7 @@ Mine arrived and I have to say that this is the nicest dry erase board I have no
       <pubDate>Fri, 17 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/review-sync-design-comps-iphone/</guid>
-      <description>Review is a simple app to review your visual design comps on the iPhone. You install an app on your mac and an app on your iPhone and pair the two. On the Mac, drop images into Review, and they&amp;rsquo;re synced with the iPhone for previewing at full screen.
+      <description>Review is a simple app to review your visual design comps on the iPhone. You install an app on your mac and an app on your iPhone and pair the two. On the Mac, drop images into Review, and they&#39;re synced with the iPhone for previewing at full screen.
 http://www.getreviewapp.com/</description>
     </item>
     
@@ -102,16 +101,6 @@ Visual Designers may use it to view artboard while you work. LiveView is compati
     </item>
     
     <item>
-      <title>PhoneGap | Cross platform mobile framework</title>
-      <link>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</link>
-      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</guid>
-      <description>PhoneGap is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.
-http://phonegap.com/</description>
-    </item>
-    
-    <item>
       <title>iPhoneOS Design Stencil for iPhone and iPad</title>
       <link>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</link>
       <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
@@ -119,6 +108,16 @@ http://phonegap.com/</description>
       <guid>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</guid>
       <description>An iPhone OS OmniGraffle stencil for designing applications for iPhone, iPod touch and iPad devices. The stencil, for now, is targeted at developers familiar with the default characteristics of views and controls provided by UIKit. The stencil shapes are all vector based. The initial focus is on views and controls provided by UIKit and recommended application styles as discussed in the iPhone and iPad Human Interface Guidelines.
 http://www.morford.org/iphoneosdesignstencil/</description>
+    </item>
+    
+    <item>
+      <title>PhoneGap | Cross platform mobile framework</title>
+      <link>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</link>
+      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/phonegap-cross-platform-mobile-framework/</guid>
+      <description>PhoneGap is an open source development tool for building fast, easy mobile apps with JavaScript. If you’re a web developer who wants to build mobile applications in HTML and JavaScript while still taking advantage of the core features in the iPhone, Android, Palm, Symbian and Blackberry SDKs, PhoneGap is for you.
+http://phonegap.com/</description>
     </item>
     
     <item>
@@ -137,7 +136,7 @@ http://iphone.hohli.com/</description>
       <pubDate>Tue, 12 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/liveview-iphone/</guid>
-      <description>LiveView is great little freebie for UI design &amp;amp; prototyping on iPhone. Essentially it sends a 320x480 viewport from your Mac to your iPhone, so is useful for creating quick and dirty simulations, demos, and user experience prototypes.
+      <description>LiveView is great little freebie for UI design &amp; prototyping on iPhone. Essentially it sends a 320x480 viewport from your Mac to your iPhone, so is useful for creating quick and dirty simulations, demos, and user experience prototypes.
 http://www.zambetti.com/projects/liveview/</description>
     </item>
     
@@ -147,7 +146,7 @@ http://www.zambetti.com/projects/liveview/</description>
       <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/iphone-3g-stencil/</guid>
-      <description>This is a new version of Theresa Neil&amp;rsquo;s iPhone stencil for the 3G phone. Includes standard interface components for the iPhone 3G: buttons, fields, map elements, keyboards, and icons.
+      <description>This is a new version of Theresa Neil&#39;s iPhone stencil for the 3G phone. Includes standard interface components for the iPhone 3G: buttons, fields, map elements, keyboards, and icons.
 http://www.graffletopia.com/stencils/495</description>
     </item>
     
@@ -157,193 +156,7 @@ http://www.graffletopia.com/stencils/495</description>
       <pubDate>Fri, 02 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/autodesk-sketchbook-mobile-brings-sketching-iphone/</guid>
-      <description>I&amp;rsquo;ve had SketchBook Pro for the Mac for a few years now. I bought it before it was acquired by Autodesk from Alias, mostly for art work, but also to experiment with it as a tool for interface sketching. But while I wanted to use it more, I find myself falling back on paper and pencil almost all of the time. Autodesk recently released iPhone versions of the app (1 version is free, and the full version is $2.</description>
-    </item>
-    
-    <item>
-      <title>Designing for the iPhone 3G: Tips and Tools</title>
-      <link>http://konigi.com/blog/designing-iphone-3g-tips-and-tools/</link>
-      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designing-iphone-3g-tips-and-tools/</guid>
-      <description>Theresa Neil updated her iPhone 3G stencil set for OmniGraffle at Graffletopia, and posted a few tips and tools that might be helpful to iPhone designers. http://theresaneil.wordpress.com/2009/09/16/iphone3g-design-resources/</description>
-    </item>
-    
-    <item>
-      <title>Notepod: The sketchbook for your app ideas</title>
-      <link>http://konigi.com/blog/notepod-sketchbook-your-app-ideas/</link>
-      <pubDate>Thu, 17 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/notepod-sketchbook-your-app-ideas/</guid>
-      <description>Notepod is an iPhone graph paper sketchbook. The specs:
-Three 60 x 110mm, 100pp Notepods printed on both sides. 80gsm laser throughout with a stiff black strawboard back.
-Front: 52mm by 77mm of blank space floating in darkness. Endless possibilities in a form reminiscent of a popular smart phone.
-Back: A light 6mm grid, perfect for notes or jotting down the phone number of a hot geek.
- I&amp;rsquo;m getting a set, even though I don&amp;rsquo;t typically do iPhone design.</description>
-    </item>
-    
-    <item>
-      <title>App Sketchbook: iPhone App Sketchbook</title>
-      <link>http://konigi.com/links/app-sketchbook-iphone-app-sketchbook/</link>
-      <pubDate>Wed, 26 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/app-sketchbook-iphone-app-sketchbook/</guid>
-      <description>This is sweet. A sketchbook made for iPhone app design. Features three actual-size iPhone templates per page, pixel (20px) ruler and title bar markings, ruled section for app development notes, and 600 screens (100 double-sided pages).
-http://appsketchbook.com/</description>
-    </item>
-    
-    <item>
-      <title>iPhone is all Fun and Games</title>
-      <link>http://konigi.com/blog/iphone-all-fun-and-games/</link>
-      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
-      <description>Fred Beecher wrote the excellent article &amp;ldquo;The iPhone is Not Easy to Use: A New Direction for User Experience&amp;rdquo; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
-    </item>
-    
-    <item>
-      <title>Fireworks Script for iPhone App Prototypes</title>
-      <link>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</link>
-      <pubDate>Wed, 05 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/fireworks-script-iphone-app-prototypes/</guid>
-      <description>The iPhone extension helps create a mockup of an iPhone application in Fireworks. It automatically adds the iPhone wrapper when you preview the mockup, or package it for distribution as an AIR application. The slide-in, slide-out effects that are charecteristic of iPhone can be generated using this extension.Updated resolution to 480X320.
-http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&amp;extid=1786031</description>
-    </item>
-    
-    <item>
-      <title>iPhone Apps with Sexy Interfaces</title>
-      <link>http://konigi.com/blog/iphone-apps-sexy-interfaces/</link>
-      <pubDate>Sat, 18 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iphone-apps-sexy-interfaces/</guid>
-      <description>Mac App Storm gathers together a collection of iPhone apps with noteworthy designs. They say, &amp;ldquo;Whether you’re looking for a robotic unit converter, a realistic app for reading novels, or a intuitive Twitter client – this roundup has something for you. Each application puts design first, offering a fantastic user experience.&amp;rdquo; Check it out.
-http://mac.appstorm.net/roundups/iphone-roundups/30-iphone-apps-with-sexy-interfaces/</description>
-    </item>
-    
-    <item>
-      <title>iPhone Stencil Kit</title>
-      <link>http://konigi.com/blog/iphone-stencil-kit/</link>
-      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iphone-stencil-kit/</guid>
-      <description>The good folks at Seattle&amp;rsquo;s Design Commission are selling a metal stencil for drawing iPhone UIs and screen elements. Comes with a Zebra pencil and downloadable 3-up iPhone mockup paper.
-http://www.designcommission.com/shop/iphone-stencil-kit/</description>
-    </item>
-    
-    <item>
-      <title>iPhone UX Reviews</title>
-      <link>http://konigi.com/blog/iphone-ux-reviews/</link>
-      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iphone-ux-reviews/</guid>
-      <description>iPhone UX Reviews is a blog devoted to user experience reviews of iPhone apps &amp;amp; advice on creating apps.
-http://www.iphoneuxreviews.com/</description>
-    </item>
-    
-    <item>
-      <title>iPhone Mockup</title>
-      <link>http://konigi.com/blog/iphone-mockup/</link>
-      <pubDate>Fri, 03 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iphone-mockup/</guid>
-      <description>iPhone Mockup looks like a cool proof of concept for a sketchy mockup app for iPhone. It&amp;rsquo;s a bit like Balsamiq in spirit, but is done completely with JQuery. Firefox and Safari are the target browsers, and there is no option for doing secure mockups. Whatever you do will be visible to the world, so don&amp;rsquo;t plan on using it for anything other than playing. Nice concept though. Thanks, Andrew.</description>
-    </item>
-    
-    <item>
-      <title>CSSiPhone</title>
-      <link>http://konigi.com/blog/cssiphone/</link>
-      <pubDate>Mon, 12 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cssiphone/</guid>
-      <description>How cool is this? A CSS Design gallery showing sites as viewed through the iPhone. http://cssiphone.com/</description>
-    </item>
-    
-    <item>
-      <title>Smashing Magazine iPhone PSD Vector Kit</title>
-      <link>http://konigi.com/links/smashing-magazine-iphone-psd-vector-kit/</link>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/smashing-magazine-iphone-psd-vector-kit/</guid>
-      <description>Smashing Magazine releases their own iPhone design kit, designed by Renee Rist.
-http://www.smashingmagazine.com/2008/11/26/iphone-psd-vector-kit/</description>
-    </item>
-    
-    <item>
-      <title>iYo YoYo Charger for iPhone</title>
-      <link>http://konigi.com/blog/iyo-yoyo-charger-iphone/</link>
-      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/iyo-yoyo-charger-iphone/</guid>
-      <description>Peter Thuvander&amp;rsquo;s concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I&amp;rsquo;m a big fan of efforts to provide clever alternative energy sources from human-powered generators.
-Via Core77, yo.
-http://www.peterthuvander.se/</description>
-    </item>
-    
-    <item>
-      <title>Falling Leaves Concept UI for iPhone</title>
-      <link>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/falling-leaves-concept-ui-iphone/</guid>
-      <description>Not sure if the user on Vimeo who posted this is THE Woz, but he or she posted this concept user interface for an iPhone menu application that looks very interesting. The video opens with a UI that displays falling media that appear like little square stamps dropping like leaves to a desktop with contacts, photos, videos, etc. on the face of the leaves. The user can apparently pick up one of the pieces, and if it&amp;rsquo;s a video for example, start playing that video in the UI.</description>
-    </item>
-    
-    <item>
-      <title>iPhone GUI PSD</title>
-      <link>http://konigi.com/links/iphone-gui-psd/</link>
-      <pubDate>Thu, 21 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/iphone-gui-psd/</guid>
-      <description>The iPhone GUI PSD by teehan+lax is an editable layered Photoshop file with graphic elements including the iPhone, buttons and controls, form inputs, and application chrome. Thanks to Designnotes for the tip.
-http://www.teehanlax.com/blog/?p=447</description>
-    </item>
-    
-    <item>
-      <title>Sketch paper for the mobile designer</title>
-      <link>http://konigi.com/links/sketch-paper-mobile-designer/</link>
-      <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/sketch-paper-mobile-designer/</guid>
-      <description>Erlend posted on the Artueel blog about a great idea they had for mobile designers&amp;#8212;a sketchpaper document you can print out (PDF and PSD formats available) so you can get your ideas on paper. They&amp;rsquo;ve created sketchpaper for the iPhone and the Nokia N95. Since we‘re all big fans of the iPhone and the mobile future in general, we want to help the mobile designer achieving his goals. For those who like to sketch the design/flow of their mobile app or website we present you: sketch paper for the iPhone and Nokia N95.</description>
-    </item>
-    
-    <item>
-      <title>Schmap Guides for the iPhone</title>
-      <link>http://konigi.com/blog/schmap-guides-iphone/</link>
-      <pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/schmap-guides-iphone/</guid>
-      <description>Schmap provides a local guide service for major cities. Listings are provided with general guide information, reviews, photos, and location on a map. The iPhone service attempts to maximize the unique features of that device. Listings are simple lists with thumbnails, but if you rotate the phone to landscape orientation, the listings then display alongside a map with markers to show where each place is located. Rotating back returns to the list view.</description>
-    </item>
-    
-    <item>
-      <title>iPhone Wireframes Stencil for OmniGraffle</title>
-      <link>http://konigi.com/links/iphone-wireframes-stencil-omnigraffle/</link>
-      <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/iphone-wireframes-stencil-omnigraffle/</guid>
-      <description>A wireframe stencil for designing iPhone interfaces.
-http://www.graffletopia.com/stencils/358</description>
-    </item>
-    
-    <item>
-      <title>CiUI - CNET iPhone UI</title>
-      <link>http://konigi.com/blog/ciui-cnet-iphone-ui/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ciui-cnet-iphone-ui/</guid>
-      <description>Vladimir Olexa describes the CiUI iPhone library he created for the CNET iPhone app (http://iphone.cnet.com). The library is inspired by iUI and is available for download at CNET&#39;s common libraries page.
-http://clientside.cnet.com/cnet-js-standards/ciui-cnet-iphone-ui/</description>
-    </item>
-    
-    <item>
-      <title>MoFuse: Hosted Mobile Website Service</title>
-      <link>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/mofuse-hosted-mobile-website-service/</guid>
-      <description>MoFuse is a service that allows site owners to provide a .mobi experience for their existing sites. The service allows you simply plug an RSS feed url into your account settings for a new site, and delivers a mobile formatted version of that feed. They also provide the ability to publish as an iPhone app, using the IUI interface, which you can experience on Google and FaceBook mobile sites. The service also allows you to create static pages, and customize the colors of the UI.</description>
+      <description>I&#39;ve had SketchBook Pro for the Mac for a few years now. I bought it before it was acquired by Autodesk from Alias, mostly for art work, but also to experiment with it as a tool for interface sketching. But while I wanted to use it more, I find myself falling back on paper and pencil almost all of the time. Autodesk recently released iPhone versions of the app (1 version is free, and the full version is $2.</description>
     </item>
     
   </channel>

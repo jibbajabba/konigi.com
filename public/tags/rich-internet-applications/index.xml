@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rich Internet Applications on Konigi</title>
+    <title>rich internet applications on Konigi</title>
     <link>http://konigi.com/tags/rich-internet-applications/</link>
-    <description>Recent content in Rich Internet Applications on Konigi</description>
+    <description>Recent content in rich internet applications on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/rich-internet-applications/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/rich-internet-applications/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ http://designgalleria.tumblr.com/</description>
       <pubDate>Thu, 22 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/designing-web-interfaces-12-standard-screen-patterns/</guid>
-      <description>Bill Scott and Theresa Neil&amp;rsquo;s new O’Reilly book, “Designing Web Interfaces: Principles and Patterns for Rich Interactions,” presents more than 75 design patterns for building web interfaces that provide rich interaction. They&amp;rsquo;ve shared the full set of principles and patterns they use for RIA design in this article.
+      <description>Bill Scott and Theresa Neil&#39;s new O’Reilly book, “Designing Web Interfaces: Principles and Patterns for Rich Interactions,” presents more than 75 design patterns for building web interfaces that provide rich interaction. They&#39;ve shared the full set of principles and patterns they use for RIA design in this article.
 http://designingwebinterfaces.com/designing-web-interfaces-12-screen-patterns</description>
     </item>
     

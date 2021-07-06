@@ -12,14 +12,24 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
 
 
 <article class="entry tools">
-  <p class="dek">This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.</p>
+
+<div class="columns">
+<div class="column is-one-quarter">
+<a href="//farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg" class="group" rel="group"><img src="//farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg" style="margin: 0 0 1em 0;"></a>
+</div>
+<div class="column is-three-quarters">
+  <p class="is-size-3">This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.</p>
+  <p class="is-size-4">Enjoy! -Michael</p>
+</div>
+</div>
 
 <hr />
+
 
 <!-- sect -->
 <div class="columns">
 <div class="column">
-<p><a href="//farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg" class="group float-left" rel="group"><img src="//farm4.staticflickr.com/3164/3011825660_41ed48cb8c.jpg" style="max-width: 120px; padding: 5px 10px 5px 0;" class="img-responsive"></a>I started making my own sketchbooks and pads a few years ago. At the time there weren't many options for interface sketching and storyboarding.</p>
+<p>I started making my own sketchbooks and pads a few years ago. At the time there weren't many options for interface sketching and storyboarding.</p>
 <p>I began buying different types of notebooks, researching simple bookbinding, taking classes, and prototyping. I wound up liking wirebound books best. You can see pictures of some of the <a href="//www.flickr.com/photos/jibbajabba/sets/72157613198002989/">notebooks I made</a> and some of the interface design <a href="//www.flickr.com/photos/jibbajabba/sets/72157613198002989/">sketchbooks I later sold</a> via this site and Amazon.</p>
 <p>The project to sell the sketchbooks was a great learning experience&#8212;one I would highly recommend. I wanted to go through the steps of learning to design something physical, figure out how to get it produced, and learn about the logistics of selling and fulfilling.</p>
 </div>
@@ -29,14 +39,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
 <p>The easiest method for binding your own sketchbooks would be to take paper (either plain white, or <a href="/tools/graph-paper/">printable graphpaper</a>) to your local copy shop and have them wirebind your pages together. The suggestions below might help if you want to invest in a binding machine and do it yourself like I do.</p>
 </div>
 <div class="column">
-<p><strong>This project was fueled by coffee.</strong><br />Your donation keeps me wired and makin' stuff.</p>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" />
-<input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" />
-<input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" />
-</form><br />
-<a href="//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/wirebinding-thumb.jpg" class="img-responsive" /></a>
+<a href="//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/wirebinding-thumb.jpg"  /></a>
 </div>
 </div>
 <!-- / sect -->
@@ -227,13 +230,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   </div>
   <!-- col3 -->
   <div class="column">
-  <p><strong>Enjoy!</strong> Have fun making your sketchbooks! A donation keeps me wired and makin' stuff like this.</p>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" />
-<input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" />
-<input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" />
-</form>
+
   </div>
 </div>
 <!-- /sect --></article><!-- /.entry-container  -->

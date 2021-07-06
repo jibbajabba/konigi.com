@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>File Management on Konigi</title>
+    <title>file management on Konigi</title>
     <link>http://konigi.com/tags/file-management/</link>
-    <description>Recent content in File Management on Konigi</description>
+    <description>Recent content in file management on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/file-management/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/file-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

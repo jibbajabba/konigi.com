@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reviews on Konigi</title>
+    <title>reviews on Konigi</title>
     <link>http://konigi.com/tags/reviews/</link>
-    <description>Recent content in Reviews on Konigi</description>
+    <description>Recent content in reviews on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ A month ago, Brad from JetPens contacted me to tell me that he started supplying
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid>
-      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&amp;rsquo;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&amp;rsquo;d try it out of curiosity.
+      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&#39;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&#39;d try it out of curiosity.
 I had low expectations, but was surprised by how well it works for iPad sketching.</description>
     </item>
     
@@ -37,7 +36,7 @@ I had low expectations, but was surprised by how well it works for iPad sketchin
       <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/appopedia-business-app-reviews/</guid>
-      <description>The AppGap releases the Appopedia, a directory and review site for &amp;ldquo;2.0 apps&amp;rdquo; for work.
+      <description>The AppGap releases the Appopedia, a directory and review site for &#34;2.0 apps&#34; for work.
 http://www.theappgap.com/reviews</description>
     </item>
     
@@ -47,7 +46,7 @@ http://www.theappgap.com/reviews</description>
       <pubDate>Tue, 25 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/designers-review-books/</guid>
-      <description>Andy Polaine&amp;rsquo;s review of books for designers.
+      <description>Andy Polaine&#39;s review of books for designers.
 Although there are several good design websites that occasionally have book reviews, there didn’t seem to be a single place online where you could get constant updates and reviews of new (and sometimes old) design books.
 Design books are often expensive and contrary – sometimes the book is worth having for the physical production values alone, sometimes for the images, sometimes for the words and, occasionally, for all three.</description>
     </item>
@@ -71,9 +70,8 @@ Design books are often expensive and contrary – sometimes the book is worth ha
       
       <guid>http://konigi.com/blog/businessweek-best-and-worst-web/</guid>
       <description>BusinessWeek selects a jury to pick the best and worst designed web sites.
-BusinessWeek canvassed the Web&amp;rsquo;s best and brightest designers—from Khoi Vinh of The New York Times&amp;rsquo; Web site to Don Norman, Silicon Valley&amp;rsquo;s chief usability guru—to find out which site designs they rate — and which ones they hate.
-
-http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm</description>
+BusinessWeek canvassed the Web&#39;s best and brightest designers—from Khoi Vinh of The New York Times&#39; Web site to Don Norman, Silicon Valley&#39;s chief usability guru—to find out which site designs they rate — and which ones they hate.
+ http://images.businessweek.com/ss/08/06/0623_best_worst_web/index_01.htm</description>
     </item>
     
     <item>

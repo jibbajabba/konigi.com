@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Extras on Konigi</title>
+    <title>extras on Konigi</title>
     <link>http://konigi.com/tags/extras/</link>
-    <description>Recent content in Extras on Konigi</description>
+    <description>Recent content in extras on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/extras/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/extras/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,7 +35,7 @@ I&amp;rsquo;ll forgive the oversight and provide one to fill the gap.</descripti
       <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/christmas-wireframe-cards/</guid>
-      <description>Need a holiday card for your nerdy design team. Then look no further, and don&amp;rsquo;t let your Christmas procrastination get you down.
+      <description>Need a holiday card for your nerdy design team. Then look no further, and don&#39;t let your Christmas procrastination get you down.
 These postcard-sized Christmas wireframes were lovingly crafted in OmniGraffle. You can download the .graffle file to customize it and send around some holiday cheer or whatever. Santa suit up, nerds! Love,
 Konigi</description>
     </item>
@@ -47,7 +46,7 @@ Konigi</description>
       <pubDate>Tue, 14 Sep 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/unicorn-wireframe-birthday-card/</guid>
-      <description>You never know when you&amp;rsquo;ll need a last minute unicorn birthday card.
+      <description>You never know when you&#39;ll need a last minute unicorn birthday card.
 This postcard-sized wireframe was lovingly crafted in OmniGraffle, and you can download the .graffle file to make your own.
 Love,
 Teh uN1Cr0n5</description>

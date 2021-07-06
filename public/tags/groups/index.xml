@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Groups on Konigi</title>
+    <title>groups on Konigi</title>
     <link>http://konigi.com/tags/groups/</link>
-    <description>Recent content in Groups on Konigi</description>
+    <description>Recent content in groups on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 May 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/groups/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/groups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,8 @@
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/twitter-hashtags/</guid>
-      <description>I&amp;rsquo;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&amp;rsquo;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
-Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&amp;rsquo;re like tags on Flickr, only added inline to your post.</description>
+      <description>I&#39;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&#39;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
+Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&#39;re like tags on Flickr, only added inline to your post.</description>
     </item>
     
   </channel>

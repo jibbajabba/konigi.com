@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mental Models on Konigi</title>
+    <title>mental models on Konigi</title>
     <link>http://konigi.com/tags/mental-models/</link>
-    <description>Recent content in Mental Models on Konigi</description>
+    <description>Recent content in mental models on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/mental-models/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/mental-models/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@ http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-othe
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template-update-v-24/</guid>
       <description>The OmniGraffle UX Template has been updated. I finally got around to cleaning up the Persona example from the old version 1 (the urlgreyhot version), added a detailed persona, a site map example with diagramming style (.gdiagramstyle file), and a mental model example. Download from the Tools page.
-http://konigi.com/tools/omnigraffle-ux-template</description>
+//konigi.com/tools/omnigraffle-ux-template</description>
     </item>
     
     <item>
@@ -37,8 +36,8 @@ http://konigi.com/tools/omnigraffle-ux-template</description>
       <pubDate>Sun, 10 Feb 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/rosenfeld-media-mental-models/</guid>
-      <description>Rosenfeld Media publishes it&amp;rsquo;s first UX book, Mental Models by Indi Young. Congrats to Lou and Indi!
-After two long years, Rosenfeld Media is a real, bona fide publisher. More importantly, as a loyal Bloug reader, you can purchase our first book, Mental Models: Aligning design strategy with human behavior, by Indi Young, with a 10% discount from the Rosenfeld Media site (use code BLOUG01MM). You&amp;rsquo;ll receive Indi&amp;rsquo;s excellent book, illustrated and beautifully printed in full color on high quality paper with a sewn binding.</description>
+      <description>Rosenfeld Media publishes it&#39;s first UX book, Mental Models by Indi Young. Congrats to Lou and Indi!
+After two long years, Rosenfeld Media is a real, bona fide publisher. More importantly, as a loyal Bloug reader, you can purchase our first book, Mental Models: Aligning design strategy with human behavior, by Indi Young, with a 10% discount from the Rosenfeld Media site (use code BLOUG01MM). You&#39;ll receive Indi&#39;s excellent book, illustrated and beautifully printed in full color on high quality paper with a sewn binding.</description>
     </item>
     
   </channel>

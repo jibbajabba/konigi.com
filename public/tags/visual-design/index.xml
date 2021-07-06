@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visual Design on Konigi</title>
+    <title>visual design on Konigi</title>
     <link>http://konigi.com/tags/visual-design/</link>
-    <description>Recent content in Visual Design on Konigi</description>
+    <description>Recent content in visual design on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/visual-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/glueprint-floating-guides-your-mockups/</guid>
-      <description>I like the simple idea behind GluePrint. Drop your mockup or visual design comp onto the app and it provides a semi-opaque window of the design. I can see it being useful for overlaying on top of your browser, like an onionskin, while you&amp;rsquo;re working on front end implementation. And even in other reverse scenarios, like for creating new designs based on an existing version of your product.
+      <description>I like the simple idea behind GluePrint. Drop your mockup or visual design comp onto the app and it provides a semi-opaque window of the design. I can see it being useful for overlaying on top of your browser, like an onionskin, while you&#39;re working on front end implementation. And even in other reverse scenarios, like for creating new designs based on an existing version of your product.
 http://glueprintapp.com/</description>
     </item>
     
@@ -48,7 +47,7 @@ http://uifaces.com/</description>
       <pubDate>Mon, 20 May 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/sketchmine-sketch-app-templates/</guid>
-      <description>Sketchmine provides .sketch files for use in Bohemian Coding&amp;rsquo;s Sketch app for Mac. The files are free to download and are contributed by the Sketch community.
+      <description>Sketchmine provides .sketch files for use in Bohemian Coding&#39;s Sketch app for Mac. The files are free to download and are contributed by the Sketch community.
 http://sketchmine.co/</description>
     </item>
     
@@ -58,7 +57,7 @@ http://sketchmine.co/</description>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usabilla-discover/</guid>
-      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&amp;rsquo;s a social LittleSnapper. Whatever the pitch, it&amp;rsquo;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
+      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&#39;s a social LittleSnapper. Whatever the pitch, it&#39;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
 Note: To get in during the beta, sign up here with code &amp;quot;KONIGI&amp;quot;, good for the first 200 who use the code.
 http://discover.usabilla.com/</description>
     </item>
@@ -99,7 +98,7 @@ The more I deal with the work as something of my own, as something that is perso
       <pubDate>Sun, 02 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/vyoopoint-design-presentations-tool-must-have-every-creative-professional/</guid>
-      <description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more&amp;hellip; Check its features!
+      <description>Vyoopoint is an online design presentations tool. It makes it easy to create and review a website design presentation or any other design project. Suitable for creative professionals - from freelancers to large advertising agencies. It supports flash files, allows not only text comments but also image markups and video markups, has automated version control and many more... Check its features!
 http://vyoopoint.com/about/why/why_vyoopoint/index.html</description>
     </item>
     
@@ -129,7 +128,7 @@ http://www.junglejar.com/2009/02/01/browser-templates-webdesign-webapplications/
       <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/photoshop-custom-comping-elements/</guid>
-      <description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It&amp;rsquo;s like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description>
+      <description>Bad Assembly provides a layered Photoshop file with common user interface elements for design comping. It&#39;s like the PSD analog to a wireframing UI stencil. http://radassembly.com/blog/?p=23</description>
     </item>
     
     <item>

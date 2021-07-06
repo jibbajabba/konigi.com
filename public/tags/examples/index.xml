@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Examples on Konigi</title>
+    <title>examples on Konigi</title>
     <link>http://konigi.com/tags/examples/</link>
-    <description>Recent content in Examples on Konigi</description>
+    <description>Recent content in examples on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 May 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/examples/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/examples/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,8 +26,8 @@ http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.ht
       <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usabilitygov-templates-examples/</guid>
-      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&amp;rsquo;s usability needs. All of these are in the public domain and can be freely downloaded.
-Among the most useful of the files you&amp;rsquo;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
+      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&#39;s usability needs. All of these are in the public domain and can be freely downloaded.
+Among the most useful of the files you&#39;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Environment on Konigi</title>
+    <title>environment on Konigi</title>
     <link>http://konigi.com/tags/environment/</link>
-    <description>Recent content in Environment on Konigi</description>
+    <description>Recent content in environment on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/environment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ Check it out and learn how to change your business&#39; impact on the earth.</de
       <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/iyo-yoyo-charger-iphone/</guid>
-      <description>Peter Thuvander&amp;rsquo;s concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I&amp;rsquo;m a big fan of efforts to provide clever alternative energy sources from human-powered generators.
+      <description>Peter Thuvander&#39;s concept for a YoYo powered battery charger for USB devices like the iPhone is brilliant. I&#39;m a big fan of efforts to provide clever alternative energy sources from human-powered generators.
 Via Core77, yo.
 http://www.peterthuvander.se/</description>
     </item>

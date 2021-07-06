@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game Systems on Konigi</title>
+    <title>game systems on Konigi</title>
     <link>http://konigi.com/tags/game-systems/</link>
-    <description>Recent content in Game Systems on Konigi</description>
+    <description>Recent content in game systems on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/game-systems/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/game-systems/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/new-xbox-experience/</guid>
-      <description>Kotaku reports on the New Xbox Experience, which does away with the Blade interface, and replaces with a remote-control type UI with cover-flow-like browsability. We&amp;rsquo;ll have to see what the reception will be for this. Xbox are integrating Netflix soon, and may be hoping to simplify the experience for a wider audience. I found the Blade UI to be pretty interesting the few times I got to use it.
-http://kotaku.com/5025143/the-new-xbox-experience-just-the-facts-and-maybe-some-conjecture</description>
+      <description>Kotaku reports on the New Xbox Experience, which does away with the Blade interface, and replaces with a remote-control type UI with cover-flow-like browsability. We&#39;ll have to see what the reception will be for this. Xbox are integrating Netflix soon, and may be hoping to simplify the experience for a wider audience. I found the Blade UI to be pretty interesting the few times I got to use it.</description>
     </item>
     
   </channel>

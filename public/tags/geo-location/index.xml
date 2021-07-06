@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geo Location on Konigi</title>
+    <title>geo location on Konigi</title>
     <link>http://konigi.com/tags/geo-location/</link>
-    <description>Recent content in Geo Location on Konigi</description>
+    <description>Recent content in geo location on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/geo-location/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/geo-location/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

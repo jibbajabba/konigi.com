@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beta on Konigi</title>
+    <title>beta on Konigi</title>
     <link>http://konigi.com/tags/beta/</link>
-    <description>Recent content in Beta on Konigi</description>
+    <description>Recent content in beta on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/beta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ The site presently sports a single page-type design, with information for the be
       <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</guid>
-      <description>I very rarely will say anything about a site if the only opinion I have is negative. Twingr looked like an interesting idea. The service let&amp;rsquo;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&amp;rsquo;t say that I know what the experience is like because I couldn&amp;rsquo;t get past the front door, so I walked away possibly never to return.</description>
+      <description>I very rarely will say anything about a site if the only opinion I have is negative. Twingr looked like an interesting idea. The service let&#39;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&#39;t say that I know what the experience is like because I couldn&#39;t get past the front door, so I walked away possibly never to return.</description>
     </item>
     
   </channel>

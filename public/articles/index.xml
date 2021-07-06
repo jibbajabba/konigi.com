@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Konigi</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Aug 2019 12:13:24 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/articles/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Wed, 07 Aug 2019 12:13:24 -0700</pubDate>
       
       <guid>http://konigi.com/articles/unmoderated-remote-usability-testing/</guid>
-      <description>About Unmoderated Remote Usability Testing (URUT) is a technique for conducting usability testing where participants take test sessions alone and without the presence or interaction with a facilitator. Sessions are usually conducted with the aid of a remote testing software service.
-While moderated testing is preferred, URUT may be beneficial when budget or time constraints are an issue. Because URUT is conducted asynchronously, there are some disadvantages. For instance, when instructed, users may not employ the think aloud approach on their own without prompting, users cannot seek support including asking for clarification if tasks are not clear, and facilitators cannot ask follow up questions.</description>
+      <description>Performing remote usability tests without a human moderator.</description>
     </item>
     
     <item>
@@ -55,15 +53,6 @@ This is the black gel pen I carry in my pocket. Always with me, and unforgivingl
     </item>
     
     <item>
-      <title>Conferences and Events</title>
-      <link>http://konigi.com/articles/conferences-and-events/</link>
-      <pubDate>Mon, 15 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/conferences-and-events/</guid>
-      <description>All UX Design Development   The 99U New York, NY monitor  ACM SIGCHI Conference  monitor  Adaptive Path UX Intensive Workshop    Ampersand Brighton, UK; New York, NY monitor  Beyond Tellerand Düsseldorf, Germany monitor  Big Design Conference Dallas, TX   Brooklyn Beta Brooklyn, NY   Build Belfast, Northern Ireland monitor  Business of Software Boston, MA monitor  Chicago Camps Chicago, IL   Circles Grapevine, TX monitor  ConvergeSE Columbia, SC monitor  ConveyUX Seattle, WA   Cooper Workshops San Francisco, CA   dConstruct Brighton, UK monitor  Delight Portland, OR monitor  Euro IA Summit    An Event Apart  monitor  eyeo Minneapolis, MN monitor  ffwd.</description>
-    </item>
-    
-    <item>
       <title>Learn to Code</title>
       <link>http://konigi.com/articles/learn-code/</link>
       <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
@@ -83,7 +72,7 @@ Mastery and the ability to produce production code is not something most interac
 An exercise during which users are asked to re-create a screen based on their memory.
 Source: &amp;quot;What UX Research Can You Do with 5 Users in 1 Hour?,&amp;quot; by Tomer Sharon. Asbury Agile 2012.
 How to do it 1. Create an evaluation kit
-  Print any screen  Cut the screen into elements (leave some out)  Also print/cut some elements that weren&amp;rsquo;t on the screen  Mix the pieces up  Sharpie and some extra paper</description>
+  Print any screen  Cut the screen into elements (leave some out)  Also print/cut some elements that weren&#39;t on the screen  Mix the pieces up  Sharpie and some extra paper  2.</description>
     </item>
     
     <item>
@@ -130,7 +119,7 @@ I have trouble focusing on certain types of work and need to turn notifications 
       
       <guid>http://konigi.com/articles/interface-and-interaction-notation/</guid>
       <description>About Resources for annotating interfaces and interaction. Includes notation techniques for systems using input devices or gestural recognition for interpreting human body movement and other attribute recognition for input.
-General   Interactive Sketching Notation. Jakub Linowski&amp;rsquo;s techniques for specifying interaction. See Video.  A shorthand for designing UI flows. Ryan Singer&amp;rsquo;s technique for illustrating flow.  Visual Vocabulary. Jesse James Garret&amp;rsquo;s system for diagramming information architecture and interaction design.  Wireframes Magazine.</description>
+General   Interactive Sketching Notation. Jakub Linowski&#39;s techniques for specifying interaction. See Video.  A shorthand for designing UI flows. Ryan Singer&#39;s technique for illustrating flow.  Visual Vocabulary. Jesse James Garret&#39;s system for diagramming information architecture and interaction design.  Wireframes Magazine.</description>
     </item>
     
     <item>
@@ -150,8 +139,7 @@ Text Generators Traditional   Lipsum - Standard Lorem Ipsum that lets you set nu
       
       <guid>http://konigi.com/articles/user-interface-galleries/</guid>
       <description>About This page contains informal galleries of interface and visual designs.
-User Interface Galleries Mobile   Inspired UI  IOSpirations  Lovely UI (Mobile Gallery)  Mobile Design Pattern Gallery, by Theresa Neil  Mobile UI Patterns  pttrns 
-Web   Designing Web Interfaces Photostream and Collections on Flickr, by Bill Scott and Theresa Neil  Little Big Details  Pattern Tap  Patterns of Design  Search Patterns Collection on Flickr, by Peter Morville  Smiley Cat&amp;rsquo;s Elements of Design  UI Collection on Flickr, by Chris Messina  UI Parade UI Patterns  Web Form Design: Filling In the Blanks (book illustrations)</description>
+User Interface Galleries Mobile   Inspired UI  IOSpirations  Lovely UI (Mobile Gallery)  Mobile Design Pattern Gallery, by Theresa Neil  Mobile UI Patterns  pttrns  Web   Designing Web Interfaces Photostream and Collections on Flickr, by Bill Scott and Theresa Neil  Little Big Details  Pattern Tap  Patterns of Design  Search Patterns Collection on Flickr, by Peter Morville  Smiley Cat&#39;s Elements of Design  UI Collection on Flickr, by Chris Messina  UI Parade UI Patterns  Web Form Design: Filling In the Blanks (book illustrations)  See Also   Design Patterns  Design Pattern Repositories  </description>
     </item>
     
     <item>
@@ -160,8 +148,8 @@ Web   Designing Web Interfaces Photostream and Collections on Flickr, by Bill Sc
       <pubDate>Mon, 04 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/articles/concept-design/</guid>
-      <description>Definitions &amp;ldquo;Concept design is an early phase of the design process that explores far-ranging design ideas which are plausible but which often set aside immediate technical and situational constraints in order to generate new options. The results can be seen in the concept cars from Pininfarina, the futuristic structures rendered by Rem Koolhaas’s Office for Metropolitan Architecture, and the Christian Lacroix designs on the runways of Paris.&amp;rdquo;
-&amp;ndash;&amp;rdquo;Concept Design Tools.&amp;rdquo; Digital Web Magazine.</description>
+      <description>Definitions &#34;Concept design is an early phase of the design process that explores far-ranging design ideas which are plausible but which often set aside immediate technical and situational constraints in order to generate new options. The results can be seen in the concept cars from Pininfarina, the futuristic structures rendered by Rem Koolhaas’s Office for Metropolitan Architecture, and the Christian Lacroix designs on the runways of Paris.&#34;
+--&#34;Concept Design Tools.&#34; Digital Web Magazine.</description>
     </item>
     
     <item>
@@ -172,300 +160,6 @@ Web   Designing Web Interfaces Photostream and Collections on Flickr, by Bill Sc
       <guid>http://konigi.com/articles/dark-patterns/</guid>
       <description>Definitions Dark Patterns are interface design patterns that have been designed to trick users into doing things they wouldn’t otherwise have done.
 The term was coined by Harry Brignull, who writes on DarkPatterns.org, that they are carefully crafted with a solid understanding of human psychology, and they do not have the user’s interests in mind. In the talk Brignull gave at UX Brighton 2010, he calls for a code of ethics among professionals in the user interface design industries, and for professional associations to acknowledge that these practices are unethical.</description>
-    </item>
-    
-    <item>
-      <title>User Interface Style Guides</title>
-      <link>http://konigi.com/articles/user-interface-style-guides/</link>
-      <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/user-interface-style-guides/</guid>
-      <description>About This page describes the authoring and use of style guides created to ensure consistency across a product or web site. The style guide may cover anything from branding, usage of colors, and page layout, to development practices and standards.
-Definition from STC A user interface style guide can serve as:
-  A tool for ensuring consistency across a product set  A way to get groups to work together  The repository for design guidelines and standards  A training aid for new members of the product team  The creation of a style guide can serve as a focal activity for an integrated design team involving documentation, development, usability, graphic design, marketing, and other groups.</description>
-    </item>
-    
-    <item>
-      <title>Accessibility</title>
-      <link>http://konigi.com/articles/accessibility/</link>
-      <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/accessibility/</guid>
-      <description>About Web accessibility Web accessibility refers to the practice of making websites usable by people of all abilities and disabilities. When sites are correctly designed, developed and edited, all users can have equal access to information and functionality. For example, when a site is coded with semantically meaningful HTML, with textual equivalents provided for images and with links named meaningfully, this helps blind users using text-to-speech software and/or text-to-Braille hardware. When text and images are large and/or enlargable, it is easier for users with poor sight to read and understand the content.</description>
-    </item>
-    
-    <item>
-      <title>Controlled Vocabulary</title>
-      <link>http://konigi.com/articles/controlled-vocabulary/</link>
-      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/controlled-vocabulary/</guid>
-      <description>Definition A collection of preferred terms that are used to assist in more precise retrieval of content. Controlled vocabulary terms can be used for populating attribute values during indexing, building labeling systems, and creating style guides and database schema. One type of a controlled vocabulary is a thesaurus.
-Related topics: attribute values, indexing, labeling, preferred term, taxonomy, folksonomy, thesaurus
-Source: The Information Architecture Glossary, Argus Center for Information Architecture (PDF Available)</description>
-    </item>
-    
-    <item>
-      <title>Discussion Groups</title>
-      <link>http://konigi.com/articles/discussion-groups/</link>
-      <pubDate>Mon, 28 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/discussion-groups/</guid>
-      <description>Summary This page provides a list of email discussion groups and online forums about the UX disciplines and practice.
-  SIG-IA (Archives) - American Society for Information Science &amp; Technology, IA Special Interest Group Discussion  IAI-Members (Archives) - Information Architecture Institute, Members&#39; Discussion Group (Paid Membership Required)  IXDA (Archives) - Interaction Design Institute, Members&#39; Discussion Group  UX Stackexchange - A general question and answer site for the UX disciplines.</description>
-    </item>
-    
-    <item>
-      <title>Jobs</title>
-      <link>http://konigi.com/articles/jobs/</link>
-      <pubDate>Mon, 28 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/jobs/</guid>
-      <description>Professional Association Job Listings   AIGA Design Jobs  BayCHI Job Bank  CHI-JOBS Email List  IA Institute Job Board  IXDA Interaction Design Job Board  Usability Professionals Association Job Bank 
-UX Focussed   Bestica  Boxes and Arrows Job Board  DUX Jobs  HF Careers  Consortia (UK) UX Jobs  Good Experience  Indeed UX Jobs  UX Design Jobs  UX Jobs LA (Los Angeles)  UX Jobs Board</description>
-    </item>
-    
-    <item>
-      <title>Editorial Style Guides</title>
-      <link>http://konigi.com/articles/editorial-style-guides/</link>
-      <pubDate>Wed, 23 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/editorial-style-guides/</guid>
-      <description>Summary This page provides a list of resources available for the web designer or developer who needs to create an editorial style guide for writing web site copy.
-Definition of Style Guide &amp;quot;A style guide or style manual is a set of standards for design and writing of documents, either for general use or for a specific publication or organization. A set of standards for a specific organization is known as &amp;quot;house style&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Wireframes</title>
-      <link>http://konigi.com/articles/wireframes/</link>
-      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/wireframes/</guid>
-      <description>Definitions A wireframe is a schematic or other low-fidelity rendering of a computer interface, intended to primarily demonstrate functionality, features, content, and user flow without explicitly specifying the visual design of a product. Wireframes may function as interface specification for products such as computer applications, web and mobile sites, and all products requiring some form of human-computer interaction. While wireframes are considered the equivalent of an architect&amp;rsquo;s blueprints, they are typically not meant to be a representation of visual design.</description>
-    </item>
-    
-    <item>
-      <title>Page Description Diagrams</title>
-      <link>http://konigi.com/articles/page-description-diagrams/</link>
-      <pubDate>Mon, 10 Aug 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/page-description-diagrams/</guid>
-      <description>The page description diagram is a design artifact developed by Dan Brown to take design out of wireframes by describing content areas of the page. The approach provides functional specifications and interaction requirements, and lays out blocks of content without limiting the designer&#39;s ability to make decisions in the visual design. They are not necessarily meant to replace wireframes, but may be used in conjunction with them
-Definitions The excerpt below is from Dan Brown&amp;rsquo;s Boxes and Arrows article which describes the use of page description diagrams.</description>
-    </item>
-    
-    <item>
-      <title>Heuristic Evaluation</title>
-      <link>http://konigi.com/articles/heuristic-evaluation/</link>
-      <pubDate>Wed, 27 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/heuristic-evaluation/</guid>
-      <description>Definition Heuristic evaluation is a discount usability engineering method for quick, cheap, and easy evaluation of a user interface design.
-Heuristic evaluation is the most popular of the usability inspection methods. Heuristic evaluation is done as a systematic inspection of a user interface design for usability. The goal of heuristic evaluation is to find the usability problems in the design so that they can be attended to as part of an iterative design process.</description>
-    </item>
-    
-    <item>
-      <title>Agile Process</title>
-      <link>http://konigi.com/articles/agile-process/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/agile-process/</guid>
-      <description>About User Experience Design in the Agile Software Development method and Agile Process.
-Agile Method Agile software development refers to a group of software development methodologies based on iterative development, where requirements and solutions evolve through collaboration between self-organizing cross-functional teams. The term was coined in the year 2001 when the Agile Manifesto was formulated.
-Agile methods generally promote a project management process that encourages frequent inspection and adaptation, a leadership philosophy that encourages teamwork, self-organization and accountability, a set of engineering best practices that allow for rapid delivery of high-quality software, and a business approach that aligns development with customer needs and company goals.</description>
-    </item>
-    
-    <item>
-      <title>Deliverables</title>
-      <link>http://konigi.com/articles/deliverables/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/deliverables/</guid>
-      <description>About Deliverables are documents produced as part of the user experience design process.
-Peter Morville and Jeffrey Callender compiled and summarized a list of UX deliverables on the Semantic Studios site.
-Peter Boersma also gave a thorough presentation about the use of &amp;quot;UX Deliverables in Practice&amp;quot; at the IA Konferenz 2009.
-Deliverables   Content Inventories  Concept Designs  Concept Maps  Customer Journey Maps  Design Comps  Functional Requirements  Functional Specifications  Heuristic Evaluation  Mood Boards  Nomenclature  Personas  Process Flows  Prototypes  Scenarios  Site Maps  Storyboards  Style Guides  Taxonomies  Usability Testing  Use Cases  User Research  Web Analytics  Wireframes</description>
-    </item>
-    
-    <item>
-      <title>Goal Directed Design Process</title>
-      <link>http://konigi.com/articles/goal-directed-design-process/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/goal-directed-design-process/</guid>
-      <description>Goal Directed Design is an interaction design methodology created by Cooper that identifies the goals and behaviors of users, and the goals of a business, and directly translates these into design.
-The process is broken down into the following steps, according to the process page on the Cooper site.
- Project Planning  Research  Modeling  Requirements  Framework  Refinement  Support  A more detailed description of the tasks associated with this process are described in &amp;quot;Goal-Directed Design: An Interview with Kim Goodwin,&amp;quot; by Christine Perfetti on the User Interface Engineering site.</description>
-    </item>
-    
-    <item>
-      <title>Iterative Process</title>
-      <link>http://konigi.com/articles/iterative-process/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/iterative-process/</guid>
-      <description>Method Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a product or process. Based on the results of testing the most recent iteration of a design, changes and refinements are made. This process is intended to ultimately improve the quality and functionality of a design. In iterative design, interaction with the designed system is used as a form of research for informing and evolving a project, as successive versions, or iterations of a design are implemented.</description>
-    </item>
-    
-    <item>
-      <title>Usability Testing</title>
-      <link>http://konigi.com/articles/usability-testing/</link>
-      <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/usability-testing/</guid>
-      <description>Definition Usability testing is the measurement of the usability of a product or service. The definition from usability.gov succinctly describes the process.
-In a usability test, representative users try to do typical tasks with the product, while observers, including the development staff, watch, listen, and take notes. The product can be a Web site, Web application, or any other product. It does not have to be a finished product. You should be testing prototypes from early paper-based stages through fully functional later stages.</description>
-    </item>
-    
-    <item>
-      <title>Processes</title>
-      <link>http://konigi.com/articles/processes/</link>
-      <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/processes/</guid>
-      <description>About Design processes as part of the UX Design craft.
-Processes Description of UX Design Processes needs to be written.
-  Agile Process  Goal Directed Design Process (Cooper)  Iterative Process  Books about Design Process   How Do You Design? by Hugh Dubberly. An eBook documenting design processes. 
-See also   Usability Testing  User Experience Design  Processes vs. Methodologies</description>
-    </item>
-    
-    <item>
-      <title>Prototypes</title>
-      <link>http://konigi.com/articles/prototypes/</link>
-      <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/prototypes/</guid>
-      <description>Definitions the original or model on which something is based or formed.
-Source: Dictionary.com
-[O]n an individual basis our definitions and descriptions of what constitutes a “prototype” vary greatly. Prototypes have been described as hi-fidelity, lo-fidelity, functional, nonfunctional, paper, Flash®, HTML, interactive, non-interactive, click-through, garden variety walk-through, cognitive walk-through—the list just keeps going.
-...
-When I refer to a prototype, I&#39;m referring to something that, from my book, &amp;quot;regardless of its fidelity, functionality, or how it’s made, a prototype is a conceptual model that captures and communicates the vision, intent, or idea of a design.</description>
-    </item>
-    
-    <item>
-      <title>Discount Usability</title>
-      <link>http://konigi.com/articles/discount-usability/</link>
-      <pubDate>Fri, 17 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/discount-usability/</guid>
-      <description>Definition A method of low cost usability engineering proposed by Jakob Nielsen that asserts that usability that is performed frequently with fewer participants, and using scenario based observation yields results that are nearly as good, and with better ROI when compared with costlier traditional usability testing.
-Ergosoft Laboratories summarizes the method:
-The primary characteristics of discount usability engineering are small sample sizes (i.e., fewer participants), frequent iterations of these small tests, and reliance on direct observations rather than on statistically established findings.</description>
-    </item>
-    
-    <item>
-      <title>Usability</title>
-      <link>http://konigi.com/articles/usability/</link>
-      <pubDate>Fri, 17 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/usability/</guid>
-      <description>Definition Usability is an approach to product development that incorporates direct user feedback throughout the development cycle in order to reduce costs and create products and tools that meet user needs. There are many definitions of usability from books by usability professionals.
-Two international standards define usability and human-centered (or user-centered) design:
-&amp;quot;[Usability refers to] the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.</description>
-    </item>
-    
-    <item>
-      <title>User Interface Guidelines</title>
-      <link>http://konigi.com/articles/user-interface-guidelines/</link>
-      <pubDate>Tue, 07 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/user-interface-guidelines/</guid>
-      <description>About This page contains resources for user interface design and usability guidelines.
-Guidelines   Apple iOS Human Interface Guidelines  Apple Mac OS Human Interface Guidelines  Eclipse User Interface Guidelines  Chromium and Chromium OS&#39;s user interface design guidelines  Google Android Design and User Interface Guidelines  Google Material Design  Microsoft Windows Application Design Guidelines Microsoft Universal Windows Platform Design﻿﻿  Microsoft Surface User Experience Guidelines  Usability.</description>
-    </item>
-    
-    <item>
-      <title>Anti-Patterns</title>
-      <link>http://konigi.com/articles/anti-patterns/</link>
-      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/anti-patterns/</guid>
-      <description>Definitions &amp;quot;Design anti-patterns are &amp;lsquo;obvious, but wrong, solutions to recurring problems&amp;rsquo;.&amp;quot;
-Source: Software Design David Budgen.
-&amp;quot;An AntiPattern is a pattern that tells how to go from a problem to a bad solution.&amp;quot;
-Source: C2 Wiki
-&amp;quot;Recurring re-invented bad solutions to solve common problems.&amp;quot;
-Source: User Interface Anti Patterns Anders Toxboe. UI Patterns.
-Discussion &amp;quot;Antipatterns are approaches to common problems that might appear obvious, but are less than optimal in practice.</description>
-    </item>
-    
-    <item>
-      <title>Design Patterns</title>
-      <link>http://konigi.com/articles/design-patterns/</link>
-      <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/design-patterns/</guid>
-      <description>Definitions A pattern describes an optimal solution to a common problem within a specific context.
-From the IAWiki:
- Patterns are optimal solutions to common problems. As common problems are tossed around a community and are resolved, common solutions often spontaneously emerge. Eventually, the best of these rise above the din and self-identify and become refined until they reach the status of a Design Pattern.  Each pattern has four primary components:</description>
-    </item>
-    
-    <item>
-      <title>Information Architecture</title>
-      <link>http://konigi.com/articles/information-architecture/</link>
-      <pubDate>Sat, 04 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/information-architecture/</guid>
-      <description>Definitions &amp;quot;The structural design of shared information environments.
-The art and science of organizing and labeling web sites, intranets, online communities and software to support usability and findability.
-An emerging community of practice focused on bringing principles of design and architecture to the digital landscape.&amp;quot;
-Source: &amp;quot;What Is IA?&amp;quot; The Information Architecture Institute.
-&amp;quot;Information architecture involves the design of organization and navigation systems to help people find and manage information more successfully.</description>
-    </item>
-    
-    <item>
-      <title>Card Sorting and Affinity Diagramming</title>
-      <link>http://konigi.com/articles/card-sorting-and-affinity-diagramming/</link>
-      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/card-sorting-and-affinity-diagramming/</guid>
-      <description>Definitions Card Sorting &amp;quot;Card Sorting is a user-centered design method for increasing a system’s findability. The process involves sorting a series of cards, each labeled with a piece of content or functionality, into groups that make sense to users or participants.&amp;quot;
-&amp;quot;Card sorting: a definitive guide.&amp;quot; by Donna Spencer and Todd Warfel in Boxes and Arrows.
-Affinity Diagramming Related to card sorting is Affinity Diagramming (KJ Method), which is similar to card sorting, and is often used for brainstorming.</description>
-    </item>
-    
-    <item>
-      <title>Definitions of the field</title>
-      <link>http://konigi.com/articles/definitions-field/</link>
-      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/definitions-field/</guid>
-      <description>To define the damned thing or not. That is the question. Some people hate the constant discussion, the navel gazing, and the lack of clarity. Others find the attempt to define who we are and what we do essential to the growth of our fields and practice.
-Below are links to pages with definitions.
-  User Experience Design  Information Architecture  Interaction Design  </description>
-    </item>
-    
-    <item>
-      <title>Interaction Design</title>
-      <link>http://konigi.com/articles/interaction-design/</link>
-      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/interaction-design/</guid>
-      <description>Definitions &amp;quot;Interaction Design (IxD) defines the structure and behavior of interactive products and services. Interaction Designers create compelling relationships between people and the interactive systems they use, from computers to mobile devices to appliances; Interaction Designers lay the groundwork for intangible experiences.&amp;quot;
-Source: &amp;quot;About Interaction Design.&amp;quot; Interaction Design Association.
-Discussion   Five things Interaction Design probably isn&amp;rsquo;t. Coroflot. 3&amp;frasl;2009.  &amp;quot;Five things Interaction Design probably isn&amp;rsquo;t.&amp;quot; IXDA Discussion. 3&amp;frasl;2009.</description>
-    </item>
-    
-    <item>
-      <title>User Experience Design</title>
-      <link>http://konigi.com/articles/user-experience-design/</link>
-      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/user-experience-design/</guid>
-      <description>Definitions User Experience &amp;quot;User Experience (abbreviated: UX) is the quality of experience a person has when interacting with a specific design. This can range from a specific artifact, such as a cup, toy or website, up to larger, integrated experiences such as a museum or an airport.&amp;quot;
-Sources: UX Net, Interaction-Design.org
-&amp;quot;&#39;User experience&#39; encompasses all aspects of the end-user&#39;s interaction with the company, its services, and its products. The first requirement for an exemplary user experience is to meet the exact needs of the customer, without fuss or bother.</description>
-    </item>
-    
-    <item>
-      <title>Design Pattern Repositories</title>
-      <link>http://konigi.com/articles/design-pattern-repositories/</link>
-      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/articles/design-pattern-repositories/</guid>
-      <description>About This is a list of resources for design pattern research. The list contains books and web sites with formal design pattern libraries that include categorized patterns with problem statement and description of solution.
-If you&#39;re looking for examples of design solutions in the wild, you may be interested in seeing the User Interface Galleries page.
-Books   Design Of Sites, by Douglas K. Van Duyne, James A. Landay, Jason I.</description>
     </item>
     
   </channel>

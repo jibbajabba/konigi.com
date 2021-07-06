@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tablet Pc on Konigi</title>
+    <title>tablet pc on Konigi</title>
     <link>http://konigi.com/tags/tablet-pc/</link>
-    <description>Recent content in Tablet Pc on Konigi</description>
+    <description>Recent content in tablet pc on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/tablet-pc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/tablet-pc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 19 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/techcrunch-tablet-prototype/</guid>
-      <description>TechCrunch shows off their second prototype, following Michael Arrington and company&amp;rsquo;s challenge to come up with a $200 touch screen netbook tablet. Looks like the price would be closer to $300, but they&amp;rsquo;re well on their way to proving the concept. http://www.techcrunch.com/2009/01/19/techcrunch-tablet-update-prototype-b/</description>
+      <description>TechCrunch shows off their second prototype, following Michael Arrington and company&#39;s challenge to come up with a $200 touch screen netbook tablet. Looks like the price would be closer to $300, but they&#39;re well on their way to proving the concept. http://www.techcrunch.com/2009/01/19/techcrunch-tablet-update-prototype-b/</description>
     </item>
     
   </channel>

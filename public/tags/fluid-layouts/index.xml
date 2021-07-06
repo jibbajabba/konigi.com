@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fluid Layouts on Konigi</title>
+    <title>fluid layouts on Konigi</title>
     <link>http://konigi.com/tags/fluid-layouts/</link>
-    <description>Recent content in Fluid Layouts on Konigi</description>
+    <description>Recent content in fluid layouts on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/fluid-layouts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/fluid-layouts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 19 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/why-browser-zoom-shouldnt-kill-flexible-layouts/</guid>
-      <description>Zoe Mickley Gillenwater posted an interesting article which makes the argument that browser zoom doesn&amp;rsquo;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&amp;rsquo;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &amp;ldquo;Zoom text only&amp;rdquo; options, e.g. in Firefox and Safari 4.</description>
+      <description>Zoe Mickley Gillenwater posted an interesting article which makes the argument that browser zoom doesn&#39;t obviate the utility of flexible (liquid and elastic) layouts. The argument is apparently being made that because of browser zoom, flexible layouts aren&#39;t necessary. But in fact, web designers that have fixed layouts know that the default zoom behavior on fixed layouts causes horizontal scrollbars. The fix is to use &#34;Zoom text only&#34; options, e.</description>
     </item>
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/fixed-vs-fluid-vs-elastic-layout/</guid>
-      <description>Smashing Magazine compares fixed, fluid, and elastic layout strategies and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&amp;rsquo;s right for your project. http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/</description>
+      <description>Smashing Magazine compares fixed, fluid, and elastic layout strategies and provides pro and con for each, with plenty of examples. The debate and illustrations might help you make the case for what&#39;s right for your project. http://www.smashingmagazine.com/2009/06/02/fixed-vs-fluid-vs-elastic-layout-whats-the-right-one-for-you/</description>
     </item>
     
     <item>
@@ -35,7 +34,7 @@
       <pubDate>Fri, 20 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/fluid-grids/</guid>
-      <description>In the latest A List Apart, Airbag Industries&amp;rsquo; Ethan Marcotte writes about designing fluid grids, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user.</description>
+      <description>In the latest A List Apart, Airbag Industries&#39; Ethan Marcotte writes about designing fluid grids, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user.</description>
     </item>
     
   </channel>

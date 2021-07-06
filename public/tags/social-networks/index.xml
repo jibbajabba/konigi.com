@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Networks on Konigi</title>
+    <title>social networks on Konigi</title>
     <link>http://konigi.com/tags/social-networks/</link>
-    <description>Recent content in Social Networks on Konigi</description>
+    <description>Recent content in social networks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usabilla-discover/</guid>
-      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&amp;rsquo;s a social LittleSnapper. Whatever the pitch, it&amp;rsquo;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
+      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&#39;s a social LittleSnapper. Whatever the pitch, it&#39;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
 Note: To get in during the beta, sign up here with code &amp;quot;KONIGI&amp;quot;, good for the first 200 who use the code.
 http://discover.usabilla.com/</description>
     </item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paper Prototyping on Konigi</title>
+    <title>paper prototyping on Konigi</title>
     <link>http://konigi.com/tags/paper-prototyping/</link>
-    <description>Recent content in Paper Prototyping on Konigi</description>
+    <description>Recent content in paper prototyping on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/paper-prototyping/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/paper-prototyping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +16,7 @@
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/paperproto/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://paperproto.com/&#34;&gt;PAPERPROTO&lt;/a&gt; is a 3D printable model to use for paper prototyping mobile applications, in the style of a &lt;a href=&#34;http://lifestyle.howstuffworks.com/crafts/seasonal/winter/theatre-activities-for-kids7.htm&#34; target=&#34;_blank&#34;&gt;story scroll&lt;/a&gt;. You can download the file or buy the model for printing on demand directly from Shapeways.&lt;/p&gt;
-
-&lt;p&gt;Via &lt;a href=&#34;http://zekefranco.com/&#34;&gt;Zeke Franco&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://paperproto.com/&#34;&gt;PAPERPROTO&lt;/a&gt; is a 3D printable model to use for paper prototyping mobile applications, in the style of a &lt;a href=&#34;http://lifestyle.howstuffworks.com/crafts/seasonal/winter/theatre-activities-for-kids7.htm&#34; target=&#34;_blank&#34;&gt;story scroll&lt;/a&gt;. You can download the file or buy the model for printing on demand directly from Shapeways.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,7 +55,7 @@ http://popapp.in/</description>
       <pubDate>Wed, 11 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/ux-stickynotes/</guid>
-      <description>I&amp;rsquo;ve had a UX Stickynotes pad near me for a few weeks to play with. I&amp;rsquo;m kind of a sticky notes nerd. I mostly like to place them in sketchbooks to mark and annotate, but also like them for brainstorming and doing info organization exercises. Sticky notes for UI sketches and sketchboards makes sense.
+      <description>I&#39;ve had a UX Stickynotes pad near me for a few weeks to play with. I&#39;m kind of a sticky notes nerd. I mostly like to place them in sketchbooks to mark and annotate, but also like them for brainstorming and doing info organization exercises. Sticky notes for UI sketches and sketchboards makes sense.
 The sticky notes are A5 sized, with light non-photo blue dot grid, and the browser version has 960gs markers.</description>
     </item>
     
@@ -68,7 +65,7 @@ The sticky notes are A5 sized, with light non-photo blue dot grid, and the brows
       <pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/uxpin-paper-prototyping-redesigned/</guid>
-      <description>UXPin just made it a little easier for you to paper prototype. They&amp;rsquo;ve created a kit with sticky note interface elements (buttons, combo-boxes, check-boxes etc. – 50 each), universal elements (to easily make menus, lists, boxes – 50 each) and a 50 page paper browser notepad packaged in a hard cover case.
+      <description>UXPin just made it a little easier for you to paper prototype. They&#39;ve created a kit with sticky note interface elements (buttons, combo-boxes, check-boxes etc. – 50 each), universal elements (to easily make menus, lists, boxes – 50 each) and a 50 page paper browser notepad packaged in a hard cover case.
 http://www.uxpin.com/</description>
     </item>
     
@@ -78,7 +75,7 @@ http://www.uxpin.com/</description>
       <pubDate>Mon, 09 Nov 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/process-toolbox-part-eight-prototyping/</guid>
-      <description>Simon Collison writes about the different forms of prototyping in ErskineLabs&amp;rsquo; Process Toolbox, describing the benefits of paper, wireframe, and browser prototypes.
+      <description>Simon Collison writes about the different forms of prototyping in ErskineLabs&#39; Process Toolbox, describing the benefits of paper, wireframe, and browser prototypes.
 As much as all parties may talk about requirements and argue over features, often they won’t really “get it” until they can see the concept represented visually, and understand its exact behaviour. This brings us on to various methods of prototyping. 
 Found via I ♥ wireframes. Read more at Erskine Labs.</description>
     </item>
@@ -108,7 +105,7 @@ Rather than sketch the whole page on a sheet of paper, I prefer to draw out the 
       <pubDate>Wed, 22 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/paper-prototyping-webtrends/</guid>
-      <description>Justin Garrity writes about Web Trends&amp;rsquo; use of paper prototyping to design the applications&amp;rsquo; Tag Builder.
+      <description>Justin Garrity writes about Web Trends&#39; use of paper prototyping to design the applications&#39; Tag Builder.
 http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-prototyping/</description>
     </item>
     
@@ -118,8 +115,8 @@ http://blog.webtrends.com/2009/04/22/a-new-user-experience-part-2-of-5-paper-pro
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/software-tool-design-design-sketching/</guid>
-      <description>The second part of Stephen Chambers&amp;rsquo; series on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&amp;rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.
-James, the team leader had just read Bill Buxton&amp;rsquo;s Sketching the User Experience and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas.</description>
+      <description>The second part of Stephen Chambers&#39; series on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&#39;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.
+James, the team leader had just read Bill Buxton&#39;s Sketching the User Experience and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas.</description>
     </item>
     
     <item>
@@ -128,9 +125,9 @@ James, the team leader had just read Bill Buxton&amp;rsquo;s Sketching the User 
       <pubDate>Thu, 28 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hanmail-paper-prototype/</guid>
-      <description>Video of a paper prototype created for Daum&amp;rsquo;s AJAX-based hanmail.net webmail service. It&amp;rsquo;s a little hard to know what&amp;rsquo;s going on without hearing the test participant think out loud, but it&amp;rsquo;s a nice demo of the prototype.
+      <description>Video of a paper prototype created for Daum&#39;s AJAX-based hanmail.net webmail service. It&#39;s a little hard to know what&#39;s going on without hearing the test participant think out loud, but it&#39;s a nice demo of the prototype.
 Via IATV.
-http://www.youtube.com/watch?v=GrV2SZuRPv0</description>
+https://www.youtube.com/watch?v=GrV2SZuRPv0</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Easter Eggs on Konigi</title>
+    <title>easter eggs on Konigi</title>
     <link>http://konigi.com/tags/easter-eggs/</link>
-    <description>Recent content in Easter Eggs on Konigi</description>
+    <description>Recent content in easter eggs on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Feb 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/easter-eggs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/easter-eggs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://www.augmentedrealityblog.eu/2010/04/02/ceo-yelp-is-amazed-by-results-of-m
       <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/christmas-time-easter-egg-flickr/</guid>
-      <description>That&amp;rsquo;s BJ Fogg in my wireframe screenshot on Flickr, sporting a Santa hat and beard. This was spotted via Lifehacker. Add a note with the text &amp;ldquo;ho ho ho hat&amp;rdquo; to get the hat, and &amp;ldquo;ho ho ho beard&amp;rdquo; for the beard. I &amp;#9829; Flickr.
+      <description>That&#39;s BJ Fogg in my wireframe screenshot on Flickr, sporting a Santa hat and beard. This was spotted via Lifehacker. Add a note with the text &#34;ho ho ho hat&#34; to get the hat, and &#34;ho ho ho beard&#34; for the beard. I &amp;#9829; Flickr.
 http://www.flickr.com/photos/jibbajabba/3118649132/</description>
     </item>
     

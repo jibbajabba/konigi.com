@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Free on Konigi</title>
+    <title>free on Konigi</title>
     <link>http://konigi.com/tags/free/</link>
-    <description>Recent content in Free on Konigi</description>
+    <description>Recent content in free on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/free/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/free/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://www.webiconsets.com/</description>
       <pubDate>Mon, 29 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/4-great-resources-free-printable-graph-paper/</guid>
-      <description>If you&amp;rsquo;ve come here for the free wireframe and storyboard graph paper, you might also be interested in these 4 great resources for free printable graphpaper with uses for craftmaking, math, science, and writing.
+      <description>If you&#39;ve come here for the free wireframe and storyboard graph paper, you might also be interested in these 4 great resources for free printable graphpaper with uses for craftmaking, math, science, and writing.
  Incompetech and PrintFreeGraphPaper
 Generator that does a ton of different formats including some excellent specialty papers, e.g. music notation, perspective drawings, geometric grids, and more. Print Free Graph Paper
 Generator with graph papers for science and math e.</description>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation on Konigi</title>
+    <title>documentation on Konigi</title>
     <link>http://konigi.com/tags/documentation/</link>
-    <description>Recent content in Documentation on Konigi</description>
+    <description>Recent content in documentation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Dec 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 11 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/explainshell-unix-manual-pages-explained-visually/</guid>
-      <description>Idan Kamara&amp;rsquo;s explainshell displays Ubuntu&amp;rsquo;s manpage repository visually like a schematic, allowing you to highlight parts of a commands parts (command, arguments, options) and view a callout that describes what the part does.
+      <description>Idan Kamara&#39;s explainshell displays Ubuntu&#39;s manpage repository visually like a schematic, allowing you to highlight parts of a commands parts (command, arguments, options) and view a callout that describes what the part does.
 http://explainshell.com/explain?cmd=tar%20xzvf%20archive.tar.gz</description>
     </item>
     

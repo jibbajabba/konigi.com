@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tools on Konigi</title>
+    <title>tools on Konigi</title>
     <link>http://konigi.com/tags/tools/</link>
-    <description>Recent content in Tools on Konigi</description>
+    <description>Recent content in tools on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,7 +28,7 @@
       
       <guid>http://konigi.com/tools/sketchbooks-diy/</guid>
       <description>This is a guide for binding your own sketchbooks. I offer it to you designers, developers, makers, and tinkerers out there who are looking for a way to physically connect to your practice of designing interfaces, or who maybe just want a fun and practical way to get your hands dirty.
-I started making my own sketchbooks and pads a few years ago. At the time there weren&amp;rsquo;t many options for interface sketching and storyboarding.</description>
+I started making my own sketchbooks and pads a few years ago. At the time there weren&#39;t many options for interface sketching and storyboarding.</description>
     </item>
     
     <item>
@@ -38,7 +37,7 @@ I started making my own sketchbooks and pads a few years ago. At the time there 
       <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/nick-fincks-gifts-user-experience-geeks-2011/</guid>
-      <description>If you&amp;rsquo;re looking for gifts for your team, Nick Finck has once again rounded up a massive list of gear for UX geeks. Thanks, Nick.
+      <description>If you&#39;re looking for gifts for your team, Nick Finck has once again rounded up a massive list of gear for UX geeks. Thanks, Nick.
 http://www.nickfinck.com/blog/entry/gifts_for_user_experience_geeks_2011/</description>
     </item>
     
@@ -91,7 +90,7 @@ Version 0.1 was the preliminary version and is very rough.</description>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
 http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
     </item>
     
@@ -102,7 +101,7 @@ http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</guid>
       <description>The UX Template has been updated (Vers. 2.2) with some minor fixes. The iPhone template was recreated using OmniGraffle drawing tools rather than imported PNGs to shrink file size. Template was converted to flat XML format rather than bundle. Guides cleaned up on all pages.
-http://konigi.com/tools/omnigraffle-ux-template</description>
+//konigi.com/tools/omnigraffle-ux-template</description>
     </item>
     
     <item>
@@ -120,7 +119,7 @@ http://konigi.com/tools/omnigraffle-ux-template</description>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&amp;rsquo;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
+      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
  Download Download Version 3.</description>
     </item>
     
@@ -130,7 +129,7 @@ http://konigi.com/tools/omnigraffle-ux-template</description>
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/konigi-og-toolset-coming/</guid>
-      <description>That&amp;rsquo;s OmniGraffle, not Original Gangster. It&amp;rsquo;s been over a year since the last update to my OmniGraffle Wireframe Stencils. I&amp;rsquo;m due for a new version after some cleanup and organization into separate stencils to make use of OG5&amp;rsquo;s nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I&amp;rsquo;ve worked on in the past 2 years at Sling and at Traction.</description>
+      <description>That&#39;s OmniGraffle, not Original Gangster. It&#39;s been over a year since the last update to my OmniGraffle Wireframe Stencils. I&#39;m due for a new version after some cleanup and organization into separate stencils to make use of OG5&#39;s nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I&#39;ve worked on in the past 2 years at Sling and at Traction.</description>
     </item>
     
     <item>
@@ -149,7 +148,7 @@ http://c2.com/cgi/wiki?GuiPrototypingTools</description>
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&amp;rsquo;ll be showing true pixel dimensions.
+      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
  Installation 1.</description>
     </item>
     
@@ -161,66 +160,6 @@ http://c2.com/cgi/wiki?GuiPrototypingTools</description>
       <guid>http://konigi.com/blog/corporate-ipsum-widget/</guid>
       <description>If you ever get tired of writing sample copy in your design documents, at least be semi-lazy rather than completely lazy. Use Corporate Ipsum.
 http://www.doubleforte.net/widgets/corporate/</description>
-    </item>
-    
-    <item>
-      <title>Silverback: Usability Testing Software for the Mac</title>
-      <link>http://konigi.com/blog/silverback-usability-testing-software-mac/</link>
-      <pubDate>Fri, 25 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/silverback-usability-testing-software-mac/</guid>
-      <description>Silverback launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won&amp;rsquo;t have to ever touch another Windows box if you don&amp;rsquo;t want to. (I&amp;rsquo;m kidding. I&amp;rsquo;m sure you will at some point in your life.)
-Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won&amp;rsquo;t find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</description>
-    </item>
-    
-    <item>
-      <title>Continuum Javascript Ratio Calculator</title>
-      <link>http://konigi.com/blog/continuum-javascript-ratio-calculator/</link>
-      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/continuum-javascript-ratio-calculator/</guid>
-      <description>Continuum&amp;rsquo;s Javascript Ratio Calculator is a handy tool you can use to calculate object dimensions based on a ratio you provide. You can do this easily in a graphics tool like Photoshop by setting an image size and resizing, but this can be useful when you just need to pull those dimensions out when planning a project layout.
-http://www.continuum2.com/js_ratio.php</description>
-    </item>
-    
-    <item>
-      <title>Graph Paper</title>
-      <link>http://konigi.com/tools/graph-paper/</link>
-      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/graph-paper/</guid>
-      <description>About This 8.5 x 11 inch graph paper is made for visual designers, interaction designers, and information architects. You&#39;ll find styles for wireframing user interfaces, and story boarding interaction. I&#39;ve been told that it&#39;s also used by animators and filmmakers. Enjoy.
- Scanning These cyan and gray grid pages are great for sketching, but also work well when producing high fidelity drawings. The boxes and grid lines of the cyan versions are non-photo blue, so you can easily remove them when scanned.</description>
-    </item>
-    
-    <item>
-      <title>280 Slides - Create &amp; Share Presentations Online</title>
-      <link>http://konigi.com/blog/280-slides-create-share-presentations-online/</link>
-      <pubDate>Mon, 23 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/280-slides-create-share-presentations-online/</guid>
-      <description>280 Slides is a service that lets you create presentations online in a Keynote-like interface, and then share them, download them to PowerPoint, and present them online.
-http://280slides.com/</description>
-    </item>
-    
-    <item>
-      <title>6 Screenshot Utilities You Should Know About</title>
-      <link>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</link>
-      <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/6-screenshot-utilities-you-should-know-about/</guid>
-      <description>I use different screen capture utilities depending on the type of screen I&amp;rsquo;m trying to grab. Some are great for a quick and dirty capture of a page I want to send someone. Others are good for annotating an interface I want to post to a web page. And still others are best for archival screen capture or for interfaces with video. Below are the 6 screenshot utilities that Mac users should know about.</description>
-    </item>
-    
-    <item>
-      <title>Designers Toolbox: OS Form Elements</title>
-      <link>http://konigi.com/blog/designers-toolbox-os-form-elements/</link>
-      <pubDate>Wed, 23 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designers-toolbox-os-form-elements/</guid>
-      <description>The Designers Toolbox provides a nice resource for designers looking to create form elements in design comps or wireframes. The site displays every type of form element that can be generated by Windows XP IE and Firefox, and Mac OS X Safari and Firefox. Photoshop files can be downloaded for each form element.
-Thanks, swissmiss.
-http://www.designerstoolbox.com/designresources/elements/</description>
     </item>
     
   </channel>

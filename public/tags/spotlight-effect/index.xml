@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spotlight Effect on Konigi</title>
+    <title>spotlight effect on Konigi</title>
     <link>http://konigi.com/tags/spotlight-effect/</link>
-    <description>Recent content in Spotlight Effect on Konigi</description>
+    <description>Recent content in spotlight effect on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Mar 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/spotlight-effect/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/spotlight-effect/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -71,7 +70,7 @@
       <pubDate>Fri, 04 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/elmwood/</guid>
-      <description>UK agency Elmwood employs large photos and type on an atmospheric backdrop that gives a bold, modern elegance to their message, &amp;ldquo;We create brands with authentic attitude.&amp;rdquo;
+      <description>UK agency Elmwood employs large photos and type on an atmospheric backdrop that gives a bold, modern elegance to their message, &#34;We create brands with authentic attitude.&#34;
 http://elmwood.co.uk</description>
     </item>
     

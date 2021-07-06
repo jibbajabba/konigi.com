@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concept Design on Konigi</title>
+    <title>concept design on Konigi</title>
     <link>http://konigi.com/tags/concept-design/</link>
-    <description>Recent content in Concept Design on Konigi</description>
+    <description>Recent content in concept design on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Jun 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/concept-design/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/concept-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 29 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mozilla-labs-design-challenge-reinventing-tabs-browser/</guid>
-      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &amp;ldquo;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&amp;rdquo; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
+      <description>Mozilla Labs together with IxDA and Johnny Holland presented the Summer 09 Design Challenge as part of their Concept Series. The challenge theme is &#34;Reinventing Tabs in the Browser - How can we create, navigate and manage multiple web sites within the same browser instance?&#34; Voting on concept submissions ends on July 5. Will take a while to make it through the over 120 concepts!
 http://design-challenge.mozilla.com/summer09/showcase.php</description>
     </item>
     
@@ -37,7 +36,7 @@ When I see concepts that are received well, the concept itself can usually only 
       <pubDate>Mon, 05 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/shades-gray-wireframes-thinking-device/</guid>
-      <description>Will Evans discusses how he uses wireframes in his design process. The story is one you&amp;rsquo;ve probably heard before. It&amp;rsquo;s a description of concept design, using wireframes as the tool for finding the right design. One could use sketching just as well. He&amp;rsquo;s talking about that path we take as designers to frame the problem for discussion, extrapolate solutions from that discussion, and generate possible solution concepts. He calls his process one of divergence, transformation, and covergence.</description>
+      <description>Will Evans discusses how he uses wireframes in his design process. The story is one you&#39;ve probably heard before. It&#39;s a description of concept design, using wireframes as the tool for finding the right design. One could use sketching just as well. He&#39;s talking about that path we take as designers to frame the problem for discussion, extrapolate solutions from that discussion, and generate possible solution concepts. He calls his process one of divergence, transformation, and covergence.</description>
     </item>
     
     <item>
@@ -56,7 +55,7 @@ In this book, I have collected over one-hundred descriptions of design and devel
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/working-through-screens-book/</guid>
-      <description>Flashbulb Interactions&amp;rsquo;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
+      <description>Flashbulb Interactions&#39;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
     </item>
     
     <item>

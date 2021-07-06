@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modern on Konigi</title>
+    <title>modern on Konigi</title>
     <link>http://konigi.com/tags/modern/</link>
-    <description>Recent content in Modern on Konigi</description>
+    <description>Recent content in modern on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/modern/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/modern/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Wed, 03 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/park-avenue-armory/</guid>
-      <description>The site for the Park Ave Armory, a non-profit venue for the arts in New York City is a clean, modern looking site with a simple 2-3 column grid that makes minimal use of graphics and presents information simply. There&amp;rsquo;s small change in the logo and heading colors to add some variety and the navigation is clear.
+      <description>The site for the Park Ave Armory, a non-profit venue for the arts in New York City is a clean, modern looking site with a simple 2-3 column grid that makes minimal use of graphics and presents information simply. There&#39;s small change in the logo and heading colors to add some variety and the navigation is clear.
 http://www.armoryonpark.org/</description>
     </item>
     
@@ -36,7 +35,7 @@ http://www.armoryonpark.org/</description>
       <pubDate>Tue, 09 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/fancast/</guid>
-      <description>The slight redesign of the surface on Fancast is a lovely updating that comes along with the site&amp;rsquo;s latest release and new inventory of video content. The presentation layer is sporting the clean and glossy look of white boxes with pale drop shadows that I&amp;rsquo;m fond of, as well as using soft white bevels with enough restraint to look good without going over the top. The overall look is softer, and might slightly reference the minimalist Hulu, but clearly outsexes that site.</description>
+      <description>The slight redesign of the surface on Fancast is a lovely updating that comes along with the site&#39;s latest release and new inventory of video content. The presentation layer is sporting the clean and glossy look of white boxes with pale drop shadows that I&#39;m fond of, as well as using soft white bevels with enough restraint to look good without going over the top. The overall look is softer, and might slightly reference the minimalist Hulu, but clearly outsexes that site.</description>
     </item>
     
     <item>

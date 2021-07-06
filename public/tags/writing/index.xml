@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on Konigi</title>
+    <title>writing on Konigi</title>
     <link>http://konigi.com/tags/writing/</link>
-    <description>Recent content in Writing on Konigi</description>
+    <description>Recent content in writing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Oct 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 22 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/potd-jk-rowling%e2%80%99s-plot-spreadsheet-%e2%80%98harry-potter-and-order-phoenix%e2%80%99/</guid>
-      <description>Love this post on /Film showing a few artifacts from J.K. Rowling&amp;rsquo;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&amp;rsquo;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:
+      <description>Love this post on /Film showing a few artifacts from J.K. Rowling&#39;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&#39;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:
 Rowling outlines each chapter in detail including which month of the school year it takes place in, the title and the plot.</description>
     </item>
     
@@ -27,7 +26,7 @@ Rowling outlines each chapter in detail including which month of the school year
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/content-templates-rescue/</guid>
-      <description>Erin Kissane writes about using content templates &amp;ldquo;&amp;hellip; to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&amp;rdquo; in A List Apart.
+      <description>Erin Kissane writes about using content templates &#34;... to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&#34; in A List Apart.
 The ideal situation is to have a content strategist, perhaps a technical writer, who can provide the guidance for auditing and organizing information, and add some rigor to the writing process. The absence of a content strategist on a project necessitates at least dedicating one person to this task.</description>
     </item>
     
@@ -37,7 +36,7 @@ The ideal situation is to have a content strategist, perhaps a technical writer,
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/writing-microcopy/</guid>
-      <description>Joshua Porter writes about the use of microcopy to create confidence and alleviate concerns in customers about the actions they take on your site. Ironically, the smallest bits of copy, microcopy, can have the biggest impact. &amp;hellip; Microcopy is small yet powerful copy. It’s fast, light, and deadly. It’s a short sentence, a phrase, a few words. A single word. It’s the small copy that has the biggest impact. Don’t judge it on its size…judge it on its effectiveness.</description>
+      <description>Joshua Porter writes about the use of microcopy to create confidence and alleviate concerns in customers about the actions they take on your site. Ironically, the smallest bits of copy, microcopy, can have the biggest impact. ... Microcopy is small yet powerful copy. It’s fast, light, and deadly. It’s a short sentence, a phrase, a few words. A single word. It’s the small copy that has the biggest impact. Don’t judge it on its size…judge it on its effectiveness.</description>
     </item>
     
     <item>
@@ -65,7 +64,7 @@ The ideal situation is to have a content strategist, perhaps a technical writer,
       <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/going-slow/</guid>
-      <description>The New York Times fashion section article, &amp;ldquo;Blogging at a Snail&amp;rsquo;s Pace&amp;rdquo; discusses slow blogging, a near Ludd-like movement against the practice of posting quick and in high volume. It&amp;rsquo;s like slow food versus fast food. Slow bloggers discard the belief that webloggers need to post often, because the reflectiveness of thought and quality of writing suffer. When comparing the slow versus fast differences, Barbara Ganley, a blogger who writes from Vermont had this to say.</description>
+      <description>The New York Times fashion section article, &#34;Blogging at a Snail&#39;s Pace&#34; discusses slow blogging, a near Ludd-like movement against the practice of posting quick and in high volume. It&#39;s like slow food versus fast food. Slow bloggers discard the belief that webloggers need to post often, because the reflectiveness of thought and quality of writing suffer. When comparing the slow versus fast differences, Barbara Ganley, a blogger who writes from Vermont had this to say.</description>
     </item>
     
     <item>

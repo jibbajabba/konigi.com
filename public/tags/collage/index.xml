@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Collage on Konigi</title>
+    <title>collage on Konigi</title>
     <link>http://konigi.com/tags/collage/</link>
-    <description>Recent content in Collage on Konigi</description>
+    <description>Recent content in collage on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jan 2016 20:42:04 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/collage/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/collage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +17,6 @@
       
       <guid>http://konigi.com/art/cs5-20160126/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>The Darling Tree</title>
-      <link>http://konigi.com/designs/submissions/darling-tree/</link>
-      <pubDate>Sat, 10 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/darling-tree/</guid>
-      <description>Joanna Klima is a freelance designer and craftsperson. I love the decorative fluorishes behind the body, the textured backgrounds, and the overall tone of the copy. There&amp;rsquo;s a very handmade feel to the site, which goes along with the idea of providing more personal service, and the aesthetic that Klima is known for.
-http://www.thedarlingtree.com/index</description>
     </item>
     
     <item>

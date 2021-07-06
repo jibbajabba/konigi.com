@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Software on Konigi</title>
+    <title>social software on Konigi</title>
     <link>http://konigi.com/tags/social-software/</link>
-    <description>Recent content in Social Software on Konigi</description>
+    <description>Recent content in social software on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Aug 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/social-software/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/social-software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/pace/</guid>
-      <description>Hannah Donovan&amp;rsquo;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+      <description>Hannah Donovan&#39;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
 I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
     </item>
     
@@ -57,7 +56,7 @@ Zeus Jones has a great write up about using conversational language and cues to 
       <pubDate>Mon, 02 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/skittles/</guid>
-      <description>Stealing a page out of Modernista&amp;rsquo;s book, Skittles launches a site that uses social networking and media sites as its backdrop. Like the Modernista site, the effect is unexpected and attention getting. Choosing Twitter for this experiment was pretty gutsy. Whereas they could have more control over what goes on their YouTube and Facebook pages, the sentiment on Twitter isn&amp;rsquo;t all too positive. You can check the live feed of Skittles tweets at Newstrendz, a new social trends site.</description>
+      <description>Stealing a page out of Modernista&#39;s book, Skittles launches a site that uses social networking and media sites as its backdrop. Like the Modernista site, the effect is unexpected and attention getting. Choosing Twitter for this experiment was pretty gutsy. Whereas they could have more control over what goes on their YouTube and Facebook pages, the sentiment on Twitter isn&#39;t all too positive. You can check the live feed of Skittles tweets at Newstrendz, a new social trends site.</description>
     </item>
     
     <item>
@@ -67,7 +66,7 @@ Zeus Jones has a great write up about using conversational language and cues to 
       
       <guid>http://konigi.com/blog/social-patterns-wiki/</guid>
       <description>Christian Crumlish and Erin Malone are writing a book on designing social interfaces and are starting to post the design patterns they are writing as they work through the chapters. Each pattern is open for folks to modify / give feedback.
-From the looks of that list of forward links to be added, they have a very ambitious list of design problems they&amp;rsquo;re going to be researching and providing design patterns for.</description>
+From the looks of that list of forward links to be added, they have a very ambitious list of design problems they&#39;re going to be researching and providing design patterns for.</description>
     </item>
     
     <item>
@@ -105,7 +104,7 @@ http://userfix.com/</description>
       <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/favrd/</guid>
-      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &amp;lsquo;favorite. Here&amp;rsquo;s the raison d&amp;rsquo;etre:
+      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &#39;favorite. Here&#39;s the raison d&#39;etre:
 It works on three principles: first, that anyone who wants to can have their vote counted; second, that things people find interesting are more important than people who find things interesting; and third, that by any means necessary, web-strategy, social-media, online-marketing webcocks – unaware as they are of how toxic their presence is in the arenas they cannot shut up about – must and shall be filtered out of view.</description>
     </item>
     

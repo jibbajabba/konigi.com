@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Must Read on Konigi</title>
+    <title>must read on Konigi</title>
     <link>http://konigi.com/tags/must-read/</link>
-    <description>Recent content in Must Read on Konigi</description>
+    <description>Recent content in must read on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/must-read/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/must-read/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,7 +25,7 @@
       <pubDate>Sat, 25 Aug 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/pace/</guid>
-      <description>Hannah Donovan&amp;rsquo;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
+      <description>Hannah Donovan&#39;s essay in A List Apart considers the issue of pace of delivery of information in web products. In a world where information is streamed constantly to us if we allow it, sometimes a slower pace, selective or scant data delivery, and better signal to noise is more appropriate and valuable. Context, medium, and place of use are important factors for determining delivery and pace.
 I&#39;ve been interested in the slow movement in recent years, as it relates to sustainable living, slow design, slow food, and the 1K Movement.</description>
     </item>
     
@@ -58,7 +57,7 @@ I didn&#39;t read Jeff Atwood&#39;s article about cat feeders right away, becaus
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
-      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&amp;rsquo;t as important as working on the right things. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;
+      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&#39;t as important as working on the right things. Or as I once heard on a cartoon as a kid... &#34;you have to work smarter not harder.&#34;
 Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be.</description>
     </item>
     
@@ -77,7 +76,7 @@ Much more important than working hard is knowing how to find the right thing to 
       <pubDate>Thu, 17 Apr 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/bill-buxton-innovation-and-long-nose-theory/</guid>
-      <description>Bolt|Peters summarizes Bill Buxton&amp;rsquo;s talk at CHI 2008, which is focussed largely around his theory of long nose. The article in BusinessWeek describes the danger of trying to innovate around the long tail theory alone, and attempts to create awareness for this other phenomenon which he calls the long nose. The theory describes how the bulk of innovation is low-amplitude and takes place over a long period of time. [T]he bulk of innovation behind the latest &amp;ldquo;wow&amp;rdquo; moment (multi-touch on the iPhone, for example) is also low-amplitude and takes place over a long period—but well before the &amp;ldquo;new&amp;rdquo; idea has become generally known, much less reached the tipping point.</description>
+      <description>Bolt|Peters summarizes Bill Buxton&#39;s talk at CHI 2008, which is focussed largely around his theory of long nose. The article in BusinessWeek describes the danger of trying to innovate around the long tail theory alone, and attempts to create awareness for this other phenomenon which he calls the long nose. The theory describes how the bulk of innovation is low-amplitude and takes place over a long period of time. [T]he bulk of innovation behind the latest &#34;</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>User Generated Content Ugc on Konigi</title>
+    <title>user generated content (ugc) on Konigi</title>
     <link>http://konigi.com/tags/user-generated-content-ugc/</link>
-    <description>Recent content in User Generated Content Ugc on Konigi</description>
+    <description>Recent content in user generated content (ugc) on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Apr 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/user-generated-content-ugc/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/user-generated-content-ugc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 29 Apr 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/nokia-productions/</guid>
-      <description>Nokia are beggining a co-creative film project about music that will call for the contribution of film clips taken with mobile phones. The site resembles most video portals, Each video page includes a video player, sharing tools, favoriting and tagging. Finally Jumpcut&amp;rsquo;s video editing/mixing tool is provided when you click the &amp;ldquo;Remix Movie&amp;rdquo; link. This allows you to reorder clips and apply effects and transitions.
+      <description>Nokia are beggining a co-creative film project about music that will call for the contribution of film clips taken with mobile phones. The site resembles most video portals, Each video page includes a video player, sharing tools, favoriting and tagging. Finally Jumpcut&#39;s video editing/mixing tool is provided when you click the &#34;Remix Movie&#34; link. This allows you to reorder clips and apply effects and transitions.
 http://promotions.yahoo.com/nokiaproductions/index.php</description>
     </item>
     

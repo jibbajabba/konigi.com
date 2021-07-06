@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Motion Graphics on Konigi</title>
+    <title>motion graphics on Konigi</title>
     <link>http://konigi.com/tags/motion-graphics/</link>
-    <description>Recent content in Motion Graphics on Konigi</description>
+    <description>Recent content in motion graphics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Oct 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/motion-graphics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/motion-graphics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ The collection of transitions is clustered into 6 different categories: Orientat
       <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/joe/</guid>
-      <description>The whimsical sketched interface of Joe Davis&amp;rsquo; design portfolio.
+      <description>The whimsical sketched interface of Joe Davis&#39; design portfolio.
 http://www.joedavis.co.uk/</description>
     </item>
     
@@ -42,23 +41,23 @@ http://www.capacity.tv/</description>
     </item>
     
     <item>
-      <title>MTV&#39;s brand new look</title>
-      <link>http://konigi.com/blog/mtvs-brand-new-look/</link>
-      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
-      <description>MTV International / Mad Drummer from Universal Everything on Vimeo.
- Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&amp;rsquo;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&amp;rsquo;s recent rebranding in the Tristan Eaton designed character videos.
-http://creativereview.co.uk/cr-blog/2009/june/mtvs-brand-new-look</description>
-    </item>
-    
-    <item>
       <title>Motionographer</title>
       <link>http://konigi.com/designs/submissions/motionographer/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/motionographer/</guid>
       <description>http://motionographer.com/</description>
+    </item>
+    
+    <item>
+      <title>MTV&#39;s brand new look</title>
+      <link>http://konigi.com/blog/mtvs-brand-new-look/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
+      <description>MTV International / Mad Drummer from Universal Everything on Vimeo.
+ Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&#39;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&#39;s recent rebranding in the Tristan Eaton designed character videos.
+http://creativereview.co.uk/cr-blog/2009/june/mtvs-brand-new-look</description>
     </item>
     
     <item>

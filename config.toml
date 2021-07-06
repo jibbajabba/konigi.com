@@ -1,16 +1,57 @@
-theme = "konigi"
-baseurl = "http://konigi.com/"
-languageCode = "en-us"
 title = "Konigi"
+baseurl = "http://konigi.com/"
+theme = "konigi"
+
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+
+
 MetaDataFormat = "toml"
 pluralizeListTitles = false
 Paginate = "30"
 PageSize = "30"
 
-[markup.goldmark.renderer] 
-  unsafe= true
+enableRobotsTXT = true
+canonifyURLs = true
+
+[params]
+author = "Michael Angeles"
+facebook = "https://www.facebook.com/michael.konigi.angeles/"
+ogimage = "/images/logo.png"
+sitename = "Konigi"
+twitter = "@konigi"
+description = "The website of Michael Angeles - designer and DJ in the North Bay Area"
 
 [taxonomies]
   tag = "tags"
   category = "categories"
   status = "status"
+
+[markup.goldmark.renderer]
+  unsafe= true
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+      decimals = -1
+      keepCSS2 = true
+    [minify.tdewolff.html]
+      keepConditionalComments = true
+      keepDefaultAttrVals = true
+      keepDocumentTags = true
+      keepEndTags = true
+      keepQuotes = false
+      keepWhitespace = false
+    [minify.tdewolff.js]
+    [minify.tdewolff.json]
+    [minify.tdewolff.svg]
+      decimals = -1
+    [minify.tdewolff.xml]
+      keepWhitespace = false

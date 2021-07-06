@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crowdsourcing on Konigi</title>
+    <title>crowdsourcing on Konigi</title>
     <link>http://konigi.com/tags/crowdsourcing/</link>
-    <description>Recent content in Crowdsourcing on Konigi</description>
+    <description>Recent content in crowdsourcing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,7 +34,7 @@
       <pubDate>Fri, 12 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/drupal-org-crowd-wireframing/</guid>
-      <description>Leisa Reichelt starts up some participatory design by getting Drupal contributors to sketch suggestions for things they&amp;rsquo;d like to see change on Drupal.org.
+      <description>Leisa Reichelt starts up some participatory design by getting Drupal contributors to sketch suggestions for things they&#39;d like to see change on Drupal.org.
 http://www.disambiguity.com/drupalorg-come-wireframe-with-me/</description>
     </item>
     
@@ -45,7 +44,7 @@ http://www.disambiguity.com/drupalorg-come-wireframe-with-me/</description>
       <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/cymbolism-words-colors/</guid>
-      <description>&amp;ldquo;Cymbolism is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&amp;rdquo;
+      <description>&#34;Cymbolism is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&#34;
 http://www.cymbolism.com/</description>
     </item>
     
@@ -65,7 +64,7 @@ http://www.cymbolism.com/</description>
       <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/namethis-crowdsourced-project-naming/</guid>
-      <description>NameThis is an innovative new crowdsourced community that uses the wisdom of crowds to name products and services. Companies or individuals who are looking to name something pay $99 to request help in naming the thing. Participants provide suggestions and vote or invest a stake in the suggestions that have been posted. Kluster&amp;rsquo;s robots decide which is best, and participants get paid back when they&amp;rsquo;ve invested in the winner. You can find out more about how it works.</description>
+      <description>NameThis is an innovative new crowdsourced community that uses the wisdom of crowds to name products and services. Companies or individuals who are looking to name something pay $99 to request help in naming the thing. Participants provide suggestions and vote or invest a stake in the suggestions that have been posted. Kluster&#39;s robots decide which is best, and participants get paid back when they&#39;ve invested in the winner. You can find out more about how it works.</description>
     </item>
     
     <item>
@@ -74,7 +73,7 @@ http://www.cymbolism.com/</description>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/crowdsourced-color-explorer/</guid>
-      <description>I have to admit, that this crowdsourced color explorer is one of the coolest ideas I&amp;rsquo;ve seen in, oh, the last few weeks. On the Dolores blog, Brendan explains how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the World Color Survey. The result was the color explorer, aka &amp;ldquo;The Amazing Color Label Wheel!</description>
+      <description>I have to admit, that this crowdsourced color explorer is one of the coolest ideas I&#39;ve seen in, oh, the last few weeks. On the Dolores blog, Brendan explains how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the World Color Survey. The result was the color explorer, aka &#34;</description>
     </item>
     
     <item>
@@ -83,8 +82,8 @@ http://www.cymbolism.com/</description>
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/brand-and-celeb-tags/</guid>
-      <description>Noah Brier&amp;rsquo;s celeb tags and brand tags sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.
-I tried to take screenshots, but the celebrities&amp;rsquo; tag results were full of nonsensical tags.</description>
+      <description>Noah Brier&#39;s celeb tags and brand tags sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.
+I tried to take screenshots, but the celebrities&#39; tag results were full of nonsensical tags.</description>
     </item>
     
     <item>

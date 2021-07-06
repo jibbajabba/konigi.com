@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Couture on Konigi</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Sep 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/couture/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/couture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/guilty-brotherhood/</guid>
-      <description>Guilty Brotherhood&amp;rsquo;s new Couture Fashion site features the latest in couture with an edge. Designed by FINE Design Group&amp;rsquo;s Katerina Yermolitskaya. http://www.guiltybrotherhood.com/#en/home</description>
+      <description>Guilty Brotherhood&#39;s new Couture Fashion site features the latest in couture with an edge. Designed by FINE Design Group&#39;s Katerina Yermolitskaya. http://www.guiltybrotherhood.com/#en/home</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Konigi</title>
+    <title>tags on Konigi</title>
     <link>http://konigi.com/tags/tags/</link>
-    <description>Recent content in Tags on Konigi</description>
+    <description>Recent content in tags on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,7 @@
       
       <guid>http://konigi.com/interfaces/pinterest-tag-search-and-suggestions/</guid>
       <description>Pinterest&#39;s search feature shows tag and board suggestions in the auto-completion list. Select terms/tags to display, and a horizontal list (accordion) of correlating tags to refine or narrow your your search are displayed below the search box.
-Screencast / Video
-http://www.pinterest.com/</description>
+Screencast / Video https://www.pinterest.com/</description>
     </item>
     
     <item>
@@ -52,23 +50,23 @@ http://wordle.net/create</description>
     </item>
     
     <item>
-      <title>Twitter Hashtags</title>
-      <link>http://konigi.com/blog/twitter-hashtags/</link>
-      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/twitter-hashtags/</guid>
-      <description>I&amp;rsquo;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&amp;rsquo;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
-Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&amp;rsquo;re like tags on Flickr, only added inline to your post.</description>
-    </item>
-    
-    <item>
       <title>brand and celeb tags</title>
       <link>http://konigi.com/blog/brand-and-celeb-tags/</link>
       <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/brand-and-celeb-tags/</guid>
-      <description>Noah Brier&amp;rsquo;s celeb tags and brand tags sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.
-I tried to take screenshots, but the celebrities&amp;rsquo; tag results were full of nonsensical tags.</description>
+      <description>Noah Brier&#39;s celeb tags and brand tags sites is a crowdsourced tagging game that asks participants to tag a brand or celebrity and then see how others have tagged the brand or celeb. The game can be played in reverse as well, by viewing a tag cloud and trying to guess what the brand or celeb is.
+I tried to take screenshots, but the celebrities&#39; tag results were full of nonsensical tags.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Hashtags</title>
+      <link>http://konigi.com/blog/twitter-hashtags/</link>
+      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/blog/twitter-hashtags/</guid>
+      <description>I&#39;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&#39;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
+Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&#39;re like tags on Flickr, only added inline to your post.</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Process on Konigi</title>
+    <title>process on Konigi</title>
     <link>http://konigi.com/tags/process/</link>
-    <description>Recent content in Process on Konigi</description>
+    <description>Recent content in process on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Nov 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/process/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -60,7 +59,7 @@ Would have been lovely to also see some of the sketches, but it&#39;s awesome th
       <pubDate>Fri, 22 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/potd-jk-rowling%e2%80%99s-plot-spreadsheet-%e2%80%98harry-potter-and-order-phoenix%e2%80%99/</guid>
-      <description>Love this post on /Film showing a few artifacts from J.K. Rowling&amp;rsquo;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&amp;rsquo;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:
+      <description>Love this post on /Film showing a few artifacts from J.K. Rowling&#39;s creative process. Rowling uses spreadsheets she draws by making grid lines on plain paper, creating columns to outline a book&#39;s plot along a timeline, with months progressing downward. The initial columns contains a title and blurb about the plot, and further columns contain info about sub-plots. The excerpt below describes this in detail:
 Rowling outlines each chapter in detail including which month of the school year it takes place in, the title and the plot.</description>
     </item>
     
@@ -70,7 +69,7 @@ Rowling outlines each chapter in detail including which month of the school year
       <pubDate>Fri, 15 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/overhauling-balsamiqcom/</guid>
-      <description>We launched an overhauled Balsamiq.com this week and I wrote about the effort. In addition to doing interface design on the product (myBalsamiq mostly up to now) I also get to be the &amp;quot;webmaster.&amp;quot; :) What that means in our small startup is doing the user research, interface design, visual design, and front end development. If you know me, you know that I dig getting to do more than one thing, so that&amp;rsquo;s a win.</description>
+      <description>We launched an overhauled Balsamiq.com this week and I wrote about the effort. In addition to doing interface design on the product (myBalsamiq mostly up to now) I also get to be the &amp;quot;webmaster.&amp;quot; :) What that means in our small startup is doing the user research, interface design, visual design, and front end development. If you know me, you know that I dig getting to do more than one thing, so that&#39;s a win.</description>
     </item>
     
     <item>
@@ -80,7 +79,7 @@ Rowling outlines each chapter in detail including which month of the school year
       
       <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>Will Evans writes for UX Mag about his process for creating wireframes, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.
-This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing Stuart Pugh&amp;rsquo;s idea by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to sketching-&amp;gt;wireframing as well.</description>
+This seems similar to a common theme I come across when designers talk about their process--framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing Stuart Pugh&#39;s idea by illustrating the expanding/contracting nature of a designer&#39;s concept selection, which I find easy to map to sketching-wireframing as well.</description>
     </item>
     
     <item>
@@ -89,7 +88,7 @@ This seems similar to a common theme I come across when designers talk about the
       <pubDate>Thu, 25 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/designing-omnigraphsketcher-ipad/</guid>
-      <description>The Omni Group posted some photos and a little story about their progress working on prototypes for the OmniGraphSketcher for the iPad. The app is a simple graph drawing and data plotting tool that they&amp;rsquo;re creating an iPad version of. Apparently no one at Omni Group is sleeping much while their iPad apps are being developed, but they are doing some interesting things with hardware prototypes, including mocking up the hardware with 3d printers.</description>
+      <description>The Omni Group posted some photos and a little story about their progress working on prototypes for the OmniGraphSketcher for the iPad. The app is a simple graph drawing and data plotting tool that they&#39;re creating an iPad version of. Apparently no one at Omni Group is sleeping much while their iPad apps are being developed, but they are doing some interesting things with hardware prototypes, including mocking up the hardware with 3d printers.</description>
     </item>
     
     <item>
@@ -98,8 +97,8 @@ This seems similar to a common theme I come across when designers talk about the
       <pubDate>Wed, 28 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/michael-bierut-5-secrets-86-notebooks/</guid>
-      <description>This is fantastic presentation from Pentagram&amp;rsquo;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
-Renowned graphic designer Michael Bierut claims that he&amp;rsquo;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &amp;ldquo;the sicker, the better.&amp;rdquo; Digging into the 86 notebooks he&amp;rsquo;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
+      <description>This is fantastic presentation from Pentagram&#39;s Michael Bierut at The 99 Percent conference. Shows how a quiet, humble, and empathetic bedside manner can be such useful attributes in a designer.
+Renowned graphic designer Michael Bierut claims that he&#39;s not creative. Instead, he likens his job to that of a doctor who tends to patients – &#34;the sicker, the better.&#34; Digging into the 86 notebooks he&#39;s kept over the course of his career, Bierut walks us through 5 projects – from original conception to final execution – extracting a handful of simple lessons (e.</description>
     </item>
     
     <item>
@@ -139,7 +138,7 @@ The agency was contracted to abandon the prior touch screen/solid state UI, and 
       <pubDate>Mon, 22 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/dialogue-design-intent/</guid>
-      <description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&amp;rsquo;s desire to influence. The first is Robert Fabricant&amp;rsquo;s article on &amp;ldquo;Design with Intent: how designers can influence behavior&amp;rdquo;, and the follow up is Dan Lockton&amp;rsquo;s &amp;ldquo;frog design on Design with Intent&amp;rdquo;.
+      <description>I enjoyed reading two excellent articles in a dialogue about design with intent&amp;#8212;the practice of strategically designing to influencing user behavior&amp;#8212;and how user centered design process fits or is at oods with the designer&#39;s desire to influence. The first is Robert Fabricant&#39;s article on &#34;Design with Intent: how designers can influence behavior&#34;, and the follow up is Dan Lockton&#39;s &#34;frog design on Design with Intent&#34;.
 User centered design focuses primarily on user needs and research and decision making must support these needs.</description>
     </item>
     
@@ -149,7 +148,7 @@ User centered design focuses primarily on user needs and research and decision m
       <pubDate>Tue, 19 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/highrise-contacts-design-exploration/</guid>
-      <description>Jason Zimdars describes the explorations and iterations over 37 Signals&amp;rsquo; Highrise CRM application. There&amp;rsquo;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. http://jasonzimdars.com/svn/highrise.html</description>
+      <description>Jason Zimdars describes the explorations and iterations over 37 Signals&#39; Highrise CRM application. There&#39;s some nice description of the decision making process to arrive at modifications to the UI that clean up the use of tags clouds, organize listings of contacts, and attention to details around type and proportion. http://jasonzimdars.com/svn/highrise.html</description>
     </item>
     
     <item>
@@ -160,302 +159,6 @@ User centered design focuses primarily on user needs and research and decision m
       <guid>http://konigi.com/blog/user-research-personas-and-other-audience-models/</guid>
       <description>In UX Matters, Steve Baty describes the user research methodologies we can draw on when creating audience models and some alternative ways of communicating the results of an audience analysis.
 http://www.uxmatters.com/mt/archives/2009/04/user-research-for-personas-and-other-audience-models.php</description>
-    </item>
-    
-    <item>
-      <title>Schedule and Cost Summary Calculator Template</title>
-      <link>http://konigi.com/blog/schedule-and-cost-summary-calculator-template/</link>
-      <pubDate>Wed, 04 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/schedule-and-cost-summary-calculator-template/</guid>
-      <description>So it&#39;s my birthday today. One thing that I&#39;ve learned about birthdays from having a child, is that it&#39;s a lot of fun to give gifts away on your birthday. I&#39;m now a seasoned goodie bag shopper and can tell you some interesting places to go in Manhattan and Brooklyn to find unusual gifts for boys age 8-10. But since I can&#39;t give all of you rare swag from Tokyo Toy, I thought I&#39;d offer up a template that freelancers might find useful.</description>
-    </item>
-    
-    <item>
-      <title>How Software is Built: Interview with Liz Danzico</title>
-      <link>http://konigi.com/blog/how-software-built-interview-liz-danzico/</link>
-      <pubDate>Tue, 03 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/how-software-built-interview-liz-danzico/</guid>
-      <description>The Scott Swigart and Sean Campbell interview Liz Danico to discuss user experience on the How Software is Built blog. The lengthy conversation covers a wide array of topics including Liz&#39;s view of the differences in design process between typical clients with small teams and larger open source projects with communities of participants, design vision and leadership in open source software, and opinions about the acceptance with the direction that open source software has led users in terms of sharing data.</description>
-    </item>
-    
-    <item>
-      <title>The Language We Use</title>
-      <link>http://konigi.com/blog/language-we-use/</link>
-      <pubDate>Tue, 24 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/language-we-use/</guid>
-      <description>In &#34;The language we use,&#34; David Malouf discusses how ideas about user interaction can become so ingrained in what we are familiar with, that our language begins to reflect that familiarity. That can lead to a natural tendency to explain away interaction without thought to what it means to the design of a thing. In this case a student describes the change of context in a sketch presentation by using the word &#34;</description>
-    </item>
-    
-    <item>
-      <title>20 Steps to Better Wireframing</title>
-      <link>http://konigi.com/blog/20-steps-better-wireframing/</link>
-      <pubDate>Thu, 19 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/20-steps-better-wireframing/</guid>
-      <description>Think Vitamin&amp;rsquo;s Clive Howard says &amp;ldquo;Wireframing is one of the first steps in your planning process and arguably it’s one of the most important ones.&amp;rdquo; In this article, Howard goes through the wireframing process, discussing who should be involved, which tools to use, and offers sound tips to enable you to make better wireframes. Among my favorite points are those about ownership and involvement. This is to do with ensuring that someone is driving the process and iterations, and making sure that the interaction design process doesn&amp;rsquo;t happen in a vacuum, but is reviewed, validated, and informed by key team members, e.</description>
-    </item>
-    
-    <item>
-      <title>Designing by Writing</title>
-      <link>http://konigi.com/blog/designing-writing/</link>
-      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designing-writing/</guid>
-      <description>I love what tiny gigantic has written in this great short post about designing by writing (or the non-iterative design process). I agree wholeheartedly, although I think of writing as part of design to be accretive and/or iterative. A few choice bits from the entry:
-[W]hen someone asks you why you used green, or why you included that crumpled-paper background, or why there’s a bird in the logo, you’re gonna need to know.</description>
-    </item>
-    
-    <item>
-      <title>Is Good Design Replicable?</title>
-      <link>http://konigi.com/blog/good-design-replicable/</link>
-      <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/good-design-replicable/</guid>
-      <description>Joshua Porter&#39;s post about whether good design can be replicated is fabulous. What I like is the idea that there isn&#39;t a solid set of methods that you can reuse in every case and think it might guarantee success or &#34;good design&#34;. There&#39;s an interesting thought in there about process:
-I wonder if the real issue is that most of the time designers simply don’t know if what they’re building is great, and they end up relying on process to get as far as they can.</description>
-    </item>
-    
-    <item>
-      <title>User Centered Design Work Process Toolkit</title>
-      <link>http://konigi.com/blog/user-centered-design-work-process-toolkit/</link>
-      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/user-centered-design-work-process-toolkit/</guid>
-      <description>This is a nice diagram of the user centered design process and an overview of the methods and techniques which might be used. The HCI toolkit is managed by Bas Leurs for Rotterdam University of Applied Sciences.
-http://project.cmd.hro.nl/cmi/hci/toolkit/</description>
-    </item>
-    
-    <item>
-      <title>Doing Sketch Iterations</title>
-      <link>http://konigi.com/blog/doing-sketch-iterations/</link>
-      <pubDate>Mon, 29 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/doing-sketch-iterations/</guid>
-      <description>These are just more illustrations of the process I&amp;rsquo;ve been using for design iterations. When I have the Konigi notebook available, I&amp;rsquo;ll be doing some screencasts to describe this process in detail, and why I felt the need to make these graph paper notebooks and pads.
-What you see above:
-1) Annotated UI Spec (Wireframes) after design review.
-2) Sketches for design and new ideas, on the Konigi Design Notebook.</description>
-    </item>
-    
-    <item>
-      <title>Software Tool Design: Design by Sketching</title>
-      <link>http://konigi.com/blog/software-tool-design-design-sketching/</link>
-      <pubDate>Thu, 18 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/software-tool-design-design-sketching/</guid>
-      <description>The second part of Stephen Chambers&amp;rsquo; series on designing the ANTS Profiler tool, a .NET code profiler, discusses how a team leader challenged a group to really work collaboratively on developing the concept for the tool&amp;rsquo;s interface by taking away computers and requiring that the team work with only paper, whiteboards, pencils, and markers.
-James, the team leader had just read Bill Buxton&amp;rsquo;s Sketching the User Experience and wanted to try to get his engineers to rally around the idea that everyone can participate in this ideation phase, and no one needed any specific skill to propose and sketch ideas.</description>
-    </item>
-    
-    <item>
-      <title>How do you design? Ebook</title>
-      <link>http://konigi.com/blog/how-do-you-design-ebook/</link>
-      <pubDate>Mon, 08 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/how-do-you-design-ebook/</guid>
-      <description>Hugh Dubberly has released a free E Book on design and development models.
-In this book, I have collected over one-hundred descriptions of design and development processes, from architecture, industrial design, mechanical engineering, quality management, and software development. They range from short mnemonic devices, such as the 4Ds (deﬁne, design, develop, deploy), to elaborate schemes, such as Archer’s 9-phase, 229-step “systematic method for designers.” Some are synonyms for the same process; others represent differing approaches to design.</description>
-    </item>
-    
-    <item>
-      <title>What Goes into a Well-Done Critique</title>
-      <link>http://konigi.com/blog/what-goes-well-done-critique/</link>
-      <pubDate>Fri, 10 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/what-goes-well-done-critique/</guid>
-      <description>Jared Spool writes an excellent article describing how to give a good design critique. A well-done critique is a way to step away from the specifics of the design process and better understand how to create great designs. We do this by starting with the current design and asking &#34;What is it we&#39;re really trying to do here?&#34; and &#34;How close are we to doing it?&#34;
- The design crit is one of the most valuable parts of the design process to me.</description>
-    </item>
-    
-    <item>
-      <title>The what, when and why of wireframes</title>
-      <link>http://konigi.com/blog/what-when-and-why-wireframes/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/what-when-and-why-wireframes/</guid>
-      <description>James Kelway&amp;rsquo;s article on wireframes in the User Pathways blog summarizes what the different types are, what their purpose is, who the audience for their use are, and how they are typically implemented. There are several nice illustrations in this article for those that need to explain what they are.
-http://userpathways.com/2008/06/26/the-what-when-and-why-of-wireframes/</description>
-    </item>
-    
-    <item>
-      <title>Bill Buxton Lecture on Sketching and Experience Design at Stanford</title>
-      <link>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</link>
-      <pubDate>Mon, 11 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/bill-buxton-lecture-sketching-and-experience-design-stanford/</guid>
-      <description>Bill Buxton gives a lecture at the Stanford University Human-Computer Interaction Seminar (CS 547, June 1, 2007) giving an excellent deep dive into some of the topics in his book, Sketching User Experiences.
- Designing for experience comes with a whole new level of complexity. This is especially true in this emerging world of information appliances, reactive environments, and ubiquitous computing, where, along with those of their users, we have to factor in the convoluted behaviors of the products themselves.</description>
-    </item>
-    
-    <item>
-      <title>Problem Analysis is Not the Key to Successful Design Process</title>
-      <link>http://konigi.com/blog/problem-analysis-not-key-successful-design-process/</link>
-      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/problem-analysis-not-key-successful-design-process/</guid>
-      <description>Diving deeply into problem analysis or early bottom up activity is not typical activity for experienced and successful designers. A more flexible approach and parallel thought processes and activities are more characteristic. That is the observation of Nigel Cross in an essay he writes in the Design Studies Journal.
-Victor Lombardi sparks a great debate about design process on Noise Between Stations while discussing the differences in approach to process between expert and novice designers, as described by Nigel Cross and Henrik Gedenryd in their independent research on the topic.</description>
-    </item>
-    
-    <item>
-      <title>Think Draw Make</title>
-      <link>http://konigi.com/blog/think-draw-make/</link>
-      <pubDate>Wed, 06 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/think-draw-make/</guid>
-      <description>From the &amp;gt;Think&amp;gt;Draw&amp;gt;Make&amp;gt; about page:
-&amp;ldquo;One of the big objectives of this site is to encourage Designers to participate by designing their own visualizations (in 550 by 450 pixels) to match their interpretation of what they think the design process should be.&amp;rdquo;
-http://www.thinkdrawmake.com/</description>
-    </item>
-    
-    <item>
-      <title>Clover Innovates the Coffee Maker</title>
-      <link>http://konigi.com/blog/clover-innovates-coffee-maker/</link>
-      <pubDate>Sun, 20 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/clover-innovates-coffee-maker/</guid>
-      <description>The $11,000 Clover Coffee Maker brews one cup of coffee at a time using a method similar to a French Press, but with the ability to customize water volume and temperature per cup. The machine is programmable and has a network connection, so the machine can use brewing parameters for specific roasts. Check the video below for the Clover in action.  According to Wired Magazine, Howard Schultz, the founder of Starbucks described the coffee by saying, &#34;</description>
-    </item>
-    
-    <item>
-      <title>Tutorial: Creating a Site in Fireworks</title>
-      <link>http://konigi.com/blog/tutorial-creating-site-fireworks/</link>
-      <pubDate>Mon, 07 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/tutorial-creating-site-fireworks/</guid>
-      <description>Brazilian web designer Fabio Sasso provides a tutorial describing how he creates a site in Fireworks. I&#39;m not a Fireworks user, but this blog entry caught my eye because of how instructive and thoroughly illustrated it is. I&#39;m a loyal Photoshop user and don&#39;t intend to drop dollars for another graphics program, but the examples here make Fireworks look pretty darned nice.
-http://abduzeedo.com/classy-personal-portfolio-fireworks</description>
-    </item>
-    
-    <item>
-      <title>Konigi Graph Paper</title>
-      <link>http://konigi.com/blog/konigi-graph-paper/</link>
-      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/konigi-graph-paper/</guid>
-      <description>I spend a lot of time sketching interface ideas on paper. Typically I sketch wireframes and storyboards on graph paper, then redo the final documents in OmniGraffle. But lately, I&amp;rsquo;ve been using paper for more than just sketching. Now, after spending time sketching ideas and working out design issues, I start to do higher fidelity drawings on paper, scan them, post them to our system. We discuss and iterate, and the process repeats until we&amp;rsquo;re happy, and I spend less time pushing pixels around.</description>
-    </item>
-    
-    <item>
-      <title>Monocle Design Notes</title>
-      <link>http://konigi.com/blog/monocle-design-notes/</link>
-      <pubDate>Thu, 12 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/monocle-design-notes/</guid>
-      <description>Dan Hill provides an incredibly open and detailed description of the decision making process that went into designing and deploying Monocle.com. This is not to be missed. http://www.cityofsound.com/blog/2008/04/monocle-design.html</description>
-    </item>
-    
-    <item>
-      <title>Designing from the Inside Out</title>
-      <link>http://konigi.com/blog/designing-inside-out/</link>
-      <pubDate>Tue, 03 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/designing-inside-out/</guid>
-      <description>Laura Richardson writes in interactions magazine, May/June 2008 (subscription required for full text) about a philosophy of industrial design whose goal is to &amp;ldquo;get to the heart of the matter&amp;#8212;meaningful interactions at the core of great product design.&amp;rdquo; In a sense, I can boil this down to needs. People have needs, explicit and unexpressed, that have to be described in relation to your product. The successful products are those where the flow between need and fulfillment are fluid and natural.</description>
-    </item>
-    
-    <item>
-      <title>Small Design Teams Are Better</title>
-      <link>http://konigi.com/blog/small-design-teams-are-better/</link>
-      <pubDate>Thu, 29 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/small-design-teams-are-better/</guid>
-      <description>Here are 2 recent articles that discuss why small teams are more effective than larger ones.  Great Numbers, Not So Great Design, by Khoi Vinh in Subtraction
-This craft, and whatever pretensions to art it can pull off, rests so much on the efficiency of transferring ideas from the brain to the hand. This means that in its ideal form, it works best when practiced by a single person. The perfect design staff is a single designer who can conceive of and execute an idea from start to finish — a straight shot from the right brain to the wrist — maintaining the same coherent creative vision throughout.</description>
-    </item>
-    
-    <item>
-      <title>Questions for IA/IM vendors</title>
-      <link>http://konigi.com/blog/questions-ia-im-vendors/</link>
-      <pubDate>Tue, 27 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/questions-ia-im-vendors/</guid>
-      <description>Lou Rosenfeld shares the questions one should pose when engaging prospective consulting firms for information architecture and information management project work. This list of questions should be very valuable if you are on the customer end of a client-vendor relationship. It also seems like it would be an interesting list of questions to think about if you&#39;re a consultant and have never been on the customer end. As a consultant, you probably already ask many of these questions of prospective clients as well, as part of your first client interview about a new project.</description>
-    </item>
-    
-    <item>
-      <title>nForm UX Trading Cards</title>
-      <link>http://konigi.com/blog/nform-ux-trading-cards/</link>
-      <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/nform-ux-trading-cards/</guid>
-      <description>nForm&amp;rsquo;s user experience cards describe UX tools, methods, and approaches. These are illustrated descriptions of what the term is and why you would use it. The trading card metaphor just means that they the descriptions are pithy. Leave them on your conference table for customers to skim while you&amp;rsquo;re getting them coffee.
-http://nform.ca/tradingcards/</description>
-    </item>
-    
-    <item>
-      <title>Denning and Yaholkovsky on Real Collaboration</title>
-      <link>http://konigi.com/blog/denning-and-yaholkovsky-real-collaboration/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/denning-and-yaholkovsky-real-collaboration/</guid>
-      <description>Thomas Van Der Wal Personal provides a brief synopsis of &#34;Getting to &#34;we&#34;&#34;, an article in Communications of the ACM (Volume 51, Issue 4 - April 2008). According to Thomas:
-Peter Denning and Peter Yaholkovsky break down the tools needed for various knowledge needs into four categories: 1) Information sharing; 2) Coordination; 3) Cooperation; and Collaboration.
- The article apparently discusses the misunderstanding of the term collaboration, and when it is an appropriate practice.</description>
-    </item>
-    
-    <item>
-      <title>The Fine Art of Wireframes</title>
-      <link>http://konigi.com/blog/fine-art-wireframes/</link>
-      <pubDate>Fri, 04 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/fine-art-wireframes/</guid>
-      <description>On the Geniant blog, T.Scott Stromberg exposes his craft of wireframe sketching. I also spend most of my ideation time sketching. It&#39;s lovely to see other people&#39;s methods for getting ideas down. I love Stromberg&#39;s comments and comic book style.
-This might sound kind of pathetic, but seeing the pens and paper he uses is the kind of thing I really geek out on. I love that he&#39;s pimping out the Behance dot grid pads.</description>
-    </item>
-    
-    <item>
-      <title>Design Eye for South By</title>
-      <link>http://konigi.com/blog/design-eye-south/</link>
-      <pubDate>Mon, 17 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/design-eye-south/</guid>
-      <description>Design Eye strikes again, with a redesign barn raising for SXSW.
-http://designeye.org/sxswi/</description>
-    </item>
-    
-    <item>
-      <title>Apple&#39;s Design process</title>
-      <link>http://konigi.com/blog/apples-design-process/</link>
-      <pubDate>Sun, 16 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/apples-design-process/</guid>
-      <description>Michael Lopp, Senior Engineering Manager at Apple discussed Apple&#39;s design process at a presentation given at SXSW. Business Week summarized the points, excerpted below.  Pixel Perfect Mockups
-This, Lopp admitted, causes a huge amount of work and takes an enormous amount of time. But, he added, “it removes all ambiguity.” That might add time up front, but it removes the need to correct mistakes later on.
-10 to 3 to 1</description>
-    </item>
-    
-    <item>
-      <title>Overcoming Blank Canvas Phobia</title>
-      <link>http://konigi.com/blog/overcoming-blank-canvas-phobia/</link>
-      <pubDate>Sun, 27 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/overcoming-blank-canvas-phobia/</guid>
-      <description>Cameron Moll discusses the issue of staring at a blank canvas in Photoshop, and his approach to overcoming &amp;ldquo;blankcanvasphobia&amp;rdquo; and leaping into the design process.
- Familiarize yourself with how others have solved the same problem you’re solving. Draw from previous work. Sketch it out Begin with a grid Begin in grayscale Start with the &amp;ldquo;core.&amp;rdquo; If nothing sticks, come back later</description>
-    </item>
-    
-    <item>
-      <title>10 Ways To Get Design Approval</title>
-      <link>http://konigi.com/blog/10-ways-get-design-approval/</link>
-      <pubDate>Mon, 10 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/10-ways-get-design-approval/</guid>
-      <description>On 24 Ways, Paul Boag offers suggestions for getting design approval.
-1. Define the role of the client and designer
-2. Understand the business
-3. Understand the users
-4. Avoid multiple concepts
-5. Use mood boards
-6. Say what you like
-7. Wireframe the homepage
-8. Present your designs
-9. Provide written supporting material
-10. Control the feedback
-Read more at 24 Ways...</description>
     </item>
     
   </channel>

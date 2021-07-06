@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Copywriting on Konigi</title>
+    <title>copywriting on Konigi</title>
     <link>http://konigi.com/tags/copywriting/</link>
-    <description>Recent content in Copywriting on Konigi</description>
+    <description>Recent content in copywriting on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/copywriting/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/copywriting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -48,7 +47,7 @@ Zeus Jones has a great write up about using conversational language and cues to 
       <pubDate>Thu, 20 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/automatically-generate-table-contents-using-jquery/</guid>
-      <description>Janko at Warp Speed demonstrates a technique using jQuery to provide a navigable table of contents menu using the headings in your page content. I particularly like the method he&amp;rsquo;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin.</description>
+      <description>Janko at Warp Speed demonstrates a technique using jQuery to provide a navigable table of contents menu using the headings in your page content. I particularly like the method he&#39;s come up with for displaying headings to show the proportion of content for each section relative to the whole. I think you could do some nice styling to display the blocks as small multiples of proportion and scale in the margin.</description>
     </item>
     
     <item>
@@ -57,7 +56,7 @@ Zeus Jones has a great write up about using conversational language and cues to 
       <pubDate>Thu, 16 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/you-should-follow-me-twitter-dustin-curtis-experiments-call-action/</guid>
-      <description>Dustin Curtis did an interesting experiment with a short call to action at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &amp;ldquo;here&amp;rdquo; had a pretty significant impact. As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &amp;ldquo;You&amp;rdquo; identifies the reader directly, &amp;ldquo;should&amp;rdquo; implies an obligation, and &amp;ldquo;follow me on twitter&amp;rdquo; is a direct command.</description>
+      <description>Dustin Curtis did an interesting experiment with a short call to action at the bottom of his pages, asking users to follow him on Twitter. Comparing the results shows that direct, but informally worded calls to action, and (ugh) using a literal call out like the word &#34;here&#34; had a pretty significant impact. As the forcefulness and personal identifiability of the phrase increased, the number of clicks likewise increased. &#34;</description>
     </item>
     
     <item>
@@ -66,7 +65,7 @@ Zeus Jones has a great write up about using conversational language and cues to 
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/content-templates-rescue/</guid>
-      <description>Erin Kissane writes about using content templates &amp;ldquo;&amp;hellip; to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&amp;rdquo; in A List Apart.
+      <description>Erin Kissane writes about using content templates &#34;... to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&#34; in A List Apart.
 The ideal situation is to have a content strategist, perhaps a technical writer, who can provide the guidance for auditing and organizing information, and add some rigor to the writing process. The absence of a content strategist on a project necessitates at least dedicating one person to this task.</description>
     </item>
     
@@ -76,7 +75,7 @@ The ideal situation is to have a content strategist, perhaps a technical writer,
       <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/writing-microcopy/</guid>
-      <description>Joshua Porter writes about the use of microcopy to create confidence and alleviate concerns in customers about the actions they take on your site. Ironically, the smallest bits of copy, microcopy, can have the biggest impact. &amp;hellip; Microcopy is small yet powerful copy. It’s fast, light, and deadly. It’s a short sentence, a phrase, a few words. A single word. It’s the small copy that has the biggest impact. Don’t judge it on its size…judge it on its effectiveness.</description>
+      <description>Joshua Porter writes about the use of microcopy to create confidence and alleviate concerns in customers about the actions they take on your site. Ironically, the smallest bits of copy, microcopy, can have the biggest impact. ... Microcopy is small yet powerful copy. It’s fast, light, and deadly. It’s a short sentence, a phrase, a few words. A single word. It’s the small copy that has the biggest impact. Don’t judge it on its size…judge it on its effectiveness.</description>
     </item>
     
     <item>

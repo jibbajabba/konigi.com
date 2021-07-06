@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Community on Konigi</title>
+    <title>community on Konigi</title>
     <link>http://konigi.com/tags/community/</link>
-    <description>Recent content in Community on Konigi</description>
+    <description>Recent content in community on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/community/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/community/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ Kaufman got his start as an inventor in high school when he made a lanyard to ho
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usabilla-discover/</guid>
-      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&amp;rsquo;s a social LittleSnapper. Whatever the pitch, it&amp;rsquo;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
+      <description>Usabilla Discover is like a mashup of Pinterest and LittleBigDetails, or maybe it&#39;s a social LittleSnapper. Whatever the pitch, it&#39;s pretty useful to share screenshots of interface and visual designs you like. Now to figure out how to get my over 2,000 screenshots into it.
 Note: To get in during the beta, sign up here with code &amp;quot;KONIGI&amp;quot;, good for the first 200 who use the code.
 http://discover.usabilla.com/</description>
     </item>
@@ -38,7 +37,7 @@ http://discover.usabilla.com/</description>
       <pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/you-can-now-post-mockups-uxstackexchangecom/</guid>
-      <description>I&amp;rsquo;m pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange. You can now post Mockups wireframes with questions and answers to UX.StackExchange.com using the free integrated Mockups editor. I&amp;rsquo;m really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I&amp;rsquo;ve wanted to use for a long time&amp;ndash;a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals.</description>
+      <description>I&#39;m pretty excited about the announcement we at Balsamiq were able to make jointly with the group at StackExchange today. The two groups have been working together to integrate Mockups into the UX StackExchange. You can now post Mockups wireframes with questions and answers to UX.StackExchange.com using the free integrated Mockups editor. I&#39;m really excited about this. One of the conversations Peldi and I had before I joined Balsamiq was about creating something I&#39;ve wanted to use for a long time--a site where you could upload wireframes to vet ideas, get feedback, and test concepts with other peer professionals.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ http://discover.usabilla.com/</description>
       <pubDate>Tue, 05 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/visualizingorg/</guid>
-      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking&amp;ndash;making sense of complex issues through data and design. An excerpt from their about page describes the site:
+      <description>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:
 It&#39;s a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues. Visualizing is also a free resource to search for data.</description>
     </item>
     
@@ -154,338 +153,6 @@ http://yayeveryday.com/</description>
       
       <guid>http://konigi.com/designs/submissions/tweetizen/</guid>
       <description>Tweetizen is a simple web-based tool designed to help you filter the daily influx of tweets, and easily embed twitter groups to your own website. http://www.tweetizen.com/</description>
-    </item>
-    
-    <item>
-      <title>thesixytone</title>
-      <link>http://konigi.com/designs/submissions/thesixytone/</link>
-      <pubDate>Tue, 10 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/thesixytone/</guid>
-      <description>Hard to believe that independent music sites continue to find ways to create social experiences around listening to music in the wake of huge, established communities like last.fm scrobbling and one to one experiences like muxtape playlist sharing. thesixtyone brings band and listener contribution together by letting musicians upload music, while listeners surface the tracks that deserve attention. It&amp;rsquo;s a nice minimal design that focuses on the experience of playing the new and popular music people are listening to and favoriting.</description>
-    </item>
-    
-    <item>
-      <title>undrln</title>
-      <link>http://konigi.com/blog/undrln/</link>
-      <pubDate>Wed, 17 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/undrln/</guid>
-      <description>underln is a really simple vote to promote site by smashLAB to scoop any topic or site related to the fields of advertising, marketing, and design. Only 2 inputs: title and URL, and only Title is required.
-http://www.undrln.com/</description>
-    </item>
-    
-    <item>
-      <title>UX Book Club</title>
-      <link>http://konigi.com/blog/ux-book-club/</link>
-      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ux-book-club/</guid>
-      <description>A UX (User Experience) Book Club is a get-together in which people interested in the area of user experience come to discuss a book relevant to the discipline. http://uxbookclub.org/doku.php</description>
-    </item>
-    
-    <item>
-      <title>Email Standards Project</title>
-      <link>http://konigi.com/blog/email-standards-project/</link>
-      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/email-standards-project/</guid>
-      <description>The Email Standards Project is a community effort to ensure that emails render consistently. Similar to the Web Standards Project, the Email Standards Project community works with email client developers and the design community to improve web standards support and accessibility in email.
-http://www.email-standards.org/</description>
-    </item>
-    
-    <item>
-      <title>Product Planner - View and Create User Flows, Viral Loops, and More.</title>
-      <link>http://konigi.com/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</link>
-      <pubDate>Fri, 07 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/product-planner-view-and-create-user-flows-viral-loops-and-more/</guid>
-      <description>Product Planner is one an brilliant idea. Deconstruct the user flow of web sites, illustrate the flow with annotated screenshot flowcharts, allow users to copy the flow and reuse on the site. Like Konigi, this does a great job of capturing examples of alternative approaches to interaction, showcases them for you to compare, and allows you to select the best examples to learn from and inform you of approaches you may not have thought of.</description>
-    </item>
-    
-    <item>
-      <title>Sumopaint.com beta - Image Editing in the Browser</title>
-      <link>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</link>
-      <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/sumopaintcom-beta-image-editing-browser/</guid>
-      <description>Sumopaint, by Snap Group Ltd is looking to be a really slick Flash-based online graphics creation and editing tool. It has a very complete list of functionalities with shapes, brushes, layers, text editing, filters, and many of the features you&amp;rsquo;d expect from Photoshop or (ack) GIMP. Users can share images for community editing, create and view versions, and add comments. This looks like it might turn out to be an excellent resource for those looking at doing things like shared whiteboarding and prototyping without the real-time editing.</description>
-    </item>
-    
-    <item>
-      <title>CollabFinder</title>
-      <link>http://konigi.com/blog/collabfinder/</link>
-      <pubDate>Thu, 09 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/collabfinder/</guid>
-      <description>CollabFinder is a new community to find and communicate with other designers and developers with the goal of collaborating on future projects. Great and simple idea that could turn out to be a very useful connector. http://collabfinder.com/</description>
-    </item>
-    
-    <item>
-      <title>IDEO</title>
-      <link>http://konigi.com/designs/ideo/</link>
-      <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/ideo/</guid>
-      <description>The redesigned IDEO site has been sitting in a browser tab for a few weeks now because it just felt like one of those things I needed to mull over before writing about. It&amp;rsquo;s one of the few sites this year that just took me by surprise. In short, the deep treasure trove of content unleashed in this redesign is a huge departure from the tightly constrained and minimalist prior design.</description>
-    </item>
-    
-    <item>
-      <title>TypoWiki</title>
-      <link>http://konigi.com/blog/typowiki/</link>
-      <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/typowiki/</guid>
-      <description>I noticed the TypoWiki on TypoPhile for the first time. The wiki is &amp;ldquo;a user-created encyclopedia of all things type and design-related. Users create and edit Wiki entries with the aim of becoming a collaborative, useful, balanced and relevant resource.&amp;rdquo;
-This is a very simple wiki created on top of Drupal. They&amp;rsquo;ve done a nice job of creating a core set of wiki pages (&amp;ldquo;indices&amp;rdquo;, as they call them) linked off the front so you can edit those pages and create forward links to new resources.</description>
-    </item>
-    
-    <item>
-      <title>The Filter</title>
-      <link>http://konigi.com/designs/filter/</link>
-      <pubDate>Fri, 20 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/filter/</guid>
-      <description>The Filter is an portal that aggregates music, TV, and video content. The project was started by Peter Gabriel and is looking to get amass a community of users who are willing to rate content so they can provide recommendations back to the community.
-The site is looking to be a comprehensive consumer experience for all media, and essentially is pulling content from various sources and providing a single interface for adding recommendations and usage metadata to that content within the confines of this community.</description>
-    </item>
-    
-    <item>
-      <title>Anorak Magazine</title>
-      <link>http://konigi.com/designs/submissions/anorak-magazine/</link>
-      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/anorak-magazine/</guid>
-      <description>http://www.anorak-magazine.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Wunderbloc</title>
-      <link>http://konigi.com/designs/submissions/wunderbloc/</link>
-      <pubDate>Mon, 19 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/wunderbloc/</guid>
-      <description>http://www.wunderbloc.com/</description>
-    </item>
-    
-    <item>
-      <title>Favrd</title>
-      <link>http://konigi.com/blog/favrd/</link>
-      <pubDate>Fri, 16 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/favrd/</guid>
-      <description>Favrd is a web app that lists interesting things that show up on Twitter, based on the number of times an item has been declared a &amp;lsquo;favorite. Here&amp;rsquo;s the raison d&amp;rsquo;etre:
-It works on three principles: first, that anyone who wants to can have their vote counted; second, that things people find interesting are more important than people who find things interesting; and third, that by any means necessary, web-strategy, social-media, online-marketing webcocks – unaware as they are of how toxic their presence is in the arenas they cannot shut up about – must and shall be filtered out of view.</description>
-    </item>
-    
-    <item>
-      <title>Twitter Hashtags</title>
-      <link>http://konigi.com/blog/twitter-hashtags/</link>
-      <pubDate>Mon, 12 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/twitter-hashtags/</guid>
-      <description>I&amp;rsquo;m just coming across the idea of hashtags for creating groupings on Twitter after seeing them in factoryjoe&amp;rsquo;s tweets and following a link from merylkevans to the page Twitter Fan Wiki on hashtags. This is a great example of how new uses of an application emerge can be defined by users.
-Hashtags are a community-driven convention for adding additional context and metadata to your tweets. They&amp;rsquo;re like tags on Flickr, only added inline to your post.</description>
-    </item>
-    
-    <item>
-      <title>Cartoon Network to release casual multiplayer game</title>
-      <link>http://konigi.com/blog/cartoon-network-release-casual-multiplayer-game/</link>
-      <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/cartoon-network-release-casual-multiplayer-game/</guid>
-      <description>Cartoon Network are building a new online gaming community that hopes to challenge the model of the Massively Multiplayer Online Game (MMOG) with FusionFall, a game that leverages a community of players, but doesn&#39;t require the long term buildup of skillsets and earned resources. We&#39;re not building a game for hardcore gamers who will spend 60-plus hours a week here. If you think of those as hour-long dramas on TV, we want to be the half-hour sitcom.</description>
-    </item>
-    
-    <item>
-      <title>Users around the world translate Facebook for free</title>
-      <link>http://konigi.com/blog/users-around-world-translate-facebook-free/</link>
-      <pubDate>Sat, 19 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/users-around-world-translate-facebook-free/</guid>
-      <description>Facebook is tapping its international user community to help translate it&#39;s interface, namely the copy for its guidelines, into nearly the 2 dozen languages that represent the community&#39;s market outside the US. The localization effort is a massive crowdsourcing task that has been both criticized and lauded. The critics often point to the unpredictability and inconsistency of translations. Proponents of the effort applaud the boldness at utilizing an already eager community to contribute to making the application better for users in other non English-speaking countries.</description>
-    </item>
-    
-    <item>
-      <title>Flickr Video!</title>
-      <link>http://konigi.com/blog/flickr-video/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/flickr-video/</guid>
-      <description>Flickr have announced that they are now letting Pro account users post video up to 90 seconds to their accounts. An invitation only group called Video! Video! Video! was created to showcase some of this new content. I&amp;rsquo;d love to post small videos to my Flickr account. I&amp;rsquo;ve always loved that my digital cameras limit me to capturing only the short moments. In a way, it reminds me of haiku, in that is forced to create poetry within the constraints and rules of the format.</description>
-    </item>
-    
-    <item>
-      <title>FontStruct: User Generated Fonts</title>
-      <link>http://konigi.com/blog/fontstruct-user-generated-fonts/</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/fontstruct-user-generated-fonts/</guid>
-      <description>Font retailer, FontShop are launching FontStruct a free font-building tool that lets users create fonts via an online font editor using geometrical shapes, which are arranged in a grid pattern, like tiles or bricks. TrueType fonts are generated for use on Mac or PC. Users can keep fonts to themselves or share them with the community. All fonts are free to download. http://fontstruct.fontshop.com/</description>
-    </item>
-    
-    <item>
-      <title>We Tell Stories</title>
-      <link>http://konigi.com/designs/submissions/we-tell-stories/</link>
-      <pubDate>Thu, 03 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/we-tell-stories/</guid>
-      <description>http://www.wetellstories.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Restaurantica</title>
-      <link>http://konigi.com/designs/submissions/restaurantica/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/restaurantica/</guid>
-      <description>http://www.restaurantica.com/</description>
-    </item>
-    
-    <item>
-      <title>We heart it</title>
-      <link>http://konigi.com/designs/submissions/we-heart-it/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/we-heart-it/</guid>
-      <description>http://weheartit.com/</description>
-    </item>
-    
-    <item>
-      <title>bookmark&amp;acirc;��d</title>
-      <link>http://konigi.com/designs/submissions/bookmark-d/</link>
-      <pubDate>Tue, 25 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/bookmark-d/</guid>
-      <description>http://bookmarkd.net/</description>
-    </item>
-    
-    <item>
-      <title>Aperture Foundation</title>
-      <link>http://konigi.com/designs/submissions/aperture-foundation/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/aperture-foundation/</guid>
-      <description>http://www.aperture.org/store/default.aspx</description>
-    </item>
-    
-    <item>
-      <title>Complex Magazine</title>
-      <link>http://konigi.com/designs/submissions/complex-magazine/</link>
-      <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/complex-magazine/</guid>
-      <description>http://www.complex.com/</description>
-    </item>
-    
-    <item>
-      <title>I HEART LUXE</title>
-      <link>http://konigi.com/designs/submissions/i-heart-luxe/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/i-heart-luxe/</guid>
-      <description>http://www.iheartluxe.com/</description>
-    </item>
-    
-    <item>
-      <title>San Francisco online</title>
-      <link>http://konigi.com/designs/submissions/san-francisco-online/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/san-francisco-online/</guid>
-      <description>http://www.sanfranmag.com/</description>
-    </item>
-    
-    <item>
-      <title>Designer Pages</title>
-      <link>http://konigi.com/designs/submissions/designer-pages/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/designer-pages/</guid>
-      <description>http://www.designerpages.com</description>
-    </item>
-    
-    <item>
-      <title>Tasty Planner</title>
-      <link>http://konigi.com/designs/submissions/tasty-planner/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/tasty-planner/</guid>
-      <description>http://tastyplanner.com/</description>
-    </item>
-    
-    <item>
-      <title>discountbox</title>
-      <link>http://konigi.com/designs/submissions/discountbox/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/discountbox/</guid>
-      <description>http://thediscountbox.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Ecolect</title>
-      <link>http://konigi.com/designs/submissions/ecolect/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/ecolect/</guid>
-      <description>http://www.ecolect.net</description>
-    </item>
-    
-    <item>
-      <title>3by9</title>
-      <link>http://konigi.com/designs/submissions/3by9/</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/3by9/</guid>
-      <description>http://3by9.com/</description>
-    </item>
-    
-    <item>
-      <title>ProCreative Wenatchee</title>
-      <link>http://konigi.com/designs/submissions/procreative-wenatchee/</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/procreative-wenatchee/</guid>
-      <description>http://www.weareprocreative.org/</description>
-    </item>
-    
-    <item>
-      <title>Crowdsourcing The Library of Congress</title>
-      <link>http://konigi.com/blog/crowdsourcing-library-congress/</link>
-      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/crowdsourcing-library-congress/</guid>
-      <description>The Library of Congress has maded 2 of its collections of historical photographs available on Flickr. The goal is to get users to tag and comment on the photos, as well as help provide identifying information. It&#39;s very interesting to see such a large and old institution embracing open social collaboration like this. When I was in school, the idea of user supplied freetagging was pretty seen as an edge-case activity even for things like private databases.</description>
-    </item>
-    
-    <item>
-      <title>Nike&#43; Running</title>
-      <link>http://konigi.com/designs/nike-running/</link>
-      <pubDate>Sun, 25 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/nike-running/</guid>
-      <description>Nike&amp;rsquo;s site for the Nike+ running gear and community follows the glossy cinematic look of the 2007 sites, which feature lots of motion graphics and video, rich photography, and community features around the Nike+ shoes and iPod kit.
-http://nikeplus.nike.com</description>
-    </item>
-    
-    <item>
-      <title>QBN</title>
-      <link>http://konigi.com/designs/qbn/</link>
-      <pubDate>Wed, 21 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/qbn/</guid>
-      <description>QBN (aka News Today) sports a superb, clean design with a bolder front page. There&amp;rsquo;s minimal use of JavaScript here, but where you see it, it&amp;rsquo;s simple and useful as in the collapsing/expanding left sidebar divs. Be sure to check out the filter page. Easy to sticking around here a while. I miss the &amp;ldquo;News Today&amp;rdquo; welcome sound though&amp;ndash;the only startup sound I&amp;rsquo;ve ever liked on a home page.</description>
-    </item>
-    
-    <item>
-      <title>30 Elm</title>
-      <link>http://konigi.com/designs/30-elm/</link>
-      <pubDate>Sun, 28 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/30-elm/</guid>
-      <description>Community for showcasing home design, remodeling, and renovation work. Task-oriented navigation, clean lines, nice use of red as an accent color, and the general airiness of the design. I would have liked the layout to be centered in the page.
-http://30elm.com</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Customers on Konigi</title>
+    <title>customers on Konigi</title>
     <link>http://konigi.com/tags/customers/</link>
-    <description>Recent content in Customers on Konigi</description>
+    <description>Recent content in customers on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/customers/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/customers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +17,7 @@
       
       <guid>http://konigi.com/blog/kathy-sierra-creating-awesome-users/</guid>
       <description>The model for sustaining customer loyalty is reverse engineering user awesomeness.
-Peldi pointed me to a video of Kathy Sierra&amp;rsquo;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&amp;rsquo;s about user benefits, and not features&amp;ndash;about how they feel about themselves in the context of what you provide them.</description>
+Peldi pointed me to a video of Kathy Sierra&#39;s presentation at Business of Software 09, where she talks about sustaining passionate and loyal customers. Positioning and generating sustainable relationships is not what you think it should be about. It&#39;s about user benefits, and not features--about how they feel about themselves in the context of what you provide them.</description>
     </item>
     
   </channel>

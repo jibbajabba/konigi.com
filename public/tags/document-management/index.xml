@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Document Management on Konigi</title>
+    <title>document management on Konigi</title>
     <link>http://konigi.com/tags/document-management/</link>
-    <description>Recent content in Document Management on Konigi</description>
+    <description>Recent content in document management on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/document-management/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/document-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 02 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/mac-tip-mounting-server-automatically/</guid>
-      <description>One of the things I&amp;rsquo;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&amp;rsquo;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&amp;rsquo;s one of the projects I&amp;rsquo;m working on a preview release of to make the web-based interface a bit more friendly.</description>
+      <description>One of the things I&#39;ve always found a chore, being a producer of graphic documents, is versioning and organizing the docs for a team. I&#39;ve had to use different tools like Source Safe, Sharepoint, Basecamp, and just shared drives to this. One nice thing I like about working with our Traction server is that it does Webdav for document management and file versioning. That&#39;s one of the projects I&#39;m working on a preview release of to make the web-based interface a bit more friendly.</description>
     </item>
     
   </channel>

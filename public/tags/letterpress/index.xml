@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Letterpress on Konigi</title>
+    <title>letterpress on Konigi</title>
     <link>http://konigi.com/tags/letterpress/</link>
-    <description>Recent content in Letterpress on Konigi</description>
+    <description>Recent content in letterpress on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/letterpress/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/letterpress/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/colosseo-letterpress-poster-site/</guid>
-      <description>Cameron Moll&amp;rsquo;s gorgeous Colosseo poster reimagines the Roman Colloseum with type, and the elegant product site beautiful tells its story.
+      <description>Cameron Moll&#39;s gorgeous Colosseo poster reimagines the Roman Colloseum with type, and the elegant product site beautiful tells its story.
 http://colosseotype.com/</description>
     </item>
     

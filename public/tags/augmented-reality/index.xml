@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Augmented Reality on Konigi</title>
+    <title>augmented reality on Konigi</title>
     <link>http://konigi.com/tags/augmented-reality/</link>
-    <description>Recent content in Augmented Reality on Konigi</description>
+    <description>Recent content in augmented reality on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Dec 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/word-lens-translation-using-augmented-reality/</guid>
-      <description>This is one of the most practical uses of augmented reality I&amp;rsquo;ve seen. Word Lens translates text you capture from an iPhone&amp;rsquo;s camera to another language. I think it&amp;rsquo;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&amp;rsquo;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
+      <description>This is one of the most practical uses of augmented reality I&#39;ve seen. Word Lens translates text you capture from an iPhone&#39;s camera to another language. I think it&#39;s only Spanish-English/English-Spanish at the moment, and $4.99 per language. If you&#39;re skeptical, as some YouTubers seem to be in the comments, you can see an example of the translation I did on my phone of an English magazine page to Spanish.</description>
     </item>
     
     <item>
@@ -37,8 +36,8 @@ http://www.augmentedrealityblog.eu/2010/04/02/ceo-yelp-is-amazed-by-results-of-m
       
       <guid>http://konigi.com/blog/bing-maps/</guid>
       <description>Microsoft has been doing some interesting work with Bing Maps. The augmented reality demos at the TED conference this week generated some buzz. The photo and video overlays were cool.
-&amp;ldquo;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&amp;rdquo; says Bing Maps&amp;rsquo; Blaise Aguera y Arcas. &amp;ldquo;Maps, directions are really just one of them.&amp;rdquo;
-http://www.youtube.com/watch?v=tQzimblL3g8</description>
+&#34;We see this space, three-dimensional environment as being a canvas on which all sorts of applications can play out,&#34; says Bing Maps&#39; Blaise Aguera y Arcas. &#34;Maps, directions are really just one of them.&#34;
+https://www.youtube.com/watch?v=tQzimblL3g8</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Architecture on Konigi</title>
+    <title>architecture on Konigi</title>
     <link>http://konigi.com/tags/architecture/</link>
-    <description>Recent content in Architecture on Konigi</description>
+    <description>Recent content in architecture on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/jeremy-levine-design/</guid>
-      <description>The portfolio site of the Jeremy Levine Design does an excellent job highlighting the work of an architecture studio with interests in both the natural and digital environment. The site unfolds, spins, explodes, and collapses on itself to immerse the user in the projects, exploring each environment from multiple facets. The studio worked with Section Seven to realize a site that borrows some of the techniques used in that studio&amp;rsquo;s own portfolio, but contextualizes the experience for exploring 3 dimensional architectural spaces.</description>
+      <description>The portfolio site of the Jeremy Levine Design does an excellent job highlighting the work of an architecture studio with interests in both the natural and digital environment. The site unfolds, spins, explodes, and collapses on itself to immerse the user in the projects, exploring each environment from multiple facets. The studio worked with Section Seven to realize a site that borrows some of the techniques used in that studio&#39;s own portfolio, but contextualizes the experience for exploring 3 dimensional architectural spaces.</description>
     </item>
     
     <item>

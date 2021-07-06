@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Training Courses on Konigi</title>
+    <title>training courses on Konigi</title>
     <link>http://konigi.com/tags/training-courses/</link>
-    <description>Recent content in Training Courses on Konigi</description>
+    <description>Recent content in training courses on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Apr 2018 16:16:30 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/training-courses/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/training-courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 06 Apr 2018 16:16:30 -0700</pubDate>
       
       <guid>http://konigi.com/links/graphic-design-basics/</guid>
-      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics&amp;nbsp; and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
+      <description>Designers Ellen Lupton and Jennifer Cole Phillips, authors of the book Graphic Design, The New Basics and Directors of the MFA Program at Maryland Institute College of Art offer a free 35 minute Skillshare course walking through 5 basic principles of graphic design. The course is a quick primer on design principles suited to various visual design projects.</description>
     </item>
     
   </channel>

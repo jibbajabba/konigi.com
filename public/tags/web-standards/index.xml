@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Standards on Konigi</title>
+    <title>web standards on Konigi</title>
     <link>http://konigi.com/tags/web-standards/</link>
-    <description>Recent content in Web Standards on Konigi</description>
+    <description>Recent content in web standards on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Nov 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/web-standards/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/web-standards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 30 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/fourth-annual-blue-beanie-day/</guid>
-      <description>It&amp;rsquo;s 11&amp;frasl;30, Blue Beanie day. It’s easy to show your support for web design done right. Beg, borrow, or buy a Blue Beanie and snap a photo of your mug wearing the blue. (Or get creative with Photoshop). Then on November 30, switch your profile picture in Facebook, Twitter, Flickr, (and any other social network) and post your photo to the Blue Beanie Day group.
+      <description>It&#39;s 11/30, Blue Beanie day. It’s easy to show your support for web design done right. Beg, borrow, or buy a Blue Beanie and snap a photo of your mug wearing the blue. (Or get creative with Photoshop). Then on November 30, switch your profile picture in Facebook, Twitter, Flickr, (and any other social network) and post your photo to the Blue Beanie Day group.
 Twitter - http://twitter.com/BlueBeanieDay or search #bbd4</description>
     </item>
     

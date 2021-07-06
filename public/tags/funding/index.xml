@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Funding on Konigi</title>
+    <title>funding on Konigi</title>
     <link>http://konigi.com/tags/funding/</link>
-    <description>Recent content in Funding on Konigi</description>
+    <description>Recent content in funding on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/funding/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/funding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 29 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/kickstarter-fund-your-creative-project/</guid>
-      <description>Kickstarter is a brilliant idea for creatives needing funding for projects. It&amp;rsquo;s a funding platform for artists, designers, filmmakers, musicians, journalists, inventors, bloggers, etc. It works much like fundraising sites you may have used if you&amp;rsquo;ve ever had to raise money for events for non profit organizations. A few years ago I used a similar one for Team In Training.
+      <description>Kickstarter is a brilliant idea for creatives needing funding for projects. It&#39;s a funding platform for artists, designers, filmmakers, musicians, journalists, inventors, bloggers, etc. It works much like fundraising sites you may have used if you&#39;ve ever had to raise money for events for non profit organizations. A few years ago I used a similar one for Team In Training.
 You set up a page stating your mission and the need for funding.</description>
     </item>
     

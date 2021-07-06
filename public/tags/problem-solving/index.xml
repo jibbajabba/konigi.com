@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Problem Solving on Konigi</title>
+    <title>problem solving on Konigi</title>
     <link>http://konigi.com/tags/problem-solving/</link>
-    <description>Recent content in Problem Solving on Konigi</description>
+    <description>Recent content in problem solving on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jun 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/problem-solving/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,7 +27,7 @@ He explained that I should start working on a project as soon as it was assigned
       
       <guid>http://konigi.com/blog/shades-grey-wireframes-thinking-device/</guid>
       <description>Will Evans writes for UX Mag about his process for creating wireframes, or more precisely how he uses wireframes for ideation and problem solving. Will breaks his design process into three phases: divergence, transformation, and convergence.
-This seems similar to a common theme I come across when designers talk about their process&amp;ndash;framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing Stuart Pugh&amp;rsquo;s idea by illustrating the expanding/contracting nature of a designer&amp;rsquo;s concept selection, which I find easy to map to sketching-&amp;gt;wireframing as well.</description>
+This seems similar to a common theme I come across when designers talk about their process--framing/ideating, reframing/ideating, selection/refining. Buxton also refers to this, citing Stuart Pugh&#39;s idea by illustrating the expanding/contracting nature of a designer&#39;s concept selection, which I find easy to map to sketching-wireframing as well.</description>
     </item>
     
   </channel>

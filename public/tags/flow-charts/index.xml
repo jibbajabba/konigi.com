@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flow Charts on Konigi</title>
+    <title>flow charts on Konigi</title>
     <link>http://konigi.com/tags/flow-charts/</link>
-    <description>Recent content in Flow Charts on Konigi</description>
+    <description>Recent content in flow charts on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Feb 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/flow-charts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/flow-charts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 26 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/lovely-charts-online-diagramming-application/</guid>
-      <description>This is a review of Lovely Charts, a free online diagramming tool that provides wire frame, flow chart, and site map stencils. I like the unique, simple method they provide for quickly creating flow charts and site maps. In this screencast I show how to do a few simple flow diagrams and a wireframe, as well as discussing the features that I&amp;rsquo;d like to see for creating prototypes from this tool.</description>
+      <description>This is a review of Lovely Charts, a free online diagramming tool that provides wire frame, flow chart, and site map stencils. I like the unique, simple method they provide for quickly creating flow charts and site maps. In this screencast I show how to do a few simple flow diagrams and a wireframe, as well as discussing the features that I&#39;d like to see for creating prototypes from this tool.</description>
     </item>
     
     <item>

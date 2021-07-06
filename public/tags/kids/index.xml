@@ -1,15 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kids on Konigi</title>
+    <title>kids on Konigi</title>
     <link>http://konigi.com/tags/kids/</link>
-    <description>Recent content in Kids on Konigi</description>
+    <description>Recent content in kids on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2020 13:27:16 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/kids/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KidStuff!</title>
+      <link>http://konigi.com/blog/kidstuff/</link>
+      <pubDate>Wed, 25 Mar 2020 13:27:16 -0700</pubDate>
+      
+      <guid>http://konigi.com/blog/kidstuff/</guid>
+      <description>Learning resources for elementary school kids</description>
+    </item>
     
     <item>
       <title>Wario Land: Shake It!</title>
@@ -26,7 +34,7 @@
       <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/sesame-street/</guid>
-      <description>The Sesame Workshop and PBS produce excellent Flash sites for kids. Among my favorites are the Sesame Street and Arthur sites. The recent redesign of the Sesame Street site adds new navigation options, a more YouTube-like video section, and most notably, user profiles. The best of the new features is the ability to add favorites to &amp;ldquo;Your Street,&amp;rdquo; a user profile page that uses your favorites to display a start page.</description>
+      <description>The Sesame Workshop and PBS produce excellent Flash sites for kids. Among my favorites are the Sesame Street and Arthur sites. The recent redesign of the Sesame Street site adds new navigation options, a more YouTube-like video section, and most notably, user profiles. The best of the new features is the ability to add favorites to &#34;Your Street,&#34; a user profile page that uses your favorites to display a start page.</description>
     </item>
     
     <item>

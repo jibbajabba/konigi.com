@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Identity on Konigi</title>
+    <title>identity on Konigi</title>
     <link>http://konigi.com/tags/identity/</link>
-    <description>Recent content in Identity on Konigi</description>
+    <description>Recent content in identity on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/identity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +17,7 @@
       
       <guid>http://konigi.com/blog/mtvs-brand-new-look/</guid>
       <description>MTV International / Mad Drummer from Universal Everything on Vimeo.
- Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&amp;rsquo;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&amp;rsquo;s recent rebranding in the Tristan Eaton designed character videos.
+ Awesome motion graphics by Universal Everything for MTV. Creative Review reviews the new work on MTV&#39;s new look, which is a forward-looking transformation that reminds me feel that reminds me of Cartoon Network&#39;s recent rebranding in the Tristan Eaton designed character videos.
 http://creativereview.co.uk/cr-blog/2009/june/mtvs-brand-new-look</description>
     </item>
     

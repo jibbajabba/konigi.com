@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Browser Testing on Konigi</title>
+    <title>browser testing on Konigi</title>
     <link>http://konigi.com/tags/browser-testing/</link>
-    <description>Recent content in Browser Testing on Konigi</description>
+    <description>Recent content in browser testing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/browser-testing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/browser-testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</guid>
-      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.
-https://remote.modern.ie/</description>
+      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.</description>
     </item>
     
     <item>
@@ -88,7 +86,7 @@ http://responsive.is/</description>
       <pubDate>Mon, 24 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/saucelabs-cloud-based-cross-browser-testing/</guid>
-      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&amp;rsquo;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
+      <description>Sauce Labs provides browser testing services for front end development and quality assurance. Their Scout service lets you test your public or private web app in any browser via a VM that&#39;s run in the cloud. Enter a URL to test, select an OS and browser, and a virtual machine runs in the web page so you can test in that configuration on demand. Scout can record and save screenshots and video of every session, and they can can be shared, embedded etc.</description>
     </item>
     
     <item>

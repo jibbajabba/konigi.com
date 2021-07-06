@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Interaction on Konigi</title>
+    <title>interaction on Konigi</title>
     <link>http://konigi.com/tags/interaction/</link>
-    <description>Recent content in Interaction on Konigi</description>
+    <description>Recent content in interaction on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/interaction/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/interaction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 29 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/new-multi-touch-interactions-apple-ipad/</guid>
-      <description>Craig Villamor and Luke Wroblewski summarize the new interactions we&amp;rsquo;ll be seeing in the iPad.
+      <description>Craig Villamor and Luke Wroblewski summarize the new interactions we&#39;ll be seeing in the iPad.
 During Apple&#39;s 90 minute unveiling of the iPad this week, a lot of new multi-touch interactions were shown off. But they went by fast. So as a service to digital product designers everywhere, we took the time to extract 8 minutes of new user interface demos from the iPad keynote. Now you can quickly just catch the UI in action on Apple&#39;s new native iPad and iWork applications.</description>
     </item>
     

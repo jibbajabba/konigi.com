@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omnigraffle on Konigi</title>
+    <title>omnigraffle on Konigi</title>
     <link>http://konigi.com/tags/omnigraffle/</link>
-    <description>Recent content in Omnigraffle on Konigi</description>
+    <description>Recent content in omnigraffle on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Feb 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/omnigraffle/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/omnigraffle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -38,7 +37,7 @@ http://www.cxpartners.co.uk/cxinsights/form_design_guidelines_crib_sheet_free.ht
       <pubDate>Tue, 27 Sep 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/10-omnigraffle-tips-you-might-not-know/</guid>
-      <description>All the OmniGraffle users out there will want to check out Todd Moy&amp;rsquo;s list of tips and tricks that all OG power users need to know. The character replacement one in particular will save you time. Although I tend to just clone an entire object&amp;rsquo;s style the style brush with W and OPT+W, you should definitely learn about cloning discrete styles with chicklets. You&amp;rsquo;ll wonder you never did.
+      <description>All the OmniGraffle users out there will want to check out Todd Moy&#39;s list of tips and tricks that all OG power users need to know. The character replacement one in particular will save you time. Although I tend to just clone an entire object&#39;s style the style brush with W and OPT+W, you should definitely learn about cloning discrete styles with chicklets. You&#39;ll wonder you never did.
 Check them all out on Viget Advance and level up your OG skills.</description>
     </item>
     
@@ -48,7 +47,7 @@ Check them all out on Viget Advance and level up your OG skills.</description>
       <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</guid>
-      <description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn&amp;rsquo;t been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
+      <description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn&#39;t been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
 Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared layers to modify the headers and other templates.</description>
     </item>
     
@@ -58,7 +57,7 @@ Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared laye
       <pubDate>Wed, 18 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/omnigraffle-sitemap-generator-sitemap-xml/</guid>
-      <description>Wireframes Mag pointed to an XML to OmniGraffle Sitmap Generator created by Jason Kunesh at Fuzzy Math to generate a sitemap from an XML file. The script assumes that your XML file consists of url elements, and that parent child relationships are defined by the paths in the url. For instance, http://konigi.com/about-site/unicorns would be a child of http://konigi.com/about-site. Once you generate a list of your urls and pass it to the script, OmniGraffle generates the sitemap hierarchy for you.</description>
+      <description>Wireframes Mag pointed to an XML to OmniGraffle Sitmap Generator created by Jason Kunesh at Fuzzy Math to generate a sitemap from an XML file. The script assumes that your XML file consists of url elements, and that parent child relationships are defined by the paths in the url. For instance, //konigi.com/about-site/unicorns would be a child of //konigi.com/about-site. Once you generate a list of your urls and pass it to the script, OmniGraffle generates the sitemap hierarchy for you.</description>
     </item>
     
     <item>
@@ -76,7 +75,7 @@ Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared laye
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ipad-video/</guid>
-      <description>The OmniGroup now has video up of the OmniGraffle for iPad showing what looks to be an awesome product. I can&amp;rsquo;t wait to get my hands on it.
+      <description>The OmniGroup now has video up of the OmniGraffle for iPad showing what looks to be an awesome product. I can&#39;t wait to get my hands on it.
 http://www.omnigroup.com/products/omnigraffle-ipad/videos/</description>
     </item>
     
@@ -136,7 +135,7 @@ http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/</desc
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
 http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
     </item>
     
@@ -147,7 +146,7 @@ http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template-update-v-24/</guid>
       <description>The OmniGraffle UX Template has been updated. I finally got around to cleaning up the Persona example from the old version 1 (the urlgreyhot version), added a detailed persona, a site map example with diagramming style (.gdiagramstyle file), and a mental model example. Download from the Tools page.
-http://konigi.com/tools/omnigraffle-ux-template</description>
+//konigi.com/tools/omnigraffle-ux-template</description>
     </item>
     
     <item>
@@ -156,152 +155,8 @@ http://konigi.com/tools/omnigraffle-ux-template</description>
       <pubDate>Sat, 18 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-5-keyboard-shortcuts-cheat-sheet/</guid>
-      <description>For all you Grafflers out there, Nick Finck has created a sweet single page cheat sheet illustrating OmniGraffle&amp;rsquo;s numerous and well hidden keyboard shortcuts. Nick took the multi-page Help file provided by Omni and consolidated all of the tips into a single tabloid poster that you can print and stick on your wall to make life easier. More info at the OmniMouth.
+      <description>For all you Grafflers out there, Nick Finck has created a sweet single page cheat sheet illustrating OmniGraffle&#39;s numerous and well hidden keyboard shortcuts. Nick took the multi-page Help file provided by Omni and consolidated all of the tips into a single tabloid poster that you can print and stick on your wall to make life easier. More info at the OmniMouth.
 Download the graffle directly here or from the OmniGraffle Extras page.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Tip: Change Keyboard Shortcuts</title>
-      <link>http://konigi.com/blog/omnigraffle-tip-change-keyboard-shortcuts/</link>
-      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-tip-change-keyboard-shortcuts/</guid>
-      <description>Here&amp;rsquo;s a tip that I blurted out on Twitter in a moment of frustration. I use both Adobe Illustrator and OmniGraffle, and one thing that repeatedly trips me up is using the keyboard shortcuts for grouping/ungrouping between the two apps. Illustrator uses Cmd-G to group, and OmniGraffle uses Shift-Cmd-G. They add the Shift key because CMD-G is assigned to search again which I don&amp;rsquo;t use all that often.
-The fix for this, as well as for any Mac application is simple.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template Updated (v. 2.2)</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</link>
-      <pubDate>Mon, 23 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template-updated-v-22/</guid>
-      <description>The UX Template has been updated (Vers. 2.2) with some minor fixes. The iPhone template was recreated using OmniGraffle drawing tools rather than imported PNGs to shrink file size. Template was converted to flat XML format rather than bundle. Guides cleaned up on all pages.
-http://konigi.com/tools/omnigraffle-ux-template</description>
-    </item>
-    
-    <item>
-      <title>Starting Work on OmniGraffle Sketch Stencils</title>
-      <link>http://konigi.com/blog/starting-work-omnigraffle-sketch-stencils/</link>
-      <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/starting-work-omnigraffle-sketch-stencils/</guid>
-      <description>If you&amp;rsquo;ve been following this blog, you may know how I&amp;rsquo;ve wanted to do sketch/jitter line styles in OmniGraffle to produce sketchy diagrams and wireframes. After David&amp;rsquo;s demo of his method for doing sketch shapes on the Design Commission blog got me started figuring out how to get the effect natively in OG, I&amp;rsquo;ve started to finally create sketch versions of the Wireframe Stencils. Above is a screenshot of the forms set.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Sketch Style Screencast</title>
-      <link>http://konigi.com/blog/omnigraffle-sketch-style-screencast/</link>
-      <pubDate>Fri, 30 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-sketch-style-screencast/</guid>
-      <description>I&amp;rsquo;ve been wanting for the past year or so to do sketch style wireframes in OmniGraffle. My first requests for sketchy line styles were made to OmniGroup in the Spring of 08 along with a few other users, and I posted this comment to the OG List about this feature. I knew how to do this in Visio, and had read that CAD users have something called a &amp;ldquo;Jitter&amp;rdquo; line style, so I quietly campaigned for this feature.</description>
-    </item>
-    
-    <item>
-      <title>Better Gmail Client Wireframe</title>
-      <link>http://konigi.com/blog/better-gmail-client-wireframe/</link>
-      <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
-      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template Updated (Version 2.1)</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template-updated-version-21/</link>
-      <pubDate>Thu, 15 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template-updated-version-21/</guid>
-      <description>The OmniGraffle UX Template for interface and interaction designers has been updated to version 2.1. Included in this release are major alignment, grid, and layout changes. Added guides for 24 column grid with vertical and horizontal gutters on wireframes. Added appropriate guides to all templates that necessitated alignment guides. Added small wireframe and iPhone templates. Download it here.
-http://konigi.com/tools/omnigraffle-ux-template</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Wireframe Stencils</title>
-      <link>http://konigi.com/blog/omnigraffle-wireframe-stencils/</link>
-      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
- Download Download Version 3.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Wireframe Stencils [Archived]</title>
-      <link>http://konigi.com/tools/omnigraffle-wireframe-stencils/</link>
-      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&amp;rsquo;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
- Download Download Version 3.</description>
-    </item>
-    
-    <item>
-      <title>The Konigi OG Toolset is Coming</title>
-      <link>http://konigi.com/blog/konigi-og-toolset-coming/</link>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/konigi-og-toolset-coming/</guid>
-      <description>That&amp;rsquo;s OmniGraffle, not Original Gangster. It&amp;rsquo;s been over a year since the last update to my OmniGraffle Wireframe Stencils. I&amp;rsquo;m due for a new version after some cleanup and organization into separate stencils to make use of OG5&amp;rsquo;s nice new stencil panel. The above is the current state of my working stencil in all its ugly glory. Also in my stencil directory are a bunch of pre-fabricated stencils for the projects I&amp;rsquo;ve worked on in the past 2 years at Sling and at Traction.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
-      <description>Made for UI design OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
- Installation 1.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template Update</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
-      <description>I&amp;rsquo;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&amp;rsquo;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template [Archived]</title>
-      <link>http://konigi.com/tools/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&amp;rsquo;ll be showing true pixel dimensions.
- Installation 1.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Icons and Controls Set Coming</title>
-      <link>http://konigi.com/blog/omnigraffle-icons-and-controls-set-coming/</link>
-      <pubDate>Fri, 11 Jul 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-icons-and-controls-set-coming/</guid>
-      <description>I&amp;rsquo;ve been accumulating a bunch of icons and other miscellaneous controls in my OmniGraffle Wireframe Stencil and think it&amp;rsquo;s about time to separate those into their own stencil set. The icons you see here are some of the ones I plan to include in this new set. Any others you&amp;rsquo;d like to see here that aren&amp;rsquo;t already represented? These are the ones I&amp;rsquo;ve actually had to use in the past 3 or 4 years.</description>
-    </item>
-    
-    <item>
-      <title>iPhone Wireframes Stencil for OmniGraffle</title>
-      <link>http://konigi.com/links/iphone-wireframes-stencil-omnigraffle/</link>
-      <pubDate>Fri, 02 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/iphone-wireframes-stencil-omnigraffle/</guid>
-      <description>A wireframe stencil for designing iPhone interfaces.
-http://www.graffletopia.com/stencils/358</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle Web Design Template Updated</title>
-      <link>http://konigi.com/blog/omnigraffle-web-design-template-updated/</link>
-      <pubDate>Wed, 26 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-web-design-template-updated/</guid>
-      <description>I updated the OmniGraffle Web Design Template.
-This web design template is for people who do wireframes and storyboards. The template was created for OmniGraffle Professional provides the basic layout for a design deliverable including the following master canvases: document title, section title, wireframe (portrait and landscape), storyboard, and blank. The wireframes were created at 950px wide with guides following the Blueprint CSS Grid system. Wireframes also have 2 small hairline marks around the 600px point to mark the approximate fold.</description>
     </item>
     
   </channel>

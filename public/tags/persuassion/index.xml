@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Persuassion on Konigi</title>
+    <title>persuassion on Konigi</title>
     <link>http://konigi.com/tags/persuassion/</link>
-    <description>Recent content in Persuassion on Konigi</description>
+    <description>Recent content in persuassion on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/persuassion/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/persuassion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

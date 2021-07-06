@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heuristics on Konigi</title>
+    <title>heuristics on Konigi</title>
     <link>http://konigi.com/tags/heuristics/</link>
-    <description>Recent content in Heuristics on Konigi</description>
+    <description>Recent content in heuristics on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/heuristics/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/heuristics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +16,9 @@
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/dont-forget-heuristics/</guid>
-      <description>Theresa Neil continues her tips for designing great Flex UX&amp;rsquo;s showcasing interfaces that exemplify Jakob Nielsen&amp;rsquo;s 10 usability heuristics.
+      <description>Theresa Neil continues her tips for designing great Flex UX&#39;s showcasing interfaces that exemplify Jakob Nielsen&#39;s 10 usability heuristics.
 Don’t forget the usability basics. Jakob Nielsen’s Ten Usability Heuristics are as relevant now as they were in 1999. I stress this because I looked at the Flex showcase recently, and it looks like many of the applications are not built with these best practices in mind.
- Read more at Theresa Neil&amp;rsquo;s blog.</description>
+ Read more at Theresa Neil&#39;s blog.</description>
     </item>
     
     <item>

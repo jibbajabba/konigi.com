@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Css Frameworks on Konigi</title>
+    <title>css frameworks on Konigi</title>
     <link>http://konigi.com/tags/css-frameworks/</link>
-    <description>Recent content in Css Frameworks on Konigi</description>
+    <description>Recent content in css frameworks on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/css-frameworks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/css-frameworks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -46,7 +45,7 @@ http://www.1kbgrid.com/</description>
       <pubDate>Tue, 17 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/csscaffold/</guid>
-      <description>Anthony Short produced a video demonstration of CSScaffold, a CSS framework takes the structural principles and architecture of current grid systems like Blueprint and the generation engine of Shaun Inman&amp;rsquo;s CSS Cacheer, and creates a CSS Grid System Builder that lets you define the rules for your layouts using meaningfully named CSS ids and classes, and automatically generates the grid system to those rules. It&amp;rsquo;s a framework that lets you focus on fitting the CSS to your design, rather than the reverse, and gives you the ability to focus on meaningful abstractions and naming rather than structural ones, so you can easily make changes in the future.</description>
+      <description>Anthony Short produced a video demonstration of CSScaffold, a CSS framework takes the structural principles and architecture of current grid systems like Blueprint and the generation engine of Shaun Inman&#39;s CSS Cacheer, and creates a CSS Grid System Builder that lets you define the rules for your layouts using meaningfully named CSS ids and classes, and automatically generates the grid system to those rules. It&#39;s a framework that lets you focus on fitting the CSS to your design, rather than the reverse, and gives you the ability to focus on meaningful abstractions and naming rather than structural ones, so you can easily make changes in the future.</description>
     </item>
     
     <item>

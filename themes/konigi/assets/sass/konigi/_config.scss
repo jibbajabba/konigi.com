@@ -1,0 +1,448 @@
+//
+// Created: 2013-05-21
+// Variables and Mixins for the Konigi.com stylesheets
+// Maintained by Michael Angeles
+
+/* TOC
+  - Breakpoints
+  - Font Sizes
+  - Colors
+  - Boxes
+    - Border Radius
+    - Black/White Text Opacity
+    - Box Emboss
+    - Gradient Background Image
+    - Gradient Bottom Shadow
+    - Box Shadow
+  - Text
+    - Text Emboss
+    - Text Deboss
+    - Text Shadow
+    - Horizontal Nav Lists
+  - Effects
+    - Rotation
+    - Grayscale
+    - Transitions
+*/
+
+// ========================================
+// BREAKPOINTS FOR FOUNDATION
+/* Usage
+    div {
+      width: 95%;
+      margin: 2em auto;
+
+      @include breakpoint(sm) {
+        width: 80%;
+      }
+    }
+*/
+@mixin breakpoint($point, $value: 0) {
+  // USE DEFAULTS INSTEAD OF XS, OVERRIDE WITH SM, MD, LG
+  @if $point == sm {
+    @media only screen and (max-width: 40em) { @content; }
+  }
+  @if $point == mdmin {
+    @media only screen and (min-width: 40.063em) { @content; }
+  }
+  @if $point == md {
+    @media only screen and (min-width: 40.063em) and (max-width: 64em) { @content; }
+  }
+  @if $point == lgmin {
+    @media only screen and (min-width: 64.063em) { @content; }
+  }
+  @if $point == lg {
+    @media only screen and (min-width: 64.063em) and (max-width: 90em) { @content; }
+  }
+  @if $point == xlmin {
+    @media only screen and (min-width: 90.063em) { @content; }
+  }
+  @if $point == xl {
+    @media only screen and (min-width: 90.063em) { @content; }
+  }
+  @else {
+    @media ($point: $value) { @content; }
+  }
+}
+
+@mixin between-breakpoints($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+@mixin between-breakpoints($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+// ========================================
+// FONT SIZES
+// ========================================
+// Usage:
+// REM is 16px
+// arg1 = font size px, arg2 = line-height px
+// Ex. for font-size: 36px, line-height: 36px;
+//   .myclass {
+//     @include fontsize(14, 18);
+//   }
+@mixin fontsize($sizeValue: 1, $line: $sizeValue * 1.5){
+  font-size: ($sizeValue * 1) + px;
+  line-height: ($line * 1) + px;
+  font-size: ($sizeValue / 16) + rem;
+  line-height: ($line / 16) + rem;
+}
+
+// ========================================
+/*
+#COLORS
+Provides color variables for black, graylight, gray, graymed, graydark, red, white
+
+  Usage:
+
+  .myclass-red-text {
+    color: $red;
+  }
+
+  <span class="myclass-red-text">Red Text</span>
+
+*/
+
+// ##BASE COLORS
+$black: #111;
+$graypale: #f5f5f5;
+$graylight: #eee;
+$gray: #ddd;
+$graymed: #999;
+$graydark: #333;
+$red: #c00;
+$green: #5da423;
+$white: #fff;
+$pink: #E18FC0;
+$purple: #8744A5;
+$darkpurple: #321E64;
+$accent: $pink;
+$accent2: $purple;
+$accent3: $darkpurple;
+$headingcolor: $accent;
+$subtitlecolor: $graymed;
+$bodycolor: #eee;
+$textcolor: #262626;
+$linkcolor: $pink;
+$linkcolorlight: #85B3D4;
+$linkhovercolor: $purple;
+$linkgraycolor: #B0B8BF;
+$linkgraydarkcolor: #4D5155;
+$bordercolor: $graydark;
+
+// ========================================
+/*
+##BLACK/WHITE TEXT OPACITY MIXIN
+Provides a mixin for black and white text color opacity
+
+  Usage:
+
+  .myclass { background: @include black(0.15); }
+  .myclass { background: @include white(0.15); }
+
+*/
+@function black($opacity){
+    @return rgba(0,0,0,$opacity);
+}
+@function white($opacity){
+    @return rgba(255,255,255,$opacity);
+}
+
+// ========================================
+/*
+##BOX-EMBOSS
+Provides a letterpress-style emboss effect to text or boxes
+
+  Usage:
+
+  .box{
+    @include box-emboss(0.8, 0.05);
+  }
+
+*/
+@mixin box-emboss($opacity, $opacity2){
+    box-shadow:white($opacity) 0 1px 0, inset black($opacity2) 0 1px 0;
+}
+
+// ========================================
+/*
+##GRADIENT BACKGROUND IMAGE
+Provides a simple 2-stop background image gradient effect
+
+  Usage:
+
+  .box {
+    @include gradient(#f1f1f1, rgb(237,237,237), rgb(255,255,255));
+  }
+
+*/
+@mixin gradient($bg:#eee, $from:rgba(255,255,255,.1), $to:rgba(0,0,0,.1)) {
+    background-color: $bg;
+    background-image: linear-gradient(top, $from 0%, $to 100%);
+    background-image: -webkit-linear-gradient(
+      top,
+      $from 0%,
+      $to 100%
+    );
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      color-stop(0%, $from),
+      color-stop(100%, $to)
+    );
+    background-image: -moz-linear-gradient(top, $from 0%, $to 100%);
+    background-image: -o-linear-gradient(top, $from 0%, $to 100%);
+    background-image: -ms-linear-gradient(top, $from 0%, $to 100%);
+}
+
+// ========================================
+/*
+##RADIAL GRADIENT BOT SHADOW
+Provides a shadow effect below the box
+
+  Usage:
+
+  .box {
+    @include box-shadow-bot-fade();
+  }
+
+*/
+@mixin box-shadow-bot-fade() {
+  width: 90%;
+  height: 5px;
+  margin: 0 auto;
+  background: none; /* fallback for non-supporting browsers */
+  background-image: radial-gradient(50% 0%, 50% 5px, #000 0%, #fff 100%);
+  background-image: -webkit-radial-gradient(50% 0%, 50% 5px, #eee 0%, #fff 100%);
+  background-image: -moz-radial-gradient(50% 0%, ellipse contain, black 0%, blue 25%, green 40%, red 60%, purple 80%, white 100%);
+  background-image: -ms-radial-gradient(50% 0%, ellipse contain, black 0%, blue 25%, green 40%, red 60%, purple 80%, white 100%); /* IE10+ */
+  background-image: -o-radial-gradient(50% 0%, ellipse contain, black 0%, blue 25%, green 40%, red 60%, purple 80%, white 100%); /* Opera (13?) */
+}
+
+// ========================================
+/*
+##BOX SHADOW
+Provides a regular box shadow effect
+
+  Usage:
+
+  .box {
+    @include box-shadow(1px, 1px, 0px, #ddd);
+    @include box-shadow(1px, 1px, 0px, #ddd, true);
+    @include box-shadow-none()
+  }
+
+*/
+@mixin box-shadow($left, $top, $blur, $color, $inset: false) {
+  @if $inset {
+    box-shadow:inset $left $top $blur $color;
+  } @else {
+    box-shadow: $left $top $blur $color;
+  }
+}
+
+@mixin box-shadow-none() {
+  box-shadow: none
+}
+
+@mixin box-shadow-multi($shadow1, $shadow2:false, $shadow3:false, $shadow4:false, $shadow5:false) {
+ $params: $shadow1;
+  @if $shadow2
+    { $params: $shadow1, $shadow2; }
+    @if $shadow3 != false
+      { $params: $shadow1, $shadow2, $shadow3; }
+      @if $shadow4 != false
+        { $params: $shadow1, $shadow2, $shadow3, $shadow4; }
+        @if $shadow5 != false
+          { $params: $shadow1, $shadow2, $shadow3, $shadow4, $shadow5; }
+
+  -webkit-box-shadow: $params;
+  -moz-box-shadow: $params;
+  box-shadow: $params;
+}
+
+// ========================================
+/*
+## INSET BOX SHADOW ONE SIDED
+
+  Usage:
+
+  .box {
+    @include box-shadow-inset(top);
+  }
+
+*/
+@mixin box-shadow-inset($direction: 'left') {
+  @if $direction == left {
+    box-shadow: inset 10px 0px 10px -10px rgba(0,0,0,.5);
+  }
+  @if $direction == right {
+    box-shadow: inset -10px 0 10px -10px rgba(0,0,0,.5);
+  }
+  @if $direction == top {
+    box-shadow: inset 0 10px 10px -10px rgba(0,0,0,.5);
+  }
+  @if $direction == bottom {
+    box-shadow: inset 0 -10px 10px -10px rgba(0,0,0,.5);
+  }
+}
+
+// ========================================
+// #TEXT
+
+// ========================================
+/*
+##TEXT-EMBOSS
+Provides White bottom shadow
+
+  Usage:
+
+  .text {
+    @include text-emboss(0.8);
+  }
+
+*/
+@mixin text-emboss($opacity:.75){
+    text-shadow:white($opacity) 0 1px 0;
+}
+
+// ========================================
+/*
+##TEXT-DEBOSS
+Provides Black top shadow
+
+  Usage:
+
+  .text {
+    @include text-deboss(0.8);
+  }
+
+*/
+@mixin text-deboss($opacity:.75){
+  text-shadow:black($opacity) 0 -1px 0;
+}
+
+// ========================================
+/*
+##TEXT SHADOW
+Provides greater control over text shadow
+
+  Usage:
+
+  .text {
+    @include text-shadow();
+  }
+
+*/
+@mixin text-shadow($color, $opacity:.75, $direction: 1px ) {
+  @if $color == dark {
+    text-shadow: rgba(255,255,255,$opacity) 0 2px 2px;
+  }
+  @else if $color == light {
+    text-shadow: rgba(0,0,0,.4) 1px 1px 5px;
+  }
+  @else {
+    text-shadow: rgba(0,0,0,$opacity) 0 $direction 0;
+  }
+}
+
+// ========================================
+/*
+##HORIZONTAL NAV LISTS
+Generic style for inline nav lists.
+
+  Usage:
+
+  @include navigation-list();
+
+*/
+@mixin navigation-list {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    > li{
+        display:block;
+        float:left;
+        padding-right: 1em;
+        &:last-child{
+          padding-right: 0;
+          margin-right:0px;
+        }
+    }
+}
+
+@mixin inline-list {
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    > li{
+        display:block;
+        float:left;
+    }
+}
+
+// ========================================
+// #EFFECTS
+/*
+##ROTATION
+
+  Usage:
+
+  @include box-rotate(1deg);
+
+*/
+@mixin rotate($rotate:'1deg'){
+     -moz-transform: rotate($rotate);  /* FF3.5+ */
+       -o-transform: rotate($rotate);  /* Opera 10.5 */
+  -webkit-transform: rotate($rotate);  /* Saf3.1+, Chrome */
+      -ms-transform: rotate($rotate);  /* IE9 */
+          transform: rotate($rotate);
+               zoom: 1;
+}
+
+/*
+## GRAYSCALE
+Provides a grayscale effect
+
+  Usage:
+
+  @include grayscale(0%);
+
+*/
+@mixin grayscale($percentage: '100%') {
+  -webkit-filter: grayscale($percentage);
+  -moz-filter: grayscale($percentage);
+  filter: grayscale($percentage);
+}
+
+/*
+##TRANSITIONS
+Provides a transition effect
+
+  Usage:
+  @include transition('all', '2s', 'ease');
+
+*/
+@mixin transition($transtype: 'all', $time: '.2s', $easing: 'ease') {
+  -o-transition: $transtype $time $easing;
+  -ms-transition: $transtype $time $easing;
+  -moz-transition: $transtype $time $easing;
+  -webkit-transition: $transtype $time $easing;
+  transition: $transtype $time $easing;
+}
+@mixin transition-none() {
+  -o-transition: none !important;
+  -ms-transition: none !important;
+  -moz-transition: none !important;
+  -webkit-transition: none !important;
+  transition: none !important;
+}

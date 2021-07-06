@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Konigi</title>
+    <title>news on Konigi</title>
     <link>http://konigi.com/tags/news/</link>
-    <description>Recent content in News on Konigi</description>
+    <description>Recent content in news on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 07 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/timeline-views-news/</guid>
-      <description>Viget&amp;rsquo;s Peyton Crump has collected screenshots from his research on data-driven timelines of news.
+      <description>Viget&#39;s Peyton Crump has collected screenshots from his research on data-driven timelines of news.
 http://www.viget.com/inspire/timeline-views-of-the-news/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://www.viget.com/inspire/timeline-views-of-the-news/</description>
       <pubDate>Wed, 18 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ny-times-article-skimmer/</guid>
-      <description>The New York Times&amp;rsquo; Article Skimmer prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. Via SwissMiss
+      <description>The New York Times&#39; Article Skimmer prototype provides a nice gallery view of top articles, and utilizes a categories sidebar to filter articles. Keyboard shortcuts are also provided to navigate prev/next category, or to jump to a specific category. Very nice way to view articles. The dense tabloid style of the regular site can be overwhelming sometimes. Via SwissMiss
 http://prototype.nytimes.com/gst/articleSkimmer/</description>
     </item>
     
@@ -46,7 +45,7 @@ http://prototype.nytimes.com/gst/articleSkimmer/</description>
       <pubDate>Fri, 29 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/cnet/</guid>
-      <description>CNET redesigns its identity and with it, all of its sites now sport a cleaner, more modern aesthetic. Some claim that the original c|Net, with the block of yellow navigation on the left hand side was responsible for the proliferation of that layout type in the 90&amp;rsquo;s. Today there is only a hint of yellow, and that left sidebar that held most of the site navigation is now relegated to a simpler, singular category or local navigation purpose within a section.</description>
+      <description>CNET redesigns its identity and with it, all of its sites now sport a cleaner, more modern aesthetic. Some claim that the original c|Net, with the block of yellow navigation on the left hand side was responsible for the proliferation of that layout type in the 90&#39;s. Today there is only a hint of yellow, and that left sidebar that held most of the site navigation is now relegated to a simpler, singular category or local navigation purpose within a section.</description>
     </item>
     
     <item>
@@ -82,7 +81,7 @@ http://prototype.nytimes.com/gst/articleSkimmer/</description>
       <pubDate>Fri, 21 Mar 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hold-front-page/</guid>
-      <description>The Economist reports on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&amp;rsquo;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page).</description>
+      <description>The Economist reports on some research undertaken by Fang Wu and Bernardo Huberman, a pair of researchers at Hewlett-Packard&#39;s laboratory in Palo Alto, California, to compare two strategies used on news sites: one based on the previous popularity of a story, the other on its novelty. The researchers based their study on analysis of articles posted to digg, and the article provides some insight into the digg algorithm and the half-life of an entry (about 69 minutes before an entry gets demoted from the home page).</description>
     </item>
     
     <item>
@@ -91,7 +90,7 @@ http://prototype.nytimes.com/gst/articleSkimmer/</description>
       <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/hossli/</guid>
-      <description>People&amp;rsquo;s Choice for Feb. 2008
+      <description>People&#39;s Choice for Feb. 2008
 Hossli.com is the portfolio of Swiss journalist Peter Hossli, featuring the published articles, a weblog, and photo journal pieces by the writer. The site, designed by Swiss/American designer Tina Roth Eisenberg, presents an ultra clean and modern face to the articles. A simple navigation system for browsing the extensive archive stories by facets including category, type, year, language.
 http://hossli.com</description>
     </item>

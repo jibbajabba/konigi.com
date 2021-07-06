@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Microsoft Excel on Konigi</title>
+    <title>microsoft excel on Konigi</title>
     <link>http://konigi.com/tags/microsoft-excel/</link>
-    <description>Recent content in Microsoft Excel on Konigi</description>
+    <description>Recent content in microsoft excel on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/microsoft-excel/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/microsoft-excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/zefamedia-ux-templates/</guid>
-      <description>zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
+      <description>zef[a]media&#39;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
 http://www.zefamedia.com/websites/free-ux-templates/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://www.zefamedia.com/websites/free-ux-templates/</description>
       <pubDate>Mon, 04 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usability-test-data-logger-excel/</guid>
-      <description>User Focus&amp;rsquo; Todd Zazelenchuk provides an excellent Microsoft Excel tool with macros that turn the document into an application for collecting usability test data. &amp;ldquo;This spreadsheet allows you to measure task completion rates, analyse questionnaire data, and summarise participant comments. It even includes a timer so you can measure time-on-task. The spreadsheet is highly customisable.&amp;rdquo;
+      <description>User Focus&#39; Todd Zazelenchuk provides an excellent Microsoft Excel tool with macros that turn the document into an application for collecting usability test data. &#34;This spreadsheet allows you to measure task completion rates, analyse questionnaire data, and summarise participant comments. It even includes a timer so you can measure time-on-task. The spreadsheet is highly customisable.&#34;
 Download the Excel document and documentation for free.
 http://www.userfocus.co.uk/resources/datalogger.html</description>
     </item>

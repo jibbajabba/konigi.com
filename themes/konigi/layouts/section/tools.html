@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-{{ partial "gnav.html" . }}
+{{ define "main" }}
 
 <section class="hero is-centered">
   <div class="hero-body">
@@ -22,11 +21,11 @@
   </div>{{/* /container */}}
 </section>
 {{/*
-<section class="section pagination">
+<section class="section pagination index">
   <div class="container">
     <nav>{{ template "_internal/pagination.html" . }}</nav>
   </div>
 </section>
 */}}
 
-{{ partial "footer.html" . }}
+{{ end }}

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Techniques on Konigi</title>
+    <title>techniques on Konigi</title>
     <link>http://konigi.com/tags/techniques/</link>
-    <description>Recent content in Techniques on Konigi</description>
+    <description>Recent content in techniques on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/techniques/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/techniques/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,11 +16,12 @@
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/all-right-way-wireframe-videos/</guid>
-      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&amp;rsquo; approaches. The right way? There isn&amp;rsquo;t one right way. That&amp;rsquo;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
+      <description>I wanted to capture all of the slides and videos into one entry to compare each of the guys&#39; approaches. The right way? There isn&#39;t one right way. That&#39;s the point. The one thread that does carry through, however, is a general process of discovery/research, sketching/ideation, selection/refinement, visual design. Will Evans
    Todd Zaki Warfel
 
  Russ Unger
- Fred Beecher</description>
+ Fred Beecher
+ </description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</guid>
-      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&amp;rsquo;t so bad&amp;quot; discussions I&amp;rsquo;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
+      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&#39;t so bad&amp;quot; discussions I&#39;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
 Lorem Ipsum, wireframes, personas, etc are just tactics. The only thing that matters is: Do people love what you built?
 Amen, brother. Here&#39;s 1 cent... I agree with Karen about Lorem Ipsum.
 Via Inspire UX
@@ -53,7 +53,7 @@ http://www.flickr.com/photos/dlichaw/4053897862/</description>
       <pubDate>Thu, 27 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/managing-ui-complexity/</guid>
-      <description>Brandon Walkin&amp;rsquo;s article &amp;ldquo;Managing UI Complexity&amp;rdquo; offers some excellent pointers or reminders of concepts and techniques that help reduce complexity in an interface, including progressive diclosure, contextual actions, aligment and hierarchy. There&amp;rsquo;s an abundance of examples with screenshots and deconstruction of interfaces to demonstrate the techniques in practice.
+      <description>Brandon Walkin&#39;s article &#34;Managing UI Complexity&#34; offers some excellent pointers or reminders of concepts and techniques that help reduce complexity in an interface, including progressive diclosure, contextual actions, aligment and hierarchy. There&#39;s an abundance of examples with screenshots and deconstruction of interfaces to demonstrate the techniques in practice.
 http://www.brandonwalkin.com/blog/2009/08/10/managing-ui-complexity/</description>
     </item>
     

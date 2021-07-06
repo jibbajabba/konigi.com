@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Progressive Disclosure on Konigi</title>
+    <title>progressive disclosure on Konigi</title>
     <link>http://konigi.com/tags/progressive-disclosure/</link>
-    <description>Recent content in Progressive Disclosure on Konigi</description>
+    <description>Recent content in progressive disclosure on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jul 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/progressive-disclosure/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/progressive-disclosure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,15 +30,6 @@
     </item>
     
     <item>
-      <title>Shelfari Hybrid Buttons, Revised</title>
-      <link>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</link>
-      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</guid>
-      <description>We covered Shelfari&#39;s hybrid button in their list views of bookshelf items. That example showed a single push button with an attached icon for drop down menu. The single button allowed for the use of a default behavior, while the drop down arrow allowed for the display of other options for the item. The drop down menu allowed users to make multiple selections, i.e. using checkbox behaviors, rather than just select one value in the drop down list.</description>
-    </item>
-    
-    <item>
       <title>iTunes Ratings</title>
       <link>http://konigi.com/interfaces/itunes-ratings/</link>
       <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
@@ -47,6 +37,15 @@
       <guid>http://konigi.com/interfaces/itunes-ratings/</guid>
       <description>The iTunes Store allows customers to rate items and displays the average rating and total ratings below the product image. They use a disclosure arrow to allow customers to view a breakdown of ratings by number of stars.
 1. Customers&#39; average rating, and form select to add your own rating.2. Expanded ratings break down after clicking the disclosure triangle. http://www.apple.com/itunes/</description>
+    </item>
+    
+    <item>
+      <title>Shelfari Hybrid Buttons, Revised</title>
+      <link>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</link>
+      <pubDate>Wed, 18 Mar 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/interfaces/shelfari-hybrid-buttons-revised/</guid>
+      <description>We covered Shelfari&#39;s hybrid button in their list views of bookshelf items. That example showed a single push button with an attached icon for drop down menu. The single button allowed for the use of a default behavior, while the drop down arrow allowed for the display of other options for the item. The drop down menu allowed users to make multiple selections, i.e. using checkbox behaviors, rather than just select one value in the drop down list.</description>
     </item>
     
     <item>

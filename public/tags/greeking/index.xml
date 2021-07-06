@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Greeking on Konigi</title>
+    <title>greeking on Konigi</title>
     <link>http://konigi.com/tags/greeking/</link>
-    <description>Recent content in Greeking on Konigi</description>
+    <description>Recent content in greeking on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Nov 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/greeking/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/greeking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 07 Nov 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/printed-word-and-written-words-fonts-letterror/</guid>
-      <description>2 different fonts to turn text to obscure your copy in design documents so they don&amp;rsquo;t distract the audience. It&amp;rsquo;s an alternative to using real text or lorem ipsum. Download for free.
+      <description>2 different fonts to turn text to obscure your copy in design documents so they don&#39;t distract the audience. It&#39;s an alternative to using real text or lorem ipsum. Download for free.
 Thanks to Ryan Schroeder (@rschroed) for pointing me to this.
 http://www.letterror.com/foundry/goodies/index.html</description>
     </item>
@@ -50,7 +49,7 @@ http://www.lorizzle.nl/?feed=1</description>
       <pubDate>Wed, 20 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/fillerati-greeking-tool/</guid>
-      <description>Fillerati is a fun greeking/dummy text alternative if you&amp;rsquo;re not into lorem ipsum, but would love some literary copy. Select an author (Edgar Rice Burroughs, Herman Melville, Jules Verne, and H. G. Wells) and title, and choose an excerpt rendered in html (h1, p, or li) or plain text. A slick slider UI lets you choose the number of words to include in your text. Grab some Fillerati.
+      <description>Fillerati is a fun greeking/dummy text alternative if you&#39;re not into lorem ipsum, but would love some literary copy. Select an author (Edgar Rice Burroughs, Herman Melville, Jules Verne, and H. G. Wells) and title, and choose an excerpt rendered in html (h1, p, or li) or plain text. A slick slider UI lets you choose the number of words to include in your text. Grab some Fillerati.
 Via The Letter</description>
     </item>
     
@@ -80,7 +79,7 @@ https://chrome.google.com/extensions/featured/web_dev</description>
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/typinator-automatic-text-software/</guid>
-      <description>Since starting work at Balsamiq I&amp;rsquo;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using Typinator, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.
+      <description>Since starting work at Balsamiq I&#39;ve been doing customer support every day. Part of that work is repeatedly referencing the same URLS and instructions for frequently asked questions. Peldi and Val handle the volume by using Typinator, a Mac utility that lets you define text shortcuts that you trigger to complete these answers.
 Years ago, pre-OS X, used something called TypeIt4Me to handle this and am stoked to have this kind of a tool back in my aresenal.</description>
     </item>
     
@@ -100,7 +99,7 @@ http://html-ipsum.com/</description>
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</guid>
-      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&amp;rsquo;t so bad&amp;quot; discussions I&amp;rsquo;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
+      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&#39;t so bad&amp;quot; discussions I&#39;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
 Lorem Ipsum, wireframes, personas, etc are just tactics. The only thing that matters is: Do people love what you built?
 Amen, brother. Here&#39;s 1 cent... I agree with Karen about Lorem Ipsum.
 Via Inspire UX

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emastic Css Framework on Konigi</title>
+    <title>emastic css framework on Konigi</title>
     <link>http://konigi.com/tags/emastic-css-framework/</link>
-    <description>Recent content in Emastic Css Framework on Konigi</description>
+    <description>Recent content in emastic css framework on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jul 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/emastic-css-framework/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/emastic-css-framework/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,7 +20,7 @@
 * Lightweight (compressed weight less then 4kb)
 * Personalized width of the page in (em,px,%)
 * Use of fixed and fluid columns in the grid.
-* Elastic Layout with &amp;ldquo;em&amp;rdquo;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
+* Elastic Layout with &#34;em&#34;s  Blueprint is going to have to catch up and produce a version for fluid layouts.</description>
     </item>
     
   </channel>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Fold on Konigi</title>
+    <title>the fold on Konigi</title>
     <link>http://konigi.com/tags/the-fold/</link>
-    <description>Recent content in The Fold on Konigi</description>
+    <description>Recent content in the fold on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/the-fold/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/the-fold/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ What I&#39;m proposing is for you to think twice about these ‘rules’ which a
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/clicktale-scrolling-research-report/</guid>
-      <description>ClickTale makes observations about scrolling based on their research of users&amp;rsquo; browsing behaviors around &amp;ldquo;the fold.&amp;rdquo; Their report on scrolling makes the following conclusions: [I[t appears that visitors scroll in a relative way - about the same percentage of page views will reach the middle of a web page regardless of the actual page height in pixels.
+      <description>ClickTale makes observations about scrolling based on their research of users&#39; browsing behaviors around &#34;the fold.&#34; Their report on scrolling makes the following conclusions: [I[t appears that visitors scroll in a relative way - about the same percentage of page views will reach the middle of a web page regardless of the actual page height in pixels.
 Visitors appear to be using the location of the scroll bar but not the size of the tracker when scrolling, since the scroll bar location is a relative indicator and the scroll tracker size is an indicator of page height.</description>
     </item>
     

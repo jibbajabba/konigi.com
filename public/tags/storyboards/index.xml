@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Storyboards on Konigi</title>
+    <title>storyboards on Konigi</title>
     <link>http://konigi.com/tags/storyboards/</link>
-    <description>Recent content in Storyboards on Konigi</description>
+    <description>Recent content in storyboards on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/storyboards/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/storyboards/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -48,7 +47,7 @@ with the sketch and text labels; these are found by searching the Internet.</des
       <pubDate>Tue, 27 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/better-gmail-client-wireframe/</guid>
-      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&amp;rsquo;s Growl alerting app as the starting point:</description>
+      <description>I posted on Twitter about how frustrating it can be to have to use email. With every day that I use Twitter via Twhirl I become less and less interested in using email. So I moaned to my Twitter peeps about the pain I feel. Some people wanted to know what I wanted, so I responded with the ideal flow, using Mac OS X&#39;s Growl alerting app as the starting point:</description>
     </item>
     
     <item>
@@ -66,8 +65,8 @@ with the sketch and text labels; these are found by searching the Internet.</des
       <pubDate>Tue, 23 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/announcing-konigi-store/</guid>
-      <description>I&amp;rsquo;m pleased to announce the first of a series of products that I&amp;rsquo;m producing for creatives involved in design for the screen. The first 2 products are graph paper notepads formatted for user interface design and design of time-related sequences.
-The Wireframe Graph Paper Notepad is made for visual designers, interaction designers, and information architects designing for the screen. The notepad has 50 sheets at 8 1&amp;frasl;2 x 11 inches on white 70# paper, glued on the left side.</description>
+      <description>I&#39;m pleased to announce the first of a series of products that I&#39;m producing for creatives involved in design for the screen. The first 2 products are graph paper notepads formatted for user interface design and design of time-related sequences.
+The Wireframe Graph Paper Notepad is made for visual designers, interaction designers, and information architects designing for the screen. The notepad has 50 sheets at 8 1/2 x 11 inches on white 70# paper, glued on the left side.</description>
     </item>
     
     <item>
@@ -76,7 +75,7 @@ The Wireframe Graph Paper Notepad is made for visual designers, interaction desi
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
-      <description>I&amp;rsquo;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&amp;rsquo;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
+      <description>I&#39;ve updated the OmniGraffle web design template formerly hosted on my blog at urlgreyhot. The new UX template is now formatted for OmniGraffle Pro version 5. In this template you&#39;ll find shared layers (masters) for a title page, wireframe, wireframe/storyboard hybrid, simple storyboard, and storyboard with notes. Guides and adherence to a regular grid make it easy to use. The doc is sized so you can work at 100%, and print at 8.</description>
     </item>
     
     <item>

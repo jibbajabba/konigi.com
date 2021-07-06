@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cms on Konigi</title>
+    <title>cms on Konigi</title>
     <link>http://konigi.com/tags/cms/</link>
-    <description>Recent content in Cms on Konigi</description>
+    <description>Recent content in cms on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Dec 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/cms/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,7 +34,7 @@
       <pubDate>Wed, 12 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/aiga-cms-administration/</guid>
-      <description>The redesign of the AIGA content management system by Happy Cog and Naz Hamid is easily one of the nicest looking CMS admin experiences I&amp;rsquo;ve ever seen screen shots of. Neutral background colors are easy on the eyes. There&amp;rsquo;s great attention being paid to the details. Icons are well designed and clear, forms are laid out well, everything is perfectly aligned, and page elements direct the user through every facet of administration.</description>
+      <description>The redesign of the AIGA content management system by Happy Cog and Naz Hamid is easily one of the nicest looking CMS admin experiences I&#39;ve ever seen screen shots of. Neutral background colors are easy on the eyes. There&#39;s great attention being paid to the details. Icons are well designed and clear, forms are laid out well, everything is perfectly aligned, and page elements direct the user through every facet of administration.</description>
     </item>
     
     <item>

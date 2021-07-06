@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Animation on Konigi</title>
+    <title>animation on Konigi</title>
     <link>http://konigi.com/tags/animation/</link>
-    <description>Recent content in Animation on Konigi</description>
+    <description>Recent content in animation on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Jan 2016 09:46:19 -0800</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Tue, 26 Jan 2016 09:46:19 -0800</pubDate>
       
       <guid>http://konigi.com/blog/gifmuse-io/</guid>
-      <description>I started a museum of animated gifs in January to point to the beautiful little art works of motion designers and artists.
-gifmuse.io</description>
+      <description>A museum of animated gifs.</description>
     </item>
     
     <item>
@@ -38,8 +36,7 @@ You can design with text, rectangles (which can modified with border radius to m
       
       <guid>http://konigi.com/interfaces/tumblr-fave-animation/</guid>
       <description>This is a small animation of the heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.
-Screencast / Video
-https://www.tumblr.com/</description>
+Screencast / Video https://www.tumblr.com/</description>
     </item>
     
     <item>
@@ -67,7 +64,7 @@ http://ui-animations.tumblr.com/</description>
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/google-web-designer/</guid>
-      <description>Google Web Designer is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&amp;rsquo;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.
+      <description>Google Web Designer is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&#39;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.
 Web Designer is a web application that&#39;s built with HTML5, and runs natively on your desktop. It provides support for text, images, videos, and even provides bezier drawing tools for creating shapes and 3d objects.</description>
     </item>
     
@@ -106,7 +103,7 @@ The collection of transitions is clustered into 6 different categories: Orientat
       <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/joe/</guid>
-      <description>The whimsical sketched interface of Joe Davis&amp;rsquo; design portfolio.
+      <description>The whimsical sketched interface of Joe Davis&#39; design portfolio.
 http://www.joedavis.co.uk/</description>
     </item>
     
@@ -136,7 +133,7 @@ http://motionographer.com/</description>
       <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/back-napkin/</guid>
-      <description>I can&amp;rsquo;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&amp;rsquo;t need to be good at drawing to do it.</description>
+      <description>I can&#39;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&#39;t need to be good at drawing to do it.</description>
     </item>
     
     <item>
@@ -156,52 +153,6 @@ http://motionographer.com/</description>
       <guid>http://konigi.com/blog/cgart-video-and-motion-graphics-showcase/</guid>
       <description>CGART is an excellent new showcase that curates motion work covering the following areas: Motion Design, Animation, CG Animation, Cinematography, Special Effects, Interesting Advertising, Music Videos, Making of Videos, Movie Trailers, Motion Experiments.
 http://cgart.com/</description>
-    </item>
-    
-    <item>
-      <title>UNIQLO TRY</title>
-      <link>http://konigi.com/designs/uniqlo-try/</link>
-      <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/uniqlo-try/</guid>
-      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&amp;rsquo;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&amp;rsquo;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&amp;rsquo;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
-    </item>
-    
-    <item>
-      <title>krolikov</title>
-      <link>http://konigi.com/designs/submissions/krolikov/</link>
-      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/krolikov/</guid>
-      <description>Krolikov is the illustration and animation studio of Russian designer Sedova Elena. Great illustration, and the subtle 3d effect of the boxes adds dimension and interest to the frame surrounding the content. The little touches of animation are brilliant, e.g. the plug in effect on the home link electrical cord and the little motion when mousing over the global nav. I was sort of expecting the little character on top of the books to wink at me or something.</description>
-    </item>
-    
-    <item>
-      <title>Get Out And Play</title>
-      <link>http://konigi.com/blog/get-out-and-play/</link>
-      <pubDate>Tue, 13 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/get-out-and-play/</guid>
-      <description>The Nokia ngage Get Out and Play site features some fun stop motion animation, a sick Breakout game using people, and the game Snake played out as an animation of 1,000 people. This is brilliant. Don&#39;t miss it.
-http://www.get-out-and-play.com/index.php</description>
-    </item>
-    
-    <item>
-      <title>Fanta</title>
-      <link>http://konigi.com/designs/submissions/fanta/</link>
-      <pubDate>Wed, 02 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/fanta/</guid>
-      <description>http://www.fanta.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>meomi</title>
-      <link>http://konigi.com/designs/submissions/meomi/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/meomi/</guid>
-      <description>http://meomi.com/index.html</description>
     </item>
     
   </channel>

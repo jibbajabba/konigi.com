@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ui Design on Konigi</title>
+    <title>ui design on Konigi</title>
     <link>http://konigi.com/tags/ui-design/</link>
-    <description>Recent content in Ui Design on Konigi</description>
+    <description>Recent content in ui design on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Nov 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/ui-design/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/ui-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -38,7 +37,7 @@ Version 0.1 was the preliminary version and is very rough.</description>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&amp;rsquo;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
+      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
  Download Download Version 3.</description>
     </item>
     
@@ -48,7 +47,7 @@ Version 0.1 was the preliminary version and is very rough.</description>
       <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&amp;rsquo;ll be showing true pixel dimensions.
+      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
  Installation 1.</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Color on Konigi</title>
+    <title>color on Konigi</title>
     <link>http://konigi.com/tags/color/</link>
-    <description>Recent content in Color on Konigi</description>
+    <description>Recent content in color on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Apr 2018 12:47:40 -0700</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/color/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Tue, 24 Apr 2018 12:47:40 -0700</pubDate>
       
       <guid>http://konigi.com/links/rgba-fecolormatrix/</guid>
-      <description>feColorMatrix is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
-This filter allows granular per channel color manipulation. Una Kravets wrote an excellent article explaining how to use it.</description>
+      <description>An SVG filter that changes colors based on a transformation matrix.</description>
     </item>
     
     <item>
@@ -27,7 +25,7 @@ This filter allows granular per channel color manipulation. Una Kravets wrote an
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/color-scheme-designer-3/</guid>
-      <description>Petr Stanicek&amp;rsquo;s Color Scheme Designer is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.
+      <description>Petr Stanicek&#39;s Color Scheme Designer is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.
 http://colorschemedesigner.com/</description>
     </item>
     
@@ -97,7 +95,7 @@ http://www.usabilitypost.com/2008/09/29/a-guide-to-choosing-colors-for-your-bran
       <pubDate>Thu, 07 Aug 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/cymbolism-words-colors/</guid>
-      <description>&amp;ldquo;Cymbolism is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&amp;rdquo;
+      <description>&#34;Cymbolism is a new website that attempts to quantify the association between colors and words, making it simple for designers to choose the best colors for the desired emotional effect.&#34;
 http://www.cymbolism.com/</description>
     </item>
     
@@ -107,7 +105,7 @@ http://www.cymbolism.com/</description>
       <pubDate>Fri, 06 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/crowdsourced-color-explorer/</guid>
-      <description>I have to admit, that this crowdsourced color explorer is one of the coolest ideas I&amp;rsquo;ve seen in, oh, the last few weeks. On the Dolores blog, Brendan explains how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the World Color Survey. The result was the color explorer, aka &amp;ldquo;The Amazing Color Label Wheel!</description>
+      <description>I have to admit, that this crowdsourced color explorer is one of the coolest ideas I&#39;ve seen in, oh, the last few weeks. On the Dolores blog, Brendan explains how Mechanical Turk was used to present a set of random colors to participants in an exercise designed to observe how people name colors. The project was inspired by the World Color Survey. The result was the color explorer, aka &#34;</description>
     </item>
     
     <item>
@@ -155,26 +153,6 @@ http://wafflesoftware.net/hexpicker/</description>
       
       <guid>http://konigi.com/designs/submissions/sitesquared-web-design/</guid>
       <description>http://sitesquared.com/</description>
-    </item>
-    
-    <item>
-      <title>Mondrianum, A Kuler Color Plugin for the Mac</title>
-      <link>http://konigi.com/links/mondrianum-kuler-color-plugin-mac/</link>
-      <pubDate>Mon, 07 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/mondrianum-kuler-color-plugin-mac/</guid>
-      <description>Lithoglyph’s Mondrianum is a plug-in that enables Mac applications use color palettes created by the kuler community. Mondrianum acts like a built-in, system-wide color picker, available in any application that supports this feature, including iWork, iLife, OmniGraffle Photoshop, Illustrator, Coda.
-Thanks to Andrew for the tip!
-http://www.lithoglyph.com/mondrianum</description>
-    </item>
-    
-    <item>
-      <title>Firstflash X-media Labor</title>
-      <link>http://konigi.com/designs/submissions/firstflash-x-media-labor/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/firstflash-x-media-labor/</guid>
-      <description>http://www.firstflash.net</description>
     </item>
     
   </channel>

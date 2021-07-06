@@ -26,16 +26,10 @@ featuredimg = "//media.konigi.com/tools/og-ux-template/Persona_Overview-thumb.pn
 </p>
 </div>
 <div class="column">
-<h3>Download for free or donate</h3>
+<h3>Download for free</h3>
 <p><strong><a href="//media.konigi.com/tools/og-ux-template/Konigi-UX-Template-2-5-1.gtemplate.zip">Download Version 2.5.1 (11/28/11)</a></strong><br />
 <a href="//media.konigi.com/tools/og-ux-template/Konigi.gdiagramstyle.zip">Download Diagram Style for Sitemaps</a><br />
-<span class="t10">This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.</span></p>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />
-<input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" /><br />
-<input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" /><br />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" /><br />
-</form>
+<span class="t10">This template is free to use, but may not be distributed without permission.</span></p>
 </div>
 </div>
 <hr>

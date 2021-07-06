@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Favorites on Konigi</title>
+    <title>favorites on Konigi</title>
     <link>http://konigi.com/tags/favorites/</link>
-    <description>Recent content in Favorites on Konigi</description>
+    <description>Recent content in favorites on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/favorites/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/favorites/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +17,7 @@
       
       <guid>http://konigi.com/interfaces/tumblr-fave-animation/</guid>
       <description>This is a small animation of the heart/broken heart that is shown when favoriting or unfaving a Tumblr post in the mobile app.
-Screencast / Video
-https://www.tumblr.com/</description>
+Screencast / Video https://www.tumblr.com/</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Physical Spaces on Konigi</title>
+    <title>physical spaces on Konigi</title>
     <link>http://konigi.com/tags/physical-spaces/</link>
-    <description>Recent content in Physical Spaces on Konigi</description>
+    <description>Recent content in physical spaces on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Apr 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/physical-spaces/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/physical-spaces/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ux-lessons-learned-offline-experiences/</guid>
-      <description>Jon Phillips writes about how the user experience of restaurant flow can be redesigned by illustrating the flow in a cafeteria-style space from entry, order and pickup to seating and exit. In his great diagrams he shows how the orginal flow frustrated diners (users) and could be easily re-designed to consider a flow that was immediately understandable&amp;ndash;the design he experienced made him feel stupid. Sound familiar?
+      <description>Jon Phillips writes about how the user experience of restaurant flow can be redesigned by illustrating the flow in a cafeteria-style space from entry, order and pickup to seating and exit. In his great diagrams he shows how the orginal flow frustrated diners (users) and could be easily re-designed to consider a flow that was immediately understandable--the design he experienced made him feel stupid. Sound familiar?
 I think about interior spaces like lines at Whole Foods, where sometimes it makes absolutely no sense (I&#39;m looking at you Columbus Circle) and where other lines seem to have considered this (Union Square sometimes feels efficient).</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quotes on Konigi</title>
+    <title>quotes on Konigi</title>
     <link>http://konigi.com/tags/quotes/</link>
-    <description>Recent content in Quotes on Konigi</description>
+    <description>Recent content in quotes on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Dec 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -80,8 +79,8 @@ From Bruce Springsteen&#39;s inspiring 2012 SXSW Keynote Speech.</description>
       <pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/teddy-on-haters/</guid>
-      <description>It&amp;rsquo;s the doers who do. 
-I&amp;rsquo;ve never read Theodore Roosevelt&amp;rsquo;s &amp;ldquo;Citizenship in a Republic/Man in the Arena&amp;rdquo; speech before hearing it in this BoS2011 recap video. &amp;ldquo;It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</description>
+      <description>It&#39;s the doers who do. 
+I&#39;ve never read Theodore Roosevelt&#39;s &#34;Citizenship in a Republic/Man in the Arena&#34; speech before hearing it in this BoS2011 recap video. &#34;It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.</description>
     </item>
     
     <item>
@@ -111,7 +110,7 @@ It&#39;s not enough to be aware of the domain you&#39;re working in, you need to
       
       <guid>http://konigi.com/blog/steve-jobs-saying-no/</guid>
       <description>“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
-&amp;#8212;Steve Jobs on product development, from &#34;Steve Jobs: Get Rid of the Crappy Stuff&#34;</description>
+&amp;#8212;Steve Jobs on product development, from &#34;</description>
     </item>
     
     <item>
@@ -165,29 +164,6 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia.</de
       <description>&#34;Sensible defaults can reduce friction and provide simplicity anywhere one can think to apply them. They are the bedrock of minimalist practice and a quiet mind.&#34;
 &amp;#8212;Patrick Rhone
 http://patrickrhone.com/2010/11/08/sensible-defaults/</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum, wireframes, personas, etc are just tactics...</title>
-      <link>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</link>
-      <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/lorem-ipsum-wireframes-personas-etc-are-just-tactics/</guid>
-      <description>Instead of throwing in my 2 cents on the &amp;quot;wireframes suck&amp;quot;, &amp;quot;lorem ipsum ain&amp;rsquo;t so bad&amp;quot; discussions I&amp;rsquo;ll just echo what Joshua Porter (@bokardo) has to say on the matter:
-Lorem Ipsum, wireframes, personas, etc are just tactics. The only thing that matters is: Do people love what you built?
-Amen, brother. Here&#39;s 1 cent... I agree with Karen about Lorem Ipsum.
-Via Inspire UX
-http://twitter.com/bokardo/status/7912221516</description>
-    </item>
-    
-    <item>
-      <title>inspireUX - words to inspire user experience designers</title>
-      <link>http://konigi.com/blog/inspireux-words-inspire-user-experience-designers/</link>
-      <pubDate>Mon, 09 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/inspireux-words-inspire-user-experience-designers/</guid>
-      <description>inspireUX is a blog that posts quotes to inspire user experience designers (whether they be visual designers, information architects, interaction designers, etc.). The quotes are formatted to be printed on 4x6&amp;rdquo; index cards, so you can keep them close at hand when inspiration is needed.
-http://www.inspireux.com/</description>
     </item>
     
   </channel>

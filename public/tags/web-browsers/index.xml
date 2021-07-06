@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Browsers on Konigi</title>
+    <title>web browsers on Konigi</title>
     <link>http://konigi.com/tags/web-browsers/</link>
-    <description>Recent content in Web Browsers on Konigi</description>
+    <description>Recent content in web browsers on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Nov 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/web-browsers/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/web-browsers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/remoteie-remote-testing-internet-explorer/</guid>
-      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.
-https://remote.modern.ie/</description>
+      <description>The Microsoft Remote Desktop app lets you use Azure RemoteApp to test your site on IE (on Windows 10 Technical Preview from anywhere). After you download the app for Mac, Windows iOS or Android, you can connect to their cloud-based version of IE.</description>
     </item>
     
     <item>
@@ -67,7 +65,7 @@ http://caniuse.com/</description>
       <pubDate>Thu, 17 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/google-browser-size/</guid>
-      <description>Google Browser Size is a visualization of browser window sizes for web sites. Enter a URL into the app, and the page is displayed behind an overlay showing the percentage of browser users who are able to view the visible portion, based on their browser&amp;rsquo;s available viewport size, and their display&amp;rsquo;s screen resolution. For example, the &amp;quot;90%&amp;quot; contour means that 90% of people visiting the site have their browser window open to at least this size or larger.</description>
+      <description>Google Browser Size is a visualization of browser window sizes for web sites. Enter a URL into the app, and the page is displayed behind an overlay showing the percentage of browser users who are able to view the visible portion, based on their browser&#39;s available viewport size, and their display&#39;s screen resolution. For example, the &amp;quot;90%&amp;quot; contour means that 90% of people visiting the site have their browser window open to at least this size or larger.</description>
     </item>
     
     <item>
@@ -76,7 +74,7 @@ http://caniuse.com/</description>
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/when-can-i-use-browser-technology-compatibility-table/</guid>
-      <description>When can I use is a browser compatibility table for features in HTML5, CSS3, SVG and other upcoming web technologies. Select the technologies/standards you want to implement and the browsers you want to test. Color coded tables show which browser versions will support what you&amp;rsquo;ve selected.
+      <description>When can I use is a browser compatibility table for features in HTML5, CSS3, SVG and other upcoming web technologies. Select the technologies/standards you want to implement and the browsers you want to test. Color coded tables show which browser versions will support what you&#39;ve selected.
 http://a.deveria.com/caniuse/</description>
     </item>
     
@@ -146,7 +144,7 @@ http://www.puidokas.com/portfolio/gridfox/</description>
       <pubDate>Thu, 24 Apr 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/install-multiple-versions-ie-your-pc/</guid>
-      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&amp;rsquo;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
+      <description>The Multiple IE Installer is a must have resource for front end developers. I had to configure a new computer for myself because of a recent job change, so that meant installing all of my design/development tools again. On my new MacBook Pro, I run VMWare and just ran Tredosoft&#39;s Multiple IE Installer for Windows XP. On an XP machine with IE7 (you must upgrade to IE7 before running this), the application will allow you to select versions of IE 3, 4, 5, and 6 to install.</description>
     </item>
     
     <item>

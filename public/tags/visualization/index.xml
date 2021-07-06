@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Visualization on Konigi</title>
+    <title>visualization on Konigi</title>
     <link>http://konigi.com/tags/visualization/</link>
-    <description>Recent content in Visualization on Konigi</description>
+    <description>Recent content in visualization on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 May 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,8 @@
       <pubDate>Fri, 27 May 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/aaron-koblin-artfully-visualizing-our-humanity/</guid>
-      <description>From Aaron Koblin&amp;rsquo;s TED presentation:
-&amp;ldquo;Artist Aaron Koblin takes vast amounts of data &amp;ndash; and at times vast numbers of people &amp;ndash; and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &amp;ldquo;Wilderness Downtown&amp;rdquo; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description>
+      <description>From Aaron Koblin&#39;s TED presentation:
+&#34;Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &#34;Wilderness Downtown&#34; video that customizes for the user, his works brilliantly explore how modern technology can make us more human.</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/chartbeat-dashboard/</guid>
-      <description>Slick real time data visualization in the dashboard of web analytics service chartbeat. http://chartbeat.com/dashboard/?url=avc.com&amp;k=317a25eccba186e0f6b558f45214c0e7</description>
+      <description>Slick real time data visualization in the dashboard of web analytics service chartbeat. http://chartbeat.com/dashboard/?url=avc.com&amp;amp;k=317a25eccba186e0f6b558f45214c0e7</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@
       <pubDate>Mon, 06 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/information-architects-web-trend-map-4/</guid>
-      <description>Information Architects, Japan, post their 4th Web Trends map. They&amp;rsquo;ll only be printing 1,000 copies.
+      <description>Information Architects, Japan, post their 4th Web Trends map. They&#39;ll only be printing 1,000 copies.
 http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
     </item>
     
@@ -55,7 +54,7 @@ http://informationarchitects.jp/web-trend-map-4-final-beta/</description>
       <pubDate>Tue, 28 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ny-times-visualization-lab/</guid>
-      <description>The New York Times teams up with IBM&amp;rsquo;s Many Eyes project to provide word visualizations of data in the Vizlab.
+      <description>The New York Times teams up with IBM&#39;s Many Eyes project to provide word visualizations of data in the Vizlab.
 http://vizlab.nytimes.com/</description>
     </item>
     
@@ -102,7 +101,7 @@ http://www.visual-literacy.org/periodic_table/periodic_table.html</description>
       <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/uniqlo-try/</guid>
-      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&amp;rsquo;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&amp;rsquo;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&amp;rsquo;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
+      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&#39;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&#39;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&#39;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
     </item>
     
     <item>
@@ -111,8 +110,7 @@ http://www.visual-literacy.org/periodic_table/periodic_table.html</description>
       <pubDate>Wed, 30 Apr 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/data-visualization-sites/</guid>
-      <description>If you&amp;rsquo;re looking for resources related to data visualization, look no further than the lists on these 2 great resources:  Random Etc.&amp;rsquo;s list of 20 resources Meryl.net&amp;rsquo;s list of 175 resources 
-http://meryl.net/2008/01/22/175-data-and-information-visualization-examples-and-resources/</description>
+      <description>If you&#39;re looking for resources related to data visualization, look no further than the lists on these 2 great resources:  Random Etc.&#39;s list of 20 resources Meryl.net&#39;s list of 175 resources  http://meryl.net/2008/01/22/175-data-and-information-visualization-examples-and-resources/</description>
     </item>
     
     <item>

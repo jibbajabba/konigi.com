@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Touch Screens on Konigi</title>
+    <title>touch screens on Konigi</title>
     <link>http://konigi.com/tags/touch-screens/</link>
-    <description>Recent content in Touch Screens on Konigi</description>
+    <description>Recent content in touch screens on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Feb 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/touch-screens/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/touch-screens/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/precomposed-touch-gestures/</guid>
-      <description>Aureus Wade&amp;rsquo;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&amp;rsquo;ll work in your video editor, and Photoshop.
+      <description>Aureus Wade&#39;s Precomposed Touch Gestures are a set of touch-device gestures available as QuickTime animations for use in product demos or presentations. They&#39;ll work in your video editor, and Photoshop.
 http://areuswade.com/precomposed-touch-gestures/</description>
     </item>
     
@@ -27,7 +26,7 @@ http://areuswade.com/precomposed-touch-gestures/</description>
       <pubDate>Thu, 15 Jul 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touch-notation/</guid>
-      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&amp;rsquo;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
+      <description>Touch Notation is a simple annotation system created by Matt Gemmell for documenting multi-touch gestures. It&#39;s an incredibly simple system when compared to the more literal annotation symbols that use hands, because the symbology can be quickly rendered in sketches as well as being used in wireframing libraries.
 The Touch Notation page provides PSD, AI, and OmniGraffle templates. I&#39;ve additionally created a Balsamiq Mockups version of the system on Mockups To Go.</description>
     </item>
     
@@ -57,7 +56,7 @@ http://gestureworks.com/about/open-source-gesture-library/</description>
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touch-gesture-reference-guide/</guid>
-      <description>Luke Wroblewski&amp;rsquo;s Touch Gesture Reference Guide is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures.</description>
+      <description>Luke Wroblewski&#39;s Touch Gesture Reference Guide is a set of resources for software designers and developers working on touch-based user interfaces. The guide contains: 1) an overview of the core gestures used for most touch commands 2) how to utilize these gestures to support major user actions 3) visual representations of each gesture to use in design documentation and deliverables 4) an outline of how popular software platforms support core touch gestures.</description>
     </item>
     
     <item>
@@ -86,7 +85,7 @@ http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
       <pubDate>Wed, 29 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/touchscreen-stencils/</guid>
-      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&amp;rsquo;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
+      <description>Dan Saffer of Kicker Studio provides free touch screen gesture stencils for OmniGraffle, Visio, Illustrator, and Fireworks. The icons are designed by Rachel Glaves for Saffer&#39;s book, Designing Gestural Interfaces, and depict hands performing common touchscreen gestures like tap, slide, point, drag, pinch, and spread.
 http://www.kickerstudio.com/blog/2008/12/touchscreen-stencils/</description>
     </item>
     

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Russia on Konigi</title>
+    <title>russia on Konigi</title>
     <link>http://konigi.com/tags/russia/</link>
-    <description>Recent content in Russia on Konigi</description>
+    <description>Recent content in russia on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/russia/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/russia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Sat, 17 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/showcase-web-design-russia/</guid>
-      <description>As part of Smashing Mag&amp;rsquo;s Global Web Design series, they&amp;rsquo;ve created a showcase of Russian Web Design with Designcollector&amp;rsquo;s Arseny Vesnin providing the commentary.
+      <description>As part of Smashing Mag&#39;s Global Web Design series, they&#39;ve created a showcase of Russian Web Design with Designcollector&#39;s Arseny Vesnin providing the commentary.
 http://www.smashingmagazine.com/2009/10/17/global-web-design-russia/</description>
     </item>
     

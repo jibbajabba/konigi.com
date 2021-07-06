@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T Shirts on Konigi</title>
+    <title>t-shirts on Konigi</title>
     <link>http://konigi.com/tags/t-shirts/</link>
-    <description>Recent content in T Shirts on Konigi</description>
+    <description>Recent content in t-shirts on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Jan 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/t-shirts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/t-shirts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -37,7 +36,7 @@ http://www.happywebbies.com/</description>
       <pubDate>Tue, 14 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/von-roxy-designer-wear-graphic-design-community/</guid>
-      <description>Because some of us don&amp;rsquo;t mind dropping dollars for design t-shirts. :)
+      <description>Because some of us don&#39;t mind dropping dollars for design t-shirts. :)
 Via swissmiss
 http://www.vonroxy.com/</description>
     </item>

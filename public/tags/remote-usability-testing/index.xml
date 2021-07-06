@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Remote Usability Testing on Konigi</title>
+    <title>remote usability testing on Konigi</title>
     <link>http://konigi.com/tags/remote-usability-testing/</link>
-    <description>Recent content in Remote Usability Testing on Konigi</description>
+    <description>Recent content in remote usability testing on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/remote-usability-testing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/remote-usability-testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/ipevo-ziggi-review/</guid>
-      <description>Have you ever done the dance of holding a sketch up to your computer&amp;rsquo;s webcam or taken pictures of them with your iPhone to email to yourself or to colleagues? I&amp;rsquo;ve done that sort of thing for all of the years that I&amp;rsquo;ve worked remotely on design and development teams, because scanners get tired real fast. Frustrated with this process, I had largely given up, until a few months ago when I was looking for tools to share work on paper between students and teachers.</description>
+      <description>Have you ever done the dance of holding a sketch up to your computer&#39;s webcam or taken pictures of them with your iPhone to email to yourself or to colleagues? I&#39;ve done that sort of thing for all of the years that I&#39;ve worked remotely on design and development teams, because scanners get tired real fast. Frustrated with this process, I had largely given up, until a few months ago when I was looking for tools to share work on paper between students and teachers.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ http://www.usaura.com/</description>
       <pubDate>Thu, 31 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/youeye-user-testing-webcam-eye-tracking/</guid>
-      <description>&amp;lt;a href=&amp;quot;http://www.youeye.com/&amp;lsquo;&amp;gt;YouEye looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&amp;rsquo;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.
+      <description>&amp;lt;a href=&amp;quot;http://www.youeye.com/&#39;&amp;gt;YouEye looks interesting. The usability testing service allows you to create remote, unmoderated usability test sessions with a small number of tasks, and using the test participant&#39;s web browser and web cam, they record eye-tracking results during the test. The service allows you to use paid self-identified test participants from different demographics. Would hope that you could recruit your own testers as well.
 http://youeye.com</description>
     </item>
     
@@ -98,7 +97,7 @@ Loop11 is not a survey or web analytics tool, but a user experience tool helping
       <pubDate>Wed, 04 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/userfly-instant-web-based-usability-testing-service/</guid>
-      <description>userfly.com from Chris Estreich on Vimeo. Userfly is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&amp;rsquo;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. This looks like a pretty nice service for certain types of observation. There doesn&amp;rsquo;t appear to be any options for interacting with users, e.</description>
+      <description>userfly.com from Chris Estreich on Vimeo. Userfly is a new web-based usability testing service that looks pretty exciting. When you set up a new test on the service, you&#39;re given JavaScript to enter into your site template. Userfly captures sessions including link clicks and time spent on the page, and records screen events including mouse movement and keystrokes. This looks like a pretty nice service for certain types of observation. There doesn&#39;t appear to be any options for interacting with users, e.</description>
     </item>
     
     <item>

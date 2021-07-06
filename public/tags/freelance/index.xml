@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Freelance on Konigi</title>
+    <title>freelance on Konigi</title>
     <link>http://konigi.com/tags/freelance/</link>
-    <description>Recent content in Freelance on Konigi</description>
+    <description>Recent content in freelance on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Feb 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/freelance/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/freelance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/new-blinksale-payment-options/</guid>
-      <description>Freelancers and design/dev shops have some better invoicing options at Blinksale. They just announced a new feature called BlinkPay that will allow clients to pay invoice by credit card without you having to pay for an expensive merchant account. It&amp;rsquo;s a nice alternative to PayPal. Some beautiful interface design work by Jared Christensen in there.
+      <description>Freelancers and design/dev shops have some better invoicing options at Blinksale. They just announced a new feature called BlinkPay that will allow clients to pay invoice by credit card without you having to pay for an expensive merchant account. It&#39;s a nice alternative to PayPal. Some beautiful interface design work by Jared Christensen in there.
 Disclosure: Blinksale is one of Konigi&#39;s advertisers.
 http://www.blinksale.com/2011/02/blinkpay-is-here/</description>
     </item>
@@ -28,7 +27,7 @@ http://www.blinksale.com/2011/02/blinkpay-is-here/</description>
       <pubDate>Mon, 21 Dec 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/freelancers-union-insurance-2010-summary-costs/</guid>
-      <description>Freelancers should check out Munawar Ahmed&amp;rsquo;s summary of health insurance, life insurance, and long-term disability rates for 2010 through the Freelancer&amp;rsquo;s Union.
+      <description>Freelancers should check out Munawar Ahmed&#39;s summary of health insurance, life insurance, and long-term disability rates for 2010 through the Freelancer&#39;s Union.
 http://www.munawarahmed.com/incorporation/freelancers-union-insurance/</description>
     </item>
     
@@ -39,9 +38,8 @@ http://www.munawarahmed.com/incorporation/freelancers-union-insurance/</descript
       
       <guid>http://konigi.com/blog/how-talk-non-tech-savvy-clients/</guid>
       <description>Jacob Cass offers some advice for freelancers in sussing out the technical savvy of potential clients and how to approach the project discovery discussion.
-You may want to impress your client with the vast amount of knowledge that you have, however, if they do not understand it, then all of your effort is lost. &amp;hellip; [W]hen explaining a concept, slow down, provide examples and talk in familiar terms.
-
-http://justcreativedesign.com/2008/07/06/how-to-talk-to-non-tech-savvy-clients/</description>
+You may want to impress your client with the vast amount of knowledge that you have, however, if they do not understand it, then all of your effort is lost. ... [W]hen explaining a concept, slow down, provide examples and talk in familiar terms.
+ http://justcreativedesign.com/2008/07/06/how-to-talk-to-non-tech-savvy-clients/</description>
     </item>
     
     <item>
@@ -50,7 +48,7 @@ http://justcreativedesign.com/2008/07/06/how-to-talk-to-non-tech-savvy-clients/<
       <pubDate>Wed, 04 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/find-freelance-developers-odesk/</guid>
-      <description>Designers come up with great ideas, but we aren&amp;rsquo;t always the right people to pull off the technical implementation. If you&amp;rsquo;re like me, you might be itching to get some of those ideas out into the world. oDesk is a resource for finding and tracking freelance developers to work on your project. If you want to get your sketches into the hands of someone who will make it real, this might be a useful resource.</description>
+      <description>Designers come up with great ideas, but we aren&#39;t always the right people to pull off the technical implementation. If you&#39;re like me, you might be itching to get some of those ideas out into the world. oDesk is a resource for finding and tracking freelance developers to work on your project. If you want to get your sketches into the hands of someone who will make it real, this might be a useful resource.</description>
     </item>
     
   </channel>

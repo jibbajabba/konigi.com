@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3d on Konigi</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/3d/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ The BiDi Screen is an example of a new type of I/O device that possesses the abi
       <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/jeremy-levine-design/</guid>
-      <description>The portfolio site of the Jeremy Levine Design does an excellent job highlighting the work of an architecture studio with interests in both the natural and digital environment. The site unfolds, spins, explodes, and collapses on itself to immerse the user in the projects, exploring each environment from multiple facets. The studio worked with Section Seven to realize a site that borrows some of the techniques used in that studio&amp;rsquo;s own portfolio, but contextualizes the experience for exploring 3 dimensional architectural spaces.</description>
+      <description>The portfolio site of the Jeremy Levine Design does an excellent job highlighting the work of an architecture studio with interests in both the natural and digital environment. The site unfolds, spins, explodes, and collapses on itself to immerse the user in the projects, exploring each environment from multiple facets. The studio worked with Section Seven to realize a site that borrows some of the techniques used in that studio&#39;s own portfolio, but contextualizes the experience for exploring 3 dimensional architectural spaces.</description>
     </item>
     
     <item>
@@ -36,7 +35,7 @@ The BiDi Screen is an example of a new type of I/O device that possesses the abi
       <pubDate>Thu, 05 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/uniqlo-try/</guid>
-      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&amp;rsquo;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&amp;rsquo;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&amp;rsquo;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
+      <description>Yugo Nakamura and the Simone Inc. crew are serving up some sick Flash once again for Uniqlo. This time, the mini site is devoted to women&#39;s bras. The mood is cheerful as happy electronic strings accompany the dizzying array of women&#39;s headshots spinning and combining to create patterns in 3D space. Click on a picture to reveal the details (in Japanese) of one of the women&#39;s age, height, and bra size, or use the pop up menus to filter the set down.</description>
     </item>
     
     <item>

@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Powerpoint on Konigi</title>
+    <title>powerpoint on Konigi</title>
     <link>http://konigi.com/tags/powerpoint/</link>
-    <description>Recent content in Powerpoint on Konigi</description>
+    <description>Recent content in powerpoint on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/powerpoint/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/powerpoint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/save-kittens/</guid>
-      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten&amp;hellip; and David Byrne does a happy dance.
+      <description>Mark Goetz makes a plea to save the baby kittens. Because every time you make a powerpoint, Edward Tufte kills a kitten... and David Byrne does a happy dance.
 I love how the cats run off the side of the canvas. Oh, and how no one in that meeting is paying attention... Awesome.
 http://markandrewgoetz.com/blog/wp-content/uploads/2009/11/tufte-wallpaper.png</description>
     </item>

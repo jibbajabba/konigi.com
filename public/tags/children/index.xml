@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Children on Konigi</title>
+    <title>children on Konigi</title>
     <link>http://konigi.com/tags/children/</link>
-    <description>Recent content in Children on Konigi</description>
+    <description>Recent content in children on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Oct 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/children/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/children/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,8 @@
       <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/codeorg-program-k-5/</guid>
-      <description>Code.org now has an elementary school program (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free MIT Scratch app, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.</description>
+      <description>Code.org now has an elementary school program (Kindergarden - 5th grade), and Code Studio for the program looks like its modeled after the free MIT Scratch app, a visual tool that we used with our first son to introduce computer science fundamentals a few years ago. Good stuff.
+ </description>
     </item>
     
   </channel>

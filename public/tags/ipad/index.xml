@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ipad on Konigi</title>
+    <title>iPad on Konigi</title>
     <link>http://konigi.com/tags/ipad/</link>
-    <description>Recent content in Ipad on Konigi</description>
+    <description>Recent content in iPad on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Jun 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Fri, 07 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/starters-guide-ios-design/</guid>
-      <description>Ben Taylor&amp;rsquo;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&amp;rsquo;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
+      <description>Ben Taylor&#39;s Starters Guide to iOS describes an exhaustive range of topics as intro to iOS design. He covers the deliverables you&#39;ll be expected to produce, outlines the constraints of the medium, and introduces fundamental iOS and UI design concepts.
 http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
     </item>
     
@@ -27,7 +26,7 @@ http://taybenlor.com/2013/05/21/designing-for-ios.html</description>
       <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/omnigraffle-ux-template-25-updated-ipad-pages/</guid>
-      <description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn&amp;rsquo;t been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
+      <description>@nickf called me out for not having iPad templates in the Konigi OmniGraffle Wireframe Template, so I got off my lazy ass and added some since this thing hasn&#39;t been updated in over 2 years! Added iPad Portrait 1 up, iPad Portrait 2 up, iPad Landscape 1 up. They have guides for 2x2 or 3x3 grid.
 Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared layers to modify the headers and other templates.</description>
     </item>
     
@@ -37,8 +36,8 @@ Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared laye
       <pubDate>Tue, 15 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/morereal-stylus-cap/</guid>
-      <description>Don Lehman&amp;rsquo;s MORE/REAL Stylus Cap is a cool iPad stylus project looking for funding via Kickstarter. The idea is to create a cap with a conductive tip that will fit over a Sharpie, Bic, or Fineliner pen. Lehman&amp;rsquo;s introductory video below shows the stylus cap at work.
- Looks fantastic and simple, and you&amp;rsquo;ll have one fewer thing to carry with you because it acts as pen and stylus. Sweet. You can help fund the project and reserve a cap by heading to the Kickstarter page.</description>
+      <description>Don Lehman&#39;s MORE/REAL Stylus Cap is a cool iPad stylus project looking for funding via Kickstarter. The idea is to create a cap with a conductive tip that will fit over a Sharpie, Bic, or Fineliner pen. Lehman&#39;s introductory video below shows the stylus cap at work.
+ Looks fantastic and simple, and you&#39;ll have one fewer thing to carry with you because it acts as pen and stylus. Sweet.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ Note, this is for OmniGraffle Pro ONLY. You will not be able to edit shared laye
       <pubDate>Thu, 10 Feb 2011 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/ipad-dry-erase-board/</guid>
-      <description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They&amp;rsquo;ve created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
+      <description>New sketching goodies hit the shelves at UI Stencils, from our good friends Design Commission. They&#39;ve created an iPad dry erase board with dot grid, and updated their awesome iPhone sticky pads. Definitely want to get my hands on the dry erase board.
 Update: 
 Mine arrived and I have to say that this is the nicest dry erase board I have now. It&#39;s made on hard particle board, similar to what you&#39;d find on a clipboard, so it feels great in the hands.</description>
     </item>
@@ -69,7 +68,7 @@ Starting off on the wrong foot</description>
       <pubDate>Wed, 24 Nov 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hacking-iclooly-ipad-stylus/</guid>
-      <description>The iClooly is the pen I&amp;rsquo;ve been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I&amp;rsquo;m making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn&amp;rsquo;t merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
+      <description>The iClooly is the pen I&#39;ve been using most for quick sketches on the iPad, but for longer sketches and for drawing the handwritten font I&#39;m making in iFontMaker, the short stick kind of sucks. Extending the iClooly stick is an easy hack that almost doesn&#39;t merit a post: rip off the back, take apart a mechanical pencil, and mash the two together.
 Verbose version: Remove the clicky end and the spring inside, making sure the brush is pressed down and the bristles exposed.</description>
     </item>
     
@@ -110,7 +109,7 @@ Visual Designers may use it to view artboard while you work. LiveView is compati
       <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/sketching-iclooly-stylus/</guid>
-      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&amp;rsquo;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&amp;rsquo;d try it out of curiosity.
+      <description>This seems the ideal solution for my iPad sketching needs. A few days ago, when I thought of hacking my Pogo Sketch, I started researching all of the options for creating my own drawing tool for the iPad&#39;s capacitive touch screen, and was researching the styli that were available. I came across the odd design of the iClooly and thought I&#39;d try it out of curiosity.
 I had low expectations, but was surprised by how well it works for iPad sketching.</description>
     </item>
     
@@ -120,7 +119,7 @@ I had low expectations, but was surprised by how well it works for iPad sketchin
       <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/hacking-pogo-stylus-smoother-ipad-sketching/</guid>
-      <description>I blogged about what I thought could possibly make a better stylus recently and thought I&amp;rsquo;d sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description>
+      <description>I blogged about what I thought could possibly make a better stylus recently and thought I&#39;d sketch what I was thinking. The above picture shows how I think you could hack the Pogo Sketch stylus so it will glide a little more smoothly on the iPad screen. The capacitive foam creates a little too much friction to feel natural to me. I drilled a small hole in the foam and inserted a plastic nib from an old pressure-sensitive screen stylus into the center.</description>
     </item>
     
     <item>
@@ -149,7 +148,7 @@ Freehand design sketching on the iPad is for UX designers. Any app that lets you
       <pubDate>Fri, 23 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/fueledbycoffee-ipad-sketch-blog/</guid>
-      <description>I&amp;rsquo;ve been telling people how much I dig Adobe&amp;rsquo;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&amp;rsquo;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
+      <description>I&#39;ve been telling people how much I dig Adobe&#39;s free Ideas app and Autodesk Sketchbook Pro for sketching on the iPad. Craighton Berman&#39;s Fueled by Coffee sketchblog will give you an idea of what sketches can look like using these tools. Ideas is super simple and smoothens your lines so things look naturally drawn.
 I&#39;m really loving it. The adjustment is taking time, and it&#39;s not as quick as pen and paper, but it&#39;s slightly more natural using a Pogo Sketch Stylus.</description>
     </item>
     
@@ -161,57 +160,6 @@ I&#39;m really loving it. The adjustment is taking time, and it&#39;s not as qui
       <guid>http://konigi.com/blog/ipad-application-sketch-template/</guid>
       <description>Oliver Waters released an iPad graph paper sketch template. 10px squared, with tick marks to indicate indicate the heights of the Status Bar, Navigation Bar, Split View (Landscape Only), Keyboard and Tab Bar. See also his iPhone sketch template.
 http://www.flickr.com/photos/owaters/4501918517/</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle for iPad Video</title>
-      <link>http://konigi.com/blog/omnigraffle-ipad-video/</link>
-      <pubDate>Fri, 02 Apr 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ipad-video/</guid>
-      <description>The OmniGroup now has video up of the OmniGraffle for iPad showing what looks to be an awesome product. I can&amp;rsquo;t wait to get my hands on it.
-http://www.omnigroup.com/products/omnigraffle-ipad/videos/</description>
-    </item>
-    
-    <item>
-      <title>iPad Templates and Stencils</title>
-      <link>http://konigi.com/blog/ipad-templates-and-stencils/</link>
-      <pubDate>Thu, 18 Mar 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ipad-templates-and-stencils/</guid>
-      <description>Emily Chang rounds up the offering of iPad UI stencils. Some nice OmniGraffle and Photoshop sets in there.
-http://emilychang.com/2010/03/ipad-templates-and-stencils/</description>
-    </item>
-    
-    <item>
-      <title>iPad Stencil for Omnigraffle</title>
-      <link>http://konigi.com/links/ipad-stencil-omnigraffle/</link>
-      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/ipad-stencil-omnigraffle/</guid>
-      <description>iA have created an iPad stencil for OmniGraffle. Contains backgrounds, title bars, buttons, selectors, and other iPhone UI elements. Based the iPad PSD GUI by Teehan+Lax. Text is fully editable on lists, title bars, buttons, and scroll wheels
-Download and read more at iA
-http://informationarchitects.jp/ipad-stencil-for-omnigraffle/</description>
-    </item>
-    
-    <item>
-      <title>iPhoneOS Design Stencil for iPhone and iPad</title>
-      <link>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</link>
-      <pubDate>Tue, 16 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/iphoneos-design-stencil-iphone-and-ipad/</guid>
-      <description>An iPhone OS OmniGraffle stencil for designing applications for iPhone, iPod touch and iPad devices. The stencil, for now, is targeted at developers familiar with the default characteristics of views and controls provided by UIKit. The stencil shapes are all vector based. The initial focus is on views and controls provided by UIKit and recommended application styles as discussed in the iPhone and iPad Human Interface Guidelines.
-http://www.morford.org/iphoneosdesignstencil/</description>
-    </item>
-    
-    <item>
-      <title>New Multi-touch Interactions on the Apple iPad</title>
-      <link>http://konigi.com/blog/new-multi-touch-interactions-apple-ipad/</link>
-      <pubDate>Fri, 29 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/new-multi-touch-interactions-apple-ipad/</guid>
-      <description>Craig Villamor and Luke Wroblewski summarize the new interactions we&amp;rsquo;ll be seeing in the iPad.
-During Apple&#39;s 90 minute unveiling of the iPad this week, a lot of new multi-touch interactions were shown off. But they went by fast. So as a service to digital product designers everywhere, we took the time to extract 8 minutes of new user interface demos from the iPad keynote. Now you can quickly just catch the UI in action on Apple&#39;s new native iPad and iWork applications.</description>
     </item>
     
   </channel>

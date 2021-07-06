@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>History on Konigi</title>
+    <title>history on Konigi</title>
     <link>http://konigi.com/tags/history/</link>
-    <description>Recent content in History on Konigi</description>
+    <description>Recent content in history on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/history/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ Human-computer interaction (HCI) is an area of research and practice that emerge
       <pubDate>Wed, 11 Mar 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/history-evolution-user-experience-design/</guid>
-      <description>On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&amp;rsquo;s Peter Merholz to talk about the history and evolution of User Experience Design. User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&amp;rsquo;s actually not the way many designers historically thought about making things.</description>
+      <description>On the Tea with Teresa podcast, Teresa Brazen interviews Adaptive Path&#39;s Peter Merholz to talk about the history and evolution of User Experience Design. User experience design is, at its core, a philosophy that products and services should be designed so that they are pleasurable and easy for people to use. While that might seem an obvious design approach, it&#39;s actually not the way many designers historically thought about making things.</description>
     </item>
     
   </channel>

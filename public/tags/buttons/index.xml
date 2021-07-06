@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Buttons on Konigi</title>
+    <title>buttons on Konigi</title>
     <link>http://konigi.com/tags/buttons/</link>
-    <description>Recent content in Buttons on Konigi</description>
+    <description>Recent content in buttons on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Aug 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/buttons/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/buttons/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 03 Aug 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/now-thats-big-assed-button/</guid>
-      <description>There&amp;rsquo;s no doubt about where the call to action is here. I especially like the useful copy on this page. &amp;quot;If for any reason you are unwilling or unable to click the giant button, please email us&amp;hellip;&amp;quot;
+      <description>There&#39;s no doubt about where the call to action is here. I especially like the useful copy on this page. &amp;quot;If for any reason you are unwilling or unable to click the giant button, please email us...&amp;quot;
 Via @patio11
 http://www.gaiaonline.com/</description>
     </item>

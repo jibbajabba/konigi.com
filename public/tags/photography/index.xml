@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photography on Konigi</title>
+    <title>photography on Konigi</title>
     <link>http://konigi.com/tags/photography/</link>
-    <description>Recent content in Photography on Konigi</description>
+    <description>Recent content in photography on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 May 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -58,7 +57,7 @@ http://bonterra.ca</description>
       <pubDate>Tue, 21 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/petra-quilitz/</guid>
-      <description>This is one perhaps one of the most attractive portfolios I&amp;rsquo;ve seen for an Info. Arch./Interaction Designer. Love the use of photography to highlight the nice large deliverables tacked on the walls. Great stuff.
+      <description>This is one perhaps one of the most attractive portfolios I&#39;ve seen for an Info. Arch./Interaction Designer. Love the use of photography to highlight the nice large deliverables tacked on the walls. Great stuff.
 http://www.petraquilitz.com/</description>
     </item>
     
@@ -68,7 +67,7 @@ http://www.petraquilitz.com/</description>
       <pubDate>Fri, 12 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/palm-pre/</guid>
-      <description>Palm&amp;rsquo;s Pre product page has a serious, polished look that I assume is targeted at a &amp;ldquo;grown up,&amp;rdquo; no-nonsense audience, judging by the business user scenarios in the video and the big kitchen counter backdrop. The smooth, rounded corners of the page&amp;rsquo;s UI elements echo the pebble shape of the phone and the circular shapes of the Pre OS. I like the use of depth of field with the full bleed photo, the hover of the boxes on the right, the change in state when clicking the site search box, and the categorized features at the bottom.</description>
+      <description>Palm&#39;s Pre product page has a serious, polished look that I assume is targeted at a &#34;grown up,&#34; no-nonsense audience, judging by the business user scenarios in the video and the big kitchen counter backdrop. The smooth, rounded corners of the page&#39;s UI elements echo the pebble shape of the phone and the circular shapes of the Pre OS. I like the use of depth of field with the full bleed photo, the hover of the boxes on the right, the change in state when clicking the site search box, and the categorized features at the bottom.</description>
     </item>
     
     <item>
@@ -87,7 +86,7 @@ http://yayeveryday.com/</description>
       <pubDate>Thu, 30 Apr 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/sexfemale/</guid>
-      <description>Bold photography in Lena Vazhenina&amp;rsquo;s portfolio. Moving through the photos isn&amp;rsquo;t the most intuitive thing though&amp;ndash;you have to click and drag horizontally. But gorgeous presentation.
+      <description>Bold photography in Lena Vazhenina&#39;s portfolio. Moving through the photos isn&#39;t the most intuitive thing though--you have to click and drag horizontally. But gorgeous presentation.
 http://sexfemale.cc/</description>
     </item>
     
@@ -147,7 +146,7 @@ http://www.barrelny.com/</description>
       <pubDate>Sat, 21 Jun 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/daisy-balloon/</guid>
-      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&amp;rsquo;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
+      <description>Daisy is an artist that does incredible things with balloons. The site presently shows some amazing dresses fabricated with the long balloons you&#39;d usually only see in the form of little animals, but Daisy elevates the art to design amazing clothing that could be called haute couture. I could easily imagine these things being made out of a less ephemeral material and being worn, albeit a bit uncomfortably.</description>
     </item>
     
     <item>
@@ -158,298 +157,6 @@ http://www.barrelny.com/</description>
       <guid>http://konigi.com/blog/destroyflickr/</guid>
       <description>Tina pointed to DestroyFlickr, an excellent AIR application for viewing Flickr photos.
 DestroyFlickr explores alternative methods for viewing and sharing Flickr content. Its user interface provides an environment that benefits photos rather than hindering them. With the ability to look at a photo on a dark, neutral background, you can view it without the interference of a brighter surrounding. By using workspaces and canvases, DestroyFlickr is able to retain a constant history of where you have navigated, offering the ability to revisit an area without the need to reload the entire page.</description>
-    </item>
-    
-    <item>
-      <title>D I S T U R B A N I T Y</title>
-      <link>http://konigi.com/designs/submissions/d-i-s-t-u-r-b-n-i-t-y/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/d-i-s-t-u-r-b-n-i-t-y/</guid>
-      <description>Graphic designer and illustrator Matthias Gephart works on music industry, cultural assignments, magazine editorial, sports, and fashion projects. His portfolio is a clean and simple, which serves to really give the lovely illustration center stage.
-http://www.disturbanity.com/</description>
-    </item>
-    
-    <item>
-      <title>New Blood Agency</title>
-      <link>http://konigi.com/designs/submissions/new-blood-agency/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/new-blood-agency/</guid>
-      <description>New Blood Agency features a portfolio that is dominated by luscious photo spreads that take over the screen. The transition of the company name in red on the first page load over grayscale photos that then warm up the screen with color is subtle, but powerful.
-http://www.newbloodagency.com/</description>
-    </item>
-    
-    <item>
-      <title>rob dobi</title>
-      <link>http://konigi.com/designs/submissions/rob-dobi/</link>
-      <pubDate>Fri, 30 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/rob-dobi/</guid>
-      <description>Rockin portfolio from illustrator rob dobi. Love the subtle 3D effect on the heading, and the big galleries of thumbnails. The old school frames actually work very well for this site.
-http://www.dobi.nu/</description>
-    </item>
-    
-    <item>
-      <title>Horacio Salinas</title>
-      <link>http://konigi.com/designs/submissions/horacio-salinas/</link>
-      <pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/horacio-salinas/</guid>
-      <description>http://www.horaciosalinas.net/</description>
-    </item>
-    
-    <item>
-      <title>MARTINESSS</title>
-      <link>http://konigi.com/designs/submissions/martinesss/</link>
-      <pubDate>Fri, 23 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/martinesss/</guid>
-      <description>http://www.chichov.com/</description>
-    </item>
-    
-    <item>
-      <title>AEVUM</title>
-      <link>http://konigi.com/designs/submissions/aevum/</link>
-      <pubDate>Tue, 22 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/aevum/</guid>
-      <description>http://www.aevumphoto.com/</description>
-    </item>
-    
-    <item>
-      <title>Swims</title>
-      <link>http://konigi.com/designs/submissions/swims/</link>
-      <pubDate>Mon, 21 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/swims/</guid>
-      <description>http://www.swims.com/</description>
-    </item>
-    
-    <item>
-      <title>Gene Smirnov</title>
-      <link>http://konigi.com/designs/submissions/gene-smirnov/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/gene-smirnov/</guid>
-      <description>http://www.genesmirnov.com/</description>
-    </item>
-    
-    <item>
-      <title>We heart it</title>
-      <link>http://konigi.com/designs/submissions/we-heart-it/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/we-heart-it/</guid>
-      <description>http://weheartit.com/</description>
-    </item>
-    
-    <item>
-      <title>omg!</title>
-      <link>http://konigi.com/designs/submissions/omg/</link>
-      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/omg/</guid>
-      <description>http://omg.yahoo.com</description>
-    </item>
-    
-    <item>
-      <title>GOTOCHINA</title>
-      <link>http://konigi.com/designs/submissions/gotochina/</link>
-      <pubDate>Thu, 27 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/gotochina/</guid>
-      <description>http://ringvemedia.com/home</description>
-    </item>
-    
-    <item>
-      <title>Aperture Foundation</title>
-      <link>http://konigi.com/designs/submissions/aperture-foundation/</link>
-      <pubDate>Mon, 24 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/aperture-foundation/</guid>
-      <description>http://www.aperture.org/store/default.aspx</description>
-    </item>
-    
-    <item>
-      <title>MethodIzaz.com</title>
-      <link>http://konigi.com/designs/submissions/methodizazcom/</link>
-      <pubDate>Thu, 20 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/methodizazcom/</guid>
-      <description>http://methodizaz.com/</description>
-    </item>
-    
-    <item>
-      <title>Jan Sochor</title>
-      <link>http://konigi.com/designs/submissions/jan-sochor/</link>
-      <pubDate>Sat, 08 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/jan-sochor/</guid>
-      <description>http://www.jansochor.com/</description>
-    </item>
-    
-    <item>
-      <title>Jorg &amp; Olif Dutch Bicycles</title>
-      <link>http://konigi.com/designs/submissions/jorg-olif-dutch-bicycles/</link>
-      <pubDate>Sun, 02 Mar 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/jorg-olif-dutch-bicycles/</guid>
-      <description>http://www.jorgandolif.com/</description>
-    </item>
-    
-    <item>
-      <title>Katja Schweiker</title>
-      <link>http://konigi.com/designs/submissions/katja-schweiker/</link>
-      <pubDate>Thu, 28 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/katja-schweiker/</guid>
-      <description>http://www.katjaschweiker.com/</description>
-    </item>
-    
-    <item>
-      <title>COBA</title>
-      <link>http://konigi.com/designs/submissions/coba/</link>
-      <pubDate>Wed, 27 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/coba/</guid>
-      <description>http://www.cobahair.co.uk/</description>
-    </item>
-    
-    <item>
-      <title>Julie Bayard</title>
-      <link>http://konigi.com/designs/submissions/julie-bayard/</link>
-      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/julie-bayard/</guid>
-      <description>http://www.juliebayard.fr/</description>
-    </item>
-    
-    <item>
-      <title>Kurt Stallaert</title>
-      <link>http://konigi.com/designs/submissions/kurt-stallaert/</link>
-      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/kurt-stallaert/</guid>
-      <description>http://www.kurtstallaert.com/</description>
-    </item>
-    
-    <item>
-      <title>Richard Meier On Prospect Park</title>
-      <link>http://konigi.com/designs/submissions/richard-meier-prospect-park/</link>
-      <pubDate>Tue, 26 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/richard-meier-prospect-park/</guid>
-      <description>http://onprospectpark.com/</description>
-    </item>
-    
-    <item>
-      <title>Imaginary moments</title>
-      <link>http://konigi.com/designs/submissions/imaginary-moments/</link>
-      <pubDate>Mon, 25 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/imaginary-moments/</guid>
-      <description>http://www.imoments.org/</description>
-    </item>
-    
-    <item>
-      <title>topic luxe</title>
-      <link>http://konigi.com/designs/submissions/topic-luxe/</link>
-      <pubDate>Tue, 19 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/topic-luxe/</guid>
-      <description>http://www.topicluxe.jp/</description>
-    </item>
-    
-    <item>
-      <title>AKIO NISHIYAMA : HAIR STYLIST</title>
-      <link>http://konigi.com/designs/submissions/akio-nishiyama-hair-stylist/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/akio-nishiyama-hair-stylist/</guid>
-      <description>http://www.akionishiyama.com/</description>
-    </item>
-    
-    <item>
-      <title>Alberto Oviedo Photography</title>
-      <link>http://konigi.com/designs/submissions/alberto-oviedo-photography/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/alberto-oviedo-photography/</guid>
-      <description>http://oviedofoto.com/</description>
-    </item>
-    
-    <item>
-      <title>Analogue</title>
-      <link>http://konigi.com/designs/submissions/analogue/</link>
-      <pubDate>Mon, 18 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/analogue/</guid>
-      <description>http://www.analogue.ca/main.html</description>
-    </item>
-    
-    <item>
-      <title>Fin&amp;Atilde;&amp;copy;</title>
-      <link>http://konigi.com/designs/submissions/fin/</link>
-      <pubDate>Sat, 16 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/fin/</guid>
-      <description>http://www.finejapon.com/flash_en.html</description>
-    </item>
-    
-    <item>
-      <title>Numero TOKYO</title>
-      <link>http://konigi.com/designs/submissions/numero-tokyo/</link>
-      <pubDate>Fri, 15 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/numero-tokyo/</guid>
-      <description>http://www.numero.jp/</description>
-    </item>
-    
-    <item>
-      <title>Leica Camera AG</title>
-      <link>http://konigi.com/designs/leica-camera-ag/</link>
-      <pubDate>Tue, 12 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/leica-camera-ag/</guid>
-      <description>The Scholz &amp;amp; Volkmer designed flash site for Leica is a beautiful product showcase with large, sumptuous photographs by Carli Hermes that tell stories, little vignettes really, as seen through the eyes of several Leica toting characters. The direction of the vignettes is flawless, at times feeling like documentary footage, complete with Ken Burns effect panning of photographs. But something magically surreal happens when you&amp;rsquo;re looking at the still photography&amp;ndash;elements of the background, including clouds, falling leaves, and waves of water move.</description>
-    </item>
-    
-    <item>
-      <title>Design Can Change</title>
-      <link>http://konigi.com/designs/design-can-change/</link>
-      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/design-can-change/</guid>
-      <description>Design Can Change is a site created by designers at smashLab to provoke the community to start thinking and acting towards sustainable practices. The message of the site is delivered simply and elegantly. Succinct lead copy is accompanied by appropriate infographics, illustration, and stunning photography. Most importantly, the campaign effectively uses storytelling to communicate the issue emphatically and create connection with the audience so they may make the same pledge.</description>
-    </item>
-    
-    <item>
-      <title>Drykorn</title>
-      <link>http://konigi.com/designs/drykorn/</link>
-      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/drykorn/</guid>
-      <description>With a tagline like &amp;ldquo;for beautiful people,&amp;rdquo; your web site better beautiful too. Drykorn totally delivers on that promise. There are very few sites I gush over, but every time I come back to this site I want to just wrap myself up in it. Each season the design takes on a new texture, in line with the colors and fabrics of their garments. The design showcased here is for Spring/Summer &amp;lsquo;08, and its appropriately light, but summery fabric background is still as rich and textured as the dark woolen background they sported in the Winter look.</description>
-    </item>
-    
-    <item>
-      <title>ShoeGuru</title>
-      <link>http://konigi.com/designs/submissions/shoeguru/</link>
-      <pubDate>Thu, 31 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/submissions/shoeguru/</guid>
-      <description>http://shoeguru.ca/index.php</description>
-    </item>
-    
-    <item>
-      <title>Elmwood</title>
-      <link>http://konigi.com/designs/elmwood/</link>
-      <pubDate>Fri, 04 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/designs/elmwood/</guid>
-      <description>UK agency Elmwood employs large photos and type on an atmospheric backdrop that gives a bold, modern elegance to their message, &amp;ldquo;We create brands with authentic attitude.&amp;rdquo;
-http://elmwood.co.uk</description>
     </item>
     
   </channel>

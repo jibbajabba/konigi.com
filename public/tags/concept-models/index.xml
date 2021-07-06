@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concept Models on Konigi</title>
+    <title>concept models on Konigi</title>
     <link>http://konigi.com/tags/concept-models/</link>
-    <description>Recent content in Concept Models on Konigi</description>
+    <description>Recent content in concept models on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Feb 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/concept-models/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/concept-models/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 16 Feb 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/when-sitemaps-dont-work-two-alternatives/</guid>
-      <description>Interesting discussion in M. Jackson Wilkinson&amp;rsquo;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&amp;rsquo;t work in your documentation. I have to agree with one point, in that site maps don&amp;rsquo;t always serve documentation well when the notion of a strict hierarchy just doesn&amp;rsquo;t exist. But I think there&amp;rsquo;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
+      <description>Interesting discussion in M. Jackson Wilkinson&#39;s blog about the altnernatives to hierarchical sitemaps, and the use of concept maps or user flows as alternatives when hierarchy doesn&#39;t work in your documentation. I have to agree with one point, in that site maps don&#39;t always serve documentation well when the notion of a strict hierarchy just doesn&#39;t exist. But I think there&#39;s utility in sitemaps at conveying the organization of a site or application at some level.</description>
     </item>
     
   </channel>

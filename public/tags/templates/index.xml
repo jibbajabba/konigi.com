@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Templates on Konigi</title>
+    <title>templates on Konigi</title>
     <link>http://konigi.com/tags/templates/</link>
-    <description>Recent content in Templates on Konigi</description>
+    <description>Recent content in templates on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jul 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/templates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -59,7 +58,7 @@ http://briancray.com/2009/11/30/omnigraffle-wireframing-960-grid-template/</desc
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/content-templates-rescue/</guid>
-      <description>Erin Kissane writes about using content templates &amp;ldquo;&amp;hellip; to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&amp;rdquo; in A List Apart.
+      <description>Erin Kissane writes about using content templates &#34;... to help speed up the information-collection process, improve consistency across the website, and make the editing process easier and more orderly&#34; in A List Apart.
 The ideal situation is to have a content strategist, perhaps a technical writer, who can provide the guidance for auditing and organizing information, and add some rigor to the writing process. The absence of a content strategist on a project necessitates at least dedicating one person to this task.</description>
     </item>
     
@@ -99,8 +98,8 @@ http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470185481,descCd-DOWNLOAD.ht
       <pubDate>Tue, 26 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/usabilitygov-templates-examples/</guid>
-      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&amp;rsquo;s usability needs. All of these are in the public domain and can be freely downloaded.
-Among the most useful of the files you&amp;rsquo;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
+      <description>Usability.gov has a very comprehensive set of templates, forms, and examples that are organized by steps in the usability process: Plan, Analyze, Design, Test and Refine. They can be customized for your organization&#39;s usability needs. All of these are in the public domain and can be freely downloaded.
+Among the most useful of the files you&#39;ll find in this collection are commonly used usability test plan templates, waivers and consent forms.</description>
     </item>
     
     <item>
@@ -109,7 +108,7 @@ Among the most useful of the files you&amp;rsquo;ll find in this collection are 
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/zefamedia-ux-templates/</guid>
-      <description>zef[a]media&amp;rsquo;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
+      <description>zef[a]media&#39;s UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.
 http://www.zefamedia.com/websites/free-ux-templates/</description>
     </item>
     
@@ -158,67 +157,8 @@ http://zakiwarfel.com/archives/persona-templates/</description>
       <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/tools/omnigraffle-wireframe-stencils/</guid>
-      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&amp;rsquo;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
+      <description>About This is a set of shapes for making wireframe in OmniGraffle 5 Pro or OmniGraffle 6 (Mac OS X). It consists of most of the basic elements you&#39;ll need to create user interface specifications.  No Installation Required! The stencils ship with OmniGraffle! Find them in the Software category. To download them anyway, get the file and open it, when it appears click the Install button.
  Download Download Version 3.</description>
-    </item>
-    
-    <item>
-      <title>STC Usability Toolkit</title>
-      <link>http://konigi.com/links/stc-usability-toolkit/</link>
-      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/stc-usability-toolkit/</guid>
-      <description>The STC Usability Toolkit is a resource I&amp;rsquo;ve borrowed from over the years and continue to find myself back at fro time to time. The toolkit is a collection of forms, checklists and other useful documents for conducting usability tests and user interviews. http://www.stcsig.org/usability/resources/toolkit/toolkit.html</description>
-    </item>
-    
-    <item>
-      <title>Smashing Magazine iPhone PSD Vector Kit</title>
-      <link>http://konigi.com/links/smashing-magazine-iphone-psd-vector-kit/</link>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/smashing-magazine-iphone-psd-vector-kit/</guid>
-      <description>Smashing Magazine releases their own iPhone design kit, designed by Renee Rist.
-http://www.smashingmagazine.com/2008/11/26/iphone-psd-vector-kit/</description>
-    </item>
-    
-    <item>
-      <title>Cockburn&#39;s Basic Use Case Template</title>
-      <link>http://konigi.com/links/cockburns-basic-use-case-template/</link>
-      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/cockburns-basic-use-case-template/</guid>
-      <description>Just discovering that Dr. Alistair Cockburn, whose Writing Effective Use Cases book got me through many a project, has a wiki. On the wiki he offers some great resources like the basic use case templates. If you don&#39;t have the book, this is a pretty good substitute for understanding use case writing.
-http://alistair.cockburn.us/index.php/Basic_use_case_template</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template</title>
-      <link>http://konigi.com/blog/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/omnigraffle-ux-template/</guid>
-      <description>Made for UI design OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&#39;ll be showing true pixel dimensions.
- Installation 1.</description>
-    </item>
-    
-    <item>
-      <title>OmniGraffle UX Template [Archived]</title>
-      <link>http://konigi.com/tools/omnigraffle-ux-template/</link>
-      <pubDate>Tue, 26 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/tools/omnigraffle-ux-template/</guid>
-      <description>Made for web designers OmniGraffle Pro (v. 5) template for interface design. Includes shared layers for basic UX document needs, e.g. title page, wireframes, storyboards. Grid with guides keeps your layout tight. Sized to work in 100% at 1:1 ratio in terms of pixels&amp;#8212;the wireframe is 950px wide 30px cols. To print, export to PDF and scale to fit. In presentation mode, you&amp;rsquo;ll be showing true pixel dimensions.
- Installation 1.</description>
-    </item>
-    
-    <item>
-      <title>Graph Paper</title>
-      <link>http://konigi.com/blog/graph-paper/</link>
-      <pubDate>Fri, 27 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/graph-paper/</guid>
-      <description>About This 8.5 x 11 inch graph paper is made for visual designers, interaction designers, and information architects. You&#39;ll find styles for wireframing user interfaces, and story boarding interaction. I&#39;ve been told that it&#39;s also used by animators and filmmakers. Enjoy.
- Scanning These cyan and gray grid pages are great for sketching, but also work well when producing high fidelity drawings. The boxes and grid lines of the cyan versions are non-photo blue, so you can easily remove them when scanned.</description>
     </item>
     
   </channel>

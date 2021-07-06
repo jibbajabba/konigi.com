@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Usability on Konigi</title>
+    <title>usability on Konigi</title>
     <link>http://konigi.com/tags/usability/</link>
-    <description>Recent content in Usability on Konigi</description>
+    <description>Recent content in usability on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/usability/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/usability/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Tue, 13 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/ux-check/</guid>
-      <description>UX Check is a Google Chrome extension for reviewing web sites and apps against Jakob Neilsen&amp;rsquo;s Usability Heuristics.
+      <description>UX Check is a Google Chrome extension for reviewing web sites and apps against Jakob Neilsen&#39;s Usability Heuristics.
 The tool opens the heuristics in a side panel next to the website you enter. You select a problem area on the screen, related to one of the usability heuristics and a callout appears for you to add notes and recommendations. When you&#39;re done a report is available with screenshots and your notes for each issue.</description>
     </item>
     
@@ -31,7 +30,7 @@ The tool opens the heuristics in a side panel next to the website you enter. You
 An exercise during which users are asked to re-create a screen based on their memory.
 Source: &amp;quot;What UX Research Can You Do with 5 Users in 1 Hour?,&amp;quot; by Tomer Sharon. Asbury Agile 2012.
 How to do it 1. Create an evaluation kit
-  Print any screen  Cut the screen into elements (leave some out)  Also print/cut some elements that weren&amp;rsquo;t on the screen  Mix the pieces up  Sharpie and some extra paper</description>
+  Print any screen  Cut the screen into elements (leave some out)  Also print/cut some elements that weren&#39;t on the screen  Mix the pieces up  Sharpie and some extra paper  2.</description>
     </item>
     
     <item>
@@ -69,7 +68,7 @@ http://www.atlanticbt.com/blog/6-things-video-games-can-teach-us-about-web-usabi
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
-      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
+      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone--Convert and Covertbot--and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
 Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around.</description>
     </item>
     
@@ -79,7 +78,7 @@ Fun isn’t always the new usable. There are situations in which usability is mo
       <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/iphone-all-fun-and-games/</guid>
-      <description>Fred Beecher wrote the excellent article &amp;ldquo;The iPhone is Not Easy to Use: A New Direction for User Experience&amp;rdquo; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
+      <description>Fred Beecher wrote the excellent article &#34;The iPhone is Not Easy to Use: A New Direction for User Experience&#34; on Johnny Holland to talk about why the iPhone is not easy to use (at first), and why it changes the game for user experience designers. The examples illustrate how gestural interfaces are hidden, and lack the affordances of physical buttons. But the real story here is how the iPhone brings one thing to the experience that is more important than usability&amp;#8212;fun.</description>
     </item>
     
     <item>
@@ -88,9 +87,9 @@ Fun isn’t always the new usable. There are situations in which usability is mo
       <pubDate>Mon, 13 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/dont-forget-heuristics/</guid>
-      <description>Theresa Neil continues her tips for designing great Flex UX&amp;rsquo;s showcasing interfaces that exemplify Jakob Nielsen&amp;rsquo;s 10 usability heuristics.
+      <description>Theresa Neil continues her tips for designing great Flex UX&#39;s showcasing interfaces that exemplify Jakob Nielsen&#39;s 10 usability heuristics.
 Don’t forget the usability basics. Jakob Nielsen’s Ten Usability Heuristics are as relevant now as they were in 1999. I stress this because I looked at the Flex showcase recently, and it looks like many of the applications are not built with these best practices in mind.
- Read more at Theresa Neil&amp;rsquo;s blog.</description>
+ Read more at Theresa Neil&#39;s blog.</description>
     </item>
     
     <item>
@@ -100,8 +99,7 @@ Don’t forget the usability basics. Jakob Nielsen’s Ten Usability Heuristics 
       
       <guid>http://konigi.com/links/userfocus-247-web-usability-guidelines/</guid>
       <description>Userfocus provides guidelines for evaluating web site usability. The cover the following different contexts.
- Home page usability Task orientation Navigation and IA Forms and data entry Trust and credibility Writing and content quality Page layout and visual design Search usability Help, feedback and error tolerance 
-http://www.userfocus.co.uk/resources/guidelines.html</description>
+ Home page usability Task orientation Navigation and IA Forms and data entry Trust and credibility Writing and content quality Page layout and visual design Search usability Help, feedback and error tolerance  http://www.userfocus.co.uk/resources/guidelines.html</description>
     </item>
     
     <item>
@@ -160,134 +158,6 @@ This offers designers, advertisers and creatives, a Pre-testing technology that 
       
       <guid>http://konigi.com/blog/account-sign-8-design-mistakes-avoid/</guid>
       <description>&amp;quot;I don&#39;t want to develop a relationship with these guys. I just want to buy something.&amp;quot; That&#39;s what some of your customers are saying when you ask them to register or sign in, and some of them will walk away with their dollars if you frustrate them enough. UIE rounds up the most common mistakes they observe from watching users in testing sessions try to sign in to user accounts.</description>
-    </item>
-    
-    <item>
-      <title>UX Booth: Free Website Usability Testing Reviews &amp; UX Blog</title>
-      <link>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</link>
-      <pubDate>Tue, 02 Dec 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ux-booth-free-website-usability-testing-reviews-ux-blog/</guid>
-      <description>The UX Booth is a group that writes about User Experience, and offers free Website Usability Reviews that all designers and developers can benefit from.
-Via Digital Web
-http://www.uxbooth.com/</description>
-    </item>
-    
-    <item>
-      <title>Colors and the UI</title>
-      <link>http://konigi.com/blog/colors-and-ui/</link>
-      <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/colors-and-ui/</guid>
-      <description>On InfoQ Tobias Komischke highlights some aspects of colors and color perception together with recommendations for UI design.
-http://www.infoq.com/articles/Colors-UI</description>
-    </item>
-    
-    <item>
-      <title>Twingr Registration: My mind was made up before I even tried the product</title>
-      <link>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</link>
-      <pubDate>Fri, 14 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/twingr-registration-my-mind-was-made-i-even-tried-product/</guid>
-      <description>I very rarely will say anything about a site if the only opinion I have is negative. Twingr looked like an interesting idea. The service let&amp;rsquo;s you create your own Twitter-clone microblogging site, as does Yammer, but without any constraints regarding who you may invite. Alas, I can&amp;rsquo;t say that I know what the experience is like because I couldn&amp;rsquo;t get past the front door, so I walked away possibly never to return.</description>
-    </item>
-    
-    <item>
-      <title>Touch Usability</title>
-      <link>http://konigi.com/blog/touch-usability/</link>
-      <pubDate>Tue, 11 Nov 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/touch-usability/</guid>
-      <description>Kevin Arthur&amp;rsquo;s Touch Usability is a blog devoted to usability news and research on touch screen interfaces.
-http://www.touchusability.com/</description>
-    </item>
-    
-    <item>
-      <title>Ease of Use Makes Money and Saves Money</title>
-      <link>http://konigi.com/blog/ease-use-makes-money-and-saves-money/</link>
-      <pubDate>Tue, 07 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/ease-use-makes-money-and-saves-money/</guid>
-      <description>Lawrence Najjar provides a bibliography of literature to help you make the ROI argument for investing in ease of use.
-http://www.tandemseven.com/insights/blog/details/41/</description>
-    </item>
-    
-    <item>
-      <title>Site Map Usability</title>
-      <link>http://konigi.com/blog/site-map-usability/</link>
-      <pubDate>Tue, 02 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/site-map-usability/</guid>
-      <description>Jakob Nielsen&#39;s Alertbox reports on their study of sitemaps, observing that among the sites they tested, sitemaps continue to be a useful tool to some people. While their study shows that they are rarely used, they can be simple, inexpensive tools to generate for the users who find value in the sense-making cues that a visual overview provides. Their recommendation is to continue to use them if you already produce them, but keep them static and don&#39;t add interactive effects to them.</description>
-    </item>
-    
-    <item>
-      <title>The Usability Post, A design and usability blog</title>
-      <link>http://konigi.com/blog/usability-post-design-and-usability-blog/</link>
-      <pubDate>Mon, 25 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/usability-post-design-and-usability-blog/</guid>
-      <description>Dmitry Fadeyev&amp;rsquo;s new blog, The Usability Post is posting some thoughtful entries on design usability.
-http://www.usabilitypost.com/</description>
-    </item>
-    
-    <item>
-      <title>Year&#39;s 10 Best Application UIs</title>
-      <link>http://konigi.com/blog/years-10-best-application-uis/</link>
-      <pubDate>Wed, 13 Aug 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/years-10-best-application-uis/</guid>
-      <description>Jakob Nielsen reveals the winners of a competition to identify the 10 best-designed application user interfaces for 2008.
-The winners:
- Campaign Monitor by Eyeblaster (Israel): Integrated management of multiple advertising campaigns for media buyers. CMSBox by CMSBox (Switzerland): Content management system FotoFlexer by Arbor Labs (USA): Photo editor PRISMAprepare by Océ (The Netherlands): Print shop software. Seating Management by Magellan Network and DesignBox (USA): Hostess-stand reservation book for restaurants. SQL diagnostic manager by Idera (USA): Database performance monitoring and diagnostics SugarSync by Sharpcast (USA): Synchronizing files across multiple computers.</description>
-    </item>
-    
-    <item>
-      <title>Measuring the Usability of Everyday Products</title>
-      <link>http://konigi.com/blog/measuring-usability-everyday-products/</link>
-      <pubDate>Mon, 02 Jun 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/measuring-usability-everyday-products/</guid>
-      <description>David Travis reports for UserFocus on &#34;ISO 2082, Ease of Operation of Every Day Products.&#34; While web-focussed interaction designers and information architects may not be involved in the design of everyday products, we should probably be interested at a high level, in the processes discussed. As Travis points out, clients are increasingly concerned with objective measurements of usability, and standards such as this &#34;...will help ensure that we have robust and reliable test methods for all interactive designs, whether these are products, software or web sites.</description>
-    </item>
-    
-    <item>
-      <title>Choice Kills Usability</title>
-      <link>http://konigi.com/blog/choice-kills-usability/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/choice-kills-usability/</guid>
-      <description>John S. Rhodes offers a great reminder in this short article on Apogee of how to focus narrowly on singular goals to increase usability. Key things to remember:
- One of the easiest ways to improve usability is by focusing on just one thing. Provide a clear vision. Be practical. Focus for usability.</description>
-    </item>
-    
-    <item>
-      <title>Paper Prototyping with Morae</title>
-      <link>http://konigi.com/blog/paper-prototyping-morae/</link>
-      <pubDate>Thu, 24 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/paper-prototyping-morae/</guid>
-      <description>Userfocus provides some inspiration for capturing paper prototype tests with Morae and a webcam. Their method invovlves positioning the camera over the prototype, connect the cam directly to the PC, viewing the camera live in a video editor, and recording the output of the editor in Morae. This method is ingenious. It gives you all of the agility of doing a paper prototype, with the flexbility and control of using Morae for the observation, note taking, and highlight reel creation.</description>
-    </item>
-    
-    <item>
-      <title>Shneiderman&#39;s Eight Golden Rules of Interface Design</title>
-      <link>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</link>
-      <pubDate>Thu, 17 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/shneidermans-eight-golden-rules-interface-design/</guid>
-      <description>Ben Shneiderman&#39;s Eight Golden Rules of Interface Design are user interface design rules described in Designing the User Interface: Strategies for Effective Human-Computer Interaction. Shneiderman proposed this collection of principles that are derived heuristically from experience and applicable in most interactive systems after being properly refined, extended, and interpreted.
-To improve the usability of an application it is important to have a well designed interface and these &#34;Eight Golden Rules of Interface Design&#34;</description>
-    </item>
-    
-    <item>
-      <title>23 Actionable Lessons from Eye-Tracking Studies</title>
-      <link>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</link>
-      <pubDate>Mon, 14 Jan 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/blog/23-actionable-lessons-eye-tracking-studies/</guid>
-      <description>Christina Laun summarizes the top lessons to take away from eyetracking studies.
- Text attracts attention before graphics. Initial eye movement focuses on the upper left corner of the page. Users initially look at the top left and upper portion of the page before moving down and to the right. Readers ignore banners. Fancy formatting and fonts are ignored. Show numbers as numerals. Type size influences viewing behavior. Users only look at a sub headline if it interests them.</description>
     </item>
     
   </channel>

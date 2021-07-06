@@ -1,7 +1,14 @@
-{{ partial "header.html" . }}
-{{ partial "gnav.html" . }}
+{{ define "main" }}
 
-{{ partial "hero.html" . }}
+<section class="hero ">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title">
+        {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
 
 <section class="section">
   <div class="container is-size-5">
@@ -31,4 +38,4 @@
   }
 </style>
 
-{{ partial "footer.html" . }}
+{{ end }}

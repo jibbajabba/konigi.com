@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product Development on Konigi</title>
+    <title>product development on Konigi</title>
     <link>http://konigi.com/tags/product-development/</link>
-    <description>Recent content in Product Development on Konigi</description>
+    <description>Recent content in product development on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/product-development/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/product-development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +16,7 @@
       <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/des-traynor-product-strategy-about-saying-no/</guid>
-      <description>The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&amp;rsquo;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic. 
-http://vimeo.com/81544164</description>
+      <description>The devil runs UX workshops for idle hands, and he comes up with bad features. This is Des Traynor&#39;s lightning talk at Business of Software in 2013. He did an extended version of this in 2014, but the pecha kucha version gets to the heart of the topic.  http://vimeo.com/81544164</description>
     </item>
     
     <item>
@@ -80,7 +78,7 @@ In terms of chart success, Elton John is probably the polar opposite of The Grat
       
       <guid>http://konigi.com/blog/steve-jobs-saying-no/</guid>
       <description>“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”
-&amp;#8212;Steve Jobs on product development, from &#34;Steve Jobs: Get Rid of the Crappy Stuff&#34;</description>
+&amp;#8212;Steve Jobs on product development, from &#34;</description>
     </item>
     
     <item>
@@ -100,7 +98,7 @@ Chouinard is a mountain climber, environmentalist, and founder of Patagonia.</de
       <pubDate>Wed, 30 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/caterina-fake-why-working-hard-overrated/</guid>
-      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&amp;rsquo;t as important as working on the right things. Or as I once heard on a cartoon as a kid&amp;hellip; &amp;ldquo;you have to work smarter not harder.&amp;rdquo;
+      <description>Caterina Fake, founder of Flickr and Hunch, talks about why working hard isn&#39;t as important as working on the right things. Or as I once heard on a cartoon as a kid... &#34;you have to work smarter not harder.&#34;
 Much more important than working hard is knowing how to find the right thing to work on. Paying attention to what is going on in the world. Seeing patterns. Seeing things as they are rather than how you want them to be.</description>
     </item>
     
@@ -110,7 +108,7 @@ Much more important than working hard is knowing how to find the right thing to 
       <pubDate>Wed, 26 Nov 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/working-through-screens-book/</guid>
-      <description>Flashbulb Interactions&amp;rsquo;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
+      <description>Flashbulb Interactions&#39;s Working through Screens is an excellent, well-illustrated ebook on concept design for designers and product developers. The key point here is how to use design tools and methodologies to get the right design for the problem. Working through Screens is an online book for product teams creating new or iteratively improved applications for thinking work. Written for use during early, formative conversations, it provides teams with a broad range of considerations for setting the overall direction and priorities for their onscreen tools.</description>
     </item>
     
   </channel>

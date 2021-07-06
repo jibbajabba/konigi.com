@@ -32,11 +32,4 @@ featuredimg = "//media.konigi.com/tools/schedule-cost-calculator/schedule-cost-s
 <p><img src="//media.konigi.com/tools/schedule-cost-calculator/schedule-cost-summary.png" style="border: 4px solid black" /></p>
 
 <p><strong><a href="//media.konigi.com/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip">Download the Excel Template</a></strong><br />
-<span class="t10">This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.</span></p>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />
-<input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" /><br />
-<input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" /><br />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" /><br />
-</form>
+<span class="t10">This template is free to use, but may not be distributed without permission. </span></p>

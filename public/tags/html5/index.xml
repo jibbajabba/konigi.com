@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html5 on Konigi</title>
+    <title>html5 on Konigi</title>
     <link>http://konigi.com/tags/html5/</link>
-    <description>Recent content in Html5 on Konigi</description>
+    <description>Recent content in html5 on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Sep 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/html5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/google-web-designer/</guid>
-      <description>Google Web Designer is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&amp;rsquo;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.
+      <description>Google Web Designer is design and development tools for creating interactive HTML5-based motion graphics. The tool looks like it&#39;s targeted at advertising creative. It provides templates for banner ads, which makes sense, but can be used for generating any canvas motion graphics. The default layouts are for DoubleClick and AdMob mobile ads.
 Web Designer is a web application that&#39;s built with HTML5, and runs natively on your desktop. It provides support for text, images, videos, and even provides bezier drawing tools for creating shapes and 3d objects.</description>
     </item>
     
@@ -57,7 +56,7 @@ http://visitmix.com/labs/ai2canvas/</description>
       <pubDate>Fri, 17 Dec 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/html5-boilerplate-rock-solid-default-html5/</guid>
-      <description>I stumbled on Paul Irish and Divya Manian&amp;rsquo;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&amp;rsquo;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&amp;rsquo;s site.
+      <description>I stumbled on Paul Irish and Divya Manian&#39;s HTML5 Boilerplate after looking for a solution to fall back on a local jQuery library if Google&#39;s CDN ever went south, and reading about how to use this technique for WordPress. Ben Kutil also helped me undersand how the fallback technique works a little bit, and I tested and implemented on Balsamiq&#39;s site.
 HTML5 Boilerplate is not a library, but a template and set of awesome examples for how to get started integrating HTML 5 into your sites.</description>
     </item>
     
@@ -96,7 +95,7 @@ http://caniuse.com/</description>
       <pubDate>Tue, 26 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/links/sublimevideo-html-5-video-player/</guid>
-      <description>SublimeVideo is an HTML5 video player with full screen play and scrubbing controls. Because it&amp;rsquo;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.
+      <description>SublimeVideo is an HTML5 video player with full screen play and scrubbing controls. Because it&#39;s HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.
 Via @dandean
 http://jilion.com/sublime/video</description>
     </item>

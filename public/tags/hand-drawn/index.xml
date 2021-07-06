@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hand Drawn on Konigi</title>
+    <title>hand drawn on Konigi</title>
     <link>http://konigi.com/tags/hand-drawn/</link>
-    <description>Recent content in Hand Drawn on Konigi</description>
+    <description>Recent content in hand drawn on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Oct 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/hand-drawn/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/hand-drawn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,7 +26,7 @@ http://hitotoki.org/</description>
       <pubDate>Thu, 23 Jul 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/joe/</guid>
-      <description>The whimsical sketched interface of Joe Davis&amp;rsquo; design portfolio.
+      <description>The whimsical sketched interface of Joe Davis&#39; design portfolio.
 http://www.joedavis.co.uk/</description>
     </item>
     
@@ -37,7 +36,7 @@ http://www.joedavis.co.uk/</description>
       <pubDate>Wed, 17 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/submissions/beirutbandcom/</guid>
-      <description>I like the hand drawn look of this band&amp;rsquo;s Flash page, especially the audio controls in the corner.
+      <description>I like the hand drawn look of this band&#39;s Flash page, especially the audio controls in the corner.
 (Link via @andrewkorf)
 http://www.beirutband.com/</description>
     </item>
@@ -67,7 +66,7 @@ http://www.doanepaper.com/</description>
       <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/back-napkin/</guid>
-      <description>I can&amp;rsquo;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&amp;rsquo;t need to be good at drawing to do it.</description>
+      <description>I can&#39;t think of a more appropriate site for a cute hand drawn interface than for The Back of the Napkin book site. This is a great book for anyone who wants to expand their tools for business thinking. Dan Roam provides a friendly approach and simple formula to using drawing to collect, analyze, and communicate problems and ideas, and you don&#39;t need to be good at drawing to do it.</description>
     </item>
     
     <item>
@@ -76,7 +75,7 @@ http://www.doanepaper.com/</description>
       <pubDate>Mon, 03 Mar 2008 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/designs/pixelmind/</guid>
-      <description>Pixelmind is the portfolio Li Chin, a Malysian web designer residing in Sweden. She emphasizes that she likes to create clean, simple designs with easy navigation. That ability is clearly evidenced in this site, which is one of the most refreshing portfolio designs I&amp;rsquo;ve come across in some time. The sketches of Li in various poses, including holding a placard of the local navigation, and in the treatment of the site title, global navigation and buttons really give the site personality, without being too cutesy.</description>
+      <description>Pixelmind is the portfolio Li Chin, a Malysian web designer residing in Sweden. She emphasizes that she likes to create clean, simple designs with easy navigation. That ability is clearly evidenced in this site, which is one of the most refreshing portfolio designs I&#39;ve come across in some time. The sketches of Li in various poses, including holding a placard of the local navigation, and in the treatment of the site title, global navigation and buttons really give the site personality, without being too cutesy.</description>
     </item>
     
   </channel>

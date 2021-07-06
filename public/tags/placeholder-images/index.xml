@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Placeholder Images on Konigi</title>
+    <title>placeholder images on Konigi</title>
     <link>http://konigi.com/tags/placeholder-images/</link>
-    <description>Recent content in Placeholder Images on Konigi</description>
+    <description>Recent content in placeholder images on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 May 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/placeholder-images/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/placeholder-images/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,17 +21,6 @@ http://flickholdr.com/</description>
     </item>
     
     <item>
-      <title>Placehold.it: Simple image placeholders</title>
-      <link>http://konigi.com/links/placeholdit-simple-image-placeholders/</link>
-      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://konigi.com/links/placeholdit-simple-image-placeholders/</guid>
-      <description>Placehold.it is a placeholder image service that let&amp;rsquo;s you place images using a url like this: http://placehold.it/350x150 which ends up like the box below when placed in an image tag.
-Via @moddpodd
-http://placehold.it</description>
-    </item>
-    
-    <item>
       <title>lorempixum: Placeholder images for every case</title>
       <link>http://konigi.com/links/lorempixum-placeholder-images-every-case/</link>
       <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
@@ -41,6 +29,17 @@ http://placehold.it</description>
       <description>lorempixum is a cool placeholder image service for html wireframers and prototypers. Set dimensions for a placeholder image, and optionally select a category and color or black and white, and the URL will provided will serve a random image for your html page.
 Via @poornerd
 http://lorempixum.com/</description>
+    </item>
+    
+    <item>
+      <title>Placehold.it: Simple image placeholders</title>
+      <link>http://konigi.com/links/placeholdit-simple-image-placeholders/</link>
+      <pubDate>Fri, 08 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://konigi.com/links/placeholdit-simple-image-placeholders/</guid>
+      <description>Placehold.it is a placeholder image service that let&#39;s you place images using a url like this: http://placehold.it/350x150 which ends up like the box below when placed in an image tag.
+Via @moddpodd
+http://placehold.it</description>
     </item>
     
     <item>

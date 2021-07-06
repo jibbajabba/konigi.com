@@ -1,14 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emotion on Konigi</title>
+    <title>emotion on Konigi</title>
     <link>http://konigi.com/tags/emotion/</link>
-    <description>Recent content in Emotion on Konigi</description>
+    <description>Recent content in emotion on Konigi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Sep 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://konigi.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://konigi.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,7 +16,7 @@
       <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
       
       <guid>http://konigi.com/blog/playfulness-usability-context-three-pillars-delightful-user-experience/</guid>
-      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone&amp;ndash;Convert and Covertbot&amp;ndash;and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
+      <description>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone--Convert and Covertbot--and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:
 Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around.</description>
     </item>
     
