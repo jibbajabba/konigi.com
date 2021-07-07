@@ -1,39 +1,49 @@
 .konigi-home {
   .home-hero {
-	background-image: url(/img/bg.jpg);
-	// background-attachment: fixed;
+    background-image: url(/img/bg.jpg);
+    // background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;	
-	min-height: 649px;
-	color: $white;
-	a {
-		color: $white;
-		&:hover {
-			text-decoration: underline;
-			text-decoration-thickness: 2px;
-		}		
-		
+    background-size: cover;    
+    min-height: 649px;
+    color: $white;
+	@include breakpoint(sm) {	
+		min-height:auto;
 	}
-	.home-logo {
-		color: $white;
-		@include breakpoint(md) {
-		  margin-top: 72px;
-		}
+    a {
+        color: $white;
+        &:hover {
+            text-decoration: underline;
+            text-decoration-thickness: 2px;
+        }        
+        
+    }
+    .home-logo {
+        color: $white;
 		margin-top: 144px;
 		@include fontsize(100, 156);
 		font-weight: bold;
 		@include text-shadow("light");
-	  }
-	  .home-description {
-		@include fontsize(48, 52);
-		@include text-shadow("light");
-	  }
+        @include breakpoint(sm) {
+            margin-top: 36px;
+			@include fontsize(52, 64);
+        }
+        @include breakpoint(md) {
+          margin-top: 72px;
+        }
+      }
+      .home-description {
+        @include fontsize(48, 52);
+        @include text-shadow("light");
+		@include breakpoint(sm) {
+			@include fontsize(32, 48);
+		}
+      }
   }
   h2 {
-	  border-bottom: 1px solid $bordercolor;
+      border-bottom: 1px solid $bordercolor;
   }
   .djset {
-	  border-bottom: 1px solid $bordercolor;
+      border-bottom: 1px solid $bordercolor;
   }
 }

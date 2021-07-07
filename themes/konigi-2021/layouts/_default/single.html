@@ -23,7 +23,6 @@
             </a>
           </section>
           {{ end }}
-          <hr/>
           <section class="metadata single bottom">
             <div class="pub-date">Published on {{ .Date.Format "Monday, Jan 2, 2006" }} in <a href="/{{ .Section }}" class="capitalize">{{ .Section }}</a></div>
             <ul class="tags">
@@ -41,7 +40,6 @@
     {{/* Next/Prev Nav */}}
     {{ if or .PrevInSection .NextInSection }}
     {{/* this div holds these a tags as a unit for flex-box display */}}
-      <hr>
       <div class="pagination">
         {{if .PrevInSection}}
           <a href="{{ .PrevInSection.Permalink }}" title="{{ .PrevInSection.Title }}">

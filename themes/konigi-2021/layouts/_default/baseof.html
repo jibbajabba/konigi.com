@@ -169,34 +169,37 @@
 <div id="footer">
   <section class="section footer-links">
     <div class="container">
+      <div class="has-text-centered mb-6">
+        Konigi is &copy; 2007-{{ .Date.Format "2006" }} Michael Angeles &nbsp; &middot; &nbsp; For booking or to just say hi, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHve_3pTqk7KtbmRcHhqGFh3_eQGckqj2bR97e9pbipTbOGw/viewform?usp=sf_link"  target="_blank">contact me</a>.
+      </div>
       <div class="columns">
         <div class="column is-one-quarter">
           <ul>
-            <li><strong>&copy; Michael Angeles</strong></li>
             <li><a href="{{ .Site.BaseURL }}/about/">About</a></li>
-            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHve_3pTqk7KtbmRcHhqGFh3_eQGckqj2bR97e9pbipTbOGw/viewform?usp=sf_link"  target="_blank">Contact</a></li>
+            <li><a href="/blog/">Blog</a></li>
+            <li><a href="{{ .Site.BaseURL }}/djsets/">DJ Sets</a></a></li>            
           </ul>
         </div>
         <div class="column is-one-quarter">
           <ul>
-            <strong></strong></li>
-            <li><a href="/djsets/">DJ Sets</a></li>
-            <li><a href="/art/">Art</a></li>
-            <li><a href="/photos/">Photos</a></li>
+            <li><a href="{{ .Site.BaseURL }}/art/">Art</a></li>
+            <li><a href="{{ .Site.BaseURL }}/photos/">Photos</a></li>
+            <li><a href="{{ .Site.BaseURL }}/poetry/">Poetry</a></li>
+
           </ul>
         </div>
         <div class="column is-one-quarter">
           <ul>
-            <li><a href="/design/">Design Articles</a></li>
-            <li><a href="/interfaces/">UI Gallery</a></li>
-            <li><a href="/tools/">UI Design Tools</a></li>
+            <li><a href="{{ .Site.BaseURL }}/design/">Design Articles</a></li>
+            <li><a href="{{ .Site.BaseURL }}/interfaces/">UI Gallery</a></li>
+            <li><a href="{{ .Site.BaseURL }}/tools/">UI Design Tools</a></li>
           </ul>
         </div>    
         <div class="column is-one-quarter">
           <ul>
-            <li><a href="/tools/graph-paper/">Printable Graph Paper</a></li>
-            <li><a href="/tools/sketchbooks-diy/">DIY Sketchbooks</a></li>
-            <li><a href="/tools/schedule-and-cost-summary-calculator/">Cost Summary Calculator</a></li>
+            <li><a href="{{ .Site.BaseURL }}/tools/graph-paper/">Printable Graph Paper</a></li>
+            <li><a href="{{ .Site.BaseURL }}/tools/sketchbooks-diy/">DIY Sketchbooks</a></li>
+            <li><a href="{{ .Site.BaseURL }}/tools/schedule-and-cost-summary-calculator/">Cost Summary Calculator</a></li>
           </ul>
         </div> 
       </div>{{/* END COLUMNS */}}
