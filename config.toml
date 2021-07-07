@@ -11,7 +11,7 @@ Paginate = "30"
 PageSize = "30"
 
 enableRobotsTXT = true
-canonifyURLs = true
+canonifyURLs = false
 
 [params]
 author = "Michael Angeles"

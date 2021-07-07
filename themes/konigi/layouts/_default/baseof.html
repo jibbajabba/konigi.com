@@ -78,7 +78,9 @@
   <link rel="shortcut icon" type="image/png" href="/img/favicons/favicon.ico" />
 
   {{/* Styles */}}
-  {{ $style := resources.Get "sass/konigi.scss" | toCSS | minify | fingerprint }}
+  {{ $options := (dict "targetPath" "css/konigi.css" "outputStyle" "compressed" "enableSourceMap" true "includePaths" (slice "node_modules/myscss")) }}
+  {{ $style := resources.Get "sass/konigi.scss" | resources.ToCSS $options | fingerprint }}
+  
   <link rel="stylesheet" href="{{ $style.Permalink }}">
 
   {{/* Fonts */}}
@@ -105,8 +107,6 @@
 
     gtag('config', 'UA-178038624-1');
   </script>
-
-{{/* Google Ads <script data-ad-client="ca-pub-9039997918100594" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> */}}
 
 </head>
 
