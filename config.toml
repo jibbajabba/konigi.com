@@ -1,6 +1,6 @@
 title = "Konigi"
-baseurl = "http://konigi.com/"
-theme = "konigi"
+baseurl = "https://konigi.com/"
+theme = "konigi-2021"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
