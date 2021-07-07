@@ -23,15 +23,7 @@ featuredimg = "//media.konigi.com/tools/graphpaper/png/konigi-wireframe-cyan.png
     <h3>Download</h3>
     <p>
     <strong><a href="//media.konigi.com/tools/graphpaper/konigi-graphpaper-pdf.zip" class="morelink">Download all of the PDF files.</a></strong></p>
-    <p>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-    <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 border-none paypal" />
-    <input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" />
-    <input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" />
-    <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" />
-    </form>
-    <span class="t10">These templates are free to use and distribute, but may not be sold without permission. If you like it, buy me a coffee or make a donation to keep my server running. ;)</span>
-    </p>
+    <p>These templates are free to use and distribute, but may not be sold without permission. If you like it, buy me a coffee or make a donation to keep my server running. ;)</p>
   </div>
 </div>
 

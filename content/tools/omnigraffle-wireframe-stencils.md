@@ -25,12 +25,6 @@ featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wire
 <h3>Download</h3>
 <p><a href="//media.konigi.com/tools/og-wireframe-stencil/Konigi_Wireframe_Stencils_v3-3.gstencil.zip">Download Version 3.3 (6/14/13)</a><br />
 <span class="t10">Stencils are free to use, but can't be distributed. If you like them, a donation is appreciated.</span></p>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />
-<input type="hidden" name="cmd" value="_s-xclick" class="mar0 pad0" /><br />
-<input type="hidden" name="hosted_button_id" value="2318535" class="mar0 pad0" /><br />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" class="mar0 pad0" /><br />
-</form>
 </div>
 </div>
 <hr>
