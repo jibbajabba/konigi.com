@@ -25,5 +25,6 @@
 	  border-color: $pink;
 	  color: $accent3 !important;
 	  font-weight: bold;
+	  @include fontsize(18,24)
 	}
 }
