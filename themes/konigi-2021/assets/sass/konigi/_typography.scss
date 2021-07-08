@@ -332,9 +332,12 @@ footer {
 
 // ========================================
 // PAGINATION
-section.pagination {
-  @include fontsize(18,18);
+section.pagination a {
+  @include fontsize(21,21);
   font-weight: 700;
+  .disabled a {
+    color: $graymed;
+  }
 }
 
 // ========================================
