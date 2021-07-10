@@ -26,5 +26,10 @@
 	  color: $accent3 !important;
 	  font-weight: bold;
 	  @include fontsize(18,24)
+	  &:hover {
+		  background: $linkhovercolor;
+		  border-color: $linkhovercolor;
+		  color: $white !important;
+	  }
 	}
 }

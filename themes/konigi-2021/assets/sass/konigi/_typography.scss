@@ -202,16 +202,6 @@ ul#filter {
 }
 
 // ========================================
-// HEADER SELECTED SECTION
-// .active
-#navMenu a {
-  color: $white;
-}
-#navMenu .active a {
-  color: $accent;
-}
-
-// ========================================
 // FOOTER
 footer {
   text-align: center;
@@ -332,11 +322,18 @@ footer {
 
 // ========================================
 // PAGINATION
-section.pagination a {
-  @include fontsize(21,21);
-  font-weight: 700;
+.pagination {
+  color: $graymed;
+  a {
+    @include fontsize(21,21);
+    font-weight: 700;
+  }
+  li.active a {
+    color: $graymed !important;
+    border: none !important;
+  }
   .disabled a {
-    color: $graymed;
+    color: $graymed !important;
   }
 }
 

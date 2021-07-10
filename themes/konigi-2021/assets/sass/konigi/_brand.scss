@@ -9,7 +9,10 @@ body {
   #logo {
     color: $white;
     @include fontsize(36,48);
-    font-weight: 600;
+    font-weight: 600;  
+    &:hover {
+      color: $linkhovercolor;
+    }
     @include breakpoint(sm) {
       margin-left: 20px;
       display: inline-block;
@@ -25,7 +28,20 @@ body {
   }
 }
 
-// NAVBAR
+// ========================================
+// GNAV SELECTED SECTION
+// .active
+
+#navMenu a {
+  color: $white;
+  &:hover {
+    color: $accent;
+  }
+}
+#navMenu .active a {
+  color: $accent;
+}
+
 .navbar {
   padding-top: 0 !important;
   animation: .5s ease-out 0s .5s slideInFromTop;
