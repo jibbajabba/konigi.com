@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     background-size: cover;    
     min-height: 649px;
+    min-height: 87vh;
     color: $white;
 	@include breakpoint(sm) {	
 		min-height:auto;
