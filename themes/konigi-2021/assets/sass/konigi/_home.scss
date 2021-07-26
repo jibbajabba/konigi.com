@@ -5,12 +5,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
-    min-height: 649px;
-    min-height: 66vh;
+    min-height: 710px;
+    // min-height: 75vh;
     color: $white;
-	@include breakpoint(sm) {	
-		min-height:auto;
-	}
+  	@include breakpoint(sm) {	
+  		min-height:auto;
+  	}
     a {
         color: $white;
         &:hover {
