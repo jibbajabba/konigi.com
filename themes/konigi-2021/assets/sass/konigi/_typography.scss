@@ -43,7 +43,7 @@ em {
 }
 
 .intro, .dek {
-  @include fontsize(18, 27);
+  @include fontsize(36, 48);
 }
 
 .selected, a.selected, .selected a {
