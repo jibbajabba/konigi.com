@@ -2,6 +2,9 @@
 html, body {
   overflow-x: hidden;
 }
+body {
+  min-height: 100vh;
+}
 
 // GNAV
 #header {
@@ -75,6 +78,11 @@ html, body {
     height: 2px;
     color: $white;
   }
+}
+
+// BODY
+#body {
+  min-height: 50vh;
 }
 
 // HERO
