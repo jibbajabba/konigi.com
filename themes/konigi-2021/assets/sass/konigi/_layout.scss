@@ -122,6 +122,7 @@ section.article-list {
   position: relative;
   overflow: hidden;
   min-height: 300px;
+  box-shadow: rgba(255, 255, 255, 0.18) 0px 0px 3px;
 }
 .boxgrid .entryinner { /* child */
   height: 100%;
@@ -292,6 +293,12 @@ article img.full-image,
 .sunchasing article img,
 .home article img {
   width: 100%;
+}
+article img.center,
+article img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 // VIDEO
