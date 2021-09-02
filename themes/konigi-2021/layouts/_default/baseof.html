@@ -132,6 +132,7 @@
           <ul id="navMenu" class="is-hidden-mobile">
             <li class="{{ if or (eq .Section "djsets") (eq .Section "djtags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/djsets/">DJ Sets</a></li>
             <li class="{{ if or (eq .Section "art") (eq .Section "arttags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/art/">Art</a></li>
+            <li class="{{ if or (eq .Section "design") (eq .Section "designtags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/design/">Design</a></li>
             <li class="{{ if or (eq .Section "photos") (eq .Section "phototags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/photos/">Photos</a></li>
             <li class="{{ if or (eq .Section "blog") (eq .Section "blogtags") }}active{{ end }}"><a href="{{ .Site.BaseURL }}/blog">Blog</a></li>
             <li id="socmed">          
