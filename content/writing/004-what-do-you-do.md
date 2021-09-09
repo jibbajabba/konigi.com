@@ -11,7 +11,7 @@ featuredimg = ""
 
 +++
 
-I saw him sitting on a rock in the dust with his face in his hands, trying to stifle the sounds behind them. His shoulders shuddering. He's a grown man wearing cut off t-shirt sleeves and a leather cowboy-looking hat. He was crying. Bawling, really. He wasn't the only one. 
+I saw him sitting on a rock in the dust with his face in his hands, trying to stifle the sounds behind them. His shoulders shuddering. He's a grown man in a muscle shirt and leather cowboy hat. He was crying. Bawling, really. He wasn't the only one. 
 
 Looking around me, outside the ornate building, I began to take in more of the people gathered here. Some were in small groups and others alone. They were mostly quiet and somber. A few were holding their heads in their hands, as if the sorrow or grief weighing them down made it difficult to support otherwise. Leather hat man fell into that category. Others were just silent and contemplative. 
 
