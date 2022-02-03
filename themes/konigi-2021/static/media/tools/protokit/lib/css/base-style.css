@@ -1,0 +1,16 @@
+/*  =======================================================
+    LIBRARY CSS
+    ======================================================= */
+
+@import "blueprint/screen.css";
+@import "blueprint/src/typography.css";
+@import "jquery-ui.css";
+@import "skin.css";
+
+/*  =======================================================
+    SKIN OVERRIDES
+    ======================================================= */
+
+html {
+  background-color: #eee !important;
+}

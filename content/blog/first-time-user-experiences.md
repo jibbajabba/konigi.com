@@ -9,7 +9,7 @@ slug = "first-time-user-experiences"
 
 
 
-  <div class="notebook-screenshot"><a href="http://firsttimeux.tumblr.com/"><img src="//media.konigi.com/bluga/wt52f3ed16ca20c_large.jpg"/></a></div><p><a href="http://firsttimeux.tumblr.com/">First Time User Experiences</a> is a showcase of new user experiences and onboarding flows, created by Krystal Higgins. See also Higgins' article on <a href="http://www.kryshiggins.com/first-time-user-experiences-in-mobile-apps/">First time user experiences in mobile apps</a>.</p>
+  <div class="notebook-screenshot"><a href="http://firsttimeux.tumblr.com/"><img src="//konigi.com/media/bluga/wt52f3ed16ca20c_large.jpg"/></a></div><p><a href="http://firsttimeux.tumblr.com/">First Time User Experiences</a> is a showcase of new user experiences and onboarding flows, created by Krystal Higgins. See also Higgins' article on <a href="http://www.kryshiggins.com/first-time-user-experiences-in-mobile-apps/">First time user experiences in mobile apps</a>.</p>
 
 <p><small>Via <a href="https://twitter.com/balsamiqLeon">Leon</a></small></p>
 

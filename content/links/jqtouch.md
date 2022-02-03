@@ -8,7 +8,7 @@ slug = "jqtouch"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.jqtouch.com/"><img id="bluga-thumbnail-2804" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.jqtouch.com/"><img id="bluga-thumbnail-2804" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt52311bf85d63b_custom.jpg"/></a></div><p><a href="http://www.jqtouch.com/">jQtouch</a> is a jQuery plugin for mobile web development on the iPhone, iPod Touch, and other forward-thinking devices. It provides themed UI components, and behaviors using native Webkit animation.</p>
 
   

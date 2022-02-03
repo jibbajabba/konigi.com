@@ -8,7 +8,7 @@ slug = "quplo-html-prototyping"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://quplo.com/"><img id="bluga-thumbnail-2674" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://quplo.com/"><img id="bluga-thumbnail-2674" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fa9c2b4a42_custom.jpg"/></a></div><p><a href="http://quplo.com/">Quplo</a> may be the most promising HTML prototyping tools I've seen for UX designers who know a little HTML and would like to do HTML prototyping, but either don't have the chops to build the interaction by hand, or are lazy like me.</p>
 
 <p>The web-based tool allows you to build multiple prototypes using a combination of standard HTML/CSS. If you can do JS, the standard JS libraries are available to include in your pages (or sheets in Quplo lingo).</p>

@@ -11,7 +11,7 @@ slug = "your-majesty"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.your-majesty.com/#/home"><img id='bluga-thumbnail-1554' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.your-majesty.com/#/home"><img id='bluga-thumbnail-1554' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt49da2c868cf74.jpg'/></a></div>  
   </div>   
 <p>Your Majesty releases their portfolio.</p>

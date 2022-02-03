@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <title>Welcome to Protokit</title>
+
+    <!-- LIBRARIES -->
+    <script type="text/javascript" src="lib/js/jquery-plus-jquery-ui.js"></script>
+    <script type="text/javascript" src="lib/js/templates.min.js"></script>    
+    <script type="text/javascript" src="lib/js/protokit.js"></script>
+    <script type="text/javascript"> var notes='false'; var spec='false'; </script>
+
+    <!-- PROJECT FILES -->
+    <link rel="stylesheet" type="text/css" href="lib/css/base-style.css" />    
+    
+    <style type="text/css">
+      h1 {margin-top: 10px; font-weight: bold; }
+      .marquee {
+        padding: 1em 0;
+        margin-bottom: 1em;
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;        
+      }
+    </style>
+    
+  </head>
+  <body>
+
+  <div id="protokit">{index}
+  <!-- index page starts -->
+    
+  <h1>{title}</h1>
+  
+  <div class="marquee">
+  {cols}
+    {col12}
+    
+      <h2>Quick Start</h2>
+      
+      <ol>
+      <li>Create a new project folder. Copy the <a href="projects/template/index.html">/projects/template</a> directory to a new folder inside of projects/.</li>
+      <li>Create your html prototypes in the new project directory.</li>
+      <li>Set your note and spec variables in the head of each .html file you create. Then create .notes and .spec files if you set those variables to "true."</li>
+      <li>Look at the files in <a href="projects/demo/index.html">/projects/demo</a> to inspect and learn from the prototypes in that directory. There are examples using either manually coded jQuery and iXEdit-generated code.</li>
+      </ol>
+    
+    {/col}
+    {col12last}
+    
+      <h2>Documentation</h2>
+      
+      <ul>
+        <li><a href="doc.html">Read the documentation</a> for complete instructions and a Protokit cookbook.</li>
+        <li>For more information and updates or to report bugs and issues, <a href="http://konigi.com/project/protokit">visit the Protokit project page at Konigi</a>.</p></li>
+      </ul>
+
+    {/col}
+  {/cols}
+  </div>
+
+  <p>Protokit is a toolkit for creating HTML prototypes. It uses the following open source libraries and plugins: <a href="http://blueprintcss.org">Blueprint</a>, <a href="http://jquery.com">jQuery</a>, <a href="http://jqueryui.com">jQuery UI</a>, <a href="http://ivorycity.com/blog/jquery-template-plugin/">jQuery Templates</a>, and <a href=" http://ixedit.com">iXEdit</a>. More information about the included libraries and their licensing agreements can be found in the <a href="README.txt">README file</a>.</p>
+  
+  <p>The code unique to this toolkit is licensed under Gnu <a href="http://www.fsf.org/licensing/licenses/gpl.html">General Public License (GPL) Version 3.</a></p>
+  
+  <!-- end your index page -->
+  {/index}</div>
+
+  </body>
+</html>

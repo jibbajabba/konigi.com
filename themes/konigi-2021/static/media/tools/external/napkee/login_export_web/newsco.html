@@ -1,0 +1,1186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>Napkee export</title>
+	<link rel="stylesheet" href="css/smoothness/jquery-ui-1.7.2.custom.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="css/smoothness/ui.spinner.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="css/colorpicker.css" type="text/css" />
+	<link rel="stylesheet" href="css/jquery.treeview.css" type="text/css" />
+	<link rel="stylesheet" href="css/flexigrid/flexigrid.css" type="text/css" />
+	<link rel="stylesheet" href="css/superfish.css" type="text/css" />
+	<style>
+	body {
+		font-size:13px;
+		font-family: Verdana, Geneva, sans-serif;
+		color: #333;
+	}
+	#napkeeCanvas {
+		position:absolute;
+		left:0px;
+		top:0px;
+	}
+	.napkeeComponent {
+		position:absolute;
+		font-size:13px;
+		font-family: Verdana, Geneva, sans-serif;
+		white-space: nowrap;
+	}
+	.napkeeRelativeComponent {
+		position:absolute;
+		font-size:13px;
+		font-family: Verdana, Geneva, sans-serif;
+		white-space: nowrap;
+	}
+	
+	.ui-tabs-vertical { width: 55em; }
+	.ui-tabs-vertical .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+	.ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+	.ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+	.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-selected { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; border-right-width: 1px; }
+	.ui-tabs-vertical .ui-tabs-panel { padding: 1em; float: right; width: 40em;}
+	
+	
+#nap1{
+	left:64px;
+	top:31px;
+	width:155px;
+	height:52px;
+	z-index:0;
+	font-size: 40px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#000000;
+}
+	
+#nap2{
+	left:64px;
+	top:83px;
+	width:1095px;
+	height:1px;
+	z-index:1;
+	background-color:#000000;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+	
+#nap3{
+	left:64px;
+	top:98px;
+	z-index:2;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	color:#000000;
+}
+.nap3button{
+	width:50px;
+	clear:left;
+}
+	
+#nap5{
+	left:64px;
+	top:141px;
+	width:62px;
+	height:21px;
+	z-index:3;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap6{
+	left:144px;
+	top:141px;
+	width:56px;
+	height:21px;
+	z-index:4;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap7{
+	left:215px;
+	top:141px;
+	width:59px;
+	height:21px;
+	z-index:5;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap8{
+	left:289px;
+	top:141px;
+	width:65px;
+	height:21px;
+	z-index:6;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap9{
+	left:369px;
+	top:141px;
+	width:23px;
+	height:21px;
+	z-index:7;
+	font-size: 12px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap10{
+	left:407px;
+	top:145px;
+	width:70px;
+	height:17px;
+	z-index:8;
+	font-size: 10px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap11{
+	left:64px;
+	top:177px;
+	width:1095px;
+	height:1px;
+	z-index:9;
+	background-color:#000000;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+	
+#nap19_13{
+	left:1027px;
+	top:103px;
+	width:47px;
+	height:17px;
+	z-index:0;
+	font-size: 10px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap19_15{
+	left:1003px;
+	top:99px;
+	width:24px;
+	height:24px;
+	z-index:1;
+}
+	
+#nap20_12{
+	left:957px;
+	top:103px;
+	width:37px;
+	height:17px;
+	z-index:0;
+	font-size: 10px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap20_14{
+	left:933px;
+	top:99px;
+	width:24px;
+	height:24px;
+	z-index:1;
+}
+	
+#nap21_17{
+	left:1089px;
+	top:99px;
+	width:24px;
+	height:24px;
+	z-index:0;
+}
+	
+#nap21_18{
+	left:1113px;
+	top:103px;
+	width:43px;
+	height:17px;
+	z-index:1;
+	font-size: 10px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap24{
+	left:64px;
+	top:202px;
+	width:225px;
+	height:20px;
+	z-index:13;
+	font-size: 11px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	color:#7F7F7F;
+}
+	
+#nap25{
+	left:691px;
+	top:197px;
+	width:162px;
+	height:20px;
+	z-index:14;
+	font-size: 11px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap42{
+	left:81px;
+	top:510px;
+	width:68px;
+	height:22px;
+	z-index:15;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap44_33{
+	left:888px;
+	top:439px;
+	width:271px;
+	height:164px;
+	z-index:0;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	border:1px solid #000;
+}
+	
+#nap44_32{
+	left:903px;
+	top:456px;
+	width:57px;
+	height:27px;
+	z-index:1;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap44_35{
+	left:903px;
+	top:492px;
+	width:57px;
+	height:58px;
+	z-index:2;
+}
+	
+#nap44_36{
+	left:987px;
+	top:492px;
+	width:57px;
+	height:58px;
+	z-index:3;
+}
+	
+#nap44_37{
+	left:1074px;
+	top:492px;
+	width:57px;
+	height:58px;
+	z-index:4;
+}
+	
+#nap48{
+	left:888px;
+	top:195px;
+	width:271px;
+	height:234px;
+	z-index:17;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	border:1px solid #000;
+}
+	
+#nap49{
+	left:8px;
+	top:17px;
+	width:254px;
+	height:27px;
+	z-index:18;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap54{
+	left:8px;
+	top:44px;
+	width:254px;
+	height:169px;
+	z-index:19;
+}
+	
+#nap55{
+	left:64px;
+	top:620px;
+	width:789px;
+	height:402px;
+	z-index:20;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	border:1px solid #000;
+}
+	
+#nap73{
+	left:1116px;
+	top:61px;
+	width:45px;
+	height:22px;
+	z-index:21;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap74{
+	left:1055px;
+	top:61px;
+	width:51px;
+	height:22px;
+	z-index:22;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap75{
+	left:359px;
+	top:44px;
+	width:428px;
+	height:26px;
+	z-index:23;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+	
+#nap76{
+	left:787px;
+	top:43px;
+	width:67px;
+	height:28px;
+	z-index:24;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap77{
+	left:888px;
+	top:620px;
+	width:271px;
+	height:271px;
+	z-index:25;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	border:1px solid #000;
+}
+	
+#nap78{
+	left:15px;
+	top:42px;
+	width:240px;
+	height:192px;
+	z-index:26;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+#nap78 > ul {
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+#nap78 .ui-widget-content {
+	background-color:#FFFFFF;
+}
+	
+#nap79{
+	left:15px;
+	top:9px;
+	width:81px;
+	height:27px;
+	z-index:27;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap85_29{
+	left:64px;
+	top:248px;
+	width:502px;
+	height:353px;
+	z-index:0;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	border:1px solid #000;
+}
+	
+#nap85_84_30{
+	left:81px;
+	top:265px;
+	width:468px;
+	height:94px;
+	z-index:0;
+}
+	
+#nap85_84_83_22{
+	left:81px;
+	top:401px;
+	width:430px;
+	height:174px;
+	z-index:0;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap85_84_83_23{
+	left:81px;
+	top:374px;
+	width:201px;
+	height:27px;
+	z-index:1;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:center;
+	color:#000000;
+}
+	
+#nap86_56{
+	left:17px;
+	top:17px;
+	width:278px;
+	height:27px;
+	z-index:0;
+	font-size: 18px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#containernap86_57{
+	left:121px;
+	top:298px;
+	width:232px;
+	height:18px;
+	z-index:1;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#containernap86_59{
+	left:566px;
+	top:98px;
+	width:74px;
+	height:18px;
+	z-index:2;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#containernap86_60{
+	left:566px;
+	top:74px;
+	width:81px;
+	height:18px;
+	z-index:3;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap86_61{
+	left:439px;
+	top:72px;
+	width:116px;
+	height:22px;
+	z-index:4;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap86_62{
+	left:566px;
+	top:157px;
+	width:74px;
+	z-index:5;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap86_63{
+	left:439px;
+	top:157px;
+	width:112px;
+	height:22px;
+	z-index:6;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap86_64{
+	left:121px;
+	top:69px;
+	width:222px;
+	height:29px;
+	z-index:7;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+	
+#nap86_65{
+	left:17px;
+	top:71px;
+	width:72px;
+	height:22px;
+	z-index:8;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap86_66{
+	left:17px;
+	top:105px;
+	width:72px;
+	height:22px;
+	z-index:9;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:bold;
+	text-decoration:none;
+	text-align:left;
+	color:#000000;
+}
+	
+#nap86_67{
+	left:121px;
+	top:102px;
+	width:222px;
+	height:29px;
+	z-index:10;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+	
+#nap86_68{
+	left:121px;
+	top:137px;
+	width:200px;
+	height:140px;
+	z-index:11;
+	background-color:#FFFFFF;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+	text-align:left;
+}
+	
+#containernap86_69{
+	left:566px;
+	top:119px;
+	width:65px;
+	height:18px;
+	z-index:12;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap86_71{
+	left:391px;
+	top:66px;
+	width:1px;
+	height:250px;
+	z-index:13;
+	background-color:#000000;
+	opacity:1.0;
+	filter:alpha(opacity=100);
+}
+	
+#nap86_72{
+	left:121px;
+	top:344px;
+	width:66px;
+	height:28px;
+	z-index:14;
+	font-size: 13px;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:none;
+}
+	
+#nap87container{
+	left:582px;
+	top:248px;
+	width:271px;
+	height:353px;
+	z-index:30;
+}
+	
+	</style>
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+	
+	<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.7.2.custom.min.js"></script>
+	<script type="text/javascript" src="js/ui.spinner.js"></script>
+	<script type="text/javascript" src="js/jquery.sparkline.min.js"></script>
+	<script type="text/javascript" src="js/jquery.treeview.min.js"></script>
+	<script type="text/javascript" src="js/jquery.jmap.min.js"></script>
+	<script type="text/javascript" src="js/colorpicker.js"></script>
+	<script type="text/javascript" src="js/jquery.swfobject.1-0-5.min.js"></script>
+	<script type="text/javascript" src="js/jquery.tagcloud.min.js"></script>
+	<script type="text/javascript" src="js/flexigrid.pack.js"></script>
+	<script type="text/javascript" src="js/swfobject.js"></script>
+	
+	<!--
+		Be sure to include your Google Maps API key
+	
+	<script src="http://maps.google.com/maps?file=api&v=2&key=YOUR_KEY_HERE" type="text/javascript"></script>
+	-->
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			
+$("#nap1").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+
+	
+$("#nap5").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap6").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap7").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap8").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap9").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap10").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap19_13").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap19_15").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap20_12").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap20_14").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap21_17").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap21_18").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap24").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap25").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap42").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap44_33").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap44_32").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap44_35").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap44_36").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap44_37").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap48").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap49").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+		$("#nap54").flash({
+			swf: 'swf/NapkeeVideoPlayer.swf',
+			height: 169,
+			width: 254
+		});
+	
+$("#nap55").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap73").click(function(event){
+	event.preventDefault();
+	location.href='/mockup/44.html';event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap74").click(function(event){
+	event.preventDefault();
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap75").click(function(event){
+	event.stopPropagation();
+	event.preventDefault();
+});
+	
+$("#nap76").click(function(event){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap77").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap78").tabs({ selected: 0 });
+$("#nap78 > div").each(function(){
+	$(this).height($("#nap78").height()- $("#nap78 > ul").height()-35);
+});
+
+	
+$("#nap79").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap85_29").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap85_84_30").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap85_84_83_22").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap85_84_83_23").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_56").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#containernap86_57").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#containernap86_59").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#containernap86_60").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_61").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_62").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_63").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_64").click(function(event){
+	event.stopPropagation();
+	event.preventDefault();
+});
+	
+$("#nap86_65").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_66").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_67").click(function(event){
+	event.stopPropagation();
+	event.preventDefault();
+});
+	
+$("#containernap86_69").click(function(){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap86_72").click(function(event){
+	event.stopPropagation();
+event.preventDefault();
+
+});
+	
+$("#nap87").accordion({ header: "h3", fillSpace: true});
+$("#nap87").accordion( 'activate', 0);
+
+	
+		});
+	</script>
+	
+</head>
+
+<body>
+
+
+		
+<span id="nap1" class="napkeeComponent napkeeTitle">NewsCo</span>
+	
+<div id="nap2" class="napkeeComponent napkeeHrule"></div>
+	
+<div id="nap3" class="napkeeComponent napkeeButtonbar">
+<input type="button" value="HOME" id="nap3i0" class="nap3button"><input type="button" value="WORLD" id="nap3i1" class="nap3button"><input type="button" value="U&#0046;S&#0046;" id="nap3i2" class="nap3button"><input type="button" value="POLITICS" id="nap3i3" class="nap3button"><input type="button" value="CRIME" id="nap3i4" class="nap3button"><input type="button" value="ENTERTAINMENT" id="nap3i5" class="nap3button"><input type="button" value="HEALTH" id="nap3i6" class="nap3button"><input type="button" value="TECH" id="nap3i7" class="nap3button"><input type="button" value="TRAVEL" id="nap3i8" class="nap3button"><input type="button" value="LIVING" id="nap3i9" class="nap3button">
+</div>
+	
+<a id="nap5" href="#" class="napkeeComponent napkeeLink">Hot Topics</a>
+	
+<a id="nap6" href="#" class="napkeeComponent napkeeLink">Lockerbie</a>
+	
+<a id="nap7" href="#" class="napkeeComponent napkeeLink">Healthcare</a>
+	
+<a id="nap8" href="#" class="napkeeComponent napkeeLink">Afghanistan</a>
+	
+<a id="nap9" href="#" class="napkeeComponent napkeeLink">Iran</a>
+	
+<a id="nap10" href="#" class="napkeeComponent napkeeLink">More Topics&#0046;&#0046;&#0046;</a>
+	
+<div id="nap11" class="napkeeComponent napkeeHrule"></div>
+	
+<a id="nap19_13" href="#" class="napkeeComponent napkeeLink">REPORT</a>
+	
+<img id="nap19_15" src="icons/icon_024.png" class="napkeeComponent napkeeIcon" />
+	
+<a id="nap20_12" href="#" class="napkeeComponent napkeeLink">VIDEO</a>
+	
+<img id="nap20_14" src="icons/icon_024.png" class="napkeeComponent napkeeIcon" />
+	
+<img id="nap21_17" src="icons/icon_024.png" class="napkeeComponent napkeeIcon" />
+	
+<a id="nap21_18" href="#" class="napkeeComponent napkeeLink">IMPACT</a>
+	
+<span id="nap24" class="napkeeComponent napkeeLabel">updated 1:49 p.m. EDT, Thu August 20, 2009</span>
+	
+<a id="nap25" href="#" class="napkeeComponent napkeeLink">Make NewsCo Your Home Page</a>
+	
+<a id="nap42" href="#" class="napkeeComponent napkeeLink">Read more</a>
+	
+<div id="nap44_33" class="napkeeComponent napkeeCanvas"></div>
+	
+<span id="nap44_32" class="napkeeComponent napkeeLabel">Video</span>
+	
+<img id="nap44_35" src="images/placeholder.jpg" class="napkeeComponent napkeeImage" />
+	
+<img id="nap44_36" src="images/placeholder.jpg" class="napkeeComponent napkeeImage" />
+	
+<img id="nap44_37" src="images/placeholder.jpg" class="napkeeComponent napkeeImage" />
+	
+<div id="nap48" class="napkeeComponent napkeeCanvas">
+<span id="nap49" class="napkeeRelativeComponent napkeeLabel">Breaking News</span>
+	
+<div id="nap54" class="napkeeRelativeComponent napkeeVideoplayer"></div>
+	</div>
+	
+<div id="nap55" class="napkeeComponent napkeeCanvas">
+<span id="nap86_56" class="napkeeRelativeComponent napkeeLabel">Sign Up for Dead Tree Delivery</span>
+	
+<span id="containernap86_57" class="napkeeRelativeComponent napkeeCheckbox">
+	<input id="nap86_57" type="checkbox" />
+	<label for="nap86_57">I&#0039;m interested in giving up my privacy</label>
+</span>
+	
+<span id="containernap86_59" class="napkeeRelativeComponent napkeeRadiobutton">
+	<input id="nap86_59" type="radio" name="nap86_59" />
+	<label for="nap86_59">Business</label>
+</span>
+	
+<span id="containernap86_60" class="napkeeRelativeComponent napkeeRadiobutton">
+	<input id="nap86_60" type="radio" name="nap86_60" />
+	<label for="nap86_60">Residence</label>
+</span>
+	
+<span id="nap86_61" class="napkeeRelativeComponent napkeeLabel">This adddress is a</span>
+	
+<select id="nap86_62" class="napkeeRelativeComponent napkeeCombobox">
+<option>Turtles</option><option>Video Games</option><option>Zombies</option>
+</select>
+	
+<span id="nap86_63" class="napkeeRelativeComponent napkeeLabel">I am interested in</span>
+	
+<input id="nap86_64" type="text" value="" class="napkeeRelativeComponent napkeeTextinput" />
+	
+<span id="nap86_65" class="napkeeRelativeComponent napkeeLabel">First Name</span>
+	
+<span id="nap86_66" class="napkeeRelativeComponent napkeeLabel">Last Name</span>
+	
+<input id="nap86_67" type="text" value="" class="napkeeRelativeComponent napkeeTextinput" />
+	
+<textarea id="nap86_68" class="napkeeRelativeComponent napkeeTextarea">Some text&#0010;A second line of text</textarea>
+	
+<span id="containernap86_69" class="napkeeRelativeComponent napkeeRadiobutton">
+	<input id="nap86_69" type="radio" name="nap86_69" />
+	<label for="nap86_69">Fictional</label>
+</span>
+	
+<div id="nap86_71" class="napkeeRelativeComponent napkeeVrule"></div>
+	
+<input id="nap86_72" type="button" value="Button" class="napkeeRelativeComponent napkeeButton" />
+	</div>
+	
+<a id="nap73" href="#" class="napkeeComponent napkeeLink">Sign In</a>
+	
+<a id="nap74" href="#" class="napkeeComponent napkeeLink">Sign Up</a>
+	
+<input id="nap75" type="text" value="Search for news" class="napkeeComponent napkeeTextinput" />
+	
+<input id="nap76" type="button" value="Search" class="napkeeComponent napkeeButton" />
+	
+<div id="nap77" class="napkeeComponent napkeeCanvas">
+<div id="nap78" class="napkeeRelativeComponent napkeeTabbar">
+	<ul><li><a id="nap78i0" href="#nap78-0">Most Read</a></li><li><a id="nap78i1" href="#nap78-1">Most Shared</a></li></ul><div id="nap78-0"><p></p></div><div id="nap78-1"><p></p></div>
+</div>
+	
+<span id="nap79" class="napkeeRelativeComponent napkeeTitle">Top News</span>
+	</div>
+	
+<div id="nap85_29" class="napkeeComponent napkeeCanvas"></div>
+	
+<img id="nap85_84_30" src="images/placeholder.jpg" class="napkeeComponent napkeeImage" />
+	
+<span id="nap85_84_83_22" class="napkeeComponent napkeeLabel">Pan Am flight 103 exploded over Lockerbie, Scotland, in December 1988, killing all 259 people on board and 11 on the ground. There were 189 Americans on the plane. Now, the only man ever convicted in the attack is a free man. Abdelbeset Ali Mohmed al Megrahi was freed from a prison in Scotland today and allowed to return to Libya because he has terminal prostate cancer, officials say.</span>
+	
+<span id="nap85_84_83_23" class="napkeeComponent napkeeTitle">Lockerbie bomber freed</span>
+	
+<div id="nap87container" class="napkeeComponent napkeeAccordion">
+	<div id="nap87">
+		<div><h3><a id="nap87i0" href="#">Lorem ipsum dolor&#0044;</a></h3><div id="nap87ic0"></div></div><div><h3><a id="nap87i1" href="#">Sit amet nonummy consectateur</a></h3><div id="nap87ic1"></div></div>
+	</div>
+</div>	
+
+	
+	
+
+
+</body>
+</html>

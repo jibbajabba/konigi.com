@@ -9,7 +9,7 @@ slug = "drawter-drawable-markup-language"
 
 
 
-  <div class="notebook-screenshot"><a href="http://drawter.com/"><img src="//media.konigi.com/bluga/wt4b44d7a9c3ee4_large.jpg"/></a></div><p><a href="http://drawter.com/">Drawter</a> has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn't until I watched the <a href="http://drawter.com/screencast/">screencast</a>, however, that I really got to see how beautifully it generates markup and css.</p>
+  <div class="notebook-screenshot"><a href="http://drawter.com/"><img src="//konigi.com/media/bluga/wt4b44d7a9c3ee4_large.jpg"/></a></div><p><a href="http://drawter.com/">Drawter</a> has been sitting in my tabs for a few days now, and I keep coming back to play with it. It wasn't until I watched the <a href="http://drawter.com/screencast/">screencast</a>, however, that I really got to see how beautifully it generates markup and css.</p>
 
 <p>Drawter is a web-based xhtml/css layout tool written in JavaScript using the jQuery library. It allows you to literally draw your website's code by dragging boxes within the onscreen canvas to create divs using the dimensions of your rectangles, and then to edit each div's style properties within floating inspectors. When precisely positioned, divs will be nested within containers, and nested divs can be floated within them.</p>
 

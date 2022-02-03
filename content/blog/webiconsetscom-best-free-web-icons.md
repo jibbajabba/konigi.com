@@ -9,6 +9,6 @@ slug = "webiconsetscom-best-free-web-icons"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.webiconsets.com/"><img src="//media.konigi.com/bluga/wt49200d3d34b15_0.jpg"/></a></div><p><a href="http://www.webiconsets.com/">WebIconSets.com</a> lists the best icon sets suitable for web use. All the icon sets are of professional quality and free to use in your own projects.</p>
+  <div class="notebook-screenshot"><a href="http://www.webiconsets.com/"><img src="//konigi.com/media/bluga/wt49200d3d34b15_0.jpg"/></a></div><p><a href="http://www.webiconsets.com/">WebIconSets.com</a> lists the best icon sets suitable for web use. All the icon sets are of professional quality and free to use in your own projects.</p>
     
   <a href="http://www.webiconsets.com/">http://www.webiconsets.com/</a>

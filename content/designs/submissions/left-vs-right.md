@@ -11,7 +11,7 @@ slug = "left-vs-right"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://leftvsright.com/"><img id='bluga-thumbnail-1092' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://leftvsright.com/"><img id='bluga-thumbnail-1092' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f282017bda7_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://leftvsright.com/">http://leftvsright.com</a></p>

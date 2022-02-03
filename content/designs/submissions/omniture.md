@@ -11,7 +11,7 @@ slug = "omniture"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://omniture.com/"><img id='bluga-thumbnail-1135' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://omniture.com/"><img id='bluga-thumbnail-1135' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f282285b6d3_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://omniture.com/">http://omniture.com/</a></p>

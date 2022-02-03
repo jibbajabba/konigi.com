@@ -1,0 +1,194 @@
+/*  =======================================================
+    LIBRARY CSS
+    ======================================================= */
+
+@import "../../../lib/css/blueprint/screen.css";
+@import "../../../lib/css/jquery-ui.css";
+@import "../../../lib/css/skin.css";
+
+/*  =======================================================
+    SKIN OVERRIDES
+    ======================================================= */
+
+html {
+  background-color: #eee !important;
+}
+
+.graybox div.container div {
+  background-color: #eee;
+}
+
+/*  =======================================================
+    PROJECT CSS
+    ======================================================= */
+
+#utility-nav {
+  padding: 5px 0;
+  background-color: #fff;
+  font-size: 0.8333em; /* 10px */   
+}
+
+#site-banner {
+  background-color: #ccc;
+}
+
+#primary-nav {
+  padding: 3px 0 0 0;
+  background-color: #ccc;
+}
+
+#secondary-nav {
+  background-color: #eee;
+}
+
+#pg-menu {
+  padding: 10px 0;
+  background-color: #333;
+}
+
+#pg-menu, #pg-menu a {
+  color: #fff;
+}
+
+#pg-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#pg-menu ul.list {
+  margin-left: 5px;
+}
+
+#pg-menu ul li {
+  margin: 0;
+  padding: .25em 0;
+  font-size: 10px;  
+}
+
+#pg-menu ul.ribbon li {
+  text-align: center;
+  width: 64px;
+}
+
+#pg-menu ul.ribbon li .img {
+  margin: 0 auto;
+}
+
+#pg-menu h3 {
+  margin: 0 0 .5em 10px;
+  padding: 0 0 5px 0;
+  border-bottom: 1px dotted #666;
+  color: #eee;
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+/* tabs */
+#primary-nav ul {
+  margin: 0 0 0 10px;
+}
+
+#primary-nav ul li {
+  list-style-type: none;
+  float: left;
+  background: #ccc;
+  border-left: 1px solid #eee;
+  border-top: 1px solid #eee;
+  border-right: 1px solid #999;
+  border-bottom: 1px solid #bbb;
+  padding: 5px 10px;
+  -moz-border-radius: 3px 3px 0 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-top-right-radius: 3px;  
+}
+
+#primary-nav ul li.current {
+  background-color: #eee;
+  border-bottom: 1px solid #eee;
+}
+
+#primary-nav ul li.current a {
+  color: #333;
+  text-decoration: none;
+}
+
+/* override ui tabs */
+.ui-dialog .ui-dialog-content {
+  padding: 10px 5px;
+}
+.ui-tabs .ui-tabs-panel {
+  background: transparent;
+  padding: 10px 5px;
+}
+.ui-tabs.ui-widget-content {
+  background: transparent;
+  border: none;
+}
+.ui-tabs .ui-widget-header {
+  background: transparent;
+  border-color: #d3d3d3;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+/* header */
+#site-banner {
+  padding: 16px 0 0 0;
+}
+
+#site-banner h1 {
+  margin-left: 10px;
+}
+
+/* body */
+#body {
+  padding-top: 20px;
+  background-color: #fff;
+}
+
+#body #main.portlet-edit div.portlet {
+  border-color: #6cc6ff;
+  border-width: 2px;
+  border-style: solid;
+}
+
+/* portlets */
+#body #main div.portlet div.edit {
+  display: none;
+}
+
+#body #main.portlet-edit div.portlet div.edit {
+  display: none;
+}
+
+.portlet { margin: 0 1em 1em 0; }
+.portlet-header { margin: 0.3em; padding-bottom: 4px; padding-left: 0.2em; }
+.portlet-header .ui-icon { float: right; }
+.portlet-content { padding: 0.4em; }
+.ui-sortable-placeholder { border: 3px dashed #6cc6ff; visibility: visible !important; height: 50px !important; }
+.ui-sortable-placeholder * { visibility: hidden; }    
+
+/* forms */
+form label {
+  clear: both;
+}
+form .submit {
+  margin: 1em 0;
+  padding: 1em 0;
+  border-top: 1px solid #ddd;
+}
+
+/* #dock */
+#dock {
+  margin-top: 20px;
+  -webkit-box-shadow: 0 0 3px #999;
+  -moz-box-shadow: 0 0 3px #999;
+  background: #ededed;
+}
+
+/* colors */
+.bg {
+  background-color: #eee;
+}

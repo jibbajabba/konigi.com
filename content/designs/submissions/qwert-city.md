@@ -11,7 +11,7 @@ slug = "qwert-city"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.qwertcity.com/"><img id='bluga-thumbnail-968' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.qwertcity.com/"><img id='bluga-thumbnail-968' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f27ef35cbad_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.qwertcity.com/">http://www.qwertcity.com/</a></p>

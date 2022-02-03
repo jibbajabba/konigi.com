@@ -6,7 +6,7 @@ date = "2009-01-06"
 categories = ["tools"]
 slug = "omnigraffle-wireframe-stencils"
 summary=""
-featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit.png"
+featuredimg = "//konigi.com/media/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit.png"
 
 +++
 
@@ -23,7 +23,7 @@ featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wire
 </div>
 <div class="column">
 <h3>Download</h3>
-<p><a href="//media.konigi.com/tools/og-wireframe-stencil/Konigi_Wireframe_Stencils_v3-3.gstencil.zip">Download Version 3.3 (6/14/13)</a><br />
+<p><a href="//konigi.com/media/tools/og-wireframe-stencil/Konigi_Wireframe_Stencils_v3-3.gstencil.zip">Download Version 3.3 (6/14/13)</a><br />
 <span class="t10">Stencils are free to use, but can't be distributed. If you like them, a donation is appreciated.</span></p>
 </div>
 </div>
@@ -32,34 +32,34 @@ featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wire
 <!-- thumbs --><!-- thumbs --><h3>UI Components</h3>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/01-Base-Wireframe-Kit-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/02-Controls.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/02-Controls-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/02-Controls.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/02-Controls-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/03-Forms.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/03-Forms-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/03-Forms.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/03-Forms-thumb.png" alt="" /></a>
 </div>
 </div>
 <hr>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/04-Navigation.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/04-Navigation-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/04-Navigation.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/04-Navigation-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/05-Audio-Video.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/05-Audio-Video-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/05-Audio-Video.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/05-Audio-Video-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/07-Windows-Dialogs-and-Layers-thumb.png" alt="" /></a>
 </div>
 </div>
 <hr>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/09-Social-Features.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/09-Social-Features-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/09-Social-Features.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/09-Social-Features-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/06-Text.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/06-Text-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/06-Text.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/06-Text-thumb.png" alt="" /></a>
 </div>
 <div class="column">
 <!--<a href="" class="group" rel="group"><img src="" alt="" /></a>--><!--<a href="" class="group" rel="group"><img src="" alt="" /></a>--></div>
@@ -68,20 +68,20 @@ featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wire
 <h3>Ad Units</h3>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Banners-Buttons-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Rectangles.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Rectangles-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Rectangles.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Rectangles-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Skyscrapers.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/08-Skyscrapers-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Skyscrapers.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/08-Skyscrapers-thumb.png" alt="" /></a>
 </div>
 </div>
 <hr>
 <h3>Browser Chrome</h3>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/Web-Browser.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/Web-Browser-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/Web-Browser.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/Web-Browser-thumb.png" alt="" /></a>
 </div>
 <div class="column">
 </div>
@@ -92,13 +92,13 @@ featuredimg = "//media.konigi.com/tools/og-wireframe-stencil/png-v3/01-Base-Wire
 <h3>Mobile Devices</h3>
 <div class="columns">
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPad.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPad-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/10-iPad.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/10-iPad-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPhone.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/10-iPhone-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/10-iPhone.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/10-iPhone-thumb.png" alt="" /></a>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/og-wireframe-stencil/png-v3/Nexus.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/og-wireframe-stencil/png-v3/Nexus-thumb.png" alt="" /></a>
+<a href="//konigi.com/media/tools/og-wireframe-stencil/png-v3/Nexus.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-wireframe-stencil/png-v3/Nexus-thumb.png" alt="" /></a>
 </div>
 </div>
 </div>

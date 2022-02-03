@@ -11,7 +11,7 @@ slug = "minimal-design-%C2%BB-web-design-portfolio"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://minimaldesign.net/portfolio"><img id='bluga-thumbnail-1432' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://minimaldesign.net/portfolio"><img id='bluga-thumbnail-1432' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt49625b297213e.jpg'/></a></div>  
   </div>   
 <p>Super minimalist portfolio with some nice subtle Javascript behaviors for expanding project info in the carousel. </p>

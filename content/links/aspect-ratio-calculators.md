@@ -5,11 +5,11 @@ tags = ["mac", "software", "calculators"]
 title = "Aspect Ratio Calculators"
 href="http://andrew.hedges.name/experiments/aspect_ratio/"
 summary="Aspect Ratio Calculators for web designers."
-featuredimg = "//media.konigi.com/links/aspect-ratio-calculators.png"
+featuredimg = "//konigi.com/media/links/aspect-ratio-calculators.png"
 
 +++
 
-<img src="//media.konigi.com/links/aspect-ratio-calculators.png" />
+<img src="//konigi.com/media/links/aspect-ratio-calculators.png" />
 
 
 In my <a href="https://www.skillshare.com/classes/design/Rapid-Wireframing-Finding-the-Right-Product-Design/1947996659/">Skillshare course</a> there's a brief moment where I show a ratio calculator that I use for doing things like figuring out dimensions of containers while designing.

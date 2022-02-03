@@ -11,7 +11,7 @@ slug = "feltron-eight-2007-annual-report"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://feltron.com/index.php?/content/2007_annual_report/"><img id='bluga-thumbnail-1131' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://feltron.com/index.php?/content/2007_annual_report/"><img id='bluga-thumbnail-1131' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2821874a9f_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://feltron.com/index.php?/content/2007_annual_report/">http://feltron.com/index.php?/content/2007_annual_report/</a></p>

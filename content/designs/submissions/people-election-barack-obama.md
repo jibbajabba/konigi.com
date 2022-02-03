@@ -11,7 +11,7 @@ slug = "people-election-barack-obama"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.myobamadvd.com/"><img id='bluga-thumbnail-2263' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.myobamadvd.com/"><img id='bluga-thumbnail-2263' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt4b4749af60336_large.jpg'/></a></div>  
   </div>   
 <p>Promoting the documentary &quot;By The People: The Election of Barack Obama&quot;, this site uses full screen flash and full-screen scaling images to get across some of the passion of the actual campaign.</p>

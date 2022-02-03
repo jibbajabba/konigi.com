@@ -11,7 +11,7 @@ slug = "lobo"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.lobo.cx/"><img id='bluga-thumbnail-1017' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.lobo.cx/"><img id='bluga-thumbnail-1017' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f281cadf410_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.lobo.cx/">http://www.lobo.cx/</a></p>

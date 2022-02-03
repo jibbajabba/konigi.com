@@ -9,6 +9,6 @@ slug = "25-awesome-stock-texture-and-photo-websites"
 
 
 
-  <div class="notebook-screenshot"><a href="http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites"><img src="//media.konigi.com/bluga/wt4866d45815db4.jpg"/></a></div><p>Design Reviver has collected links for <a href="http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites">25 great stock texture and photo site.</a></p>
+  <div class="notebook-screenshot"><a href="http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites"><img src="//konigi.com/media/bluga/wt4866d45815db4.jpg"/></a></div><p>Design Reviver has collected links for <a href="http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites">25 great stock texture and photo site.</a></p>
     
   <a href="http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites">http://designreviver.com/freebies/25-awesome-stock-texture-and-photo-websites</a>

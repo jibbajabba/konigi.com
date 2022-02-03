@@ -9,7 +9,7 @@ slug = "asist-bulletin-ia-issue-octnov-2012"
 
 
 
-  <div class="notebook-screenshot"><a href="http://asis.org/bulletin.html"><img src="//media.konigi.com/bluga/wt506f23c48274c_large.jpg"/></a></div><p>The IA Issue of ASIS&amp;T Journal is out, edited by Thomas Haller. Here's a listing of articles in this issue. </p>
+  <div class="notebook-screenshot"><a href="http://asis.org/bulletin.html"><img src="//konigi.com/media/bluga/wt506f23c48274c_large.jpg"/></a></div><p>The IA Issue of ASIS&amp;T Journal is out, edited by Thomas Haller. Here's a listing of articles in this issue. </p>
 <ul>
 <li>Information Architecture in the Age of Complexity, by Andrea Resmini</li>
 <li>The Architecture of Information, by Martyn Dade-Robertson</li>

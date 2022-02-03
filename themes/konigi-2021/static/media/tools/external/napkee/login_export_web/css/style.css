@@ -1,0 +1,180 @@
+/* Definition of all the components */
+#ui-datepicker-div {
+	font-size: 10px;
+	z-index:2000;
+}
+
+.napkeeAccordion {
+}
+
+.napkeeBarchar {
+}
+
+.napkeeBreadcrumbs {
+}
+
+.napkeeButton {
+}
+
+.napkeeButtonbar {
+}
+
+.napkeeCalendar {
+}
+
+.napkeeCallout {
+	border:2px solid #333333;
+	-moz-border-radius: 17px;
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	text-align:center;
+}
+
+.napkeeCanvas {
+}
+
+.napkeeCheckbox {
+}
+
+.napkeeColorpicker {
+}
+
+.napkeeColumnchart {
+}
+
+.napkeeCombobox {
+}
+
+.napkeeCoverflow {
+}
+
+.napkeeDatechooser {
+}
+
+.napkeeFieldset {
+}
+
+.napkeeHRule {
+}
+
+.napkeeHSlider {
+}
+
+.napkeeIcon {
+}
+
+.napkeeIconlabel {
+}
+
+.napkeeImage {
+}
+
+.napkeeLabel {
+	white-space:normal;
+}
+
+.napkeeLinechart {
+}
+
+.napkeeLink {
+}
+
+.napkeeLinkbar {
+}
+
+.napkeeList {
+}
+
+.napkeeMap {
+}
+
+.napkeeMenubar {
+}
+
+.napkeeModalscreen {
+}
+
+.napkeeNumericstepper {
+}
+
+.napkeeParagraph {
+}
+
+.napkeePiechart {
+}
+
+.napkeeProgressbar {
+}
+
+.napkeeRadiobutton {
+}
+
+.napkeeRoundbutton {
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+.napkeeSearchbox {
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 14px;
+	outline: none;
+	padding-left:20px;
+	background-image: url(../icons/tango/16/system-search.png);
+	background-repeat: no-repeat;
+	background-position: 2px 50%;
+}
+
+.napkeeStickynote {
+	text-align:center;
+	background-color:#DACE5F;
+	border:0px solid;
+	white-space:normal;
+}
+
+.napkeeTabbar {
+}
+
+.napkeeTagcloud {
+}
+
+.napkeeTextarea {
+}
+
+.napkeeTextinput {
+}
+
+.napkeeTitle {
+}
+
+.napkeeTitlewindow {
+}
+
+.napkeeTree {
+}
+
+.napkeeUnsupported {
+	text-align:center;
+	background-color:#B3FFB3;
+	border:0px solid;
+	white-space:normal;
+}
+
+.napkeeVerticaltabbar {
+}
+
+.napkeeVideoplayer {
+}
+
+.napkeeVolumeslider {
+}
+
+.napkeeVrule {
+}
+
+.napkeeVslider {
+}
+
+.napkeeWebcam {
+}

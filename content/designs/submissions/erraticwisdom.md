@@ -11,7 +11,7 @@ slug = "erraticwisdom"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://erraticwisdom.com/"><img id='bluga-thumbnail-1077' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://erraticwisdom.com/"><img id='bluga-thumbnail-1077' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f281fbe55a8_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://erraticwisdom.com/">http://erraticwisdom.com/</a></p>

@@ -8,7 +8,7 @@ slug = "sketchnote-typeface-mike-rohde"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.delvefonts.com/sketchnote.html"><img id="bluga-thumbnail-2687" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.delvefonts.com/sketchnote.html"><img id="bluga-thumbnail-2687" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fb4720ef9f_custom.jpg"/></a></div><p>Mike Rohde's <a href="http://www.delvefonts.com/sketchnote.html">Sketchnote font</a> can be purchased on Delve for desktop and webfont use. Mike created the font for the Sketchnote handbook and <a href="http://rohdesign.com/weblog/2013/5/29/the-sketchnote-typeface.html">writes about its design on his blog</a>. The family has four fonts: Sketchnote Text in Reg­ular, Bold and Italic, plus Sketchnote Square.</p>
 
 <p><blockquote>Sketchnote Text is a friendly, casual script with a bouncy baseline and a warm texture. To emulate natural hand­writing, OpenType features auto­matically switch be­tween multiple versions of each letter or number, with over 240 alter­nates in each text font. OpenType kerning classes are used with unique kerns made to tame pairings of all those wily alter­nates for con­sistent spacing.</blockquote></p>

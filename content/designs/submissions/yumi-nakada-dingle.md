@@ -11,7 +11,7 @@ slug = "yumi-nakada-dingle"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://yuminakadadingle.com/"><img id='bluga-thumbnail-1061' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://yuminakadadingle.com/"><img id='bluga-thumbnail-1061' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f281dc37afe_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://yuminakadadingle.com/">http://yuminakadadingle.com/</a></p>

@@ -11,7 +11,7 @@ slug = "butterfly-mind"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://abutterflymind.com/"><img id='bluga-thumbnail-1059' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://abutterflymind.com/"><img id='bluga-thumbnail-1059' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f281db14c94_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://abutterflymind.com/">http://abutterflymind.com</a></p>

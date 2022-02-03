@@ -9,7 +9,7 @@ slug = "design-fundamental-soul-human-made-creation"
 
 
 
-  <div class="screenshot"><img src="//media.konigi.com/notebook/apple1.jpg" alt="Apple I" /></div>
+  <div class="screenshot"><img src="//konigi.com/media/notebook/apple1.jpg" alt="Apple I" /></div>
 <p><a href="http://adam-pritzker.com/post/11099896089/in-most-peoples-vocabularies-design-means">Adam Pritzker</a> deftly combined this image of an <a href="http://en.wikipedia.org/wiki/Apple_I">Apple I</a> and this <a href="http://money.cnn.com/magazines/fortune/fortune_archive/2000/01/24/272277/">Steve Jobs quote on design</a> from an interview in 2000 that appeared in Fortune.</p>
 <blockquote><p>“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.” - Steve Jobs</p></blockquote>
 <p>There's an expression of that soul of the creator, in the running failures and successes of the executed design, that attempts to make a connection with the user of the product. Some products are imbued with the soul of a passionate creative force, others become refined to the point of feeling somber. Underneath the surface of Apple products, there's always been a sense of human connection, either in the literal early smiley Mac icons, or in the more polished and subtle interactions and connections we have with machines using our touch screens today. </p>

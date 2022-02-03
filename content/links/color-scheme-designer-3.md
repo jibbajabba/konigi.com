@@ -8,7 +8,7 @@ slug = "color-scheme-designer-3"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://colorschemedesigner.com/"><img id="bluga-thumbnail-2678" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://colorschemedesigner.com/"><img id="bluga-thumbnail-2678" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fae33d4b7d_custom.jpg"/></a></div><p>Petr Stanicek's <a href="http://colorschemedesigner.com/">Color Scheme Designer</a> is a web-based color scheme selector that allows you to select a color, generate a palette of color combinations, view the palette as a sample web page, and with color deficit simulators. Lastly, the color palette you generated can be exported as HTML/CSS or as a Photoshop palette.</p>
 
   

@@ -6,7 +6,7 @@ title = "The Power of 100"
 slug = "power-of-100"
 href = ""
 summary = "Leveraging the power of discipline, consistency and compounding in your creative work."
-featuredimg = "//media.konigi.com/art/107.png"
+featuredimg = "//konigi.com/media/art/107.png"
 
 +++
 

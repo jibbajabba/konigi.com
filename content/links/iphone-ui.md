@@ -8,7 +8,7 @@ slug = "iphone-ui"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://iphone.hohli.com/"><img id="bluga-thumbnail-2666" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://iphone.hohli.com/"><img id="bluga-thumbnail-2666" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fa30498362_custom.jpg"/></a></div><p>A <a href="http://iphone.hohli.com/">JavaScript library</a> to prototype web interfaces for the iPhone.</p>
 
   

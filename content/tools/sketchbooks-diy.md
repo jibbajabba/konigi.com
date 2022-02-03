@@ -6,7 +6,7 @@ date = "2012-03-13"
 categories = ["tools"]
 slug = "sketchbooks-diy"
 summary=""
-featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
+featuredimg = "//konigi.com/media/tools/sketchbooks-diy/wirebinding.jpg"
 
 +++
 
@@ -39,7 +39,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
 <p>The easiest method for binding your own sketchbooks would be to take paper (either plain white, or <a href="/tools/graph-paper/">printable graphpaper</a>) to your local copy shop and have them wirebind your pages together. The suggestions below might help if you want to invest in a binding machine and do it yourself like I do.</p>
 </div>
 <div class="column">
-<a href="//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/wirebinding-thumb.jpg"  /></a>
+<a href="//konigi.com/media/tools/sketchbooks-diy/wirebinding.jpg" class="group" rel="group"><img src="//konigi.com/media/tools/sketchbooks-diy/wirebinding-thumb.jpg"  /></a>
 </div>
 </div>
 <!-- / sect -->
@@ -96,19 +96,19 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   <!-- col1 -->
   <div class="column">
 <h4>1. Measure</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/1.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/1.jpg" class="img-responsive">
 <p>Measure stack of paper, front cover and back cover against the binder's coil guide. This will tell you what size coil to use. I typically create 50-60 page notebooks with a 3/4" 2:1 coil.</p>
   </div>
   <!-- col2 -->
   <div class="column">
 <h4>2. Hang your coils</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/2.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/2.jpg" class="img-responsive">
 <p>Hang your coils on the coil holder on the front of the binder.</p>
   </div>
   <!-- col3 -->
   <div class="column">
 <h4>3. Punch envelope</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/3.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/3.jpg" class="img-responsive">
 <p>Punch envelope first and place with front of envelope facing forward.</p>
   </div>
 </div>
@@ -119,19 +119,19 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   <!-- col1 -->
   <div class="column">
 <h4>4. Punch paper</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/4.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/4.jpg" class="img-responsive">
 <p>Punch paper in sets and place on coils, repeat until all placed.</p>
   </div>
   <!-- col2 -->
   <div class="column">
 <h4>5. Punch front cover</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/5.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/5.jpg" class="img-responsive">
 <p>Punch front cover and place on coils, with front of cover facing forward.</p>
   </div>
   <!-- col3 -->
   <div class="column">
 <h4>6. Punch back cover</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/6.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/6.jpg" class="img-responsive">
 <p>Punch back cover and place on coils, with inside facing forward.</p>
   </div>
 </div>
@@ -142,19 +142,19 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   <!-- col1 -->
   <div class="column">
 <h4>7. Cut coils</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/7.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/7.jpg" class="img-responsive">
 <p> Cut coils to end of book edge.</p>
   </div>
   <!-- col2 -->
   <div class="column">
 <h4>8. Pull the stack and close coil</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/8.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/8.jpg" class="img-responsive">
 <p>Pull the stack off of the binder, and rest with open coil side down on the coil squeezer. Pull lever to close coils.</p>
   </div>
   <!-- col3 -->
   <div class="column">
 <h4>9. Flip over and enjoy</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/9.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/9.jpg" class="img-responsive">
 <p>Flip over the back cover. You'll notice that because you hung the envelope and paper first, the inwardly-turned part of the coil should keep paper from sliding out of the rings.</p>
   </div>
 </div>
@@ -172,19 +172,19 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   <!-- col1 -->
   <div class="column">
 <h4>1. Punch back cover</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/10.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/10.jpg" class="img-responsive">
 <p>Create a cardboard rig to place your eyelets evenly on the back and use a clamp or bulldog clips to hold the cover and jig together. Use your punch and mallet to punch two holes at the corners about 1" in from each side. The wooden mallet works well with a small anvil.</p>
   </div>
   <!-- col2 -->
   <div class="column">
 <h4>2. Insert cut elastic and eyelet</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/11.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/11.jpg" class="img-responsive">
 <p>Cut 1/4" elastic bands. Measure so that they'll be snug around the front. I measure to the length of the edge of book that will be wrapped and add 2-3 inches for the books above. Thread the elastic through your holes and leave 1/2" hanging on the inside. Push the eyelets through the holes, outside facing the back.</p>
   </div>
   <!-- col3 -->
   <div class="column">
 <h4>3. Close eyelets and you're done!</h4>
-<img src="//media.konigi.com/tools/sketchbooks-diy/12.jpg" class="img-responsive">
+<img src="//konigi.com/media/tools/sketchbooks-diy/12.jpg" class="img-responsive">
 <p>Use your eyelet crimping tool to snap closed the open end and fasten the elastic to the back cover. Make sure you're using the right end of the eyelet tool or else they won't close properly and cleanly. You can now cut that excess 1/2" of elastic from the inside back cover.</p>
   </div>
 </div>
@@ -209,7 +209,7 @@ featuredimg = "//media.konigi.com/tools/sketchbooks-diy/wirebinding.jpg"
   </div>
   <!-- col3 -->
   <div class="column">
-<a href="//media.konigi.com/tools/sketchbooks-diy/rollabinding.jpg" class="group" rel="group"><img src="//media.konigi.com/tools/sketchbooks-diy/rollabinding-thumb.jpg" class="img-responsive"></a>
+<a href="//konigi.com/media/tools/sketchbooks-diy/rollabinding.jpg" class="group" rel="group"><img src="//konigi.com/media/tools/sketchbooks-diy/rollabinding-thumb.jpg" class="img-responsive"></a>
   </div>
 </div>
 <!-- /sect -->

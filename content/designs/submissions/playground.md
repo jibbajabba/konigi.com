@@ -11,7 +11,7 @@ slug = "playground"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://theplaygroundsydney.com/"><img id='bluga-thumbnail-1278' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://theplaygroundsydney.com/"><img id='bluga-thumbnail-1278' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt483d4b8b08419_0.jpg'/></a></div>  
   </div>   
 <p>the playground is a design studio in Sydney, Australia. Their portfolio is elegant and has a minimalist sensibility, allowing photographs of their work to do the talking. They specialize in corporate identity, packaging, interiors, web design, signage, and international sourcing.</p>

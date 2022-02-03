@@ -11,7 +11,7 @@ slug = "kongregate"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://kongregate.com/"><img id='bluga-thumbnail-1112' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://kongregate.com/"><img id='bluga-thumbnail-1112' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2820cf0402_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://kongregate.com/">http://kongregate.com</a></p>

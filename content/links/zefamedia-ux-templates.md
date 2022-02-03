@@ -8,7 +8,7 @@ slug = "zefamedia-ux-templates"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.zefamedia.com/websites/free-ux-templates/"><img id="bluga-thumbnail-2787" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.zefamedia.com/websites/free-ux-templates/"><img id="bluga-thumbnail-2787" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt5230d0c5a3b4f_custom.jpg"/></a></div><p>zef[a]media's UX Template package contains sample paper prototypes/wireframes, personas, sitemaps, and user flow diagrams. Requires MS Visio, Word, and Excel.</p>
   
 <p><a href="http://www.zefamedia.com/websites/free-ux-templates/">http://www.zefamedia.com/websites/free-ux-templates/</a></p>

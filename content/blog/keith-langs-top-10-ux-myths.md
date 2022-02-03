@@ -9,7 +9,7 @@ slug = "keith-langs-top-10-ux-myths"
 
 
 
-  <div class="notebook-screenshot"><a href="http://carsonified.com/blog/design/top-10-ux-myths/"><img src="//media.konigi.com/bluga/wt4a95c2b02ba2f.jpg"/></a></div><p>Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin <a href="http://carsonified.com/blog/design/top-10-ux-myths/">about UX Myths</a>. It's full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.</p>
+  <div class="notebook-screenshot"><a href="http://carsonified.com/blog/design/top-10-ux-myths/"><img src="//konigi.com/media/bluga/wt4a95c2b02ba2f.jpg"/></a></div><p>Keith Lang, co-founder of plasq.com, wrote a fantastic article for Think Vitamin <a href="http://carsonified.com/blog/design/top-10-ux-myths/">about UX Myths</a>. It's full of references and examples debunking stuff we hear repeated enough times that they begin to go unquestioned.</p>
 <p>The top 10 UX myth list:</p>
 <ol>
 <li>The Design Has to be Original</li>

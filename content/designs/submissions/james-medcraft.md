@@ -11,7 +11,7 @@ slug = "james-medcraft"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://jamesmedcraft.com/"><img id='bluga-thumbnail-1265' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://jamesmedcraft.com/"><img id='bluga-thumbnail-1265' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt4834915353dfa.jpg'/></a></div>  
   </div>   
 <p><a href="http://jamesmedcraft.com/">http://jamesmedcraft.com/</a></p>

@@ -9,6 +9,6 @@ slug = "how-understand-your-users-personas"
 
 
 
-  <div class="notebook-screenshot"><a href="http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/"><img src="//media.konigi.com/notebook/carsonified-personas-1.jpg" class="notebook-image" /></a></div><p>Brad Colbow and Indi Young <a href="http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/">explain personas using comics</a> on Carsonified.</p>
+  <div class="notebook-screenshot"><a href="http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/"><img src="//konigi.com/media/notebook/carsonified-personas-1.jpg" class="notebook-image" /></a></div><p>Brad Colbow and Indi Young <a href="http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/">explain personas using comics</a> on Carsonified.</p>
     
   <a href="http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/">http://carsonified.com/blog/design/how-to-understand-your-users-with-personas/</a>

@@ -23,7 +23,7 @@ Look at your downloaded site, and clean out the cruft. Open Hammer for Mac and c
 I then moved my img, css, and js folders to the new project's assets/ folder. When Hammer builds, it reads your entire project and then knows where everything is so you can use the @path directive to reference files only by name, and include styles and css simply by name without paths using the @stlylesheet and @javascript directives. I cleaned all files up to use this.</p>
 <p>I did the find/replace grunt work using <a href="http://panic.com/coda/">Coda</a> on my CSS and html files. Replaced the PHP that I use in my header to use the @include directive and the $title variable. My SCSS files got picked up and compiled with no problems. I then used the @path helper on images in my SCSS.</p>
 <p>About two hours of this clean up and it built with no errors. </p>
-<p><img src="//media.konigi.com/notebook/hammer.png" class="screenshot" /></p>
+<p><img src="//konigi.com/media/notebook/hammer.png" class="screenshot" /></p>
 <p>All my SCSS was compiled, my includes worked, and my CSS and JS were optimized (combined and minified). </p>
 <p><strong>4) Testing</strong><br />
 I set up my hosts on my machine so I could test locally in the browser so all the TypeKit would work after I added that domain. I also learned that you can't test Typekit with a url using the <a href="///" title="///">file:///</a> protocol. Bummer. I already use <a href="http://clickontyler.com/virtualhostx/">VirtualHostX</a> which makes simple work of managing multiple hosts on your local machine. It edits your httpd-vhosts.conf and hosts file. I had bought it originally because the web sharing option went away in OS X, and I'm too lazy to edit files just to turn PHP on. </p>

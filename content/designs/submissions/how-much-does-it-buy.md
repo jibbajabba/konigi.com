@@ -11,7 +11,7 @@ slug = "how-much-does-it-buy"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.howmuchdoesitbuy.com/"><img id='bluga-thumbnail-969' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.howmuchdoesitbuy.com/"><img id='bluga-thumbnail-969' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f27ef3a0d89_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.howmuchdoesitbuy.com/">http://www.howmuchdoesitbuy.com/</a></p>

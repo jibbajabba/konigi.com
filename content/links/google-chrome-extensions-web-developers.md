@@ -8,7 +8,7 @@ slug = "google-chrome-extensions-web-developers"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="https://chrome.google.com/extensions/featured/web_dev"><img id="bluga-thumbnail-2805" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="https://chrome.google.com/extensions/featured/web_dev"><img id="bluga-thumbnail-2805" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt52311ddf9a9d2_custom.jpg"/></a></div><p><a href="https://chrome.google.com/extensions/featured/web_dev">Google Chrome’s developer extensions</a> are useful in-browser web development tools for such things as testing pages on various screen resolutions, analyzing app performance, working with HTML, CSS, JS, generating lorem ipsum greeking, and more.</p>
 
   

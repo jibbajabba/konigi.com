@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <title>Filament Group Button Demo</title>
+
+    <!-- LIBRARIES -->
+    <script type="text/javascript" src="../../lib/js/jquery-plus-jquery-ui.js"></script>
+    <script type="text/javascript" src="../../lib/js/cookie.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/events.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/gui.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/keyboard.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/templates.min.js"></script>    
+    <script type="text/javascript" src="../../lib/js/protokit.js"></script>
+    
+    <!-- PROJECT FILES -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" />    
+
+    <!-- PAGE VARS -->
+    <script type="text/javascript">
+    var notes = 'false';
+    var spec = 'false';
+    </script>
+
+<style type="text/css">	
+	.fg-button { outline: 0; margin:0 4px 0 0; padding: .4em 1em; text-decoration:none !important; cursor:pointer; position: relative; text-align: center; zoom: 1; }
+	.fg-button .ui-icon { position: absolute; top: 50%; margin-top: -8px; left: 50%; margin-left: -8px; }
+	
+	a.fg-button { float:left; }
+	
+	/* remove extra button width in IE */
+	button.fg-button { width:auto; overflow:visible; }
+	
+	.fg-button-icon-left { padding-left: 2.1em; }
+	.fg-button-icon-right { padding-right: 2.1em; }
+	.fg-button-icon-left .ui-icon { right: auto; left: .2em; margin-left: 0; }
+	.fg-button-icon-right .ui-icon { left: auto; right: .2em; margin-left: 0; }
+	
+	.fg-button-icon-solo { display:block; width:8px; text-indent: -9999px; }	 /* solo icon buttons must have block properties for the text-indent to work */	
+	
+	.fg-buttonset { float:left; }
+	.fg-buttonset .fg-button { float: left; }
+	.fg-buttonset-single .fg-button, 
+	.fg-buttonset-multi .fg-button { margin-right: -1px;}
+	
+	.fg-toolbar { padding: .5em; margin: 0;  }
+	.fg-toolbar .fg-buttonset { margin-right:1.5em; padding-left: 1px; }
+	.fg-toolbar .fg-button { font-size: 1em;  }
+
+	/*demo page css*/
+	h2 { clear: both; padding-top:1.5em; margin-top:0; } 
+	.strike { text-decoration: line-through; }
+</style>
+
+<script type="text/javascript">
+	$(function(){
+		//all hover and click logic for buttons
+		$(".fg-button:not(.ui-state-disabled)")
+		.hover(
+			function(){ 
+				$(this).addClass("ui-state-hover"); 
+			},
+			function(){ 
+				$(this).removeClass("ui-state-hover"); 
+			}
+		)
+		.mousedown(function(){
+				$(this).parents('.fg-buttonset-single:first').find(".fg-button.ui-state-active").removeClass("ui-state-active");
+				if( $(this).is('.ui-state-active.fg-button-toggleable, .fg-buttonset-multi .ui-state-active') ){ $(this).removeClass("ui-state-active"); }
+				else { $(this).addClass("ui-state-active"); }	
+		})
+		.mouseup(function(){
+			if(! $(this).is('.fg-button-toggleable, .fg-buttonset-single .fg-button,  .fg-buttonset-multi .fg-button') ){
+				$(this).removeClass("ui-state-active");
+			}
+		});
+	});
+</script>
+
+  </head>
+  <body>
+  
+  <div id="protokit">{index}
+  <!-- canvas starts -->
+  
+<h1>{title}</h1>
+
+<h2>Basic button from different types of markup</h2>
+<a href="#" class="fg-button ui-state-default ui-corner-all">Link</a>
+<button class="fg-button ui-state-default ui-corner-all" type="button">Button element</button>
+
+<br class="clear" />
+
+<h2>Buttons with priority & disabled</h2>
+<button class="fg-button ui-state-default ui-priority-primary ui-corner-all">Primary</button>
+<button class="fg-button ui-state-default ui-priority-secondary ui-corner-all">Secondary</button>
+<button class="fg-button ui-state-default ui-state-disabled ui-corner-all">Disabled</button> 
+
+<h2>Toggle buttons</h2>	
+<button class="fg-button ui-state-default fg-button-toggleable ui-corner-all">Toggle</button>
+<button class="fg-button ui-state-default fg-button-toggleable ui-corner-all">Toggle</button>
+<button class="fg-button ui-state-default fg-button-toggleable ui-corner-all">Toggle</button> 
+				
+
+<h2>Icons in buttons</h2>
+<a href="#" class="fg-button ui-state-default fg-button-icon-left ui-corner-all"><span class="ui-icon ui-icon-circle-plus"></span>Previous</a>
+<a href="#" class="fg-button ui-state-default fg-button-icon-right ui-corner-all"><span class="ui-icon ui-icon-circle-plus"></span>Next</a>
+				
+<h2>Radio button style toggle buttons set</h2>
+<div class="fg-buttonset fg-buttonset-single">
+	<button class="fg-button ui-state-default ui-priority-primary ui-corner-left">Visual</button>
+	<button class="fg-button ui-state-default ui-priority-primary">Code</button>
+	<button class="fg-button ui-state-default ui-priority-primary">Split</button>
+
+	<button class="fg-button ui-state-default ui-priority-primary ui-corner-right">Preview</button>
+</div>
+
+<h2>Multiple select buttons set</h2>
+<div class="fg-buttonset fg-buttonset-multi">
+	<button class="fg-button ui-state-default ui-corner-left"><b>B</b></button>
+	<button class="fg-button ui-state-default"><i>I</i></button>
+	<button class="fg-button ui-state-default"><u>U</u></button>
+	<button class="fg-button ui-state-default ui-corner-right"><span class="strike">S</span></button>
+</div>
+
+<h2>Buttons in a Toolbar</h2>
+<div class="fg-toolbar ui-widget-header ui-corner-all ui-helper-clearfix">
+	<div class="fg-buttonset ui-helper-clearfix">
+		<a href="#" class="fg-button ui-state-default fg-button-icon-solo ui-corner-all" title="Open"><span class="ui-icon ui-icon-folder-open"></span> Open</a>
+		<a href="#" class="fg-button ui-state-default fg-button-icon-solo  ui-corner-all" title="Save"><span class="ui-icon ui-icon-disk"></span> Save</a>
+		<a href="#" class="fg-button ui-state-default fg-button-icon-solo  ui-corner-all" title="Delete"><span class="ui-icon ui-icon-trash"></span> Delete</a>
+	</div>
+	<div class="fg-buttonset fg-buttonset-multi">
+		<button class="fg-button ui-state-default ui-corner-left"><b>B</b></button>
+		<button class="fg-button ui-state-default"><i>I</i></button>
+		<button class="fg-button ui-state-default  ui-corner-right"><u>U</u></button>
+	</div>
+	<div class="fg-buttonset ui-helper-clearfix">
+		<a href="#" class="fg-button ui-state-default fg-button-icon-solo  ui-corner-all" title="Print"><span class="ui-icon ui-icon-print"></span> Print</a>
+		<a href="#" class="fg-button ui-state-default fg-button-icon-solo  ui-corner-all" title="Email"><span class="ui-icon ui-icon-mail-closed"></span> Email</a>
+	</div>
+	<div class="fg-buttonset fg-buttonset-single ui-helper-clearfix">
+		<button class="fg-button ui-state-default ui-state-active ui-priority-primary ui-corner-left">Edit</button>
+		<button class="fg-button ui-state-default ui-priority-primary ui-corner-right">View</button>
+	</div>
+</div>
+
+
+  <!-- /canvas ends -->
+  {/index}</div>
+
+  </body>
+</html>

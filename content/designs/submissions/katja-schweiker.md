@@ -11,7 +11,7 @@ slug = "katja-schweiker"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.katjaschweiker.com/"><img id='bluga-thumbnail-870' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.katjaschweiker.com/"><img id='bluga-thumbnail-870' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f279153a7ae_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.katjaschweiker.com/">http://www.katjaschweiker.com/</a></p>

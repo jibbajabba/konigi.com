@@ -6,11 +6,11 @@ title = "Good Microcopy"
 slug = "good-microcopy"
 href= "http://goodmicrocopy.com/"
 summary=""
-featuredimg = "//media.konigi.com/links/good-microcopy.jpg"
+featuredimg = "//konigi.com/media/links/good-microcopy.jpg"
 
 
 +++
 
-<img src="//media.konigi.com/links/good-microcopy.jpg" />
+<img src="//konigi.com/media/links/good-microcopy.jpg" />
 
 <a href="http://goodmicrocopy.com/">Good Micrcopy</a> is a showcase of clear, concise and sometimes quirky copy.

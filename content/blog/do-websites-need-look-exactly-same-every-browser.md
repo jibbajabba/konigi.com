@@ -9,6 +9,6 @@ slug = "do-websites-need-look-exactly-same-every-browser"
 
 
 
-  <div class="notebook-screenshot"><a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/"><img src="//media.konigi.com/bluga/wt481a06c7aac81.jpg"/></a></div><p>That's one hell of a domain name: <a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/">http://dowebsitesneedtolookexactlythesameineverybrowser.com/</a></p>
+  <div class="notebook-screenshot"><a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/"><img src="//konigi.com/media/bluga/wt481a06c7aac81.jpg"/></a></div><p>That's one hell of a domain name: <a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/">http://dowebsitesneedtolookexactlythesameineverybrowser.com/</a></p>
     
   <a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/">http://dowebsitesneedtolookexactlythesameineverybrowser.com/</a>

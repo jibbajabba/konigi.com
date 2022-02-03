@@ -6,7 +6,7 @@ date = "2013-02-05"
 categories = ["tools"]
 slug = "text-snippets"
 summary=""
-featuredimg = "//media.konigi.com/tools/text-snippets/text-snippets.png"
+featuredimg = "//konigi.com/media/tools/text-snippets/text-snippets.png"
 
 +++
 
@@ -167,7 +167,7 @@ featuredimg = "//media.konigi.com/tools/text-snippets/text-snippets.png"
 </div>
 <div class="column">
 <h5>Wireframe Symbols</h5>
-<a href="//media.konigi.com/tools/text-snippets/text-snippets.png" class="group"><img src="//media.konigi.com/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
+<a href="//konigi.com/media/tools/text-snippets/text-snippets.png" class="group"><img src="//konigi.com/media/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
 <p><a href="https://konigi.mybalsamiq.com/projects/tools/Text+Snippets.bmml">Download Balsamiq BMML file</a></p>
 </div>
 </div>

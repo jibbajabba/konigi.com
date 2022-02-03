@@ -11,7 +11,7 @@ slug = "seed-conference-2008"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.seedconference.com/"><img id='bluga-thumbnail-1189' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.seedconference.com/"><img id='bluga-thumbnail-1189' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47fcd33b5ffdd.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.seedconference.com/">http://www.seedconference.com/</a></p>

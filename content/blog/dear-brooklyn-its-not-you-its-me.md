@@ -9,7 +9,7 @@ slug = "dear-brooklyn-its-not-you-its-me"
 
 
 
-  <div class="screenshot"><img src="//media.konigi.com/notebook/bk-mc.jpg" /></div>
+  <div class="screenshot"><img src="//konigi.com/media/notebook/bk-mc.jpg" /></div>
 <p>I'm spending my final full week as a Brooklynite and feeling the bitter sweet pain of saying goodbye, while looking hopefully towards the next chapter of my life. After 19 years as a New Yorker, I'm heading with my family to live in Marin County, CA. </p>
 <p>New York is a city that I've loved from childhood, and the only place I could see myself living as a young adult. With my head full of every cliché dream, I believed it was the place I needed to live to find myself. When I moved here I thought I would work in the art world, where I spent the first few years hustling, but I discovered my path was to lead elsewhere. I've thrived in this inspiring city for a long time, and drew energy from this place. It's helped make me who I am today.</p>
 <p>I spent a short time in the first few years living in Manhattan at Times Square and the East Village. The rest of my days were spent primarily in Brooklyn at Cobble Hill, Boerum Hill, Sunset Park, and in the last 9 years, Park Slope. If you know me, you know I've considered myself a Brooklynite more than a New Yorker. There's an energy, creativity, diversity, and much more relaxed sense of being I've found in Brooklyn that is wonderful. But nothing lasts, and although I thought I'd live the rest of my days residing in Brooklyn, the pull to the outdoors became too strong. With 2 sons that need to bust out, break free from living in boxes, and restraining their boyish need to bounce and scream to be quiet for neighbors, the timing just feels right.</p>

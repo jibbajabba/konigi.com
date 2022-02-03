@@ -8,7 +8,7 @@ slug = "foreui-create-skinnable-interactive-prototype"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.foreui.com/"><img id="bluga-thumbnail-2685" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.foreui.com/"><img id="bluga-thumbnail-2685" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fb29f56d0b_custom.jpg"/></a></div><p>ForeUI is a handy UI prototyping tool. It can rapidly create skinnable and<br />
   clickable UI prototype for your website or software, and run the interactive<br />
   simulation in your web browser.</p>

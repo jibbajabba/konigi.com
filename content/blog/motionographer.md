@@ -9,6 +9,6 @@ slug = "motionographer"
 
 
 
-  <div class="notebook-screenshot"><a href="http://motionographer.com/"><img src="//media.konigi.com/bluga/wt4931991aba001_0.jpg"/></a></div><p><a href="http://motionographer.com/">Motionographer</a> is a source of inspiration for filmmakers, animators and designers.</p>
+  <div class="notebook-screenshot"><a href="http://motionographer.com/"><img src="//konigi.com/media/bluga/wt4931991aba001_0.jpg"/></a></div><p><a href="http://motionographer.com/">Motionographer</a> is a source of inspiration for filmmakers, animators and designers.</p>
     
   <a href="http://motionographer.com/">http://motionographer.com/</a>

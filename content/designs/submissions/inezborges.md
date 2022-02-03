@@ -11,7 +11,7 @@ slug = "inezborges"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.inezborges.com/"><img id='bluga-thumbnail-1596' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.inezborges.com/"><img id='bluga-thumbnail-1596' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt4a03ee93eea43_0.jpg'/></a></div>  
   </div>   
 <p>inezborges, is a graphic and designer web working on Oporto. Specializing in Web and Print Design, she creates clean, engaging, and functional websites.</p>

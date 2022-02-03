@@ -9,6 +9,6 @@ slug = "100-login-forms"
 
 
 
-  <div class="notebook-screenshot"><a href="http://designreviver.com/inspiration/100-sites-with-outstanding-login-forms/"><img src="//media.konigi.com/bluga/wt4a53879de405e_0.jpg"/></a></div><p> Design Reviver collects and captures a massive set of 100 login forms.</p>
+  <div class="notebook-screenshot"><a href="http://designreviver.com/inspiration/100-sites-with-outstanding-login-forms/"><img src="//konigi.com/media/bluga/wt4a53879de405e_0.jpg"/></a></div><p> Design Reviver collects and captures a massive set of 100 login forms.</p>
     
   <a href="http://designreviver.com/inspiration/100-sites-with-outstanding-login-forms/">http://designreviver.com/inspiration/100-sites-with-outstanding-login-forms/</a>

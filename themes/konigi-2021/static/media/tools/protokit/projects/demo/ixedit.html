@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <title>Protokit Demo</title>
+
+    <!-- LIBRARIES -->
+    <script type="text/javascript" src="../../lib/js/jquery-plus-jquery-ui.js"></script>
+    <script type="text/javascript" src="../../lib/js/cookie.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/events.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/gui.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/keyboard.polypage.jquery.js"></script>
+    <script type="text/javascript" src="../../lib/js/templates.min.js"></script>    
+    <script type="text/javascript" src="../../lib/js/protokit.js"></script>
+    
+    <!-- PROJECT FILES -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" />    
+
+    <!-- PAGE VARS -->
+    <script type="text/javascript">
+    var notes = 'false';
+    var spec = 'false';
+    </script>
+    
+    <!-- LOAD IXEDIT; DELETE AFTER DEPLOYING -->
+    <script type="text/javascript" src="../../lib/ixedit/ixedit.packed.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../lib/ixedit/ixedit.css" />    
+
+  </head>
+  <body>
+
+  <div id="protokit">{index}
+  <!-- canvas starts -->
+  
+  <div id="header" class="graybox">
+  {cols}
+    {pcol24last}
+      <h1>Page title</h1>
+    {/pcol}
+  {/cols}
+  </div>
+  
+  <div id="body" class="graybox">  
+  {cols}
+    {pcol9}
+      <h2>column 1</h2>
+      {lipsum}
+    {/pcol}
+    {pcol9}
+      <h2>column 2</h2>
+      {lipsum}
+    {/pcol}
+    {pcol6last}
+      <h3>column 3</h3>
+      Sidebar
+    {/pcol}
+  {/cols}
+  </div>
+
+  <div id="footer" class="graybox">
+  {cols}
+    {pcol18}
+      Footer 1
+    {/pcol}
+    {pcol6last}
+      Footer 2
+    {/pcol}
+  {/cols}
+  </div> 
+    
+  <!-- /canvas ends -->
+  {/index}</div>
+
+  </body>
+</html>

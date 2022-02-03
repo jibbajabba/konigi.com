@@ -9,6 +9,6 @@ slug = "little-chimp-society-illustration-blog"
 
 
 
-  <div class="notebook-screenshot"><a href="http://thelittlechimpsociety.com/"><img src="//media.konigi.com/bluga/wt482d92b407588_0.jpg"/></a></div><p><a href="http://thelittlechimpsociety.com/">Little Chimp Society</a> is a weblog that showcases great illustration.</p>
+  <div class="notebook-screenshot"><a href="http://thelittlechimpsociety.com/"><img src="//konigi.com/media/bluga/wt482d92b407588_0.jpg"/></a></div><p><a href="http://thelittlechimpsociety.com/">Little Chimp Society</a> is a weblog that showcases great illustration.</p>
     
   <a href="http://thelittlechimpsociety.com/">http://thelittlechimpsociety.com/</a>

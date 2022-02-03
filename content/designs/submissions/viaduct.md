@@ -11,7 +11,7 @@ slug = "viaduct"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.viaduct.co.uk/"><img id='bluga-thumbnail-873' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.viaduct.co.uk/"><img id='bluga-thumbnail-873' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f27915e0bcf_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.viaduct.co.uk/">http://www.viaduct.co.uk/</a></p>

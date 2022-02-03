@@ -9,7 +9,7 @@ slug = "playful-design-book-site"
 
 
 
-  <div class="notebook-screenshot"><a href="http://rosenfeldmedia.com/books/game-design/"><img src="//media.konigi.com/bluga/wt4b4cc414dc264_large.jpg"/></a></div><p>Rosenfeld Media have a <a href="http://rosenfeldmedia.com/books/game-design/">book site</a> and <a href="http://playfuldesign.ning.com/">Ning community</a> up for John Ferrara's forthcoming book, <em>Playful Design: Creating Game Expderiences in Everyday Interfaces</em>.</p>
+  <div class="notebook-screenshot"><a href="http://rosenfeldmedia.com/books/game-design/"><img src="//konigi.com/media/bluga/wt4b4cc414dc264_large.jpg"/></a></div><p>Rosenfeld Media have a <a href="http://rosenfeldmedia.com/books/game-design/">book site</a> and <a href="http://playfuldesign.ning.com/">Ning community</a> up for John Ferrara's forthcoming book, <em>Playful Design: Creating Game Expderiences in Everyday Interfaces</em>.</p>
 
 <p><blockquote>Game design is a sibling discipline to software and Web design, but they're siblings that grew up in different houses.  They have much more in common than their perceived distinction typically suggests, and user experience practitioners can realize enormous benefit by exploiting the solutions that games have found to the real problems of design.  This book will show you how. </blockquote></p>
 

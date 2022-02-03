@@ -6,7 +6,7 @@ title = "VisualSitemaps"
 slug = "visualsitemaps"
 href= "https://visualsitemaps.com/"
 summary="A visual sitemap generator."
-featuredimg = "//media.konigi.com/links/visualsitemaps.png"
+featuredimg = "//konigi.com/media/links/visualsitemaps.png"
 
 
 +++

@@ -6,7 +6,7 @@ date = "2014-07-30"
 categories = ["tools"]
 slug = "balsamiq-ux-template"
 summary=""
-featuredimg = "//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png"
+featuredimg = "//konigi.com/media/tools/balsamiq-ux-template/symbols-1.png"
 
 +++
 
@@ -34,10 +34,10 @@ featuredimg = "//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png"
 
 <div class="row">
 <div class="col-xs-6">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/symbols-1.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/symbols-1.png" alt="" /></a>
 </div>
 <div class="col-xs-6">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/symbols-2.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/symbols-2.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/symbols-2.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/symbols-2.png" alt="" /></a>
 </div>
 </div>
 
@@ -51,13 +51,13 @@ featuredimg = "//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png"
 
 <div class="row">
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/title-page.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/title-page.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/title-page.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/title-page.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/persona-overview.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/persona-overview.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/persona-overview.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/persona-overview.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/persona-detail.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/persona-detail.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/persona-detail.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/persona-detail.png" alt="" /></a>
 </div>
 </div>
 
@@ -66,13 +66,13 @@ featuredimg = "//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png"
 
 <div class="row">
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/journey-map.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/journey-map.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/journey-map.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/journey-map.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/site-map.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/site-map.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/site-map.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/site-map.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/storyboard.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/storyboard.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/storyboard.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/storyboard.png" alt="" /></a>
 </div>
 </div>
 
@@ -80,13 +80,13 @@ featuredimg = "//media.konigi.com/tools/balsamiq-ux-template/symbols-1.png"
 
 <div class="row">
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/wireframe-phone.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/wireframe-phone.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/wireframe-phone.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/wireframe-phone.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/wireframe-tablet.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/wireframe-tablet.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/wireframe-tablet.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/wireframe-tablet.png" alt="" /></a>
 </div>
 <div class="col-xs-4">
-<a href="//media.konigi.com/tools/balsamiq-ux-template/wireframe-desktop.png" class="group" rel="group"><img class="img-responsive" src="//media.konigi.com/tools/balsamiq-ux-template/wireframe-desktop.png" alt="" /></a>
+<a href="//konigi.com/media/tools/balsamiq-ux-template/wireframe-desktop.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/balsamiq-ux-template/wireframe-desktop.png" alt="" /></a>
 </div>
 </div>
 

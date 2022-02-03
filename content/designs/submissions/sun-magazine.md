@@ -11,7 +11,7 @@ slug = "sun-magazine"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.thesunmagazine.org/"><img id='bluga-thumbnail-830' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.thesunmagazine.org/"><img id='bluga-thumbnail-830' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f27906863d7_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.thesunmagazine.org/">http://www.thesunmagazine.org/</a></p>

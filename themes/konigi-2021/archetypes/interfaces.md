@@ -6,9 +6,9 @@ title = "{{ humanize .Name }}"
 slug = "{{ .Name }}"
 href= ""
 summary=""
-featuredimg = "//media.konigi.com/interface/"
+featuredimg = "//konigi.com/media/interface/"
 
 
 +++
 
-<img src="//media.konigi.com/interface/{{ .Name }}.png" />
+<img src="//konigi.com/media/interface/{{ .Name }}.png" />

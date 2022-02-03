@@ -9,6 +9,6 @@ slug = "20-websites-beautiful-typography"
 
 
 
-  <div class="notebook-screenshot"><a href="http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/"><img src="//media.konigi.com/bluga/wt4967e178d8436.jpg"/></a></div><p>Six revisions showcases <a href="http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/">20 sites</a> that use typography exceptionally well.</p>
+  <div class="notebook-screenshot"><a href="http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/"><img src="//konigi.com/media/bluga/wt4967e178d8436.jpg"/></a></div><p>Six revisions showcases <a href="http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/">20 sites</a> that use typography exceptionally well.</p>
     
   <a href="http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/">http://sixrevisions.com/web_design/20-websites-with-beautiful-typography/</a>

@@ -6,8 +6,8 @@ title = "{{ .Name }}"
 slug = "{{ .Name }}"
 href= ""
 summary=""
-featuredimg = "//media.konigi.com/sunchasing/{{ .Name }}.jpg"
+featuredimg = "//konigi.com/media/sunchasing/{{ .Name }}.jpg"
 
 +++
 
-<img src="//media.konigi.com/sunchasing/{{ .Name }}.jpg" />
+<img src="//konigi.com/media/sunchasing/{{ .Name }}.jpg" />

@@ -11,7 +11,7 @@ slug = "wiser"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://wisergirls.org/"><img id='bluga-thumbnail-1142' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://wisergirls.org/"><img id='bluga-thumbnail-1142' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2822d170b8_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://wisergirls.org/">http://wisergirls.org/</a></p>

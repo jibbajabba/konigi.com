@@ -11,7 +11,7 @@ slug = "i-heart-luxe"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.iheartluxe.com/"><img id='bluga-thumbnail-861' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.iheartluxe.com/"><img id='bluga-thumbnail-861' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2791230f9d_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.iheartluxe.com/">http://www.iheartluxe.com/</a></p>

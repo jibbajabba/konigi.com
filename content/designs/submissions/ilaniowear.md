@@ -11,7 +11,7 @@ slug = "ilaniowear"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://ilaniowear.com/"><img id='bluga-thumbnail-1191' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://ilaniowear.com/"><img id='bluga-thumbnail-1191' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47fcd741e70fa.jpg'/></a></div>  
   </div>   
 <p><a href="http://ilaniowear.com/">http://ilaniowear.com/</a></p>

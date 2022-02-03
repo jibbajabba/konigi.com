@@ -9,7 +9,7 @@ slug = "konigi-graph-paper-2011-update"
 
 
 
-  <div class="notebook-screenshot"><a href="../tools/graph-paper.html#update201108"><img src="//media.konigi.com/bluga/wt4e5c09bd645b0_large.jpg"/></a></div><p>It's been about 3 years since I updated the printable graph paper PDFs I provide for user interface design sketching. You can <a href="../tools/graph-paper.html">download the printable PDFs from here</a>. (Yes, I use the word &quot;Here&quot; in links.)</p>
+  <div class="notebook-screenshot"><a href="../tools/graph-paper.html#update201108"><img src="//konigi.com/media/bluga/wt4e5c09bd645b0_large.jpg"/></a></div><p>It's been about 3 years since I updated the printable graph paper PDFs I provide for user interface design sketching. You can <a href="../tools/graph-paper.html">download the printable PDFs from here</a>. (Yes, I use the word &quot;Here&quot; in links.)</p>
 
 <p>In the last year I've gotten a lot of requests to replenish the inventory of wireframe and storyboard graphpaper notepads that I fulfilled via Amazon.com, and the wirebound sketch books. I feel bummed every time I tell people that I decided to get out of that little business. It seems enough people still like to use them. I've even been told via Amazon comments that the storyboard notepads were being used by animators and filmmakers, which is a lovely full-circle I think.</p>
 

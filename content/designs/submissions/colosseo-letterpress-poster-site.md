@@ -11,7 +11,7 @@ slug = "colosseo-letterpress-poster-site"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://colosseotype.com/"><img id='bluga-thumbnail-2386' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://colosseotype.com/"><img id='bluga-thumbnail-2386' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt4bfabe63571dd_large.jpg'/></a></div>  
   </div>   
 <p>Cameron Moll's gorgeous <a href="http://colosseotype.com/">Colosseo poster</a> reimagines the Roman Colloseum with type, and the elegant product site beautiful tells its story.</p>

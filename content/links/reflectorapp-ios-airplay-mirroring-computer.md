@@ -8,7 +8,7 @@ slug = "reflectorapp-ios-airplay-mirroring-computer"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="https://www.reflectorapp.com/"><img id="bluga-thumbnail-2696" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="https://www.reflectorapp.com/"><img id="bluga-thumbnail-2696" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fc6286a649_custom.jpg"/></a></div><p><a href="https://www.reflectorapp.com/">Reflector</a> lets you AirPlay mirror your iPhone 4S, iPad 2 or the new iPad to any Mac or PC, wirelessly, for development, presentation, and testing.</p>
 
 <p>@dakotareese tipped me that some users report problems using apps that hack into Airplay. <a href="http://forums.macrumors.com/showthread.php?t=1410984">More info here</a>.</p>

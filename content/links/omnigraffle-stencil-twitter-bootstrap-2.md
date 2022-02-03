@@ -8,7 +8,7 @@ slug = "omnigraffle-stencil-twitter-bootstrap-2"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/"><img id="bluga-thumbnail-2695" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/"><img id="bluga-thumbnail-2695" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522fc4ff89557_custom.jpg"/></a></div><p>The team at Viget have created a free <a href="http://www.viget.com/advance/an-omnigraffle-stencil-for-twitter-bootstrap-2/">OmniGraffle stencil for designing interfaces with Twitter Bootstrap</a>.</p>
 
   

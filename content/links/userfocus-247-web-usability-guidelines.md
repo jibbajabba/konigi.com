@@ -8,7 +8,7 @@ slug = "userfocus-247-web-usability-guidelines"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.userfocus.co.uk/resources/guidelines.html"><img id="bluga-thumbnail-2735" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.userfocus.co.uk/resources/guidelines.html"><img id="bluga-thumbnail-2735" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt523004a2df565_custom.jpg"/></a></div><p>Userfocus provides <a href="http://www.userfocus.co.uk/resources/guidelines.html">guidelines for evaluating web site usability</a>. The cover the following different contexts.</p>
 <ul>
 <li>Home page usability</li>

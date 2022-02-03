@@ -11,7 +11,7 @@ slug = "sectionseven-inc"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.sectionseven.com/"><img id='bluga-thumbnail-876' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.sectionseven.com/"><img id='bluga-thumbnail-876' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f279175b6df_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.sectionseven.com/">http://www.sectionseven.com/</a></p>

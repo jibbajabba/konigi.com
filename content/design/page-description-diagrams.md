@@ -19,7 +19,7 @@ slug = "page-description-diagrams"
 
 <p>With this approach, the diagram represented the two main issues: priority and content. I found that I could include layouts of individual content areas to show, for example, how the “check flight status” form might look. These mini-layouts helped our client visualize the interactivity, but did not lock the designer into any particular approach. Our conversations with the client focused on the nature of the content and functionality and the relative priority of the page contents.&quot;</p>
 
-<p><a href="//media.konigi.com/wiki/page-desc-diagram.png" title="><img src="//media.konigi.com/wiki/page-desc-diagram.png" alt="//konigi.com/files/konigi/images/page-desc-diagram.png" title="//konigi.com/files/konigi/images/page-desc-diagram.png" /></a></p>
+<p><a href="//konigi.com/media/wiki/page-desc-diagram.png" title="><img src="//konigi.com/media/wiki/page-desc-diagram.png" alt="//konigi.com/files/konigi/images/page-desc-diagram.png" title="//konigi.com/files/konigi/images/page-desc-diagram.png" /></a></p>
 
 <p>Source: &quot;<a href="http://boxesandarrows.com/where-the-wireframes-are-special-deliverable-3/">Where the Wireframes Are: Special Deliverable #3</a>.&quot;, Dan Brown. <em>Boxes and Arrows</em>.</p>
 

@@ -9,7 +9,7 @@ slug = "ux-people-conference-showcasing-britains-talent"
 
 
 
-  <div class="notebook-screenshot"><a href="http://uxpeople.co.uk/2010/"><img src="//media.konigi.com/bluga/wt4b7a81651dd52_large.jpg"/></a></div><p>UX People is a conference showcasing Britain's talent and achievements in User Experience Design.</p>
+  <div class="notebook-screenshot"><a href="http://uxpeople.co.uk/2010/"><img src="//konigi.com/media/bluga/wt4b7a81651dd52_large.jpg"/></a></div><p>UX People is a conference showcasing Britain's talent and achievements in User Experience Design.</p>
 
 <p><blockquote>Come to learn...<br />
 A place to exchange ideas and unveil excellence, UX People is a non-profit making event that celebrates the UK’s place at the forefront of the field. User experience experts from some of the country’s biggest organisations will be giving stimulating talks, leading in-depth workshops and sharing industry insights.</p>

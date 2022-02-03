@@ -6,7 +6,7 @@ date = "2009-03-04"
 categories = ["tools"]
 slug = "schedule-and-cost-summary-calculator"
 summary=""
-featuredimg = "//media.konigi.com/tools/schedule-cost-calculator/schedule-cost-summary.png"
+featuredimg = "//konigi.com/media/tools/schedule-cost-calculator/schedule-cost-summary.png"
 
 +++
 
@@ -29,7 +29,7 @@ featuredimg = "//media.konigi.com/tools/schedule-cost-calculator/schedule-cost-s
 <h3>Disclaimer</h3>
 <p>Michael Angeles and Konigi provide no warranty for the use of this spreadsheet. By electing to use this spreadsheet, the user acknowledges that any errors are the sole responsibility of the user, due to data entry, formula creation, calculation, or any use of this spreadsheet on the user's part. Use this spreadsheet at your own risk.</p>
 
-<p><img src="//media.konigi.com/tools/schedule-cost-calculator/schedule-cost-summary.png" style="border: 4px solid black" /></p>
+<p><img src="//konigi.com/media/tools/schedule-cost-calculator/schedule-cost-summary.png" style="border: 4px solid black" /></p>
 
-<p><strong><a href="//media.konigi.com/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip">Download the Excel Template</a></strong><br />
+<p><strong><a href="//konigi.com/media/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip">Download the Excel Template</a></strong><br />
 <span class="t10">This template is free to use, but may not be distributed without permission. </span></p>

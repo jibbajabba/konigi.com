@@ -4,11 +4,11 @@ slug = ""
 tags = ["studio breaks", "animation"]
 title = "gifmuse.io"
 summary = "A museum of animated gifs."
-featuredimg = "//media.konigi.com/notebook/gifuse_io.jpg"
+featuredimg = "//konigi.com/media/notebook/gifuse_io.jpg"
 
 +++
 
-<div class="screenshot"><a href="http://gifmuse.io"><img src="//media.konigi.com/notebook/gifuse_io.jpg"></a></div>
+<div class="screenshot"><a href="http://gifmuse.io"><img src="//konigi.com/media/notebook/gifuse_io.jpg"></a></div>
 
 I started a museum of animated gifs in January to point to the beautiful little art works of motion designers and artists.
 

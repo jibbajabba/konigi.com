@@ -8,7 +8,7 @@ slug = "quick-grid-overlay-css-and-jquery"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://devgrow.com/griddy/"><img id="bluga-thumbnail-2751" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://devgrow.com/griddy/"><img id="bluga-thumbnail-2751" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt52304326a7297_custom.jpg"/></a></div><p><a href="http://devgrow.com/griddy/">Griddy</a> is a simple JQuery plugin that overlays a customizable grid over any element.</p>
 
   

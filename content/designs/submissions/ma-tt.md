@@ -11,7 +11,7 @@ slug = "ma-tt"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://ma.tt/"><img id='bluga-thumbnail-1217' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://ma.tt/"><img id='bluga-thumbnail-1217' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt480e18bbcfa3b_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://ma.tt/">http://ma.tt/</a></p>

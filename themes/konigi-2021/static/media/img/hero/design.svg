@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="780px" height="230px" viewBox="0 0 780 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>design</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="desktop-copy" stroke="#DDDDDD" stroke-width="4" sketch:type="MSShapeGroup" x="70" y="6" width="640" height="229"></rect>
+        <rect id="Rectangle-6-copy" fill="#D8D8D8" sketch:type="MSShapeGroup" x="69" y="72" width="642" height="4"></rect>
+        <path d="M407,195 L407,183 L506,183 L506,195 L407,195 Z M358,195 L358,183 L403,183 L403,195 L358,195 Z M327,195 L327,183 L354,183 L354,195 L327,195 Z M278,195 L278,183 L323,183 L323,195 L278,195 Z M228,195 L228,183 L273,183 L273,195 L228,195 Z M98,195 L98,183 L143,183 L143,195 L98,195 Z M147,195 L147,183 L191.625,183 L191.625,195 L147,195 Z M196,195 L196,183 L223,183 L223,195 L196,195 Z M196,195" id="line-3" fill="#DDDDDD" sketch:type="MSShapeGroup"></path>
+        <path d="M455,175 L455,163 L535.625,163 L535.625,175 L455,175 Z M380,175 L380,163 L450,163 L450,175 L380,175 Z M330,175 L330,163 L375,163 L375,175 L330,175 Z M298,175 L298,163 L325,163 L325,175 L298,175 Z M249,175 L249,163 L293.625,163 L293.625,175 L249,175 Z M200,175 L200,163 L245,163 L245,175 L200,175 Z M178,175 L178,163 L196,163 L196,175 L178,175 Z M129,175 L129,163 L174,163 L174,175 L129,175 Z M98,175 L98,163 L125,163 L125,175 L98,175 Z M98,175" id="line-1" fill="#DDDDDD" sketch:type="MSShapeGroup"></path>
+        <path d="M357,137 L357,113 L456,113 L456,137 L357,137 Z M308,137 L308,113 L353,113 L353,137 L308,137 Z M277,137 L277,113 L304,113 L304,137 L277,137 Z M228,137 L228,113 L273,113 L273,137 L228,137 Z M98,137 L98,113 L143,113 L143,137 L98,137 Z M147,137 L147,113 L191.625,113 L191.625,137 L147,137 Z M196,137 L196,113 L223,113 L223,137 L196,137 Z M196,137" id="h2" fill="#DDDDDD" sketch:type="MSShapeGroup"></path>
+        <path d="M569,113 L682,113 L682,279 L569,279 L569,113 Z M569,113" id="image" stroke="#DDDDDD" stroke-width="3" sketch:type="MSShapeGroup"></path>
+        <g id="callouts" sketch:type="MSLayerGroup" transform="translate(46.000000, 31.000000)" fill="#D8D8D8">
+            <path d="M15.4482759,149.650301 C14.5029103,149.878881 13.5155995,150 12.5,150 C5.59644029,150 0,144.40356 0,137.5 C0,130.59644 5.59644029,125 12.5,125 C13.5155995,125 14.5029103,125.121119 15.4482759,125.349699 L15.4482759,125 L16.6870908,125.718513 C18.1459259,126.237005 19.4800026,127.018772 20.6321625,128.006654 L37,137.5 L20.6321648,146.993344 C19.4800026,147.981228 18.1459259,148.762995 16.6870908,149.281487 L15.4482759,150 L15.4482759,149.650301 Z M15.4482759,149.650301" id="3" sketch:type="MSShapeGroup"></path>
+            <path d="M15.4482759,105.650301 C14.5029103,105.878881 13.5155995,106 12.5,106 C5.59644029,106 0,100.40356 0,93.5 C0,86.5964403 5.59644029,81 12.5,81 C13.5155995,81 14.5029103,81.1211186 15.4482759,81.3496993 L15.4482759,81 L16.6870908,81.7185127 C18.1459259,82.2370053 19.4800026,83.018772 20.6321625,84.0066542 L37,93.5 L20.6321648,102.993344 C19.4800026,103.981228 18.1459259,104.762995 16.6870908,105.281487 L15.4482759,106 L15.4482759,105.650301 Z M15.4482759,105.650301" id="2" sketch:type="MSShapeGroup"></path>
+            <path d="M15.4482759,25.6503007 C14.5029103,25.8788814 13.5155995,26 12.5,26 C5.59644029,26 0,20.4035597 0,13.5 C0,6.59644029 5.59644029,1 12.5,1 C13.5155995,1 14.5029103,1.12111856 15.4482759,1.34969925 L15.4482759,1 L16.6870908,1.71851267 C18.1459259,2.23700534 19.4800026,3.01877204 20.6321625,4.00665425 L37,13.5 L20.6321648,22.9933444 C19.4800026,23.981228 18.1459259,24.7629947 16.6870908,25.2814873 L15.4482759,26 L15.4482759,25.6503007 Z M15.4482759,25.6503007" id="1" sketch:type="MSShapeGroup"></path>
+        </g>
+        <rect id="logo" fill="#D8D8D8" sketch:type="MSShapeGroup" x="98" y="36" width="150" height="18"></rect>
+        <g id="nav" sketch:type="MSLayerGroup" transform="translate(386.000000, 38.000000)">
+            <rect id="logo-copy" stroke="#DDDDDD" stroke-width="3" sketch:type="MSShapeGroup" x="243" y="0" width="53" height="18"></rect>
+            <rect id="logo-copy-2" fill="#D8D8D8" sketch:type="MSShapeGroup" x="182" y="0" width="53" height="18"></rect>
+            <rect id="logo-copy-3" fill="#D8D8D8" sketch:type="MSShapeGroup" x="121" y="0" width="53" height="18"></rect>
+            <rect id="logo-copy-4" fill="#D8D8D8" sketch:type="MSShapeGroup" x="60" y="0" width="53" height="18"></rect>
+            <rect id="logo-copy-5" fill="#D8D8D8" sketch:type="MSShapeGroup" x="0" y="0" width="53" height="18"></rect>
+        </g>
+        <g id="design" sketch:type="MSArtboardGroup"></g>
+    </g>
+</svg>

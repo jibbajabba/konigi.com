@@ -9,6 +9,6 @@ slug = "federal-it-dashboard"
 
 
 
-  <div class="notebook-screenshot"><a href="http://it.usaspending.gov/"><img src="//media.konigi.com/bluga/wt4a4bc77b3e89d_0.jpg"/></a></div><p>This is a new dashboard that tracks the U.S. Government's reported spending on technology.</p>
+  <div class="notebook-screenshot"><a href="http://it.usaspending.gov/"><img src="//konigi.com/media/bluga/wt4a4bc77b3e89d_0.jpg"/></a></div><p>This is a new dashboard that tracks the U.S. Government's reported spending on technology.</p>
     
   <a href="http://it.usaspending.gov/">http://it.usaspending.gov/</a>

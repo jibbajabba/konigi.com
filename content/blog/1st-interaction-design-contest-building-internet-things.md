@@ -9,7 +9,7 @@ slug = "1st-interaction-design-contest-building-internet-things"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.interactiondesigncontest.com/?lang=en"><img src="//media.konigi.com/bluga/wt4cc03de25ea18_large.jpg"/></a></div><p>IDAT, the Institute of Design, Art and Technology of Barcelona is holding its <a href="http://www.interactiondesigncontest.com/?lang=en">1st Interaction Design Competition</a> based on the theme of designing applications for the next generation Internet of Things.</p>
+  <div class="notebook-screenshot"><a href="http://www.interactiondesigncontest.com/?lang=en"><img src="//konigi.com/media/bluga/wt4cc03de25ea18_large.jpg"/></a></div><p>IDAT, the Institute of Design, Art and Technology of Barcelona is holding its <a href="http://www.interactiondesigncontest.com/?lang=en">1st Interaction Design Competition</a> based on the theme of designing applications for the next generation Internet of Things.</p>
 
 <p>The competition calls for ideas of interfaces, interactions, and applications that can be designed with technologies such as embedded Radio Frequency Identification (RFID), short-range wireless communication, ubiquitous data networks, mobile devices, hardware prototyping tools and digital fabrication.</p>
 

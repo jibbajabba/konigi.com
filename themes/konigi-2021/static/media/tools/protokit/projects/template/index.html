@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+    <title>My Prototypes</title>
+
+    <!-- LIBRARIES -->
+    <script type="text/javascript" src="../../lib/js/jquery-plus-jquery-ui.js"></script>
+    <script type="text/javascript" src="../../lib/js/templates.min.js"></script>    
+    <script type="text/javascript" src="../../lib/js/protokit.js"></script>
+    <script type="text/javascript"> var notes='false'; var spec='false'; </script>    
+    
+    <!-- PROJECT FILES -->
+    <link rel="stylesheet" type="text/css" href="css/style.css" />    
+    
+  </head>
+  <body>
+
+  <div id="protokit">{index}
+  <!-- index page starts -->
+  
+  <div id="logo">
+  <img src="../../lib/img/img.png" style="width: 120px; height: 80px; border: 1px solid #ddd;" /><br />
+  Acme Software Inc.
+  </div>
+    
+  <h1>{title}</h1>
+  
+  <ul id="project-info">
+    <li>
+      <span class="lbl">Client:</span>
+      <span class="val">[Client name]</span>
+    </li>
+    <li>
+      <span class="lbl">Project:</span>
+      <span class="val">[Project name]</span>
+    </li>
+    <li>
+      <span class="lbl">Creator:</span>
+      <span class="val">[Creator name]</span>
+    </li>
+    <li>
+      <span class="lbl">Last Modified:</span>
+      <span class="val">[Modification date]</span>
+    </li>
+  </ul>
+  
+  <hr />
+  
+  <h2>Summary</h2>
+  
+  <p>This is an executive summary of the prototypes included in this project.</p>
+  
+  <h2>Prototypes</h2>
+  
+  <ol>
+    <li><a href="dashboard.html">Dashboard</a></li>
+    <li><a href="article.html">Article</a></li>
+  </ol>
+  
+  <!-- end your index page -->
+  {/index}</div>
+
+  </body>
+</html>

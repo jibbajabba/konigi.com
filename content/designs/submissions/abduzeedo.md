@@ -11,7 +11,7 @@ slug = "abduzeedo"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://abduzeedo.com/"><img id='bluga-thumbnail-829' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://abduzeedo.com/"><img id='bluga-thumbnail-829' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f27906093ee_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://abduzeedo.com/">http://abduzeedo.com/</a></p>

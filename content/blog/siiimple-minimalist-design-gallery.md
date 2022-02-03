@@ -9,6 +9,6 @@ slug = "siiimple-minimalist-design-gallery"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.siiimple.com/"><img src="//media.konigi.com/bluga/wt49f6dd8dca067.jpg"/></a></div><p>Lovely minimalist design inspiration from <a href="http://www.siiimple.com/">siiimple</a>.</p>
+  <div class="notebook-screenshot"><a href="http://www.siiimple.com/"><img src="//konigi.com/media/bluga/wt49f6dd8dca067.jpg"/></a></div><p>Lovely minimalist design inspiration from <a href="http://www.siiimple.com/">siiimple</a>.</p>
     
   <a href="http://www.siiimple.com/">http://www.siiimple.com/</a>

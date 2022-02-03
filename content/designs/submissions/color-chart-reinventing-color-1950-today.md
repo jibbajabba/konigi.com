@@ -11,7 +11,7 @@ slug = "color-chart-reinventing-color-1950-today"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.moma.org/exhibitions/2008/colorchart/flashsite/"><img id='bluga-thumbnail-841' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.moma.org/exhibitions/2008/colorchart/flashsite/"><img id='bluga-thumbnail-841' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2790aded6e_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.moma.org/exhibitions/2008/colorchart/flashsite/">http://www.moma.org/exhibitions/2008/colorchart/flashsite/</a></p>

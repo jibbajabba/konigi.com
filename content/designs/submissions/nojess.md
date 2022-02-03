@@ -10,7 +10,7 @@ slug = "nojess"
 
  
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.nojess.net/"><img id='bluga-thumbnail-906' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.nojess.net/"><img id='bluga-thumbnail-906' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f279d5804c4_0.jpg'/></a></div>  
   </div>
 <p><a href="http://www.nojess.net/">http://www.nojess.net/</a></p>

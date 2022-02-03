@@ -9,7 +9,7 @@ slug = "visualizingorg"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.visualizing.org/"><img src="//media.konigi.com/bluga/wt4cab6879a13b1_large_1.jpg"/></a></div><p>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:</p>
+  <div class="notebook-screenshot"><a href="http://www.visualizing.org/"><img src="//konigi.com/media/bluga/wt4cab6879a13b1_large_1.jpg"/></a></div><p>Visualizing.org looks like an exciting new community devoted to information design and sensemaking--making sense of complex issues through data and design. An excerpt from their about page describes the site:</p>
 
 <p><blockquote>It's a place to showcase work, get feedback, ensure that your work is seen by lots of people and gets used by teachers, journalists, and conference organizers to help educate the public about various world issues.  Visualizing is also a free resource to search for data. Use Visualizing to keep up with and be inspired by the latest work from other designers and design schools. You can learn about new visualization tools, blogs, books and other resources here.</blockquote></p>
 

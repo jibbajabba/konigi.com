@@ -9,6 +9,6 @@ slug = "ux-exchange"
 
 
 
-  <div class="notebook-screenshot"><a href="http://uxexchange.com/"><img src="//media.konigi.com/bluga/wt4ade06808544c_0.jpg"/></a></div><p><a href="http://uxexchange.com/">UX Exchange</a> is a Q&amp;A site for user experience professionals, modeled after the programming Q&amp;A site <a href="http://stackoverflow.com/">Stack Overflow</a>. Users post questions, reply with answers and vote questions and answers up and down.</p>
+  <div class="notebook-screenshot"><a href="http://uxexchange.com/"><img src="//konigi.com/media/bluga/wt4ade06808544c_0.jpg"/></a></div><p><a href="http://uxexchange.com/">UX Exchange</a> is a Q&amp;A site for user experience professionals, modeled after the programming Q&amp;A site <a href="http://stackoverflow.com/">Stack Overflow</a>. Users post questions, reply with answers and vote questions and answers up and down.</p>
     
   <a href="http://uxexchange.com/">http://uxexchange.com/</a>

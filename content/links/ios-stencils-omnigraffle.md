@@ -8,7 +8,7 @@ slug = "ios-stencils-omnigraffle"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.informationarchitects.jp/en/ipad-stencil-for-omnigraffle/"><img id="bluga-thumbnail-2727" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.informationarchitects.jp/en/ipad-stencil-for-omnigraffle/"><img id="bluga-thumbnail-2727" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt522ff2135bf66_custom.jpg"/></a></div><p>I've been asked several times in the past to add iOS stencils to the wireframe stencil set I make. These are some that I know of, and have been recommended to me by <a href="http://twitter.com/#!/OmniGraffle/statuses/100634567358156800">@OmniGraffle</a> and <a href="http://twitter.com/#!/jmk/statuses/100660919876587520">@jmk</a>.</p>
 <ul>
 <li><a href="http://www.informationarchitects.jp/en/ipad-stencil-for-omnigraffle/">iA's OmniGraffle port of the Teehan+Lax iPad Stencils</a></li>

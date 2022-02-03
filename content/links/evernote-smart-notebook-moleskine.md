@@ -8,7 +8,7 @@ slug = "evernote-smart-notebook-moleskine"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://blog.evernote.com/2012/08/24/the-new-evernote-smart-notebook-by-moleskine/"><img id="bluga-thumbnail-2823" class="bluga-thumbnail custom" src="//media.konigi.com/bluga/
+<div class="tool-screenshot mb1"><a href="http://blog.evernote.com/2012/08/24/the-new-evernote-smart-notebook-by-moleskine/"><img id="bluga-thumbnail-2823" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
 wt5231c15bd880e_custom.jpg"/></a></div><p>I've tried a lot of tools for transferring sketches from analog sketchbook to digital. I was an early Pen-It user, have used page cutters with a scanner, and have lately just resorted to taking photos with my iPhone. The <a href="http://blog.evernote.com/2012/08/24/the-new-evernote-smart-notebook-by-moleskine/">Evernote/Moleskine Smart Notebook</a> looks like it might provide the right mix I'm looking for.</p>
 
 <p>I've given up on the idea of converting paper sketches to vector drawings. What this seems to offer is the ability to use that dotted sheet tech to correctly line up your photos taken with Evernote app, and combines that with some neat stickers that will automatically route your sketches to tags and/or specific notebooks. I can use the pens I like, and just save my work without worrying about any serious technical communication between an input device besides my phone.</p>

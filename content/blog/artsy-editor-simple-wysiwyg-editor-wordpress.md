@@ -9,7 +9,7 @@ slug = "artsy-editor-simple-wysiwyg-editor-wordpress"
 
 
 
-  <div class="notebook-screenshot"><a href="http://artsyeditor.com/"><img src="//media.konigi.com/bluga/wt4da48912e8bff_large.jpg"/></a></div><p>I don't use WYSIWYG editors in CMSes and blogs, but I like how Stephen Ou designed this simple WP editor plugin called <a href="http://artsyeditor.com/">Artsy Editor</a> using a little HUD style popover.</p>
+  <div class="notebook-screenshot"><a href="http://artsyeditor.com/"><img src="//konigi.com/media/bluga/wt4da48912e8bff_large.jpg"/></a></div><p>I don't use WYSIWYG editors in CMSes and blogs, but I like how Stephen Ou designed this simple WP editor plugin called <a href="http://artsyeditor.com/">Artsy Editor</a> using a little HUD style popover.</p>
 
     
   <a href="http://artsyeditor.com/">http://artsyeditor.com/</a>

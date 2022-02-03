@@ -11,7 +11,7 @@ slug = "lovely-package"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://lovelypackage.com/"><img id='bluga-thumbnail-1619' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://lovelypackage.com/"><img id='bluga-thumbnail-1619' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt4a26812a1c310_0.jpg'/></a></div>  
   </div>   
 <p>Simple, minimalist look for a package design weblog.</p>

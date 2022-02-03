@@ -11,7 +11,7 @@ slug = "msnbc"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://msnbc.msn.com/"><img id='bluga-thumbnail-1109' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://msnbc.msn.com/"><img id='bluga-thumbnail-1109' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f2820b6edc9_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://msnbc.msn.com/">http://msnbc.msn.com</a></p>

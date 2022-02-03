@@ -9,7 +9,7 @@ slug = "product-planner-view-and-create-user-flows-viral-loops-and-more"
 
 
 
-  <div class="notebook-screenshot"><a href="http://productplanner.com/"><img src="//media.konigi.com/bluga/wt49b7029178fa2.jpg"/></a></div><p><a href="http://productplanner.com/">Product Planner</a> is one an brilliant idea. Deconstruct the user flow of web sites, illustrate the flow with annotated screenshot flowcharts, allow users to copy the flow and reuse on the site. Like Konigi, this does a great job of capturing examples of alternative approaches to interaction, showcases them for you to compare, and allows you to select the best examples to learn from and inform you of approaches you may not have thought of. Excellent.</p>
+  <div class="notebook-screenshot"><a href="http://productplanner.com/"><img src="//konigi.com/media/bluga/wt49b7029178fa2.jpg"/></a></div><p><a href="http://productplanner.com/">Product Planner</a> is one an brilliant idea. Deconstruct the user flow of web sites, illustrate the flow with annotated screenshot flowcharts, allow users to copy the flow and reuse on the site. Like Konigi, this does a great job of capturing examples of alternative approaches to interaction, showcases them for you to compare, and allows you to select the best examples to learn from and inform you of approaches you may not have thought of. Excellent.</p>
 <p>Here's an example flow chart of a sign up loop.</p>
 <div class="video" style="text-align:center">
 <div style="width:425px;text-align:left"><a style="text-align:center; width:425px;"><a style="font:14px;font-family:Arial,Sans-serif;display:block;margin:5px;text-decoration:underline;" href="http://productplanner.com/gallery/twitter/sign_up_loop_new" title="Sign Up Loop - New">Sign Up Loop - New</a></p>

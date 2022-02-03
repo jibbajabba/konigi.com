@@ -32,6 +32,6 @@ slug = "storyboards"
 <hr />
 
 <h2 id="toc3">Examples</h2>
-<p><a href="//media.konigi.com/wiki/storyboard.png" title="//media.konigi.com/wiki/storyboard.png"><img src="//media.konigi.com/wiki/storyboard.png" alt="//media.konigi.com/wiki/storyboard.png" title="//media.konigi.com/wiki/storyboard.png" /></a></p>
+<p><a href="//konigi.com/media/wiki/storyboard.png" title="//konigi.com/media/wiki/storyboard.png"><img src="//konigi.com/media/wiki/storyboard.png" alt="//konigi.com/media/wiki/storyboard.png" title="//konigi.com/media/wiki/storyboard.png" /></a></p>
 
 

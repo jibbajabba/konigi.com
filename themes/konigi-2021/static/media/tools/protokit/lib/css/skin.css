@@ -1,0 +1,361 @@
+/* ======================================================
+ LAYOUT AND UI COMPONENTS
+ ====================================================== */
+
+body {
+  margin: 0 auto;
+  background-color: #ededed;
+}
+
+/* ======================================================
+ PROTOKIT MENUS
+ ====================================================== */
+
+/* index */
+#wrapper.index #logo {
+  float: right;
+}
+
+ul#project-info {
+  margin-left: 0;
+  list-style-type: none;
+  font-size: .86em;  
+}
+
+ul#project-info li {
+  margin: 0;
+  padding: 0;
+  clear: left;
+}
+
+ul#project-info span {
+  display: block;
+  float: left;
+}
+
+ul#project-info span.lbl {
+  width: 120px;
+  text-transform: uppercase;
+  color: #666;
+}
+ 
+/* menu */
+#pkmenu {
+  min-height: 14px;
+  padding: 5px 10px 10px 10px;
+  margin-bottom: 1em;
+  color: #666;
+}
+
+#pkmenu ul, #pkmenuoff ul {
+  float: right;
+  margin: 0 0 0 5px;
+  white-space: nowrap;
+}
+
+#pkmenu ul li, #pkmenuoff ul li {
+  margin-left: 3px;
+  padding-right: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  list-style-type: none;
+  float: left;
+}
+
+#pkmenu span.ui-icon,
+#pkmenuoff span.ui-icon {
+  background-image: url(../img/ui-icons_cccccc_256x240.png);
+}
+
+#pkmenu:hover span.ui-icon,
+#pkmenuoff:hover span.ui-icon {
+  background-image: url(../img/ui-icons_666666_256x240.png);
+}
+
+#pkmenu a {
+  color: #ccc;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+#pkmenu:hover a {
+  color: #666;
+}
+
+#pkmenuoff {
+  display: none;
+}
+
+#pkv {
+  margin: 1em 0;
+  float: right;
+  color: #ccc;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #fff;
+  font-size: 11px;
+}
+
+/* ======================================================
+ PROTOTYPE
+ ====================================================== */
+ 
+/* prototype wrapper */
+#wrapper {
+  background: transparent;
+  position: relative;
+  margin: 1em auto;
+  text-align: center;
+  width: 100%;
+}
+
+#wrapper.notes {
+  width: 1200px;
+}
+
+#wrapper.index {
+  margin-top: 20px;
+  width: 970px;
+}
+
+#wrapper.notes #canvas {
+  float: left
+}
+
+/* canvas */
+#canvas {
+  padding 10px;
+  width: 970px;
+  border: 1px solid #bbb;
+  -webkit-box-shadow: 2px 2px 2px #ccc;
+  -moz-box-shadow: 2px 2px 2px #ccc;  
+  text-align: left;
+  background-color: #fff;
+}
+
+/* notes & pages menu */
+#wrapper #notes {
+  display: none;
+}
+#wrapper.notes #notes {
+  display: block;
+}
+
+#notes {
+  float: left;
+  margin-left: 20px;
+  width: 200px;
+  text-align: left;
+}
+
+#notes .content {
+  padding: 10px;
+  background-color: #fffcef;
+  border: 1px solid #bbb;
+  -webkit-box-shadow: 2px 2px 2px #ccc;
+  -moz-box-shadow: 2px 2px 2px #ccc;  
+}
+
+#notes ol, #spec ol { 
+  counter-reset: item; 
+  margin: 1em 0; 
+}
+#notes ol li, #spec ol li { 
+  display: block; 
+  margin-bottom: .5em; 
+}
+#notes ol li:before, #spec ol li:before { 
+  content: counters(item, ".") " "; 
+  counter-increment: item;
+}
+
+#spec {
+  width: 950px;
+  padding: 10px;
+  background-color: #f5f5f5;
+  color: #000;
+  border: 1px solid #bbb;
+  margin: 1.5em auto;
+  text-align: left;
+  -webkit-box-shadow: 2px 2px 2px #ccc;
+  -moz-box-shadow: 2px 2px 2px #ccc;    
+}
+
+div#wrapper.notes #spec {
+  margin-right: 228px;
+}
+
+#spec h2 {
+  padding-bottom: .5em;
+  border-bottom: 2px solid #bbb;
+}
+
+#spec h3 {
+  margin-top: 1.5em;
+  padding-bottom: .5em;
+  border-bottom: 1px solid #bbb;
+}
+
+#pages {
+  padding-right: 15px;
+  margin-right: 5px !important;
+  border-right: 1px dotted #999;
+}
+
+/* ======================================================
+ UI COMPONENTS
+ ====================================================== */
+ 
+/* system messages */
+#sysmsg {
+  margin: 0 0 1.5em 0;
+}
+
+/* ======================================================
+ MENUS AND BUTTONS
+ ====================================================== */
+
+/* linklist */
+ul.linklist {
+  margin: 0 0 0 10px;
+}
+
+ul.linklist li {
+  list-style-type: none;
+  float: left;
+  padding: 5px 10px;
+}
+
+ul.linklist li.current a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* ribbon */
+ul.ribbon {
+  list-style-type: none;
+}
+
+ul.ribbon li {
+  float: left;
+}
+
+/* ======================================================
+  ICONS
+ ====================================================== */
+
+/* icons */
+.ui-icon,
+.ui-icon-gray,
+.ui-icon-white {
+  display: block;
+  float: left;
+}
+
+/* cursors */
+.move {
+  cursor: move;
+}
+
+/* ======================================================
+ FORMS
+ ====================================================== */
+
+/* edit in place */
+.edit-highlight {
+	background-color: #ffffd3;
+}
+
+/* visibility */
+.hidden {
+  display: none;
+}
+
+/* columns */
+.container .pad {
+  padding: 10px;
+}
+
+.container .padtb {
+  padding: 10px 0;
+}
+
+.container .padlr {
+  padding: 0 10px;
+}
+
+/* width */
+.full {
+  width: 100%;
+}
+
+/* floats */
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+
+/* forms */
+textarea {
+  width: 99%;
+  overflow: auto;
+}
+
+fieldset {
+  padding-top: .5em;
+  padding-bottom: .5em;  
+  border 1px solid #ddd;
+}
+
+input.full {
+  width: 98%;
+}
+
+textarea.full {
+  width: 99%;
+}
+
+/* ======================================================
+ IMAGES
+ ====================================================== */
+
+/* img */
+div.img {
+  background: #fff;
+  border: 1px solid #ddd;
+}
+
+/* ======================================================
+ CONTENT AREAS
+ ====================================================== */
+
+/* portlets */
+.portlet.ui-widget-content {
+  background-image: none;
+}
+.portlet.ui-widget-content.highlight {
+  background-color: #fffccc;
+}
+
+.center {
+  text-align: center;
+}
+
+code {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/* ======================================================
+ CLEARING
+ ====================================================== */
+ 
+/* clearfix ui components */
+.clearfix:after, .container:after,
+#wrapper:after, #spec:after, .ui:after, .ui.list li:after, .ui.buttonbar:after, ul#project-info:after
+{content:"\0020";display:block;height:0;clear:both;visibility:hidden;overflow:hidden;}
+.clearfix, .container, 
+#wrapper, #spec, .ui, .ui.list li, .ui.buttonbar, ul#project-info
+{display:block;}
+.clear
+{clear:both;}

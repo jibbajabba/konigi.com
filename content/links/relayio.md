@@ -9,7 +9,7 @@ href="https://relay.io/"
 +++
 
 
-<a href="https://relay.io/"><div class="tool-screenshot"><img src="//media.konigi.com/tools/external/relay-io.png"></div>
+<a href="https://relay.io/"><div class="tool-screenshot"><img src="//konigi.com/media/tools/external/relay-io.png"></div>
 
 <a href="https://relay.io/">Relay</a> looks like it'll be a nice design communication tool for teams using Slack. Capture screens directly from Adobe CC, Sketch, Chrome, or anything else on your screen and it'll be ready for critique in Slack, with comments and annotation.
 

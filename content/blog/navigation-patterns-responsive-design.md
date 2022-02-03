@@ -9,7 +9,7 @@ slug = "navigation-patterns-responsive-design"
 
 
 
-  <div class="notebook-screenshot"><a href="http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/"><img src="//media.konigi.com/bluga/wt5119504631343_large.jpg"/></a></div><p>I like Brad Frost's examples for handling both <a href="http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/">complex navigation</a> and <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/">simple navigation</a> needs on responsive designs.</p>
+  <div class="notebook-screenshot"><a href="http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/"><img src="//konigi.com/media/bluga/wt5119504631343_large.jpg"/></a></div><p>I like Brad Frost's examples for handling both <a href="http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/">complex navigation</a> and <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/">simple navigation</a> needs on responsive designs.</p>
 
 <p><small>Via Leisa IAI Members</small></p>
 

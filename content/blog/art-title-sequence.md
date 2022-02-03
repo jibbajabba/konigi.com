@@ -9,6 +9,6 @@ slug = "art-title-sequence"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.artofthetitle.com/"><img src="//media.konigi.com/bluga/wt492eb0edda120.jpg"/></a></div><p><a href="http://www.artofthetitle.com/">Title sequences</a> storyboarded, discussed. Just excellent. </p>
+  <div class="notebook-screenshot"><a href="http://www.artofthetitle.com/"><img src="//konigi.com/media/bluga/wt492eb0edda120.jpg"/></a></div><p><a href="http://www.artofthetitle.com/">Title sequences</a> storyboarded, discussed. Just excellent. </p>
     
   <a href="http://www.artofthetitle.com/">http://www.artofthetitle.com/</a>

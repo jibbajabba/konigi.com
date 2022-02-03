@@ -11,7 +11,7 @@ slug = "gene-smirnov"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.genesmirnov.com/"><img id='bluga-thumbnail-758' class='bluga-thumbnail large' src='//media.konigi.com/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.genesmirnov.com/"><img id='bluga-thumbnail-758' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
 wt47f275707f414.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.genesmirnov.com/">http://www.genesmirnov.com/</a></p>

@@ -1,0 +1,50 @@
+/*  =======================================================
+    LIBRARY CSS
+    ======================================================= */
+
+@import "../../../lib/css/blueprint/screen.css";
+@import "../../../lib/css/jquery-ui.css";
+@import "../../../lib/css/skin.css";
+
+/*  =======================================================
+    SKIN OVERRIDES
+    ======================================================= */
+
+html {
+  background-color: #eee !important;
+}
+
+.graybox div.container div {
+  background-color: #eee;
+}
+
+/*  =======================================================
+    PROJECT CSS
+    ======================================================= */
+
+html {
+  background-color: #eee !important;
+}
+
+.graybox div.container div {
+  background-color: #eee;
+}
+  
+/* system messages */
+#sysmsg {
+  margin: 0 0 1.5em 0;
+}
+
+/* floats */
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+
+/* canvas sections */
+#body {
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;  
+}
