@@ -123,11 +123,11 @@ a {
 }
 a:link, a:visited {
   color: $linkcolor;
-  text-decoration: none;
+  // text-decoration: none;
 }
 a:hover {
   color: $linkhovercolor;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 // ========================================
