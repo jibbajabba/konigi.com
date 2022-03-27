@@ -134,7 +134,6 @@
             <li class="{{ if or (eq .Section "art") (eq .Section "arttags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/art/">Art</a></li>
             <li class="{{ if or (eq .Section "design") (eq .Section "designtags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/design/">Design</a></li>
             <li class="{{ if or (eq .Section "photos") (eq .Section "phototags") }} active{{ end }}"><a href="{{ .Site.BaseURL }}/photos/">Photos</a></li>
-            <li class="{{ if or (eq .Section "blog") (eq .Section "blogtags") }}active{{ end }}"><a href="{{ .Site.BaseURL }}/blog">Blog</a></li>
             <li id="socmed">          
               <a href="https://www.instagram.com/konigi/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
               <a href="https://www.mixcloud.com/djkonigi/"><i class="fab fa-mixcloud"></i></a>
@@ -171,38 +170,23 @@
   <section class="section footer-links">
     <div class="container">
       <div class="has-text-centered mb-6">
-        &copy; 2007-{{ time.Now.Format "2006" }} Michael Angeles &nbsp; &middot; &nbsp; <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHve_3pTqk7KtbmRcHhqGFh3_eQGckqj2bR97e9pbipTbOGw/viewform?usp=sf_link"  target="_blank">Contact me</a>  &nbsp; &middot; &nbsp; I'm also on <a href="https://instagram.com/konigi" target="_blank">Instagram</a>, <a href="https://twitter.com/konigi/" target="_blank">Twitter</a> &amp; <a href="https://www.facebook.com/djkonigi" target="_blank">Facebook</a>
-      </div>
-      <div class="columns">
-        <div class="column is-one-quarter">
-          <ul>
-            <li><a href="{{ .Site.BaseURL }}/about/">About</a></li>
-            <li><a href="/blog/">Blog</a></li>
-            <li><a href="{{ .Site.BaseURL }}/djsets/">DJ Sets</a></a></li>            
-          </ul>
-        </div>
-        <div class="column is-one-quarter">
-          <ul>
-            <li><a href="{{ .Site.BaseURL }}/art/">Art</a></li>
-            <li><a href="{{ .Site.BaseURL }}/photos/">Photos</a></li>
-            <li><a href="{{ .Site.BaseURL }}/writing/">Writing</a></li>
-
-          </ul>
-        </div>
-        <div class="column is-one-quarter">
-          <ul>
-            <li><a href="{{ .Site.BaseURL }}/design/">Design Articles</a></li>
-            <li><a href="{{ .Site.BaseURL }}/interfaces/">UI Gallery</a></li>
-            <li><a href="{{ .Site.BaseURL }}/tools/">UI Design Tools</a></li>
-          </ul>
-        </div>    
-        <div class="column is-one-quarter">
-          <ul>
-            <li><a href="{{ .Site.BaseURL }}/tools/graph-paper/">Printable Graph Paper</a></li>
-            <li><a href="{{ .Site.BaseURL }}/tools/sketchbooks-diy/">DIY Sketchbooks</a></li>
-            <li><a href="{{ .Site.BaseURL }}/tools/schedule-and-cost-summary-calculator/">Cost Summary Calculator</a></li>
-          </ul>
-        </div> 
+        <p>
+          &copy; 2007-{{ time.Now.Format "2006" }} Michael Angeles  &nbsp; &middot; &nbsp; 
+          Follow me on 
+          <a href="https://instagram.com/konigi" target="_blank">Instagram</a>, 
+          <a href="https://www.mixcloud.com/djkonigi/" target="_blank">Mixcloud</a>,
+          <a href="https://www.twitch.tv/djkonigi" target="_blank">Twitch</a>, 
+          <a href="https://twitter.com/konigi/" target="_blank">Twitter</a> 
+          &amp; <a href="https://www.facebook.com/djkonigi" target="_blank">Facebook</a>
+        </p>
+        <p>
+          <a href="{{ .Site.BaseURL }}/about/">About</a> &nbsp; &middot; &nbsp; 
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHve_3pTqk7KtbmRcHhqGFh3_eQGckqj2bR97e9pbipTbOGw/viewform?usp=sf_link"  target="_blank">Contact me</a> &nbsp; &middot; &nbsp; 
+          <a href="{{ .Site.BaseURL }}/djsets/">DJ Sets</a> &nbsp; &middot; &nbsp; 
+          <a href="{{ .Site.BaseURL }}/art/">Art</a> &nbsp; &middot; &nbsp; 
+          <a href="{{ .Site.BaseURL }}/design/">Design</a> &nbsp; &middot; &nbsp; 
+          <a href="{{ .Site.BaseURL }}/photos/">Photos</a>
+        </p>
       </div>{{/* END COLUMNS */}}
     </div>{{/* END CONTAINER */}}
   </section>
