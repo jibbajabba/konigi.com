@@ -11,7 +11,7 @@ slug = "fin"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.finejapon.com/flash_en.html"><img id='bluga-thumbnail-922' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.finejapon.com/flash_en.html"><img id='bluga-thumbnail-922' class='bluga-thumbnail large' src='/media/bluga/
 wt47f279dbed24a_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.finejapon.com/flash_en.html">http://www.finejapon.com/flash_en.html</a></p>

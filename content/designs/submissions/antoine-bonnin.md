@@ -11,7 +11,7 @@ slug = "antoine-bonnin"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.antoinebonnin.com/"><img id='bluga-thumbnail-1885' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.antoinebonnin.com/"><img id='bluga-thumbnail-1885' class='bluga-thumbnail large' src='/media/bluga/
 wt4a9db264abb9f.jpg'/></a></div>  
   </div>   
 <p>2009 Design Portfolio</p>

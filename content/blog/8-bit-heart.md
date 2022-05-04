@@ -9,6 +9,6 @@ slug = "8-bit-heart"
 
 
 
-  <div class="screenshot center"><a href="//konigi.com/media/tools/extras/8bitheart.png"><img src="//konigi.com/media/tools/extras/8bitheart.png"></a></div>
+  <div class="screenshot center"><a href="/media/tools/extras/8bitheart.png"><img src="/media/tools/extras/8bitheart.png"></a></div>
 <p>Much <3. So 8bit.</p>
-<p>Need a heart card for your significant other or kid who loves games?  I made a heart for you to cut out. <a href="//konigi.com/media/tools/extras/8bitheart.png">Here you go.</a></p>
+<p>Need a heart card for your significant other or kid who loves games?  I made a heart for you to cut out. <a href="/media/tools/extras/8bitheart.png">Here you go.</a></p>

@@ -6,7 +6,7 @@ title = "{{ humanize .Name }}"
 slug = "{{ .Name }}"
 href= ""
 summary=""
-featuredimg = "//konigi.com/media/notebook/{{ .Name }}.png"
+featuredimg = "/media/notebook/{{ .Name }}.png"
 
 
 +++

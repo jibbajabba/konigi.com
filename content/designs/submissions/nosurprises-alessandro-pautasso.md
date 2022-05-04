@@ -11,7 +11,7 @@ slug = "nosurprises-alessandro-pautasso"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.nosurprises.it/"><img id='bluga-thumbnail-1232' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.nosurprises.it/"><img id='bluga-thumbnail-1232' class='bluga-thumbnail large' src='/media/bluga/
 wt482076feb9075.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.nosurprises.it/">http://www.nosurprises.it/</a></p>

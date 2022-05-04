@@ -9,6 +9,6 @@ slug = "dashboard-insights-dashboard-gallery"
 
 
 
-  <div class="notebook-screenshot"><a href="http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx"><img src="//konigi.com/media/bluga/wt4a547ee70e809_0.jpg"/></a></div><p>Dashboard Insight has an extensive <a href="http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx">collection of screenshots of information dashboards</a> that are worth a look.</p>
+  <div class="notebook-screenshot"><a href="http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx"><img src="/media/bluga/wt4a547ee70e809_0.jpg"/></a></div><p>Dashboard Insight has an extensive <a href="http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx">collection of screenshots of information dashboards</a> that are worth a look.</p>
     
   <a href="http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx">http://dashboardinsight.com/dashboards/gallery/gallery-article.aspx</a>

@@ -8,7 +8,7 @@ slug = "gesturecons-multi-touch-icons"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://gesturecons.com/"><img id="bluga-thumbnail-2784" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://gesturecons.com/"><img id="bluga-thumbnail-2784" class="bluga-thumbnail custom" src="/media/bluga/
 wt5230ce2e20f33_custom.jpg"/></a></div><p><a href="http://gesturecons.com/">Gesture icons</a> created for wireframing touch interfaces. High resolution multi-touch vector icons, scalable and alterable (.pdf, .ai, .eps file types.) Free for personal use, and commercial licenses are available.</p>
 
   

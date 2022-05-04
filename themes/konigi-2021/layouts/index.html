@@ -14,9 +14,9 @@
   <div class="container">
     <div class="columns">
       <div class="column is-three-fifths">
-        <h2 class="mt-1 mb-4 pb-4"><a href="/djsets">DJ SETS</a></h2>
+        <!--<h2 class="mt-1 mb-4 pb-4"><a href="/djsets">DJ SETS</a></h2>-->
         {{ $djsets := where (where site.Pages.ByDate.Reverse "Section" "djsets") "Params.featured" "==" "true" }}
-        {{ range first 10 $djsets }}
+        {{ range first 5 $djsets }}
           {{ .Render "list-node-home" }}
         {{ end }}
         <p><a href="/djsets">View All...</a></p>

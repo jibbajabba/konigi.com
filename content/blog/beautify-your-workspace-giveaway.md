@@ -9,7 +9,7 @@ slug = "beautify-your-workspace-giveaway"
 
 
 
-  <div class="notebook-screenshot"><img src="//konigi.com/media/notebook/allmodern-1.jpg" class="notebook-image" /></div><div class="dek">Konigi is having a "Beautify Your Workspace" giveaway thanks to the fabulous people at All Modern. What better way to keep producing inspiring work than to create an inspiring workspace, surrounded by the clean and modern design of the lighting and desk accessories we've chosen for you.</div>
+  <div class="notebook-screenshot"><img src="/media/notebook/allmodern-1.jpg" class="notebook-image" /></div><div class="dek">Konigi is having a "Beautify Your Workspace" giveaway thanks to the fabulous people at All Modern. What better way to keep producing inspiring work than to create an inspiring workspace, surrounded by the clean and modern design of the lighting and desk accessories we've chosen for you.</div>
 <h3>Modern Office Gear</h3>
 <p><a href="http://www.allmodern.com/">All Modern</a> has a fantastic selection of modern furniture, home décor and lighting from brands like <a href="http://www.allmodern.com/Knoll-%AE-C61166.html">Knoll</a>, Herman Miller, Heller and Blu Dot. I love the look and feel of modern and minimalist designed office furniture and desk accessories, and want to share the love with our readers. So we're giving one lucky winner their choice of one of the following items from the George Kovacs or Jack Georges collections.  Due to shipping costs, the contest is limited to participants from the U.S. only. Apologies to those outside the U.S. </p>
 <h3>Desk Lamps</h3>

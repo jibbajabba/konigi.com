@@ -9,7 +9,7 @@ slug = "journal-information-architecture-issue-2"
 
 
 
-  <div class="notebook-screenshot"><a href="http://journalofia.org/volume1/issue2/"><img src="//konigi.com/media/bluga/wt4b3392132c656_large.jpg"/></a></div><p>Issue 2 Volume 1, Fall 2009, of the Journal of Information Architecture is now available. Includes the following articles.</p>
+  <div class="notebook-screenshot"><a href="http://journalofia.org/volume1/issue2/"><img src="/media/bluga/wt4b3392132c656_large.jpg"/></a></div><p>Issue 2 Volume 1, Fall 2009, of the Journal of Information Architecture is now available. Includes the following articles.</p>
 
 <p><blockquote>Byström, Pharo &amp; Resmini <br />
 Editorial: Open 24/7</p>

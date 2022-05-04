@@ -11,7 +11,7 @@ slug = "d-i-s-t-u-r-b-n-i-t-y"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.disturbanity.com/"><img id='bluga-thumbnail-1280' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.disturbanity.com/"><img id='bluga-thumbnail-1280' class='bluga-thumbnail large' src='/media/bluga/
 wt483fe605cc436.jpg'/></a></div>  
   </div>   
 <p>Graphic designer and illustrator Matthias Gephart works on music industry, cultural assignments, magazine editorial, sports, and fashion projects. His portfolio is a clean and simple, which serves to really give the lovely illustration center stage.</p>

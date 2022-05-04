@@ -11,7 +11,7 @@ slug = "brooke-francesi"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://bfrancesi.com/"><img id='bluga-thumbnail-1184' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://bfrancesi.com/"><img id='bluga-thumbnail-1184' class='bluga-thumbnail large' src='/media/bluga/
 wt47fb7c289b414_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://bfrancesi.com/">http://bfrancesi.com/</a></p>

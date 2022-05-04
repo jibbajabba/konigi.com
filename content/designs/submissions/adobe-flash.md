@@ -11,7 +11,7 @@ slug = "adobe-flash"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://adobe.com/flashon/"><img id='bluga-thumbnail-1113' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://adobe.com/flashon/"><img id='bluga-thumbnail-1113' class='bluga-thumbnail large' src='/media/bluga/
 wt47f282106bee9_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://adobe.com/flashon/">http://adobe.com/flashon/</a></p>

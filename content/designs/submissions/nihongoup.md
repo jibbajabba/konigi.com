@@ -11,7 +11,7 @@ slug = "nihongoup"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://nihongoup.com/"><img id='bluga-thumbnail-1921' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://nihongoup.com/"><img id='bluga-thumbnail-1921' class='bluga-thumbnail large' src='/media/bluga/
 wt4ae0c41de506b_0.jpg'/></a></div>  
   </div>   
 <p>NihongoUp is a Japanese educational game &amp; reviewing tool.</p>

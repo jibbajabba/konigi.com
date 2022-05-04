@@ -8,7 +8,7 @@ slug = "when-can-i-use-html5-css3-etc"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://caniuse.com/"><img id="bluga-thumbnail-2718" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://caniuse.com/"><img id="bluga-thumbnail-2718" class="bluga-thumbnail custom" src="/media/bluga/
 wt522febd02072f_custom.jpg"/></a></div><p>Can I Use provides <a href="http://caniuse.com/">compatibility tables</a> for features in HTML5, CSS3, SVG and other upcoming web technologies.</p>
 
   

@@ -6,12 +6,12 @@ title = "RGBA feColorMatrix"
 href= "http://andresgalante.com/RGBAtoFeColorMatrix/"
 slug="rgba-fecolormatrix"
 summary="An SVG filter that changes colors based on a transformation matrix."
-featuredimg = "//konigi.com/media/links/rgba-fecolormatrix.jpg"
+featuredimg = "/media/links/rgba-fecolormatrix.jpg"
 
 
 +++
 
-<img src="//konigi.com/media/links/rgba-fecolormatrix.jpg" />
+<img src="/media/links/rgba-fecolormatrix.jpg" />
 
 <a href="http://andresgalante.com/RGBAtoFeColorMatrix/">feColorMatrix</a> is an SVG filter that changes colors based on a transformation matrix. Every pixel’s color value (represented by an [R,G,B,A] vector) is matrix multiplied to create a new color.
 

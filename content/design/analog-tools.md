@@ -12,7 +12,7 @@ slug = "analog-tools"
 <p><span class="dek">My analog tools don't change much. I've bought many, but in reality I use only a handful. These are the ones I now stick with.</span></p>
 <hr>
 <h2>Sketching Pens and Markers</h2>
-<div class="screenshot"><img src="//konigi.com/media/wiki/pens.jpg" style="width: 700px;"></div>
+<div class="screenshot"><img src="/media/wiki/pens.jpg" style="width: 700px;"></div>
 <p><strong><a href="http://www.jetpens.com/Pilot-Hi-Tec-C-Gel-Ink-Pen-with-Grip-0.4-mm-Black/pd/2796">PIlot Hi-Tec-C 0.4mm (black)</a></strong><br />
 This is the black gel pen I carry in my pocket. Always with me, and unforgivingly hard and fine. It's my preferred tool for small thumbnail sketching in my pocket sketchbook and on my 8-up sheets, where I work in small areas on mostly abstract boxes and arrows. I like it for general sketching (non-work related) because the fine line makes me work light and loose in the beginning to capture an essence, but then work up details around that. On my desk, I have the Hi-Tec-C in CW&amp;T's <a href="http://shop.cwandt.com/products/pen-type-a">Pen Type A</a> aluminum housing. If you're looking for an inexpensive, smooth-rolling, medium point pen for writing, I also like the <a href="http://www.amazon.com/Pilot-EasyTouch-Retractable-Point-Black/dp/B0006HUHHI">Pilot Easy Touch Fine 0.7mm point</a>. That's the one I use in the kitchen and for filling out forms and such.</p>
 <p><strong><a href="http://www.jetpens.com/Pentel-Sign-Pens/ct/1838">Pentel Sign Pen (black)</a></strong><br />
@@ -22,7 +22,7 @@ This is the standby that almost everyone I know uses. It's great because the lin
 <hr>
 <h2>Sketch Books</h2>
 <p><strong><a href="/tools/sketchbooks-diy/">DIY Sketchbooks</a></strong><br />
-I mostly <a href="//konigi.com/media/tools/sketchbooks-diy/wirebinding-thumb.jpg" class="group">make my own</a> because I like making a smaller book with my own paper, and with a ring cover that can fold over onto the back. I use these for most of my design sketches.</p>
+I mostly <a href="/media/tools/sketchbooks-diy/wirebinding-thumb.jpg" class="group">make my own</a> because I like making a smaller book with my own paper, and with a ring cover that can fold over onto the back. I use these for most of my design sketches.</p>
 <p><strong><a href="http://www.moleskine.com/en/collections/model/product/squared-notebook-pocket">Moleskine Pocket Squared Notebook</a></strong><br />
 I still use the squared notebook when I'm not using my own. Since they're available at stationers everywhere, and are the perfect size for desk and bag, it's an easy choice, and well made. I prefer the hard covers over the soft ones.</p>
 <p><strong><a href="http://www.midori-japan.co.jp/tr/">Midori Traveler's Notebook</a></strong><br />

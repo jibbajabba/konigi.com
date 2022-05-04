@@ -8,7 +8,7 @@ slug = "html-ipsum"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://html-ipsum.com/"><img id="bluga-thumbnail-2698" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://html-ipsum.com/"><img id="bluga-thumbnail-2698" class="bluga-thumbnail custom" src="/media/bluga/
 wt522fc706e0dc1_custom.jpg"/></a></div><p><a href="http://html-ipsum.com/">HTML Ipsum</a> gives you HTML versions of lorem ipsum, with markup for stuff like lists and forms.</p>
 
   

@@ -16,16 +16,16 @@ slug = "omnigraffle-ux-template"
   </div>
   <div class="columns small-12 medium-4">
     <h3>Installation</h3>
-    <p>1. <a href="//konigi.com/media/tools/og-ux-template/Konigi-UX-Template-2-5-1.gtemplate.zip">Download the template</a>.<br />
+    <p>1. <a href="/media/tools/og-ux-template/Konigi-UX-Template-2-5-1.gtemplate.zip">Download the template</a>.<br />
     2. Unzip it and move it to your ~/Library/Application Support/OmniGraffle/Templates directory. The ~ represents your user "home" folder.<br />
-    3. <a href="//konigi.com/media/tools/og-ux-template/Konigi.gdiagramstyle.zip">Download the diagram style</a><br />
+    3. <a href="/media/tools/og-ux-template/Konigi.gdiagramstyle.zip">Download the diagram style</a><br />
     4. Move it to your ~/Library/Application Support/OmniGraffle/Diagram Styles directory.
     </p>
   </div>
   <div class="columns small-12 medium-4">
     <h3>Download</h3>
-    <p><strong><a href="//konigi.com/media/tools/og-ux-template/Konigi-UX-Template-2-5-1.gtemplate.zip">Download Version 2.5.1 (11/28/11)</a></strong><br />
-    <a href="//konigi.com/media/tools/og-ux-template/Konigi.gdiagramstyle.zip">Download Diagram Style for Sitemaps</a><br />
+    <p><strong><a href="/media/tools/og-ux-template/Konigi-UX-Template-2-5-1.gtemplate.zip">Download Version 2.5.1 (11/28/11)</a></strong><br />
+    <a href="/media/tools/og-ux-template/Konigi.gdiagramstyle.zip">Download Diagram Style for Sitemaps</a><br />
     <span class="t10">This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.</span></p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
     <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />
@@ -40,13 +40,13 @@ slug = "omnigraffle-ux-template"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Title_of_Document.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Title_of_Document-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Title_of_Document.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Title_of_Document-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Persona_Overview.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Persona_Overview-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Persona_Overview.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Persona_Overview-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Detailed_Persona.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Detailed_Persona-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Detailed_Persona.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Detailed_Persona-thumb.png" alt="" /></a>
   </div>
 </div>
 
@@ -54,13 +54,13 @@ slug = "omnigraffle-ux-template"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Mental_Model.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Mental_Model-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Mental_Model.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Mental_Model-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Site_Map.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Site_Map-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Site_Map.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Site_Map-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Wireframe_1_Up.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Wireframe_1_Up-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Wireframe_1_Up.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Wireframe_1_Up-thumb.png" alt="" /></a>
   </div>
 </div>
 
@@ -68,13 +68,13 @@ slug = "omnigraffle-ux-template"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Wireframe_Guides.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Wireframe_Guides-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Wireframe_Guides.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Wireframe_Guides-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Wireframe_2_Up.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Wireframe_2_Up-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Wireframe_2_Up.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Wireframe_2_Up-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Wireframe_Storyboard.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Wireframe_Storyboard-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Wireframe_Storyboard.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Wireframe_Storyboard-thumb.png" alt="" /></a>
   </div>
 </div>
 
@@ -82,13 +82,13 @@ slug = "omnigraffle-ux-template"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Small_Wireframe.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Small_Wireframe-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Small_Wireframe.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Small_Wireframe-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Storyboard.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Storyboard-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Storyboard.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Storyboard-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/Storyboard_Notes.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/Storyboard_Notes-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/Storyboard_Notes.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/Storyboard_Notes-thumb.png" alt="" /></a>
   </div>
 </div>
 
@@ -96,19 +96,19 @@ slug = "omnigraffle-ux-template"
 
 <div class="row">
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/iPhone_Wireframe.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/iPhone_Wireframe-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/iPhone_Wireframe.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/iPhone_Wireframe-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/iPad_Portrait_1_Up.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/iPad_Portrait_1_Up-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/iPad_Portrait_1_Up.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/iPad_Portrait_1_Up-thumb.png" alt="" /></a>
   </div>
   <div class="columns small-12 medium-4">
-  <a href="//konigi.com/media/tools/og-ux-template/iPad_Portrait_2_Up.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/iPad_Portrait_2_Up-thumb.png" alt="" /></a>
+  <a href="/media/tools/og-ux-template/iPad_Portrait_2_Up.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/iPad_Portrait_2_Up-thumb.png" alt="" /></a>
   </div>
 </div>
 
 <hr>
 
-<a href="//konigi.com/media/tools/og-ux-template/iPad_Landscape_1_Up.png" class="group" rel="group"><img class="img-responsive" src="//konigi.com/media/tools/og-ux-template/iPad_Landscape_1_Up-thumb.png" alt="" /></a>
+<a href="/media/tools/og-ux-template/iPad_Landscape_1_Up.png" class="group" rel="group"><img class="img-responsive" src="/media/tools/og-ux-template/iPad_Landscape_1_Up-thumb.png" alt="" /></a>
 
 <div class="faq">
 <h3>Frequently Asked Questions</h3>

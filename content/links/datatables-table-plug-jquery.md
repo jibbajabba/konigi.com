@@ -8,7 +8,7 @@ slug = "datatables-table-plug-jquery"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.datatables.net/"><img id="bluga-thumbnail-2743" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.datatables.net/"><img id="bluga-thumbnail-2743" class="bluga-thumbnail custom" src="/media/bluga/
 wt523020c70101c_custom.jpg"/></a></div><p>DataTables is a plug-in for the jQuery Javascript library. It is flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table. Key features:</p>
 
 <ul>

@@ -7,7 +7,7 @@ categories = ["tools"]
 slug = "coolio-emoticon-hipchat"
 +++
 
-<div class="screenshot center"><a href="//konigi.com/media/tools/extras/coolio.png"><img src="//konigi.com/media/tools/extras/coolio.png"></a></div>
+<div class="screenshot center"><a href="/media/tools/extras/coolio.png"><img src="/media/tools/extras/coolio.png"></a></div>
 
 It bothers me that [Hipchat](https://www.hipchat.com/) doesn't have a (coolio) emoticon. How can they ship without one? Shameful.
 

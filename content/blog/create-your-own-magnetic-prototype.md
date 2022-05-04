@@ -9,6 +9,6 @@ slug = "create-your-own-magnetic-prototype"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/"><img src="//konigi.com/media/notebook/adaptivepath-magnets-gui.jpg" class="notebook-image" /></a></div><p>Adaptive Path's Alexa Andrzejewski suggests <a href="http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/">how to create your own magnetic prototypes</a> using printable magnets for user interface elements. Good stuff. Customizable and inexpensive.</p>
+  <div class="notebook-screenshot"><a href="http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/"><img src="/media/notebook/adaptivepath-magnets-gui.jpg" class="notebook-image" /></a></div><p>Adaptive Path's Alexa Andrzejewski suggests <a href="http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/">how to create your own magnetic prototypes</a> using printable magnets for user interface elements. Good stuff. Customizable and inexpensive.</p>
     
   <a href="http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/">http://www.adaptivepath.com/blog/2008/11/17/magneticprototyping/</a>

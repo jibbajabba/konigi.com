@@ -8,7 +8,7 @@ slug = "adduse-user-research-service"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.adduse.com/Default.aspx"><img id="bluga-thumbnail-2683" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.adduse.com/Default.aspx"><img id="bluga-thumbnail-2683" class="bluga-thumbnail custom" src="/media/bluga/
 wt522fb04368801_custom.jpg"/></a></div><p><a href="http://www.adduse.com/Default.aspx">AddUse</a> is a commercial user research service that allow you to run and analyze web surveys and allows usability test facilitators to manually capture and analyze the results of test sessions.</p>
 
   

@@ -11,7 +11,7 @@ slug = "wasabi-unique-powder-adventures-worldwide"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.wasabitravel.com/"><img id='bluga-thumbnail-1919' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.wasabitravel.com/"><img id='bluga-thumbnail-1919' class='bluga-thumbnail large' src='/media/bluga/
 wt4adf22f608b31.jpg'/></a></div>  
   </div>   
 <p>The pre-launch website for Wasabi Travel - who are due to launch their winter sports webapp in late 2009.</p>

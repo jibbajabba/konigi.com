@@ -11,7 +11,7 @@ slug = "spark-capital"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.sparkcapital.com/"><img id='bluga-thumbnail-1558' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.sparkcapital.com/"><img id='bluga-thumbnail-1558' class='bluga-thumbnail large' src='/media/bluga/
 wt49de5ac49a5c1.jpg'/></a></div>  
   </div>   
 <p>jQuery based animations and strong typography</p>

@@ -9,7 +9,7 @@ slug = "why-creative-people-need-be-eccentric"
 
 
 
-  <div class="notebook-screenshot"><a href="http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric"><img src="//konigi.com/media/bluga/wt4dc94996a685e_large.jpg"/></a></div><p>I love these two posts by Mark McGuiness on the 99% on why <a href="http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric">eccentricity</a> and how <a href="http://the99percent.com/tips/7007/How-Mundane-Routines-Produce-Creative-Magic">daily routine</a> helps trigger creativity.</p>
+  <div class="notebook-screenshot"><a href="http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric"><img src="/media/bluga/wt4dc94996a685e_large.jpg"/></a></div><p>I love these two posts by Mark McGuiness on the 99% on why <a href="http://the99percent.com/tips/7021/Why-Creative-People-Need-to-Be-Eccentric">eccentricity</a> and how <a href="http://the99percent.com/tips/7007/How-Mundane-Routines-Produce-Creative-Magic">daily routine</a> helps trigger creativity.</p>
 
 <p>He points out three characteristics of a hypnotic trigger:<br />
 <ol><li>Uniqueness - it should be something (or a combination of things) you don't associate with other activities, otherwise the effect will be diluted.</li><br />

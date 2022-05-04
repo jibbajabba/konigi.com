@@ -11,7 +11,7 @@ slug = "twistori"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://twistori.com/#i_love"><img id='bluga-thumbnail-1262' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://twistori.com/#i_love"><img id='bluga-thumbnail-1262' class='bluga-thumbnail large' src='/media/bluga/
 wt483167e9b7b31.jpg'/></a></div>  
   </div>   
 <p><a href="http://twistori.com/#i_love">http://twistori.com/#i_love</a></p>

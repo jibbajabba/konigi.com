@@ -11,7 +11,7 @@ slug = "doane-paper"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.doanepaper.com/"><img id='bluga-thumbnail-1399' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.doanepaper.com/"><img id='bluga-thumbnail-1399' class='bluga-thumbnail large' src='/media/bluga/
 wt491a2436f1d8a_0.jpg'/></a></div>  
   </div>   
 <p>Fun hand-drawn interface for this graph paper product site.</p>

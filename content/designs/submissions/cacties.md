@@ -11,7 +11,7 @@ slug = "cacties"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://mycacties.com/"><img id='bluga-thumbnail-1129' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://mycacties.com/"><img id='bluga-thumbnail-1129' class='bluga-thumbnail large' src='/media/bluga/
 wt47f2821758a7d_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://mycacties.com/">http://mycacties.com</a></p>

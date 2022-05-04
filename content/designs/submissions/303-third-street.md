@@ -11,7 +11,7 @@ slug = "303-third-street"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://303third.net/"><img id='bluga-thumbnail-1067' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://303third.net/"><img id='bluga-thumbnail-1067' class='bluga-thumbnail large' src='/media/bluga/
 wt47f281df1adca_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://303third.net/">http://303third.net</a></p>

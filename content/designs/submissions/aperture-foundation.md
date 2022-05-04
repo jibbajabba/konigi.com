@@ -11,7 +11,7 @@ slug = "aperture-foundation"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.aperture.org/store/default.aspx"><img id='bluga-thumbnail-789' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.aperture.org/store/default.aspx"><img id='bluga-thumbnail-789' class='bluga-thumbnail large' src='/media/bluga/
 wt47f27789579f7_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.aperture.org/store/default.aspx">http://www.aperture.org/store/default.aspx</a></p>

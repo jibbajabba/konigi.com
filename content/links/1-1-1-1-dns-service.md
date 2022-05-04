@@ -6,12 +6,12 @@ title = "1 1 1 1 dns service"
 slug = "1-1-1-1-dns-service"
 href= "https://1.1.1.1/"
 summary="A DNS service created for a more private Internet."
-featuredimg = "//konigi.com/media/links/1-1-1-1-dns-service.jpg"
+featuredimg = "/media/links/1-1-1-1-dns-service.jpg"
 
 
 +++
 
-<img src="//konigi.com/media/links/1-1-1-1-dns-service.jpg" />
+<img src="/media/links/1-1-1-1-dns-service.jpg" />
 
 <a href="https://1.1.1.1/">1.1.1.1</a> is a DNS service created by Cloudflare and APNIC to offer you a more private experience on the Internet. Here’s what they say:</p>
 

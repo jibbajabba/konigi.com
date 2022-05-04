@@ -11,7 +11,7 @@ slug = "thesixytone"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.thesixtyone.com/"><img id='bluga-thumbnail-1528' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.thesixtyone.com/"><img id='bluga-thumbnail-1528' class='bluga-thumbnail large' src='/media/bluga/
 wt49b6afe8d2156.jpg'/></a></div>  
   </div>   
 <p>Hard to believe that independent music sites continue to find ways to create social experiences around listening to music in the wake of huge, established communities like last.fm scrobbling and one to one experiences like muxtape playlist sharing. thesixtyone brings band and listener contribution together by letting musicians upload music, while listeners surface the tracks that deserve attention. </p>

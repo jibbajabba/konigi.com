@@ -9,7 +9,7 @@ slug = "fluid-grids"
 
 
 
-  <div class="notebook-screenshot"><a href="http://alistapart.com/articles/fluidgrids"><img src="//konigi.com/media/bluga/wt49c3e04302ff6.jpg"/></a></div><p>In the latest A List Apart, Airbag Industries' Ethan Marcotte writes about <a href="http://alistapart.com/articles/fluidgrids">designing fluid grids</a>, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. </p>
+  <div class="notebook-screenshot"><a href="http://alistapart.com/articles/fluidgrids"><img src="/media/bluga/wt49c3e04302ff6.jpg"/></a></div><p>In the latest A List Apart, Airbag Industries' Ethan Marcotte writes about <a href="http://alistapart.com/articles/fluidgrids">designing fluid grids</a>, rather than using the fixed pixel methods provided by most CSS layout frameworks. Marcotte describes that the technique of calculating percentages for column widths is the same method we use for calculating font sizes in ems. </p>
 <p>To calculate fluid grid dimensions, we first take a base font size of 100%, which is usually 16px in the majority of browsers when not altered by the user. This becomes our context variable. Then we take the fixed pixel size we want to make fluid, e.g. a width in our fixed pixel design, and divide by the context variable, which gives us a relative value for our fluid grid.</p>
 <p>Fluid grid equation</p>
 <blockquote><p>target ÷ context = result</p></blockquote>

@@ -9,7 +9,7 @@ slug = "silverback-usability-testing-software-mac"
 
 
 
-  <div class="notebook-screenshot"><a href="http://silverbackapp.com/"><img src="//konigi.com/media/notebook/silverback.jpg" class="notebook-image" /></a></div><p><a href="http://silverbackapp.com/">Silverback</a> launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won't have to ever touch another Windows box if you don't want to. (I'm kidding. I'm sure you will at some point in your life.)</p>
+  <div class="notebook-screenshot"><a href="http://silverbackapp.com/"><img src="/media/notebook/silverback.jpg" class="notebook-image" /></a></div><p><a href="http://silverbackapp.com/">Silverback</a> launches to provide UX pros with Macintoshes a simple, inexpensive tool for recording usability test sessions, so you won't have to ever touch another Windows box if you don't want to. (I'm kidding. I'm sure you will at some point in your life.)</p>
 <p>Silverback provides most of the functionality you need for discount usability. People wanting a full featured tool like Morae won't find their solution here, but if all you want is to organize test sessions, capture audio/video of screen interactions and participants face and voice, then Silverback might be for you.</p>
 <p>The process is pretty simple.</p>
 <ol>

@@ -11,7 +11,7 @@ slug = "j-period"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.j-period.com/jp/"><img id='bluga-thumbnail-1256' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.j-period.com/jp/"><img id='bluga-thumbnail-1256' class='bluga-thumbnail large' src='/media/bluga/
 wt483161763be62_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.j-period.com/jp/">http://www.j-period.com/jp/</a></p>

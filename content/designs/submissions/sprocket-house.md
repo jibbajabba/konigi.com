@@ -11,7 +11,7 @@ slug = "sprocket-house"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://sprockethouse.com/"><img id='bluga-thumbnail-1549' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://sprockethouse.com/"><img id='bluga-thumbnail-1549' class='bluga-thumbnail large' src='/media/bluga/
 wt49c8fc772afcf_0.jpg'/></a></div>  
   </div>   
 <p>Design for Web &amp; Print</p>

@@ -11,7 +11,7 @@ slug = "roberto-gadotti"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.robertogadotti.it/"><img id='bluga-thumbnail-2306' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.robertogadotti.it/"><img id='bluga-thumbnail-2306' class='bluga-thumbnail large' src='/media/bluga/
 wt4b7aacb257977_large.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.robertogadotti.it/">http://www.robertogadotti.it/</a></p>

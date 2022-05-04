@@ -11,7 +11,7 @@ slug = "teez"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://teez.com.ua/"><img id='bluga-thumbnail-2262' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://teez.com.ua/"><img id='bluga-thumbnail-2262' class='bluga-thumbnail large' src='/media/bluga/
 wt4b45c6e56de36_large.jpg'/></a></div>  
   </div>   
 <p>A t-shirt store design re-think</p>

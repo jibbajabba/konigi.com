@@ -8,7 +8,7 @@ slug = "csscaffold"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://anthonyshort.com.au/blog/comments/video-an-introduction-to-csscaffold/"><img id="bluga-thumbnail-2755" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://anthonyshort.com.au/blog/comments/video-an-introduction-to-csscaffold/"><img id="bluga-thumbnail-2755" class="bluga-thumbnail custom" src="/media/bluga/
 wt52305093d138f_custom.jpg"/></a></div><p>Anthony Short produced a video demonstration of CSScaffold, a CSS framework takes the structural principles and architecture of current grid systems like Blueprint and the generation engine of Shaun Inman's CSS Cacheer, and creates a CSS Grid System Builder that lets you define the rules for your layouts using meaningfully named CSS ids and classes, and automatically generates the grid system to those rules. </p>
 <p>It's a framework that lets you focus on fitting the CSS to your design, rather than the reverse, and gives you the ability to focus on meaningful abstractions and naming rather than structural ones, so you can easily make changes in the future. This is something I find appealing, so I can name divs and not worry about affecting changes in number of columns throughout my templates, since the change can be made to affect semantically named divs at a higher level through the framework. Nice. Watch the video below for a demonstration.</p>
 <div class="video">

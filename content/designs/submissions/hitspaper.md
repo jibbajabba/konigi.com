@@ -11,7 +11,7 @@ slug = "hitspaper"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://antenna7.com/root/"><img id='bluga-thumbnail-1147' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://antenna7.com/root/"><img id='bluga-thumbnail-1147' class='bluga-thumbnail large' src='/media/bluga/
 wt47f29af8ea356.jpg'/></a></div>  
   </div>   
 <p><a href="http://antenna7.com/root/">http://antenna7.com/root/</a></p>

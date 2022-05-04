@@ -11,7 +11,7 @@ slug = "sitesquared-web-design"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://sitesquared.com/"><img id='bluga-thumbnail-1183' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://sitesquared.com/"><img id='bluga-thumbnail-1183' class='bluga-thumbnail large' src='/media/bluga/
 wt47fb7ba10e98c_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://sitesquared.com/">http://sitesquared.com/</a></p>

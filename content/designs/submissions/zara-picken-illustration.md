@@ -11,7 +11,7 @@ slug = "zara-picken-illustration"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.zaraillustrates.com/index.html"><img id='bluga-thumbnail-1914' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.zaraillustrates.com/index.html"><img id='bluga-thumbnail-1914' class='bluga-thumbnail large' src='/media/bluga/
 wt4ad72baff399f_0.jpg'/></a></div>  
   </div>   
 <p>Lovely minimalist portfolio of UK illustrator Zara Picken.</p>

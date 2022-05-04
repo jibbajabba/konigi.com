@@ -6,11 +6,11 @@ title = "Storyboarder"
 slug = "storyboarder"
 href= "https://wonderunit.com/storyboarder/"
 summary=""
-featuredimg = "//konigi.com/media/links/storyboarder.jpg"
+featuredimg = "/media/links/storyboarder.jpg"
 
 
 +++
 
-<img src="//konigi.com/media/links/storyboarder.jpg" />
+<img src="/media/links/storyboarder.jpg" />
 
 Wonderunit’s <a href="https://wonderunit.com/storyboarder/">Storyboarder</a> is a free storyboarding application for the Mac that lets you visualize a story quickly. Quickly sketch your stick figures, then create and show animatics to others.

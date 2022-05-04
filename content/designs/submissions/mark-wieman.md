@@ -11,7 +11,7 @@ slug = "mark-wieman"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.markwieman.com/"><img id='bluga-thumbnail-1038' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.markwieman.com/"><img id='bluga-thumbnail-1038' class='bluga-thumbnail large' src='/media/bluga/
 wt47f281d384639_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.markwieman.com/">http://www.markwieman.com/</a></p>

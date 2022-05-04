@@ -8,7 +8,7 @@ slug = "liveview-iphone-ipad"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.zambetti.com/projects/liveview/"><img id="bluga-thumbnail-2724" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.zambetti.com/projects/liveview/"><img id="bluga-thumbnail-2724" class="bluga-thumbnail custom" src="/media/bluga/
 wt522ff0a27abca_custom.jpg"/></a></div><p><a href="http://www.zambetti.com/projects/liveview/">LiveView</a> is a free remote screen viewing application created by Nicholas Zambetti to help designers create graphics for mobile applications, and for quick and dirty simulations, demos, and prototypes.</p>
 
 <p>Visual Designers may use it to view artboard while you work. LiveView is compatible with both standard and Retina displays. Interaction Designers can use with iPhone or iPad tethered via WiFi, to interact with software prototypes and demos running on your Mac to communicate and iterate your concepts quickly.</p>

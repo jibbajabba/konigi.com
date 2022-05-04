@@ -11,7 +11,7 @@ slug = "alan-van-roemburg"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://alanvanroemburg.com/"><img id='bluga-thumbnail-2340' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://alanvanroemburg.com/"><img id='bluga-thumbnail-2340' class='bluga-thumbnail large' src='/media/bluga/
 wt4bb305f08b608_large.jpg'/></a></div>  
   </div>   
 <p>A Melbourne based designer, specialising in graphic design, web design and icons.</p>

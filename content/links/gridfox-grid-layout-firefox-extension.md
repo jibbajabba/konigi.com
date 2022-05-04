@@ -8,7 +8,7 @@ slug = "gridfox-grid-layout-firefox-extension"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.puidokas.com/portfolio/gridfox/"><img id="bluga-thumbnail-2798" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.puidokas.com/portfolio/gridfox/"><img id="bluga-thumbnail-2798" class="bluga-thumbnail custom" src="/media/bluga/
 wt5230f8c4041f5_custom.jpg"/></a></div><p><a href="http://www.puidokas.com/portfolio/gridfox/">GridFox</a> is a Firefox extension that overlays a grid on any website. If you can open it in Firefox, you can put a grid on top of it. It’s easy to customize, allowing you to create the exact grid you designed your layout around.</p>
 <p><small>Via <a href="http://digitalweb.tumblr.com/">DigitalWeb</a></small></p>
   

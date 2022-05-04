@@ -9,6 +9,6 @@ slug = "infographics-examples-design-enhanced-data"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.viget.com/inspire/infographics-galore/"><img src="//konigi.com/media/bluga/wt4a55eeb08574d.jpg"/></a></div><p>Jim Basio of Viget shows off a collection of his <a href="http://www.viget.com/inspire/infographics-galore/">favorite Infographics</a>.</p>
+  <div class="notebook-screenshot"><a href="http://www.viget.com/inspire/infographics-galore/"><img src="/media/bluga/wt4a55eeb08574d.jpg"/></a></div><p>Jim Basio of Viget shows off a collection of his <a href="http://www.viget.com/inspire/infographics-galore/">favorite Infographics</a>.</p>
     
   <a href="http://www.viget.com/inspire/infographics-galore/">http://www.viget.com/inspire/infographics-galore/</a>

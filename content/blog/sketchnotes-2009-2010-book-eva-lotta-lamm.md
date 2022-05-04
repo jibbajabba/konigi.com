@@ -9,7 +9,7 @@ slug = "sketchnotes-2009-2010-book-eva-lotta-lamm"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.evalotta.net/sketchnotes/"><img src="//konigi.com/media/bluga/wt4d5072685bd0e_large.jpg"/></a></div><p>This is pretty incredible. <a href="http://www.evalotta.net/sketchnotes/">Eva-Lotta Lamm's self-published book</a> contains 2 years' worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.</p>
+  <div class="notebook-screenshot"><a href="http://www.evalotta.net/sketchnotes/"><img src="/media/bluga/wt4d5072685bd0e_large.jpg"/></a></div><p>This is pretty incredible. <a href="http://www.evalotta.net/sketchnotes/">Eva-Lotta Lamm's self-published book</a> contains 2 years' worth of illustrated sketchnotes from dozens of UX / Design events and conferences, featuring talks from over 100 speakers and panelists.</p>
 
 <p>Some of the events covered in the book are UXweek 2009, d.construct 2010, Flash on the Beach 2010, UXcamp Europe 2010, offf 2010, UXcamp London, Internet Week Europe 2010, various London IA events and RSA talks.</p>
 

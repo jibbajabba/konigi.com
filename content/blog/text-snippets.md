@@ -171,7 +171,7 @@ slug = "text-snippets"
 <hr>
 
 <h3>Wireframe Symbols</h3>
-<a href="//konigi.com/media/tools/text-snippets/text-snippets.png" class="group"><img src="//konigi.com/media/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
+<a href="/media/tools/text-snippets/text-snippets.png" class="group"><img src="/media/tools/text-snippets/text-snippets.png" class="img-responsive"></a>
 <p><a href="https://konigi.mybalsamiq.com/projects/tools/Text+Snippets.bmml">Download Balsamiq BMML file</a></p>
 
 <style type="text/css">#peoplenames li {margin: 0;"}</style>

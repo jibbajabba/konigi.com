@@ -8,7 +8,7 @@ slug = "sublimevideo-html-5-video-player"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://jilion.com/sublime/video"><img id="bluga-thumbnail-2828" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://jilion.com/sublime/video"><img id="bluga-thumbnail-2828" class="bluga-thumbnail custom" src="/media/bluga/
 wt523213d7443c2_custom.jpg"/></a></div><p><a href="http://jilion.com/sublime/video">SublimeVideo</a> is an HTML5 video player with full screen play and scrubbing controls. Because it's HTML5, the controls may be styled and no plugins are required. Presently supports Safari, Chrome, and IE with Chromeframe installed. Firefox support forthcoming. Will be available for free for non-commercial use.</p>
 
 <p><small><a href="http://twitter.com/dandean/status/8251784663">Via @dandean</a></small></p>

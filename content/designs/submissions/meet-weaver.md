@@ -11,7 +11,7 @@ slug = "meet-weaver"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://wdn08.meetweaver.com/"><img id='bluga-thumbnail-1074' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://wdn08.meetweaver.com/"><img id='bluga-thumbnail-1074' class='bluga-thumbnail large' src='/media/bluga/
 wt47f281faeaf82_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://wdn08.meetweaver.com/">http://wdn08.meetweaver.com/</a></p>

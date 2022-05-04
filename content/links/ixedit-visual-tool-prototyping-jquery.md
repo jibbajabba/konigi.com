@@ -9,7 +9,7 @@ href="http://ixedit.com/"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://ixedit.com/"><img id="bluga-thumbnail-2741" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://ixedit.com/"><img id="bluga-thumbnail-2741" class="bluga-thumbnail custom" src="/media/bluga/
 wt52300944d5db3_custom.jpg"/></a></div><p><a href="http://ixedit.com/">ixEdit</a> is a JavaScript-based interaction design tool for the web. With IxEdit, designers can practice DOM-scripting without coding to change, add, move, or transform elements dynamically on your web pages. It's specifically designed for HTML prototyping and allows designers to build interactive interfaces directly in the browser, and provides the code to copy and paste into the HTML page. </p>
 <p>Works with Firefox, Safari, Chrome, or IE. Watch the video below to see how it works.</p>
 <div class="video">

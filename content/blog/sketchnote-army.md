@@ -9,7 +9,7 @@ slug = "sketchnote-army"
 
 
 
-  <div class="notebook-screenshot"><a href="http://sketchnotearmy.com/"><img src="//konigi.com/media/bluga/wt4b2fb59fbc34e_large.jpg"/></a></div><p>Just discovered Mike Rohde's <a href="http://sketchnotearmy.com/">Sketchnote Army</a>.</p>
+  <div class="notebook-screenshot"><a href="http://sketchnotearmy.com/"><img src="/media/bluga/wt4b2fb59fbc34e_large.jpg"/></a></div><p>Just discovered Mike Rohde's <a href="http://sketchnotearmy.com/">Sketchnote Army</a>.</p>
 
 <p><blockquote>Sketchnote Army is dedicated to finding and showcasing sketchnotes and sketchnoters from around the world, from events, conferences, workshops or wherever sketchnotes are captured or created. If you sketchnote, send your sketchnotes URL to Mike Rohde to have them featured there.</blockquote></p>
 

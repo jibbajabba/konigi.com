@@ -11,7 +11,7 @@ slug = "pilgrim"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.pilgrim.dk/"><img id='bluga-thumbnail-1180' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.pilgrim.dk/"><img id='bluga-thumbnail-1180' class='bluga-thumbnail large' src='/media/bluga/
 wt47fb776b11b5f_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.pilgrim.dk/">http://www.pilgrim.dk/</a></p>

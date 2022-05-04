@@ -38,7 +38,7 @@ slug = "error"
   	<area shape=poly coords="241,441,223,441,223,459,241,459,241,441" href="//konigi.com/search/">
   	<area shape=rect coords="132,385,237,458" href="//konigi.com/search/">
   </map>
-  <img src="//konigi.com/media/img/error-page.png" usemap="#GraffleExport"  style="width:860px; max-width:860px; margin-top: -36px">
+  <img src="/media/img/error-page.png" usemap="#GraffleExport"  style="width:860px; max-width:860px; margin-top: -36px">
   </div>
 </article>
 <style>header, footer, h2 {display: none}</style>

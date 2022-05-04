@@ -8,7 +8,7 @@ slug = "iaapps-ux-software-directory"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://www.iaapps.com/"><img id="bluga-thumbnail-2730" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://www.iaapps.com/"><img id="bluga-thumbnail-2730" class="bluga-thumbnail custom" src="/media/bluga/
 wt522ff9dfc7247_custom.jpg"/></a></div><p>IAApps is a directory of usability, information architecture, and user experience design software.</p>
   
 <p><a href="http://www.iaapps.com/">http://www.iaapps.com/</a></p>

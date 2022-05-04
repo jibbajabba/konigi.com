@@ -9,7 +9,7 @@ slug = "printed-books-user-experience-free-read-online"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.theuxbookmark.com/2009/07/interaction-design/printed-books-on-user-experience-free-to-read-online/"><img src="//konigi.com/media/bluga/wt4a799e9ae5ee6.jpg"/></a></div><p>UX Bookmark lists a few printed UX books that are available to read for free online, including the following. </p>
+  <div class="notebook-screenshot"><a href="http://www.theuxbookmark.com/2009/07/interaction-design/printed-books-on-user-experience-free-to-read-online/"><img src="/media/bluga/wt4a799e9ae5ee6.jpg"/></a></div><p>UX Bookmark lists a few printed UX books that are available to read for free online, including the following. </p>
 <ul>
 <li>Search User Interfaces- by Marti A. Hearst</li>
 <li>Designing Interfaces- by Jenifer Tidwell</li>

@@ -8,7 +8,7 @@ slug = "basiliq-cloud-castle"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://cloudcastlegroup.com/blog/basiliq/"><img id="bluga-thumbnail-2654" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://cloudcastlegroup.com/blog/basiliq/"><img id="bluga-thumbnail-2654" class="bluga-thumbnail custom" src="/media/bluga/
 wt522793657b4e4_custom.jpg"/></a></div><p><a href="http://cloudcastlegroup.com/blog/basiliq">Sketch-style controls and icons</a> for Photoshop from the folks at Cloudcastle.</p>
 
   

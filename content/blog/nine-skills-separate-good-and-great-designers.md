@@ -9,6 +9,6 @@ slug = "nine-skills-separate-good-and-great-designers"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.cameronmoll.com/archives/001266.html"><img src="//konigi.com/media/notebook/good-designers-vs-great-designers.jpg" class="notebook-image" /></a></div><p>This is a great slide from an presentation given by Cameron Moll in 2006 titled, "<a href="http://www.cameronmoll.com/archives/001266.html">Nine skills that separate good and great designers</a>."</p>
+  <div class="notebook-screenshot"><a href="http://www.cameronmoll.com/archives/001266.html"><img src="/media/notebook/good-designers-vs-great-designers.jpg" class="notebook-image" /></a></div><p>This is a great slide from an presentation given by Cameron Moll in 2006 titled, "<a href="http://www.cameronmoll.com/archives/001266.html">Nine skills that separate good and great designers</a>."</p>
     
   <a href="http://www.cameronmoll.com/archives/001266.html">http://www.cameronmoll.com/archives/001266.html</a>

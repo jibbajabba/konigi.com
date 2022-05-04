@@ -9,6 +9,6 @@ slug = "exploration-basecamp-account-upgradebilling-screen"
 
 
 
-  <div class="notebook-screenshot"><a href="http://37signals.com/designexplore/Basecamp_Accounts.html"><img src="//konigi.com/media/notebook/basecamp-upgrade-account-1.jpg" class="notebook-image" /></a></div><p>Jason Zimdars shares the process of <a href="http://37signals.com/designexplore/Basecamp_Accounts.html">redesigning the upgrade/billing panel</a> in Basecamp.</p>
+  <div class="notebook-screenshot"><a href="http://37signals.com/designexplore/Basecamp_Accounts.html"><img src="/media/notebook/basecamp-upgrade-account-1.jpg" class="notebook-image" /></a></div><p>Jason Zimdars shares the process of <a href="http://37signals.com/designexplore/Basecamp_Accounts.html">redesigning the upgrade/billing panel</a> in Basecamp.</p>
     
   <a href="http://37signals.com/designexplore/Basecamp_Accounts.html">http://37signals.com/designexplore/Basecamp_Accounts.html</a>

@@ -18,7 +18,7 @@ slug = "user-experience-design"
 
 <p>Source: <a href="http://www.nngroup.com/about/userexperience.html">&quot;User Experience - Our Definition.&quot;</a> <em>Nielsen Norman Group.</em></p>
 
-<p><img src="//konigi.com/media/wiki/jjg-elements-ux.png" title="" /></p>
+<p><img src="/media/wiki/jjg-elements-ux.png" title="" /></p>
 
 <p>Source: <a href="http://www.jjg.net/ia/">&quot;The Elements of User Experience.&quot;</a> Jesse James Garret. <a href="http://www.jjg.net/ia/elements.pdf">(PDF)</a></p>
 
@@ -32,13 +32,13 @@ slug = "user-experience-design"
 <h3 id="toc2">User Experience Design</h3>
 <p>&quot;[E]xperience design uses the interactions of customers with products, services and company branding to optimize the overall impressions left by these. User experience design takes a similar approach and applies it to a specific set of products– computer-related ones. For example, an experience designer may refine the customer service and ambience of a hotel, whereas a user experience designer will optimize the customer’s interaction when making a reservation online, interacting with the hotel website or will improve the staff’s systems for managing hotel operations. The key difference can be found in the examination of the word ‘user.’&quot;</p>
 
-<p><img src="//konigi.com/media/wiki/what-is-ux.png" alt="" title="" /></p>
+<p><img src="/media/wiki/what-is-ux.png" alt="" title="" /></p>
 
 <p>Source: <a href="http://www.montparnas.com/articles/what-is-user-experience-design/">&quot;What is User Experience Design,&quot;</a> <em>Montparnas</em>.</p>
 
 <p>UXBASIS' model is based on a creative process of a four part cycle; plan, act, observe and refine. On top of that is Jesse James Garretts' five layers model for web development.</p>
 
-<p><img src="//konigi.com/media/wiki/uxbasis.png" alt="" title="" /></p>
+<p><img src="/media/wiki/uxbasis.png" alt="" title="" /></p>
 
 <p>Source: <a href="http://uxbasis.hellogroup.com/">UXBASIS</a></p>
 

@@ -29,8 +29,8 @@ slug = "schedule-and-cost-summary-calculator"
     <p>Michael Angeles and Konigi provide no warranty for the use of this spreadsheet. By electing to use this spreadsheet, the user acknowledges that any errors are the sole responsibility of the user, due to data entry, formula creation, calculation, or any use of this spreadsheet on the user's part. Use this spreadsheet at your own risk.</p>
   </div>
   <div class="columns small-12 medium-4">
-    <p><a href="//konigi.com/media/tools/schedule-cost-calculator/schedule-cost-summary.png" id="single_image"><img src="//konigi.com/media/tools/schedule-cost-calculator/schedule-cost-summary-thumb.png" alt="screenshot" class="img-responsive" /></p>
-    <p><strong><a href="//konigi.com/media/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip">Download the Excel Template</a></strong><br />
+    <p><a href="/media/tools/schedule-cost-calculator/schedule-cost-summary.png" id="single_image"><img src="/media/tools/schedule-cost-calculator/schedule-cost-summary-thumb.png" alt="screenshot" class="img-responsive" /></p>
+    <p><strong><a href="/media/tools/schedule-cost-calculator/konigi-schedule-and-cost-template.xlt.zip">Download the Excel Template</a></strong><br />
     <span class="t10">This template is free to use, but may not be distributed without permission. If you like it, a donation is appreciated.</span></p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="mar0 pad0">
     <input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt=""  class="mar0 pad0 paypal" style="background-color: #fff;" /><br />

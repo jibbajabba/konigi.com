@@ -11,7 +11,7 @@ slug = "cadmus"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://thecadmus.com/"><img id='bluga-thumbnail-2223' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://thecadmus.com/"><img id='bluga-thumbnail-2223' class='bluga-thumbnail large' src='/media/bluga/
 wt4b22127bb63e4_large.jpg'/></a></div>  
   </div>   
 <p>Cadmus is a real time filtering service that manages your stream (Twitter, FriendFeed and RSS) by displaying the most relevant content since the last time you checked in. It helps you get caught up on what you have missed.</p>

@@ -9,7 +9,7 @@ slug = "ipad-stylus-roundup-and-winner"
 
 
 
-  <div class="notebook-screenshot"><img src="//konigi.com/media/notebook/ipad-styli.jpg" class="notebook-image" /></div><p>[Update: This review was updated after getting the latest version of the Stylus Socks.]</p>
+  <div class="notebook-screenshot"><img src="/media/notebook/ipad-styli.jpg" class="notebook-image" /></div><p>[Update: This review was updated after getting the latest version of the Stylus Socks.]</p>
 
 <p>My search for the perfect stylus for sketching on the iPad is over. I've tried ever stylus I could get my hands on. The three finalists that earned a space on my desk or pocket in the past year have been the <a href="http://www.amazon.com/iClooly-Stylus-iPhone-Devices-Version/dp/B0032J1NM0">iClooly</a>, the <a href="http://www.etsy.com/shop/shapedad">Stylus Socks</a>, and the <a href="http://www.griffintechnology.com/products/stylus">Griffin Stylus for iPad</a>.</p>
 

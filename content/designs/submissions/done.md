@@ -11,7 +11,7 @@ slug = "done"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://done.jbunti.com/"><img id='bluga-thumbnail-925' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://done.jbunti.com/"><img id='bluga-thumbnail-925' class='bluga-thumbnail large' src='/media/bluga/
 wt47f279dc95bd4_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://done.jbunti.com/">http://done.jbunti.com/</a></p>

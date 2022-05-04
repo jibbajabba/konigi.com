@@ -11,7 +11,7 @@ slug = "alexandre-benjamin-navet"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.alexandrebenjaminnavet.com/site/home.html"><img id='bluga-thumbnail-814' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.alexandrebenjaminnavet.com/site/home.html"><img id='bluga-thumbnail-814' class='bluga-thumbnail large' src='/media/bluga/
 wt47f2790084951_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.alexandrebenjaminnavet.com/site/home.html">http://www.alexandrebenjaminnavet.com/site/home.html</a></p>

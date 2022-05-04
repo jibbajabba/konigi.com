@@ -11,7 +11,7 @@ slug = "ycn"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://ycnonline.com/home"><img id='bluga-thumbnail-1455' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://ycnonline.com/home"><img id='bluga-thumbnail-1455' class='bluga-thumbnail large' src='/media/bluga/
 wt496f920fa21e0.jpg'/></a></div>  
   </div>   
 <p>Nice minimalist design from this London, UK creative organization that is equal parts industry publisher, awards host, events coordinator, and agency, serving up design and communication needs through the members of its collective. This is a multi-faceted org, and starting with the homepage and looking around through the pages, you get the impression that there's a lot of content on this site, and a lot of people involved. </p>

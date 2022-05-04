@@ -9,7 +9,7 @@ slug = "playfulness-usability-context-three-pillars-delightful-user-experience"
 
 
 
-  <div class="notebook-screenshot"><a href="http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/"><img src="//konigi.com/media/bluga/wt4ab7c8d1441ca.jpg"/></a></div><p>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone--Convert and Covertbot--and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:</p>
+  <div class="notebook-screenshot"><a href="http://userexperience.evantageconsulting.com/2009/09/playfulness-usability-context-delightful-user-experience/"><img src="/media/bluga/wt4ab7c8d1441ca.jpg"/></a></div><p>Fred Beecher did an informal usability test of 2 conversion apps for the iPhone--Convert and Covertbot--and wrote up a thought provoking review regarding the relationship between playfulness and usability. Convertbot could be viewed as the more playful and whimsical of the 2 apps. He writes:</p>
 <blockquote><p>Fun isn’t always the new usable. There are situations in which usability is more important than playfulness and those in which it’s the other way around. The delight that playfulness contributes to an experience depends on the context surrounding that experience. </p>
 <p>...</p>
 <p>[W]hile playfulness is undoubtedly an important new focus in user experience design, it’s not a panacea. User experience designers need to understand when playfulness is more effective than pure usability in inspiring delight and vice versa.</p></blockquote>

@@ -11,7 +11,7 @@ slug = "superest"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.thesuperest.com/"><img id='bluga-thumbnail-1182' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.thesuperest.com/"><img id='bluga-thumbnail-1182' class='bluga-thumbnail large' src='/media/bluga/
 wt47fb799286415_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.thesuperest.com/">http://www.thesuperest.com/</a></p>

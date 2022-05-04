@@ -8,7 +8,7 @@ href= ""
 mcembed = ""
 ytid = ""
 summary= ""
-featuredimg = "//konigi.com/media/music/{{ .Name }}.png"
+featuredimg = "/media/music/{{ .Name }}.png"
 featured = ""
 +++
 

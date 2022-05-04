@@ -11,7 +11,7 @@ slug = "reform-revolution-r"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://reformrevolution.com/"><img id='bluga-thumbnail-1019' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://reformrevolution.com/"><img id='bluga-thumbnail-1019' class='bluga-thumbnail large' src='/media/bluga/
 wt47f281cbe8497_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://reformrevolution.com/">http://reformrevolution.com/</a></p>

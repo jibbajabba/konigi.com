@@ -11,7 +11,7 @@ slug = "black-light-co"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://www.blackandlightco.com/"><img id='bluga-thumbnail-903' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://www.blackandlightco.com/"><img id='bluga-thumbnail-903' class='bluga-thumbnail large' src='/media/bluga/
 wt47f279d44c8a2_0.jpg'/></a></div>  
   </div>   
 <p><a href="http://www.blackandlightco.com/">http://www.blackandlightco.com/</a></p>

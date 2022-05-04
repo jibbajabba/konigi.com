@@ -5,7 +5,7 @@ tags = ["art", "sister corita kent", "wallpaper", "workspace", "work"]
 title = "Rule 7"
 href= ""
 summary="My favorite Sister Corita Kent Rule"
-featuredimg = "//konigi.com/media/notebook/rule-7-the-only-rule-is-work-wallpaper-black.png"
+featuredimg = "/media/notebook/rule-7-the-only-rule-is-work-wallpaper-black.png"
 
 
 +++
@@ -14,6 +14,6 @@ I keep <a href="http://web.archive.org/web/20190102000313/https://www.brainpicki
 
 If you need the reminder to “do the work,” whatever that means to you, you can download one of the wallpapers below:
 
-<img src="//konigi.com/media/notebook/rule-7-the-only-rule-is-work-wallpaper-black.png"/>
+<img src="/media/notebook/rule-7-the-only-rule-is-work-wallpaper-black.png"/>
 
-<img src="//konigi.com/media/notebook/rule-7-the-only-rule-is-work-wallpaper-white.png"/>
+<img src="/media/notebook/rule-7-the-only-rule-is-work-wallpaper-white.png"/>

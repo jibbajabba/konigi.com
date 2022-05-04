@@ -6,7 +6,7 @@ title = "Stonly: Step by step guides"
 slug = "stonly"
 href= "https://stonly.com/"
 summary="A widget for creating guides and explainers."
-featuredimg = "//konigi.com/media/links/stonly.png"
+featuredimg = "/media/links/stonly.png"
 
 
 +++

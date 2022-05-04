@@ -8,7 +8,7 @@ slug = "gestureworks-open-source-multitouch-gesture-library"
 +++
 
 
-<div class="tool-screenshot mb1"><a href="http://gestureworks.com/about/open-source-gesture-library/"><img id="bluga-thumbnail-2708" class="bluga-thumbnail custom" src="//konigi.com/media/bluga/
+<div class="tool-screenshot mb1"><a href="http://gestureworks.com/about/open-source-gesture-library/"><img id="bluga-thumbnail-2708" class="bluga-thumbnail custom" src="/media/bluga/
 wt522fd989949f7_custom.jpg"/></a></div><p>GestureWorks is a multitouch authoring environment for Flash and Flex that ships with <a href="http://gestureworks.com/about/open-source-gesture-library/">a library of over 20 unique gestures</a>. This gesture library is built upon an open source gesture framework, allowing developers to customize and extend the “gesture object” to create support for new gestures. The library is available for GestureWorks, and posters in PNG, PDF and AI format are also provided.</p>
 
   

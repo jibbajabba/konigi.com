@@ -9,7 +9,7 @@ slug = "about"
 
 <div class="columns is-centered">
 <div class="column is-three-quarters">
-<img src="//konigi.com/media/img/about.jpg" style="margin-bottom: 1em;" />
+<img src="/media/img/about.jpg" style="margin-bottom: 1em;" />
 
 <p>Hi, from Michael! I'm a dad, life partner, dj and designer living in Northern California. In life I’m exploring the question, “what matters now?” and this blog jibes with each change in the journey.</p>
 

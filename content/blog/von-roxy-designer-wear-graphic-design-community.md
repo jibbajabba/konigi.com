@@ -9,7 +9,7 @@ slug = "von-roxy-designer-wear-graphic-design-community"
 
 
 
-  <div class="notebook-screenshot"><a href="http://www.vonroxy.com/"><img src="//konigi.com/media/bluga/wt48f4975d4c54f.jpg"/></a></div><p>Because some of us don't mind dropping dollars for <a href="http://www.vonroxy.com/">design t-shirts</a>. :)</p>
+  <div class="notebook-screenshot"><a href="http://www.vonroxy.com/"><img src="/media/bluga/wt48f4975d4c54f.jpg"/></a></div><p>Because some of us don't mind dropping dollars for <a href="http://www.vonroxy.com/">design t-shirts</a>. :)</p>
 <p>Via <a href="http://swissmiss.typepad.com/weblog/">swissmiss</a></p>
     
   <a href="http://www.vonroxy.com/">http://www.vonroxy.com/</a>

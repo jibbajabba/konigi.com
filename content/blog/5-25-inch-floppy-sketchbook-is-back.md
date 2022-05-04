@@ -6,7 +6,7 @@ title = "5.25 Inch Floppy Sketchbook Is Back"
 
 +++
 
-<div class="screenshot"><a href="http://shop.konigi.com"><img src="//konigi.com/media/store/diskbook.jpg"></a></div>
+<div class="screenshot"><a href="http://shop.konigi.com"><img src="/media/store/diskbook.jpg"></a></div>
 
 Remember these? From 2009-2010 I these sketchbooks for a while, using a 5.25" floppy disk as a notebook cover. I kind of missed them, so I made a limited number in blank and grid paper.
 

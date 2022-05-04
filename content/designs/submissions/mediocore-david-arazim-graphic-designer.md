@@ -11,7 +11,7 @@ slug = "mediocore-david-arazim-graphic-designer"
  
 
   <div id="screens-thumbs" class="clearfix">
-    <div class="txt-center" id="design-submission"><a href="http://mediocore.cz/"><img id='bluga-thumbnail-1425' class='bluga-thumbnail large' src='//konigi.com/media/bluga/
+    <div class="txt-center" id="design-submission"><a href="http://mediocore.cz/"><img id='bluga-thumbnail-1425' class='bluga-thumbnail large' src='/media/bluga/
 wt494952dfcf054.jpg'/></a></div>  
   </div>   
 <p>Beautiful single page portfolio of illustrator David Arazim's work. </p>
