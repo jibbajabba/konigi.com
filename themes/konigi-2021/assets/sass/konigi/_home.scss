@@ -2,7 +2,7 @@
   .home-hero {
     background-image: url(/img/bg.jpg);
     // background-attachment: fixed;
-    background-position: top;
+    background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -48,7 +48,7 @@
       }
   }
   h2 {
-      border-bottom: 1px solid $bordercolor;
+      // border-bottom: 1px solid $bordercolor;
   }
   .djset {
       border-bottom: 1px solid $bordercolor;

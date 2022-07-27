@@ -5,9 +5,10 @@ tags = ["creativity", "work"]
 title = "The Power of 100"
 slug = "power-of-100"
 href = ""
-summary = "Leveraging the power of discipline, consistency and compounding in your creative work."
+subhead = "How to leverage the power of discipline, consistency and compounding in your creative work. "
+summary = "In this article I discuss how the 100x method gives you a way to use arbitrary structure to discipline yourself through the challenge of working towards a goal that may seem large at the onset, and to push you forward through what Seth Godin refers to in The Dip — that point in the project where you’re unsure whether to go on or quit."
 featuredimg = "/media/art/107.png"
-
+featured = "true"
 +++
 
 Josh Spector’s article, <a href="https://medium.com/an-idea-for-you/only-do-it-if-youre-willing-to-do-it-100-times-506a564798ca">“Only Do It If You’re Willing To Do It 100 Times,”</a> explains why committing to doing something 100 times furthers your efforts towards accomplishing a goal. He writes that the 100x method gives you a way to use a seemingly arbitrary structure to discipline you through the challenge of working towards a goal that may seem large at the onset. That structure also serves to push you forward through what Seth Godin refers to in&nbsp;<em><a href="http://web.archive.org/web/20190102000524/https://books.google.com/books?id=95-xBXd4vn8C">The Dip</a></em>&nbsp;— that point in the project where you’re unsure whether to go on or quit.

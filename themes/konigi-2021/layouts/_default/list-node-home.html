@@ -1,5 +1,10 @@
 
-<div class="djset mb-4 pb-3">
-  <h3 class="mb-3 pt-1"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  {{ .Summary }}
+<div class="mb-6 pb-3">
+  <h2 class="mb-3 pt-1"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <p>
+  {{ if .Params.subhead }}
+  <strong>{{ .Params.subhead }}</strong><br>
+  {{ end }}
+  {{ .Summary }} <a href="{{ .Permalink }}">Read more...</a>
+  </p>
 </div>

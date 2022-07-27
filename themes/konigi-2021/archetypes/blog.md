@@ -4,9 +4,10 @@ categories = ["blog"]
 tags = [""]
 title = "{{ humanize .Name }}"
 slug = "{{ .Name }}"
-href= ""
-summary=""
+href = ""
+subhead = ""
+summary = ""
 featuredimg = "/media/notebook/{{ .Name }}.png"
-
+featured = "true"
 
 +++
