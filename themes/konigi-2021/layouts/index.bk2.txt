@@ -5,8 +5,7 @@
     <div class="columns">
       <div class="column is-half">
         <h1 class="home-logo">KONIGI</h1>
-        <p class="home-description mb-4">Hi, from Michael. I'm a <a href="/design">designer</a>, <a href="/art">artist</a> &amp; <a href="/djsets">DJ</a> in the San Francisco Bay Area.</p>
-        <p><strong>I co-authored the book on Wireframing, coming soon from A Book Apart. <a href="https://balsamiq.com/book">Get notified when the book ships!</a></strong></p>
+        <p class="home-description">Hi, from Michael. I'm a <a href="/design">designer</a>, <a href="/art">artist</a> &amp; <a href="/djsets">DJ</a> in the San Francisco Bay Area.</p>
       </div>
   </div>
 </section>
@@ -16,11 +15,11 @@
     <div class="columns">
       <div class="column is-three-fifths">
         <!--<h2 class="mt-1 mb-4 pb-4"><a href="/djsets">DJ SETS</a></h2>-->
-        {{ $blogs := where site.Pages.ByDate.Reverse "Section" "blog" }}
-        {{ range first 5 $blogs }}
+        {{ $djsets := where (where site.Pages.ByDate.Reverse "Section" "djsets") "Params.featured" "==" "true" }}
+        {{ range first 5 $djsets }}
           {{ .Render "list-node-home" }}
         {{ end }}
-        <p><a href="/blog">View All...</a></p>
+        <p><a href="/djsets">View All...</a></p>
       </div>{{/* /column */}}
       <div class="column is-two-fifths sidebar">
         {{ partial "sidebar.html" . }}

@@ -2,11 +2,12 @@
   .home-hero {
     background-image: url(/img/bg.jpg);
     // background-attachment: fixed;
-    background-position: center;
+    background-position: top;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;    
-    min-height: 710px;
-    // min-height: 75vh;
+    //min-height: 710px;
+    min-height: 100vh;
     color: $white;
   	@include breakpoint(sm) {	
   		min-height:auto;
@@ -26,7 +27,7 @@
     }
     .home-logo {
         color: $white;
-		margin-top: 144px;
+		margin-top: 100px;
 		@include fontsize(100, 156);
 		font-weight: bold;
 		@include text-shadow("light");
