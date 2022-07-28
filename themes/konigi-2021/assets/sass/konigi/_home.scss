@@ -49,6 +49,8 @@
   }
   h2 {
       // border-bottom: 1px solid $bordercolor;
+      @include fontsize(48, 52);
+      font-weight: normal;
   }
   .djset {
       border-bottom: 1px solid $bordercolor;
