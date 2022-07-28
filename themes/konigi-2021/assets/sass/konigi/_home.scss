@@ -13,39 +13,39 @@
   		min-height:auto;
   	}
     a {
-        color: $white;
-        text-decoration: underline !important;
-        text-decoration-thickness: 2px !important;
-        text-underline-offset: 3px !important;
-        &:hover {
-            color: rgba(255,255,255,.8);
-            text-decoration: underline !important;
-            text-decoration-thickness: 2px !important;
-            text-underline-offset: 3px !important;
-        }        
-        
+      color: $white;
+      text-decoration: underline !important;
+      text-decoration-thickness: 2px !important;
+      text-underline-offset: 3px !important;
+      &:hover {
+          color: rgba(255,255,255,.8);
+          text-decoration: underline !important;
+          text-decoration-thickness: 2px !important;
+          text-underline-offset: 3px !important;
+      }        
     }
     .home-logo {
-        color: $white;
-		margin-top: 100px;
-		@include fontsize(100, 156);
-		font-weight: bold;
-		@include text-shadow("light");
-        @include breakpoint(sm) {
-            margin-top: 36px;
-			@include fontsize(52, 64);
-        }
-        @include breakpoint(md) {
-          margin-top: 72px;
-        }
+      color: $white;
+	    margin-top: 100px;
+      margin-bottom: 0;
+	    @include fontsize(100, 120);
+	    font-weight: bold;
+	    @include text-shadow("light");
+      @include breakpoint(sm) {
+        margin-top: 36px;
+        @include fontsize(52, 64);
       }
-      .home-description {
-        @include fontsize(48, 52);
-        @include text-shadow("light");
-		@include breakpoint(sm) {
-			@include fontsize(32, 48);
-		}
+      @include breakpoint(md) {
+        margin-top: 72px;
       }
+    }
+    .home-description {
+      @include fontsize(48, 52);
+      @include text-shadow("light");
+		  @include breakpoint(sm) {
+			  @include fontsize(32, 48);
+		  }
+    }
   }
   h2 {
       // border-bottom: 1px solid $bordercolor;
