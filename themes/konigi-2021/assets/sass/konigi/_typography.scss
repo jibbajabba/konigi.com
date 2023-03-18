@@ -339,6 +339,9 @@ footer {
 
 // ========================================
 // BLOCKQUOTE
-.content blockquote {
+.section blockquote {
   background: transparent;
+  padding: 0 0 0 2.5rem;
+  border-left: 4px solid $graydark;
+  font-style: italic;
 }

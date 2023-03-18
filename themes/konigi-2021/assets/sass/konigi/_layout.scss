@@ -377,6 +377,25 @@ article img.centered {
   }
 }
 
+// AUDIO PLAYER
+.audio-tracks {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid $graydark;
+  img {
+    width: 90%;
+    margin: 0;
+  }  
+  h3 {
+    margin: 1.25rem 0 0 0;
+  }
+  p {
+    margin: 0 0 1.25rem 0;
+  }
+}
+audio {
+  width: 100%;
+}
+
 // RAINBOW BOX
 .rainbow-box {
   border: none;
