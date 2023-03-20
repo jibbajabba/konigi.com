@@ -1,7 +1,7 @@
 +++
 title = "Is Good Design Replicable?"
 description = ""
-tags = ["design", "process"]
+tags = ["design", "ux", "replicable design", "principles"]
 date = "2009-02-16"
 categories = ["blog"]
 slug = "good-design-replicable"

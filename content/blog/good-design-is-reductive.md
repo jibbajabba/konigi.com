@@ -1,7 +1,7 @@
 +++
-date = 2023-03-16T14:43:25-07:00
+date = 2023-03-20T14:43:25-07:00
 categories = ["blog"]
-tags = ["design", "ux", "reductive design"]
+tags = ["design", "ux", "reductive design", "principles"]
 title = "Good Design is Reductive"
 slug = "good-design-is-reductive"
 href = ""
