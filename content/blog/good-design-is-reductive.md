@@ -20,11 +20,9 @@ If you’re a product designer, you’ve likely come across the following quote 
 
 Designers love the adage. While simple to state, however, the idea can be a bit difficult to apply. The last part of the sentence is what sticks for me, because it centers on using reduction to find this state of perfection—the attributes that define a product’s essence. This is the crux of simplifying a design. 
 
-Reductive design is about removing what’s unnecessary and simplifying the product. It’s a philosophy in the spirit of Modern architect Ludwig Mies van der Rohe’s aphorism, “Less is more,” and Dieter Rams’ principle, “Good design is as little design as possible. Less but better.”
+Reductive design is about removing what’s unnecessary and simplifying the product. It’s a philosophy in the spirit of Modern architect Ludwig Mies van der Rohe’s aphorism, “Less is more,” and Dieter Rams’ principle, “Good design is as little design as possible. Less but better.” 
 
-I also like how Chuck Pearson expresses the idea in [his article on reductive design](https://medium.com/rareview/the-art-of-reductive-design-4e5b02cec47). “Good design should be **reductive**, not expansive.” Stating about what reductive design is not, leaves no question about what it means to be reductive.
-
-Ideas like these are axiomatic in design. Find what’s essential. Remove the parts that aren’t needed. But are we doing that in our product design work on every project? And once we ship, are we revisiting our designs over time to look at them through the lens of reductive design, and comparing to the idea of what’s essential to the product?
+Chuck Pearson wrote a great article [on reductive design](https://medium.com/rareview/the-art-of-reductive-design-4e5b02cec47) for products. Ideas like these are axiomatic in design. Find what’s essential. Remove the parts that aren’t needed. I've been thinking about whether or not we are that in our product design work on every project. And once we ship, are we revisiting our designs over time to look at them through the lens of reductive design, and comparing that to the idea of what’s essential to the product?
 
 ## Reduction in product design
 
