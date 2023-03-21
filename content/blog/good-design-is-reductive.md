@@ -18,7 +18,7 @@ If you’re a product designer, you’ve likely come across the following quote 
 
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
-Designers love the adage. While simple to state, however, the idea can be a bit difficult to apply. The last part of the sentence is what what sticks for me, because it centers on using reduction to find this state of perfection—the attributes that define a product’s essence. This is the idea at the center of reductive design. 
+Designers love the adage. While simple to state, however, the idea can be a bit difficult to apply. The last part of the sentence is what sticks for me, because it centers on using reduction to find this state of perfection—the attributes that define a product’s essence. This is the crux of simplifying a design. 
 
 Reductive design is about removing what’s unnecessary and simplifying the product. It’s a philosophy in the spirit of Modern architect Ludwig Mies van der Rohe’s aphorism, “Less is more,” and Dieter Rams’ principle, “Good design is as little design as possible. Less but better.”
 
