@@ -55,4 +55,15 @@
   .djset {
       border-bottom: 1px solid $bordercolor;
   }
+  #footer {
+    margin-top: 0;
+    background-image: none;
+    .footer-links {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      .container > div {
+        margin-bottom: 0 !important;
+      }
+    }
+  }
 }
