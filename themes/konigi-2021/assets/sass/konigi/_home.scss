@@ -1,6 +1,6 @@
 .konigi-home {
   .home-hero {
-    background-image: url(/img/bg.jpg);
+    // background-image: url(/img/bg.jpg);
     // background-attachment: fixed;
     background-position: center;
     background-attachment: fixed;
@@ -8,29 +8,26 @@
     background-size: cover;    
     //min-height: 710px;
     min-height: 100vh;
-    color: $white;
   	@include breakpoint(sm) {	
   		min-height:auto;
   	}
     a {
-      color: $white;
       text-decoration: underline !important;
       text-decoration-thickness: 2px !important;
       text-underline-offset: 3px !important;
       &:hover {
-          color: rgba(255,255,255,.8);
           text-decoration: underline !important;
           text-decoration-thickness: 2px !important;
           text-underline-offset: 3px !important;
       }        
     }
     .home-logo {
-      color: $white;
 	    margin-top: 100px;
-      margin-bottom: 0;
+        max-width: 200px;
+        margin-bottom: 0;
 	    @include fontsize(100, 120);
 	    font-weight: bold;
-	    @include text-shadow("light");
+	    // @include text-shadow("light");
       @include breakpoint(sm) {
         margin-top: 36px;
         @include fontsize(52, 64);
@@ -41,7 +38,7 @@
     }
     .home-description {
       @include fontsize(48, 52);
-      @include text-shadow("light");
+      // @include text-shadow("light");
 		  @include breakpoint(sm) {
 			  @include fontsize(32, 48);
 		  }
@@ -52,9 +49,43 @@
       @include fontsize(48, 52);
       font-weight: normal;
   }
-  .djset {
-      border-bottom: 1px solid $bordercolor;
+  
+  .photo-wrapper {
+    @include breakpoint(sm) {
+      display: none; 
+    }
+    @include breakpoint(md) {
+      display: none; 
+    }    
+    width: 100%;
+    padding: 0 2rem;
+    margin-top: 5rem;
+    text-align: center;
+    .polaroid {
+      background: #fff;
+      padding: 1rem;
+      box-shadow: 0 0.2rem 1.2rem rgba(0,0,0,0.2);
+    }
+    .polaroid > img{
+      min-width: 250px;
+      max-width: 100%;
+      height: auto;
+    }
+    .item {
+      display: inline-block;
+      margin-top: 2rem;
+      filter: grayscale(100%);
+      transform: scale(0.8, 0.8) rotate(5deg);
+      transition: all 0.35s;
+    }
+    .item .polaroid:before {
+      content: '';
+      position: absolute;
+      z-index: -1;
+      transition: all 0.35s;
+    }
   }
+
   #footer {
     margin-top: 0;
     background-image: none;

@@ -8,18 +8,26 @@ body {
 
 // GNAV
 #header {
-  background: url("/img/bg-nav.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;	
-  padding-top: 36px;
+  // background: url("/img/bg-nav.jpg");
+  // background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: cover;	
+  padding-top: 30px;
   padding-bottom: 36px;
-  margin-bottom: 72px;
+  margin-bottom: 36px;
+  .container {
+    border-bottom: 1px solid $bordercolor;
+  }
 }
 #gnav {
   animation: fadeInAnimation ease 0.2s;
   // position: sticky;
   // border-top: 2px solid $graydark;
+  #logo img {
+    text-align: left;
+    height: 56px;
+    width: 100px;
+  }
   ul#navMenu {
     @include breakpoint(sm) {
       text-align: left;
@@ -43,10 +51,13 @@ body {
       padding: 0;
       @include breakpoint(sm) {margin-left: 20px;}
       @include breakpoint(md) {margin-left: 20px;}
+      &.active a {
+        color: $body-color !important;
+      }
     }    
   }
   #navMenu.is-hidden-mobile.is-active {
-    display: block!important;
+    display: block !important;
     > li {
       display: block;
       &.navstart {
@@ -76,7 +87,7 @@ body {
     left: calc(50% - 12px);
     width: 26px;
     height: 2px;
-    color: $white;
+    color: $textcolor;
   }
 }
 
@@ -95,7 +106,7 @@ body {
   .container {
     padding-bottom: 1.5em;
     margin-bottom: 1.5em;
-    border-bottom: 2px solid $bordercolor;
+    border-bottom: 1px solid $bordercolor;
   }
   p.subtitle {
     margin-bottom: 0;

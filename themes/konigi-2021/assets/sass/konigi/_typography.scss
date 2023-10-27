@@ -14,14 +14,14 @@
 
 body {
   font-family: "Nunito Sans", "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: $white;
+  color: $textcolor;
   background-color: $black;
   font-size: 100%;
   @include fontsize(21, 36);
 }
 
 body, strong, em {
-  color: $white;
+  // color: $textcolor;
 }
 
 // ========================================
@@ -47,7 +47,7 @@ em {
 }
 
 .selected, a.selected, .selected a {
-  color: $white !important;
+  // color: $black !important;
 }
 
 .tupper {

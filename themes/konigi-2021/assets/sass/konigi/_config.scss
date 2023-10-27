@@ -115,26 +115,28 @@ $graypale: #f5f5f5;
 $graylight: #eee;
 $gray: #ddd;
 $graymed: #999;
-$graydark: #333;
+$graydark: #262626;
 $red: #c00;
 $green: #5da423;
 $white: #fff;
+$blue: #3D9BE8;
+$orange: #E99D4A;
 $pink: #E18FC0;
 $purple: #8744A5;
 $darkpurple: #321E64;
-$accent: $pink;
+$accent: $blue;
 $accent2: $purple;
 $accent3: $darkpurple;
 $headingcolor: $accent;
-$subtitlecolor: $graymed;
-$bodycolor: #eee;
-$textcolor: #262626;
-$linkcolor: $pink;
+$subtitlecolor: $graydark;
+$bodycolor: $graypale;
+$textcolor: $graydark;
+$linkcolor: $blue;
 $linkcolorlight: #85B3D4;
-$linkhovercolor: $purple;
+$linkhovercolor: $orange;
 $linkgraycolor: #B0B8BF;
 $linkgraydarkcolor: #4D5155;
-$bordercolor: $graydark;
+$bordercolor: $graymed;
 
 // ========================================
 /*

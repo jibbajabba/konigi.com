@@ -1,13 +1,13 @@
 // BODY
 body {
-  background: #111;
-  color: $bodycolor;
+  background: $bodycolor;
+  color: $textcolor;
 }
 
 // HEADER
 #header {
   #logo {
-    color: $white;
+    // color: $white;
     @include fontsize(36,48);
     font-weight: 600;  
     &:hover {
@@ -33,7 +33,7 @@ body {
 // .active
 
 #navMenu a {
-  color: $white;
+  // color: $white;
   &:hover {
     color: $accent;
   }
@@ -68,9 +68,10 @@ body {
 // FOOTER
 #footer {
   margin-top: 3em;
-  background-image: url("/img/footer-border.png");
-  background-repeat: repeat-x;
-  background-position: top;
+  // background-image: url("/img/footer-border.png");
+  // background-repeat: repeat-x;
+  // background-position: top;
+  border-top: 1px solid $bordercolor;
   .footer-links {
     padding-top: 100px;
   }
