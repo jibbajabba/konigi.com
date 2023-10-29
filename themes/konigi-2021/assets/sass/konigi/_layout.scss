@@ -316,6 +316,12 @@ article img.centered {
   background: #111;
   padding: 80px;
   width: 100%;
+  @include breakpoint(sm) {
+    padding: 10px;
+  }
+  @include breakpoint(md) {
+    padding: 40px;
+  }
 }
 
 // VIDEO
