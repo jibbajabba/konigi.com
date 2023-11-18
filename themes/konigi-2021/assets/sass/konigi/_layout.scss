@@ -52,7 +52,7 @@ body {
       @include breakpoint(sm) {margin-left: 20px;}
       @include breakpoint(md) {margin-left: 20px;}
       &.active a {
-        color: $body-color !important;
+        color: $textcolor !important;
       }
     }    
   }
