@@ -71,7 +71,10 @@ body {
   // background-image: url("/img/footer-border.png");
   // background-repeat: repeat-x;
   // background-position: top;
-  border-top: 1px solid $bordercolor;
+  .container {
+    padding-top: 2em;
+    border-top: 1px solid $bordercolor;
+  }
   .footer-links {
     padding-top: 100px;
   }
