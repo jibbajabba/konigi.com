@@ -1,7 +1,7 @@
 +++
 date = 2024-05-03T14:42:59-07:00
 categories = ["art"]
-tags = ["art", "collage", "cs5", "glitch"]
+tags = ["art", "100 pieces of tiny art", "illustration", "birds"]
 title = "100 Tiny Pieces of Art"
 slug = "100-pieces-of-art"
 href= ""
